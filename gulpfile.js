@@ -136,7 +136,7 @@ export const scripts = () => {
       // 'node_modules/isotope-layout/dist/isotope.pkgd.min.js',
       // 'node_modules/inputmask/dist/jquery.inputmask.min.js'
     ])
-    .pipe(gulp.dest('app/js/'))
+    .pipe(gulp.dest('app/js/vendors/'))
     .pipe(browsersync.stream())
 }
 
