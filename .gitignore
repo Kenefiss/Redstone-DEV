@@ -2,5 +2,7 @@ node_modules/
 logs/
 build/
 .DS_Store
+.AppleDouble
+.LSOverride
 .vscode
 .git
