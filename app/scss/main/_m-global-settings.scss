@@ -1,0 +1,175 @@
+/*--------------------*/
+/* - GLOBAL SETTINGS  */
+/*--------------------*/
+:root {
+  --ff-1: 'Montserrat', sans-serif;
+
+  --h-1: 72px;
+  --h-2: 62px;
+  --h-3: 44px;
+  --h-4: 26px;
+  --h-5: 24px;
+  --h-6: 18px;
+
+  --clr-title: #333333;
+  --clr-text: #333333;
+
+
+  --clr-white: #ffffff;
+  --clr-black: #333333;
+  --clr-red: #FF0303;
+
+  --transition-1: all 0.25s linear;
+}
+
+html {
+  height: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+html.keyboard-focus:focus {
+  outline: auto;
+}
+
+body {
+  height: auto;
+  background-color: var(--clr-white);
+}
+
+#content-block {
+  overflow: hidden;
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
+
+.overflow-hidden,
+html.overflow-hidden body {
+  overflow: hidden;
+}
+
+html.overflow-menu,
+html.overflow-menu body {
+  overflow: hidden;
+}
+
+html.overflow-visible #content-block {
+  overflow: visible;
+}
+
+.section {
+  position: relative;
+}
+
+[class*='spacer'] {
+  clear: both;
+  width: 100% !important;
+}
+
+.spacer-lg {
+  height: 140px;
+}
+
+.spacer-md {
+  height: 100px;
+}
+
+.spacer-sm {
+  height: 60px;
+}
+
+.spacer-xs {
+  height: 30px;
+}
+
+.swiper-slide:not(:first-child) {
+  display: block;
+}
+
+.swiper-container {
+  opacity: 0;
+  transition: var(--transition-1)
+}
+
+.swiper-container.swiper-initialized {
+  opacity: 1;
+}
+
+.popup-wrapper {
+  display: none;
+}
+
+.row {
+  --bs-gutter-x: 30px;
+}
+
+.container {
+  padding: 0 15px;
+}
+
+
+@media (min-width: 1200px) {
+
+}
+
+
+@media (max-width: 1440px) {
+  .spacer-xl {
+    height: 140px;
+  }
+
+  .spacer-lg {
+    height: 100px;
+  }
+
+  .spacer-md {
+    height: 50px;
+  }
+
+  .spacer-sm {
+    height: 40px;
+  }
+
+  .spacer-xs {
+    height: 25px;
+  }
+}
+
+@media (max-width: 1199px) {
+  :root {
+    --h-1: 62px;
+    --h-2: 52px;
+    --h-3: 34px;
+  }
+}
+
+@media (max-width: 991px) {
+  :root {
+    --h-1: 36px;
+    --h-2: 28px;
+    --h-3: 26px;
+    --h-4: 20px;
+    --h-5: 18px;
+    --h-6: 16px;
+  }
+}
+
+@media (max-width: 767px) {
+  .spacer-xl {
+    height: 70px;
+  }
+
+  .spacer-lg,
+  .spacer-md {
+    height: 50px;
+  }
+
+  .spacer-sm {
+    height: 40px;
+  }
+}
