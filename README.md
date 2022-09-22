@@ -30,7 +30,7 @@
 
 ...this command to clone repository to your local PC.
 
-    git clone https://github.com/Kenefiss/Redstone__DEV.git
+    git clone https://github.com/Kenefiss/Redstone-DEV.git
 
 
 
