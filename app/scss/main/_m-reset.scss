@@ -33,18 +33,18 @@ html {
 
 html:not(.touch-screen)::-webkit-scrollbar,
 html:not(.touch-screen) *::-webkit-scrollbar {
-    width: 4px;
-    height: 4px;
+    width: 6px;
+    height: 6px;
 }
 
 html:not(.touch-screen)::-webkit-scrollbar-track,
 html:not(.touch-screen) *::-webkit-scrollbar-track {
-    background: var(--clr-white);
+    background: var(--clr-gray);
 }
 
 html:not(.touch-screen)::-webkit-scrollbar-thumb,
 html:not(.touch-screen) *::-webkit-scrollbar-thumb {
-    background: var(--clr-black);
+    background: var(--clr-red);
 }
 
 :focus,

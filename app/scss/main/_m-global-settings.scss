@@ -17,7 +17,8 @@
 
   --clr-white: #ffffff;
   --clr-black: #333333;
-  --clr-red: #FF0303;
+  --clr-red: #e70000;
+  --clr-gray: #e1e1e1;
 
   --transition-1: all 0.25s linear;
 }
@@ -110,11 +111,17 @@ html.overflow-visible #content-block {
 
 .container {
   padding: 0 15px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
 }
 
+@media (min-width: 1640px) {
+  .container {max-width: 1600px;}
+}
 
-@media (min-width: 1200px) {
-
+@media (min-width: 1200px) and (max-width:1639px) {
+  .container {max-width: 1280px;}
 }
 
 

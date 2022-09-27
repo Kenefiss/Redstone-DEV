@@ -33,11 +33,11 @@ html {overflow-y: scroll;}
 * {margin: 0;padding: 0;border: 0;font-size: 100%;line-height: 0;font: inherit;vertical-align: baseline;-webkit-text-size-adjust: none;-webkit-locale: auto;}
 .clear {clear: both;overflow: hidden;height: 0;font-size: 0;display: block;}
 html:not(.touch-screen)::-webkit-scrollbar,
-html:not(.touch-screen) *::-webkit-scrollbar {width: 4px;height: 4px;}
+html:not(.touch-screen) *::-webkit-scrollbar {width: 6px;height: 6px;}
 html:not(.touch-screen)::-webkit-scrollbar-track,
-html:not(.touch-screen) *::-webkit-scrollbar-track {background: var(--clr-white);}
+html:not(.touch-screen) *::-webkit-scrollbar-track {background: var(--clr-gray);}
 html:not(.touch-screen)::-webkit-scrollbar-thumb,
-html:not(.touch-screen) *::-webkit-scrollbar-thumb {background: var(--clr-black);}
+html:not(.touch-screen) *::-webkit-scrollbar-thumb {background: var(--clr-red);}
 :focus,
 :hover,
 :active,
@@ -54,7 +54,7 @@ img {max-width: 100%;height: auto;}
 /*--------------------*/
 /* - GLOBAL SETTINGS  */
 /*--------------------*/
-:root {--ff-1: "Montserrat",sans-serif;--h-1: 72px;--h-2: 62px;--h-3: 44px;--h-4: 26px;--h-5: 24px;--h-6: 18px;--clr-title: #333333;--clr-text: #333333;--clr-white: #ffffff;--clr-black: #333333;--clr-red: #FF0303;--transition-1: all 0.25s linear;}
+:root {--ff-1: "Montserrat",sans-serif;--h-1: 72px;--h-2: 62px;--h-3: 44px;--h-4: 26px;--h-5: 24px;--h-6: 18px;--clr-title: #333333;--clr-text: #333333;--clr-white: #ffffff;--clr-black: #333333;--clr-red: #e70000;--clr-gray: #e1e1e1;--transition-1: all 0.25s linear;}
 html {height: auto;-webkit-font-smoothing: antialiased;}
 html.keyboard-focus:focus {outline: auto;}
 body {height: auto;background-color: var(--clr-white);}
@@ -76,7 +76,13 @@ html.overflow-visible #content-block {overflow: visible;}
 .swiper-container.swiper-initialized {opacity: 1;}
 .popup-wrapper {display: none;}
 .row {--bs-gutter-x: 30px;}
-.container {padding: 0 15px;}
+.container {padding: 0 15px;margin-right: auto;margin-left: auto;width: 100%;}
+@media (min-width: 1640px) {
+.container {max-width: 1600px;}
+}
+@media (min-width: 1200px) and (max-width: 1639px) {
+.container {max-width: 1280px;}
+}
 @media (max-width: 1440px) {
 .spacer-xl {height: 140px;}
 .spacer-lg {height: 100px;}

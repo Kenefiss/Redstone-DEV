@@ -2,8 +2,10 @@ import * as nodePath from 'path';
 const rootFolder = nodePath.basename(nodePath.resolve());
 
 import gulp from "gulp";
-import {deleteAsync} from "del"; 
-import browsersync from "browser-sync";  
+import {
+  deleteAsync
+} from "del";
+import browsersync from "browser-sync";
 import notify from "gulp-notify";
 import plumber from "gulp-plumber";
 import dartSass from 'sass';
@@ -19,7 +21,9 @@ import webp from "gulp-webp";
 import zipPlugin from "gulp-zip";
 import vinylFTP from "vinyl-ftp";
 import util from "gulp-util";
-import {configFTP} from './ftp-settings.js';
+import {
+  configFTP
+} from './ftp-settings.js';
 
 
 const copyApp = () => {
@@ -50,32 +54,32 @@ function startWatch() {
 }
 
 export const cleanImg = () => {
-    return deleteAsync('images/**/*', {
-        force: true
-    })
+  return deleteAsync('images/**/*', {
+    force: true
+  })
 }
 
 export const cleanBuild = () => {
-    return deleteAsync([
-        'build/**/*',
-        'build/.htaccess'
-    ], {
-        force: true
-    })
+  return deleteAsync([
+    'build/**/*',
+    'build/.htaccess'
+  ], {
+    force: true
+  })
 }
 
 export const server = () => {
-    // for PHP files
-    browsersync.init({
-        ui: false,
-        notify: false,
-        /* folder in open-server (website) */
-        proxy: `http://${rootFolder}/app/links.php`,
-        /* name folder */
-        host: `${rootFolder}`,
-        /* command for working */
-        open: 'external'
-    })
+  // for PHP files
+  browsersync.init({
+    ui: false,
+    notify: false,
+    /* folder in open-server (website) */
+    proxy: `http://${rootFolder}/app/links.php`,
+    /* name folder */
+    host: `${rootFolder}`,
+    /* command for working */
+    open: 'external'
+  })
 }
 
 export const refresh = (done) => {
@@ -85,8 +89,11 @@ export const refresh = (done) => {
 
 export const styles = () => {
   return gulp.src([
-      'app/scss/**/*.scss'
-    ], {sourcemaps: true})
+      'app/scss/**/*.scss',
+      'app/scss/**/*.sass'
+    ], {
+      sourcemaps: true
+    })
     .pipe(plumber(
       notify.onError({
         title: "SCSS",
@@ -121,7 +128,7 @@ export const styles = () => {
           beforeValue: true // controls if a space comes before a value; e.g. `width: 1rem`; defaults to `false`
         },
         semicolonAfterLastProperty: true
-      }, 
+      },
       level: 0
     }))
     .pipe(gulp.dest('app/css/'))
@@ -136,7 +143,7 @@ export const scripts = () => {
       // 'node_modules/isotope-layout/dist/isotope.pkgd.min.js',
       // 'node_modules/inputmask/dist/jquery.inputmask.min.js'
     ])
-    .pipe(gulp.dest('app/js/'))
+    .pipe(gulp.dest('app/js/vendors/'))
     .pipe(browsersync.stream())
 }
 
@@ -153,12 +160,14 @@ export const img = () => {
       quality: 50
     }))
     .pipe(gulp.dest('app/img/'))
-    .pipe(gulp.src('images/**/*.{png,jpg,svg}')) 
+    .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
     .pipe(newer('app/img/'))
     .pipe(
       imagemin({
           progressive: true,
-          svgoPlugins: [{removeViewBox: false}]
+          svgoPlugins: [{
+            removeViewBox: false
+          }]
         },
         [
           imageminJPG({
@@ -178,13 +187,14 @@ export const img = () => {
 
 export const zip = () => {
   // deleteAsync(`build/${rootFolder}/${rootFolder}.zip`);
-  return gulp.src('build/**/*.*', {dot: true})
+  return gulp.src('build/**/*.*', {
+      dot: true
+    })
     .pipe(plumber(
       notify.onError({
         title: "ZIP",
         message: "Error: <%= error.message %>"
-      }))
-    )
+      })))
     .pipe(zipPlugin(`${rootFolder}.zip`))
     .pipe(gulp.dest(`build/${rootFolder}/`))
 }
@@ -193,15 +203,16 @@ export const ftp = () => {
   configFTP.log = util.log;
   const ftpConnect = vinylFTP.create(configFTP);
 
-  return gulp.src('build/**/*.*', {dot: true})
+  return gulp.src('build/**/*.*', {
+      dot: true
+    })
     .pipe(plumber(
       notify.onError({
         title: "FTP",
         message: "Error: <%= error.message %>"
-      }))
-    )
+      })))
     .pipe(ftpConnect.dest(`./`))
 }
 
 gulp.task('build', gulp.series(cleanBuild, styles, scripts, img, copyApp, zip));
-gulp.task('default', gulp.parallel(cleanImg, styles, scripts, img, server, startWatch));
+gulp.task('default', gulp.parallel(styles, scripts, img, server, startWatch));
