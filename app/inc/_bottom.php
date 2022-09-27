@@ -5,4 +5,4 @@
 <script defer src="js/vendors/swiper-bundle.min.js"></script>
 <script defer src="js/vendors/SmoothScroll.js"></script>
 
-<script defer src="js/vendors/app.global.js"></script>
+<script defer src="js/app.global.js"></script>
