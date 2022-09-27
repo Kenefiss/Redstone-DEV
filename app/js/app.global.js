@@ -76,7 +76,6 @@ jQuery(function($) {
   /* Function on page scroll */
   $(window).on('scroll', function() {
     _functions.scrollCall();
-    _functions.submenuScroll();
   });
 
   var prev_scroll = 0;

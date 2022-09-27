@@ -54,7 +54,7 @@ img {max-width: 100%;height: auto;}
 /*--------------------*/
 /* - GLOBAL SETTINGS  */
 /*--------------------*/
-:root {--ff-1: "Montserrat",sans-serif;--h-1: 72px;--h-2: 62px;--h-3: 44px;--h-4: 26px;--h-5: 24px;--h-6: 18px;--clr-title: #333333;--clr-text: #333333;--clr-white: #ffffff;--clr-black: #333333;--clr-red: #e70000;--clr-gray: #e1e1e1;--transition-1: all 0.25s linear;}
+:root {--ff-1: "TT Commons";--h-1: 72px;--h-2: 62px;--h-3: 44px;--h-4: 26px;--h-5: 24px;--h-6: 18px;--clr-title: #424242;--clr-text: #333333;--clr-white: #ffffff;--clr-black: #232323;--clr-red: #e70000;--clr-gray: #e1e1e1;--clr-gray2: #e4e4e4;--transition-1: 0.3s;}
 html {height: auto;-webkit-font-smoothing: antialiased;}
 html.keyboard-focus:focus {outline: auto;}
 body {height: auto;background-color: var(--clr-white);}
@@ -66,7 +66,10 @@ html.overflow-menu,
 html.overflow-menu body {overflow: hidden;}
 html.overflow-visible #content-block {overflow: visible;}
 .section {position: relative;}
+.section.inner-padd {padding: 180px 0;margin-bottom: 180px;}
+.section.black-sec {background: #252525;}
 [class*=spacer] {clear: both;width: 100% !important;}
+.spacer-xl {height: 180px;}
 .spacer-lg {height: 140px;}
 .spacer-md {height: 100px;}
 .spacer-sm {height: 60px;}
@@ -83,8 +86,13 @@ html.overflow-visible #content-block {overflow: visible;}
 @media (min-width: 1200px) and (max-width: 1639px) {
 .container {max-width: 1280px;}
 }
-@media (max-width: 1440px) {
-.spacer-xl {height: 140px;}
+@media (max-width: 1639px) {
+.spacer-xl {height: 130px;}
+.section.inner-padd {padding: 130px 0;margin-bottom: 130px;}
+}
+@media (max-width: 1560px) {
+.spacer-xl {height: 100px;}
+.section.inner-padd {margin-bottom: 100px;}
 .spacer-lg {height: 100px;}
 .spacer-md {height: 50px;}
 .spacer-sm {height: 40px;}
@@ -92,12 +100,16 @@ html.overflow-visible #content-block {overflow: visible;}
 }
 @media (max-width: 1199px) {
 :root {--h-1: 62px;--h-2: 52px;--h-3: 34px;}
+.spacer-xl {height: 50px;}
+.section.inner-padd {margin-bottom: 50px;}
 }
 @media (max-width: 991px) {
 :root {--h-1: 36px;--h-2: 28px;--h-3: 26px;--h-4: 20px;--h-5: 18px;--h-6: 16px;}
+.section.inner-padd {padding: 90px 0;}
 }
 @media (max-width: 767px) {
 .spacer-xl {height: 70px;}
+.section.inner-padd {padding: 50px 0;margin-bottom: 70px;}
 .spacer-lg,
 .spacer-md {height: 50px;}
 .spacer-sm {height: 40px;}
@@ -111,7 +123,8 @@ html.overflow-visible #content-block {overflow: visible;}
 /*--------------------*/
 /* - TYPOGRAPHY       */
 /*--------------------*/
-body {font-family: var(--ff-1);font-weight: 400;font-size: 18px;line-height: 1em;color: var(--clr-title);}
+body {font-family: var(--ff-1);font-weight: 300;font-size: 18px;line-height: 1em;color: var(--clr-title);}
+body * {font-family: var(--ff-1);}
 strong {font-weight: 600;line-height: inherit;}
 h1,
 .h1,
@@ -197,6 +210,14 @@ h6,
 .text *:first-child img {margin-top: 0;}
 .text > *:last-child {margin-bottom: 0;}
 .text > *:last-child img {margin-bottom: 0;}
+.title-with-text {display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;-webkit-box-pack: justify;-ms-flex-pack: justify;justify-content: space-between;margin-bottom: 70px;}
+.title-with-text .title {max-width: 57%;-webkit-box-flex: 1;-ms-flex: 1 1 57%;flex: 1 1 57%;}
+.title-with-text .text {-webkit-box-flex: 1;-ms-flex: 1;flex: 1;font-size: 19px;padding-left: 8%;line-height: 1.6;}
+.round-btn {width: 260px;height: 260px;position: relative;cursor: pointer;z-index: 1;-ms-flex-negative: 0;flex-shrink: 0;display: block;}
+.round-btn .circle {position: absolute;left: 0;top: 0;width: 100%;height: 100%;border: 1px solid var(--clr-red);border-radius: 50%;}
+.round-btn .name {position: relative;font-size: 18px;display: block;pointer-events: none;line-height: 1.56;padding: 70px 0 0 45px;height: 100%;text-align: left;text-transform: uppercase;color: var(--clr-red);font-weight: 600;}
+.round-btn .arr {position: absolute;right: 65px;bottom: 76px;width: 24px;height: 17px;fill: var(--clr-red);}
+/*media*/
 @media (min-width: 1200px) {
 .text a:not(.btn):hover {text-decoration-color: transparent;}
 }

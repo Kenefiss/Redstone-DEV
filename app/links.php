@@ -75,7 +75,7 @@
     <div id="content-block">
         <div class="current-links">
             <a href="http://moonart.net.ua/tarasshev/redstone-dev/redstone-dev.zip"
-                download="unilock.zip"><strong>Unilock.zip</strong></a>
+                download="redstone.zip"><strong>Redstone.zip</strong></a>
             <ol>
                 <?php
             $files = scandir('.');
