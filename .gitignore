@@ -1,6 +1,8 @@
 node_modules/
 logs/
 build/
+images/
+app/scss/bootstrap-grid.min.scss
 .DS_Store
 .AppleDouble
 .LSOverride

@@ -47,8 +47,8 @@
         position: absolute;
         left: 0;
         top: 0;
-        color: #2c4dca;
-        font-weight: 500;
+        color: #BE0000;
+        font-weight: 600;
         counter-increment: number;
         content: counter(number) ".";
         font-size: 16px;
@@ -65,7 +65,7 @@
 
     @media(min-width:1200px) {
         a:hover {
-            color: #2c4dca;
+            color: #BE0000;
         }
     }
     </style>
@@ -74,7 +74,7 @@
 <body>
     <div id="content-block">
         <div class="current-links">
-            <a href="http://moonart.net.ua/tarasshev/unilock/unilock.zip"
+            <a href="http://moonart.net.ua/tarasshev/redstone-dev/redstone-dev.zip"
                 download="unilock.zip"><strong>Unilock.zip</strong></a>
             <ol>
                 <?php
