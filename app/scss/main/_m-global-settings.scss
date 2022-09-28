@@ -133,7 +133,7 @@ html.overflow-visible #content-block {
   padding: 0 15px;
   margin-right: auto;
   margin-left: auto;
-  width: 100%;
+  width: 90%;
 }
 
 .container-fluid {
@@ -194,6 +194,10 @@ html.overflow-visible #content-block {
     --h-1: 62px;
     --h-2: 52px;
     --h-3: 34px;
+  }
+
+  .container {
+    width: 100%;
   }
 
   .spacer-xl {

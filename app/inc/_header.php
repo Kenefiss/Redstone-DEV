@@ -8,7 +8,11 @@
           </div>
         </div>
         <div class="header-wrap-center"></div>
-        <div class="header-wrap-right"></div>
+        <div class="header-wrap-right">
+          <div class="btn open-popup" data-rel="">
+            <b>Задати запитання</b>
+          </div>
+        </div>
       </div>
     </div>
   </div>

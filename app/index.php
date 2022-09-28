@@ -21,7 +21,9 @@
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
                 <div class="title">Сайти <b>.</b> Арр <b>.</b> Брендінг - Робимо складне простим</div>
-                <a href="#" class="btn type2 btn-size2">НАШІ РОБОТИ</a>
+                <a href="#" class="btn btn-primary">
+                  <b>НАШІ РОБОТИ</b>
+                </a>
                 <div class="logo-group">
                   <div class="d-flex justify-content-center justify-content-xl-start align-items-center">
                     <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" loading="lazy" alt=""></a>
