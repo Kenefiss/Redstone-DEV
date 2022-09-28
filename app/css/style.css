@@ -177,6 +177,7 @@
 /*--------------------*/
 /* - BUTTONS          */
 /*--------------------*/
+.un__btn {display: inline-block;position: relative;cursor: pointer;-ms-flex-negative: 0;flex-shrink: 0;text-decoration: none;border: none;font-size: 18px;line-height: 1em;font-weight: 500;padding: 0;color: var(--clr-black);-webkit-transition: var(--transition-1);transition: var(--transition-1);}
 /*--------------------*/
 /* - FOOTER           */
 /*--------------------*/

@@ -82,9 +82,9 @@ jQuery(function($) {
   _functions.scrollCall = function() {
     winScr = $(window).scrollTop();
     if (winScr > prev_scroll) {
-      // $('.un__btn-up').addClass('scrolled');
+      $('.header-wrap').addClass('scrolled');
     } else if (winScr <= 10) {
-      // $('.un__btn-up').removeClass('scrolled');
+      $('.header-wrap').removeClass('scrolled');
       prev_scroll = 0;
     };
   }
@@ -305,14 +305,14 @@ jQuery(function($) {
 
   // Check if input has value or autofill
   $(document).ready(function() {
-    $('.input-field-wrapper .input').each(function () {
+    $('.input-field-wrapper .input').each(function() {
       let $this = $('.input-field-wrapper .input')
       if ($this.val()) {
         $this.closest('.input-field-wrapper').addClass('value');
       }
     });
 
-    $('.input-field-wrapper .input:-webkit-autofill').each(function () {
+    $('.input-field-wrapper .input:-webkit-autofill').each(function() {
       let $this = $('.input-field-wrapper .input')
 
       $this.closest('.input-field-wrapper').addClass('value');
@@ -388,5 +388,5 @@ jQuery(function($) {
   //* 11 OTHER JS =
   //*==============
 
-  
+
 });

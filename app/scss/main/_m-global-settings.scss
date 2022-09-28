@@ -68,8 +68,14 @@ html.overflow-visible #content-block {
   position: relative;
 }
 
-.section.inner-padd{padding: 180px 0;margin-bottom:180px;}
-.section.black-sec{background: #252525;}
+.section.inner-padd {
+  padding: 180px 0;
+  margin-bottom: 180px;
+}
+
+.section.black-sec {
+  background: var(--clr-black)
+}
 
 [class*='spacer'] {
   clear: both;
@@ -124,22 +130,41 @@ html.overflow-visible #content-block {
   width: 100%;
 }
 
+.container-fluid {
+  padding-inline: clamp(15px, 2vw, 70px);
+}
+
 @media (min-width: 1640px) {
-  .container {max-width: 1600px;}
+  .container {
+    max-width: 1600px;
+  }
 }
 
 @media (min-width: 1200px) and (max-width:1639px) {
-  .container {max-width: 1280px;}
+  .container {
+    max-width: 1280px;
+  }
 }
 
-@media(max-width:1639px){
-  .spacer-xl{height:130px;}
-  .section.inner-padd{padding: 130px 0;margin-bottom:130px;}
+@media(max-width:1639px) {
+  .spacer-xl {
+    height: 130px;
+  }
+
+  .section.inner-padd {
+    padding: 130px 0;
+    margin-bottom: 130px;
+  }
 }
 
 @media (max-width: 1560px) {
-  .spacer-xl{height: 100px;}
-  .section.inner-padd{margin-bottom:100px;}
+  .spacer-xl {
+    height: 100px;
+  }
+
+  .section.inner-padd {
+    margin-bottom: 100px;
+  }
 
   .spacer-lg {
     height: 100px;
@@ -164,8 +189,14 @@ html.overflow-visible #content-block {
     --h-2: 52px;
     --h-3: 34px;
   }
-  .spacer-xl{height: 50px;}
-  .section.inner-padd{margin-bottom:50px;}
+
+  .spacer-xl {
+    height: 50px;
+  }
+
+  .section.inner-padd {
+    margin-bottom: 50px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -177,12 +208,21 @@ html.overflow-visible #content-block {
     --h-5: 18px;
     --h-6: 16px;
   }
-  .section.inner-padd{padding:90px 0;}
+
+  .section.inner-padd {
+    padding: 90px 0;
+  }
 }
 
 @media (max-width: 767px) {
-  .spacer-xl{height: 70px;}
-  .section.inner-padd{padding:50px 0;margin-bottom:70px;}
+  .spacer-xl {
+    height: 70px;
+  }
+
+  .section.inner-padd {
+    padding: 50px 0;
+    margin-bottom: 70px;
+  }
 
   .spacer-lg,
   .spacer-md {
