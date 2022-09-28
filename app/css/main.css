@@ -120,6 +120,20 @@ html.overflow-visible #content-block {overflow: visible;}
 /*--------------------*/
 /* - BANNER           */
 /*--------------------*/
+.full-height {position: relative;height: calc(100vh - 96px);padding: 50px 0;}
+.banner-content > * {margin-bottom: 25px;}
+.banner-content > *:last-child {margin-bottom: 0;}
+.banner-content .title b {color: var(--clr-red);font-weight: inherit;}
+.logo-group {margin-top: 100px;}
+.logo-group a {max-width: 110px;-webkit-box-flex: 1;-ms-flex: 1 0 auto;flex: 1 0 auto;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-filter: grayscale(1);filter: grayscale(1);cursor: pointer;}
+.logo-group a:nth-child(1) {max-width: 80px;}
+.logo-group a:nth-child(3) {max-width: 100px;}
+.logo-group a:nth-child(4) {max-width: 38px;}
+.logo-group a:not(:last-child) {margin-right: 55px;}
+/*media*/
+@media (min-width: 1200px) {
+.logo-group a:hover {-webkit-filter: none;filter: none;}
+}
 /*--------------------*/
 /* - TYPOGRAPHY       */
 /*--------------------*/
