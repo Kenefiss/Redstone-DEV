@@ -2,7 +2,8 @@
 /* - HEADER           */
 /*--------------------*/
 header {
-  --h-height: 130px
+  --h-height: 130px;
+  height: var(--h-height);
 }
 
 .header-wrap {
@@ -26,10 +27,18 @@ header {
   align-items: center;
   justify-content: space-between;
   height: var(--h-height);
-  background-color: blue;
 }
 
 .header-wrap-left {}
+
+.header-logo {
+  max-width: 138px;
+
+  img {
+    width: 100%;
+    display: block;
+  }
+}
 
 .header-wrap-center {}
 

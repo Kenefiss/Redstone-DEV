@@ -30,11 +30,105 @@
               <div class="title-with-text">
                 <div class="title">Ефектні та ефективні веб і мобайл рішення із зануренням у ваш бізнес</div>
                 <div class="text">Ми знаємо болі у Вашій ніші! У нашому арсеналі є всі інструменти для їх вирішення: аналіз, брендинг, розробка сайту, створення app і технічна підтримка.</div>
-              </div>  
+              </div>
             </div>
           </div>
-          <div class="row">
-
+          <div class="row categories">
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Доставка їжі</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-1.webp" type="image/webp">
+                    <source srcset="img/category-img-1.png" type="image/png">
+                    <img src="img/category-img-1.png">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Будівництво</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-6.webp" type="image/webp">
+                    <source srcset="img/category-img-6.png" type="image/png">
+                    <img src="img/category-img-6.png">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">APP</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-5.webp" type="image/webp">
+                    <source srcset="img/category-img-5.png" type="image/png">
+                    <img src="img/category-img-5.png">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Фінанси</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-4.webp" type="image/webp">
+                    <source srcset="img/category-img-4.png" type="image/png">
+                    <img src="img/category-img-4.png">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Aвто</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-7.webp" type="image/webp">
+                    <source srcset="img/category-img-7.png" type="image/png">
+                    <img src="img/category-img-7.png">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Брендування</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-3.webp" type="image/webp">
+                    <source srcset="img/category-img-3.png" type="image/png">
+                    <img src="img/category-img-3.png">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="text-center">
+            <a class="btn btn-primary" href="#">
+              <b>ПЕРЕГЛЯНУТИ ВСІ РОБОТИ</b>
+            </a>
           </div>
         </div>
         <div class="spacer-xl"></div>
@@ -48,7 +142,7 @@
               <div class="title-with-text">
                 <div class="title">Ми даємо більше, ніж Ви очікуєте, бо шукаємо рішення, яке працює на 100%</div>
                 <div class="text">Сфокусуйте свої зусилля на тому, що ви робите найкраще. Все що зв’язано з оцифруванням бізнесу залиште для REDSTONE. Щоб ви отримали послугу повного циклу, над розробкою сайтів у команді REDSTONE працює понад 50 фахівців.</div>
-              </div>  
+              </div>
             </div>
           </div>
           <div class="row services-wrapp">
@@ -71,7 +165,7 @@
                 <li><span>Медіа реклама</span></li>
                 <li><a href="../foto-video">Фото/Відео</a></li>
               </ul>
-            </div> 
+            </div>
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">Брендінг</div>
               <ul>
@@ -81,28 +175,30 @@
                 <li><span>Ребрендінг</span></li>
                 <li><span>Копірайтинг</span></li>
               </ul>
-            </div> 
+            </div>
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">APP/Додаток</div>
               <ul>
                 <li><a href="../stvorennja-mobilnih-dodatkiv">APP для Android</a></li>
                 <li><a href="../stvorennja-mobilnih-dodatkiv">APP для IOS</a></li>
-                <li><span>PWA</span></li><li><span>APP дизайн</span></li>
+                <li><span>PWA</span></li>
+                <li><span>APP дизайн</span></li>
               </ul>
-            </div> 
+            </div>
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">Техпідтримка</div>
               <ul>
                 <li><span>Підтримка сайту</span></li>
                 <li><span>Підтримка APP</span></li>
               </ul>
-            </div> 
+            </div>
             <div class="col-6 col-md-4 service-item">
               <button type="button" class="round-btn open-popup">
                 <span class="circle"></span>
-                <span class="name">ЗАПОВНИТИ <br> БРИФ<svg width="24" height="17" fill="none" xmlns="http://www.w3.org/2000/svg" class="arr"><path d="M15.568 0L24 8.5 15.568 17l-1.73-1.744 5.405-5.448H0V7.192h19.243l-5.405-5.448L15.568 0z" /></svg></span>
+                <span class="name">ЗАПОВНИТИ <br> БРИФ<svg width="24" height="17" fill="none" xmlns="http://www.w3.org/2000/svg" class="arr">
+                    <path d="M15.568 0L24 8.5 15.568 17l-1.73-1.744 5.405-5.448H0V7.192h19.243l-5.405-5.448L15.568 0z" /></svg></span>
               </button>
-            </div> 
+            </div>
           </div>
         </div>
         <div class="spacer-xl"></div>
@@ -115,8 +211,8 @@
             <div calss="col-12">
               <div class="title-with-text">
                 <div class="title">REDSTONE у цифрах</div>
-                  <div class="text">Задачі з зірочкою наш профіль - вирішуючи їх неодноразово, ми отримували нагороди в Україні та Світі. Команда REDSTONE - завжди готова до нових викликів</div>
-              </div>  
+                <div class="text">Задачі з зірочкою наш профіль - вирішуючи їх неодноразово, ми отримували нагороди в Україні та Світі. Команда REDSTONE - завжди готова до нових викликів</div>
+              </div>
             </div>
           </div>
           <div class="row">
@@ -135,7 +231,7 @@
               <div class="title-with-text">
                 <div class="title">Приєднуйтесь до найкращих</div>
                 <div class="text">Наше завдання - рекомендувати, а не сліпо слухати клієнта, знаходити разом найкращі рішення, створювати досконалі проекти - так як це роблять друзі, а не виконавці. Нехай за нас скажуть наші друзі, яких стає все більше.</div>
-              </div> 
+              </div>
             </div>
             <div class="col-12">
               <div class="swiper-entry reviews-slider">
@@ -145,7 +241,7 @@
                       <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/s7dQ8OSd9rQ?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
                         <picture>
                           <source srcset="img/review-img-1.webp" type="image/webp">
-                          <source srcset="img/review-img-1.jpg" type="image/jpg"> 
+                          <source srcset="img/review-img-1.jpg" type="image/jpg">
                           <img src="img/review-img-1.jpg" alt="">
                         </picture>
                         <div class="review-btn">
@@ -159,7 +255,7 @@
                       <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/mi7AqJbTRAM?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
                         <picture>
                           <source srcset="img/review-img-2.webp" type="image/webp">
-                          <source srcset="img/review-img-2.jpg" type="image/jpg"> 
+                          <source srcset="img/review-img-2.jpg" type="image/jpg">
                           <img src="img/review-img-2.jpg" alt="">
                         </picture>
                         <div class="review-btn">
@@ -173,7 +269,7 @@
                       <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/5z2rIsRPOso?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
                         <picture>
                           <source srcset="img/review-img-3.webp" type="image/webp">
-                          <source srcset="img/review-img-3.jpg" type="image/jpg"> 
+                          <source srcset="img/review-img-3.jpg" type="image/jpg">
                           <img src="img/review-img-3.jpg" alt="">
                         </picture>
                         <div class="review-btn">
@@ -222,7 +318,7 @@
                   </div>
                   <div class="swiper-slide">
                     <div class="client-img"><img src="img/client-16.png" loading="lazy" alt=""></div>
-                  </div>                                                      
+                  </div>
                   <div class="swiper-slide">
                     <div class="client-img"><img src="img/client-6.png" loading="lazy" alt=""></div>
                   </div>
@@ -243,13 +339,14 @@
                   </div>
                   <div class="swiper-slide">
                     <div class="client-img"><img src="img/client-1.png" loading="lazy" alt=""></div>
-                  </div> 
+                  </div>
                 </div>
                 <div class="swiper-pagination swiper-pagination-relative"></div>
               </div>
             </div>
           </div>
         </div>
+        <div class="spacer-xl"></div>
       </div>
 
       <!-- FORM -->
@@ -259,7 +356,7 @@
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title">Давайте рухати світ разом!</div>
-              </div> 
+              </div>
             </div>
           </div>
           <div class="row">
