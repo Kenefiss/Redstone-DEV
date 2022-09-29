@@ -118,7 +118,6 @@ h6,
   color: var(--clr-text);
 
   &.text-sm {
-<<<<<<< HEAD
     font-size: 15px;
     line-height: 1.6em;
   }
@@ -126,13 +125,6 @@ h6,
   &.text-lg {
     font-size: 21px;
     line-height: 1.6em;
-=======
-    font-size: 16px;
-  }
-
-  &.text-xs {
-    font-size: 13px;
->>>>>>> 50b6d8c17025c89475b18d9a157c24954b44d5b3
   }
   &.color-2 {
     color: #929292;
@@ -190,18 +182,10 @@ h6,
   content: "";
   position: absolute;
   left: 0;
-<<<<<<< HEAD
   top: 12px;
   width: 10px;
   height: 2px;
   background-color: #e0e0e0;
-=======
-  top: .55em;
-  width: 10px;
-  height: 2px;
-  border-radius: 100%;
-  background-color: var(--clr-grey);
->>>>>>> 50b6d8c17025c89475b18d9a157c24954b44d5b3
 }
 
 .text ol {
@@ -278,18 +262,8 @@ h6,
 .text img,
 .text table,
 .text iframe,
-<<<<<<< HEAD
 .text figure {
   //margin: 0;
-=======
-.text figure,
-.text .swiper-entry {
-  margin: 40px 0;
-}
-
-.text .slide-img img {
-  margin: 0 !important;
->>>>>>> 50b6d8c17025c89475b18d9a157c24954b44d5b3
 }
 
 .text table {
