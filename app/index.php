@@ -15,22 +15,20 @@
     <main>
 
       <!-- BANNER -->
-      <div class="section">
+      <div class="section main-banner">
         <div class="container full-height">
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
-                <div class="title">Сайти <b>.</b> Арр <b>.</b> Брендінг - Робимо складне простим</div>
+                <div class="title h1">Сайти <b>.</b> Арр <b>.</b> Брендінг - Робимо складне простим</div>
                 <a href="#" class="btn btn-primary">
                   <b>НАШІ РОБОТИ</b>
                 </a>
                 <div class="logo-group">
-                  <div class="d-flex justify-content-center justify-content-xl-start align-items-center">
-                    <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" loading="lazy" alt=""></a>
-                    <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" loading="lazy" alt=""></a>
-                    <a href="https://it-rating.in.ua/rating-webstudio-lvov-2020" target="_blank" rel="nofollow"><img src="img/itr_logo.svg" loading="lazy" alt=""></a>
-                    <a href="#"><img src="img/other.svg" loading="lazy" alt=""></a>
-                  </div>
+                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" loading="lazy" alt=""></a>
+                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" loading="lazy" alt=""></a>
+                  <a href="https://it-rating.in.ua/rating-webstudio-lvov-2020" target="_blank" rel="nofollow"><img src="img/itr_logo.svg" loading="lazy" alt=""></a>
+                  <a href="#"><img src="img/other.svg" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
@@ -47,17 +45,23 @@
               <div class="sub-title text-center"><span class="d-xl-none">16</span> Років переносимо ваш бізнес online</div>
             </div>
           </div>
+          <div class="btn-scroll scroll-to">
+            <svg width="63" height="14" viewBox="0 0 63 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M0 7H55.902" stroke="#989898" stroke-dasharray="5.49 8.78" class="dashed" />
+              <path d="M54.9297 1L61.7405 7.16216L54.9297 13" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </div>
         </div>
         <div class="spacer-xl"></div>
       </div>
 
       <!-- CATEGORIES -->
-      <div class="section">
+      <div id="content" class="section">
         <div class="container">
           <div class="row">
             <div calss="col-12">
               <div class="title-with-text">
-                <div class="title">Ефектні та ефективні веб і мобайл рішення із зануренням у ваш бізнес</div>
+                <div class="title h2">Ефектні та ефективні веб і мобайл рішення із зануренням у ваш бізнес</div>
                 <div class="text">Ми знаємо болі у Вашій ніші! У нашому арсеналі є всі інструменти для їх вирішення: аналіз, брендинг, розробка сайту, створення app і технічна підтримка.</div>
               </div>
             </div>
@@ -169,8 +173,8 @@
           <div class="row">
             <div calss="col-12">
               <div class="title-with-text">
-                <div class="title">Ми даємо більше, ніж Ви очікуєте, бо шукаємо рішення, яке працює на 100%</div>
-                <div class="text">Сфокусуйте свої зусилля на тому, що ви робите найкраще. Все що зв’язано з оцифруванням бізнесу залиште для REDSTONE. Щоб ви отримали послугу повного циклу, над розробкою сайтів у команді REDSTONE працює понад 50 фахівців.</div>
+                <div class="title h2">Ми даємо більше, ніж Ви очікуєте, бо шукаємо рішення, яке працює на 100%</div>
+                <div class="text">Сфокусуйте свої зусилля на тому, що ви робите найкраще. Все що зв’язано з оцифруванням бізнесу залиште для <span>REDSTONE</span>. Щоб ви отримали послугу повного циклу, над розробкою сайтів у команді <span>REDSTONE</span> працює понад 50 фахівців.</div>
               </div>
             </div>
           </div>
@@ -239,14 +243,95 @@
           <div class="row">
             <div calss="col-12">
               <div class="title-with-text">
-                <div class="title">REDSTONE у цифрах</div>
-                <div class="text">Задачі з зірочкою наш профіль - вирішуючи їх неодноразово, ми отримували нагороди в Україні та Світі. Команда REDSTONE - завжди готова до нових викликів</div>
+                <div class="title h2 color-white">REDSTONE у цифрах</div>
+                <div class="text color-2">Задачі з зірочкою наш профіль - вирішуючи їх неодноразово, ми отримували нагороди в Україні та Світі. Команда <span>REDSTONE</span> - завжди готова до нових викликів</div>
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row counters justify-content-center justify-content-lg-start">
             <div class="col-6 col-lg-4 counter">
-
+              <div class="counter-block">
+                <div class="svg-wrapper">
+                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
+                      <tspan class="text-bold">500</tspan>
+                    </text>
+                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
+                      <tspan dx="110" dy="-60" class="text-bold text-sup">+</tspan>
+                    </text>
+                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
+                      <tspan dx="60" dy="-30" class="text-bold text-sup">+</tspan>
+                    </text>
+                  </svg>
+                </div>
+                <small>проектів</small>
+              </div>
+            </div>
+            <div class="col-6 col-lg-4 counter">
+              <div class="counter-block">
+                <div class="svg-wrapper">
+                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
+                      <tspan class="text-bold">50</tspan>
+                    </text>
+                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
+                      <tspan dx="63" dy="-60" class="text-bold text-sup">+</tspan>
+                    </text>
+                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
+                      <tspan dx="32" dy="-30" class="text-bold text-sup">+</tspan>
+                    </text>
+                  </svg>
+                </div>
+                <small>людей в команді</small>
+              </div>
+            </div>
+            <div class="col-6 col-lg-4 counter">
+              <div class="counter-block">
+                <div class="svg-wrapper">
+                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
+                      <tspan class="text-bold">300</tspan>
+                    </text>
+                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
+                      <tspan dx="110" dy="-60" class="text-bold text-sup">+</tspan>
+                    </text>
+                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
+                      <tspan dx="60" dy="-30" class="text-bold text-sup">+</tspan>
+                    </text>
+                  </svg>
+                </div>
+                <small>сайтів</small>
+              </div>
+            </div>
+            <div class="col-6 col-lg-4 counter">
+              <div class="counter-block">
+                <div class="svg-wrapper">
+                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
+                      <tspan class="text-bold">50</tspan>
+                    </text>
+                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
+                      <tspan dx="63" dy="-60" class="text-bold text-sup">+</tspan>
+                    </text>
+                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
+                      <tspan dx="32" dy="-30" class="text-bold text-sup">+</tspan>
+                    </text>
+                  </svg>
+                </div>
+                <small>нагород</small>
+              </div>
+            </div>
+            <div class="col-6 col-lg-4 counter">
+              <div class="counter-block">
+                <div class="svg-wrapper">
+                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+                    <text x="50%" y="97" stroke-width="1" font-size="100" text-anchor="middle">
+                      <tspan class="text-bold">16</tspan>
+                    </text>
+                  </svg>
+                </div>
+                <small class="ml-0">років на ринку</small>
+              </div>
             </div>
           </div>
         </div>
@@ -258,7 +343,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title">Приєднуйтесь до найкращих</div>
+                <div class="title h2">Приєднуйтесь до найкращих</div>
                 <div class="text">Наше завдання - рекомендувати, а не сліпо слухати клієнта, знаходити разом найкращі рішення, створювати досконалі проекти - так як це роблять друзі, а не виконавці. Нехай за нас скажуть наші друзі, яких стає все більше.</div>
               </div>
             </div>
@@ -380,17 +465,37 @@
 
       <!-- FORM -->
       <div class="section">
+        <div class="map-img d-none d-xl-block"><img src="img/map.png" loading="lazy" alt=""></div>
         <div class="container">
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title">Давайте рухати світ разом!</div>
+                <div class="title h2">Давайте рухати світ разом!</div>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="col-xl-5 offset-xl-7">
-
+              <div class="ml-80">
+                <div class="h4 mb-25 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
+                <form method="post" class="ContactForm">
+                  <div class="row form-row">
+                      <div class="col-md-6 form-col">
+                          <input type="text" name="name" placeholder="Ваше ім’я" class="input">
+                      </div>
+                      <div class="col-md-6 form-col">
+                          <input type="tel" name="phone" placeholder="Ваш телефон" class="input">
+                      </div>
+                      <div class="col-12 form-col">
+                          <input type="email" name="email" id="email" placeholder="*Ваш email" class="input" required>
+                      </div>
+                      <div class="col-12 form-col">
+                          <textarea name="mess" placeholder="Коротко опишіть свій проект" class="input"></textarea>
+                      </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary">НАДІСЛАТИ</button>
+                </form>
+              </div>
             </div>
           </div>
         </div>
@@ -398,11 +503,12 @@
       </div>
 
       <!-- SEO -->
-      <div class="section">
+      <div class="section fs-2">
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <div class="simple-page text">
+              <h1 class="title h2 title-margin">16 років <b>створення і розробки сайтів</b></h1>
+              <div class="simple-page text text-sm">
                 <p>На сьогоднішній день будь-який вид бізнесу має своє представництво в всесвітній мережі. Ним безперечно являється сучасний, повноцінний сайт. З допомогою інтернет ресурсів можна активно здійснювати реалізацію товарів в режимі онлайн, рекламу послуг компанії та її продукції. Якісне створення сайтів являється основним видом діяльності нашої веб студії.</p>
                 <p>Це досить складне завдання виконати яке буде не під силу людині, що не володіє основами веб розробки. Тому за подібну роботу беруться лише справжні професіонали з відповідною кваліфікацією та досвідом в даній галузі.</p>
                 <h2>Етапи створення і розробки сайтів:</h2>
@@ -419,12 +525,14 @@
                 <p>Кожен з перелічених вище типів має свої відмінності, особливості й використовується для оприділеного роду цілей. Наприклад, якщо необхідно розповісти зацікавлені інтернет спільноті про свій бренд, бізнес-компанію та види її послуг, представити детальну контактну інформацію для даної цілі ідеально підійде промо сайт, проект корпоративного типу. Іноді невеликі промо сайти використовують на період тривання рекламної компанії. Але основною цільлю безперечно є формування іміджу.</p>
                 <p>Для реалізації продукції, товарів буде доречним односторінковий сайт - лендінг, чи повноцінний інтернет магазин. В залежності від кількості категорій товару, обсягу представленого асортименту. Привертати суттєвий цільовий трафік й активно рекламувати продукцію, або послуги можна з допомогою багатофункційного інтернет порталу з об'єднанням різноманітних користних онлайн сервісів.</p>
                 <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу.</p>
+                <img src="img/seo-img.jpg" loading="lazy" alt="створення і розробка сайтів" width="557" height="510" class="seo-img">
                 <h2>Поки ви будуєте будинки — ми розбудовуємо ваш бренд та створюємо сайт</h2>
                 <p>Помітили, що інформації про надійність забудовника та якість матеріалів для продажу вже недостатньо? У нашому портфоліо 20+ розроблених сайтів для будівельних компаній. Із нашим сайтом ви не просто інформуєте про будівництво, а максимально спрощуєте шлях і мотивуєте потенційних покупців до того, щоб оселитися у вашому ЖК.</p>
               </div>
+              <div class="signature"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
-            <div class="col-xl-5">
-              <div class="simple-page">
+            <div class="col-xl-5 d-none d-xl-block">
+              <div class="simple-page ml-80">
                 <div class="video" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
               </div>
             </div>

@@ -35,6 +35,15 @@ h6,
 }
 
 h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3{
+  font-weight: 600;
+}
+
+h1,
 .h1 {
   font-size: var(--h-1);
   line-height: 1.125em;
@@ -70,6 +79,17 @@ h6,
   line-height: 1.46em;
 }
 
+.color-white{color: var(--clr-white);}
+
+.title-margin{margin-bottom:35px;}
+
+.fs-2 h1, .fs-2 .h1, .fs-2 .h2{
+  font-size:40px;
+}
+.fs-2 .simple-page h2{
+  font-size:26px;
+} 
+
 .text-left {
   text-align: left;
 }
@@ -82,6 +102,10 @@ h6,
   text-align: right;
 }
 
+@media(max-width: 767px){
+  .title-margin{margin-bottom:15px;}
+}
+
 
 /*--------------------*/
 /* - TEXT STYLES      */
@@ -92,9 +116,17 @@ h6,
   font-weight: 300;
   color: var(--clr-text);
 
+  &.text-sm {
+    font-size: 15px;
+    line-height: 1.6em;
+  }
+
   &.text-lg {
     font-size: 21px;
     line-height: 1.6em;
+  }
+  &.color-2 {
+    color: #929292;
   }
 
   >*+* {
@@ -106,9 +138,13 @@ h6,
   h3,
   h4,
   h5,
-  h6 {
+  h6{
     font-weight: 600;
   }
+}
+
+.text p {
+  letter-spacing:0.6px;
 }
 
 .text b {
@@ -145,11 +181,10 @@ h6,
   content: "";
   position: absolute;
   left: 0;
-  top: .6em;
-  width: 4px;
-  height: 4px;
-  border-radius: 100%;
-  background-color: currentColor;
+  top: 12px;
+  width: 10px;
+  height: 2px;
+  background-color: #e0e0e0;
 }
 
 .text ol {
@@ -239,7 +274,7 @@ h6,
 .text table,
 .text iframe,
 .text figure {
-  margin: 50px 0;
+  //margin: 0;
 }
 
 .text table {
@@ -320,11 +355,30 @@ h6,
 .title-with-text .title {
   max-width: 57%;
   flex: 1 1 57%;
+  font-weight:600;
 }
 
 .title-with-text .text {
   flex: 1;
-  padding-left: 8%;
+  margin-left: 9%;
+}
+
+.title-with-text .text span{
+  color: var(--clr-red);
+  font-weight:400;
+}
+.title-with-text .text.color-2 span{
+  color: var(--clr-white);
+}
+
+.sub-title {
+  position: relative;
+  letter-spacing: 0.05em;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 1.4;
+  color: var(--clr-text);
+  text-transform: uppercase;
 }
 
 /*media*/
@@ -333,7 +387,18 @@ h6,
     text-decoration-color: transparent;
   }
 }
+@media(max-width: 1639px) {
+  .title-with-text .text {font-size:18px;margin-left:5%;}
+  .sub-title{font-size: 18px;}
+}
 
-@media(max-width: 1440px) {}
+@media(max-width: 1199px) {
+  .title-with-text {display: block;text-align: center;margin-bottom: 30px;}
+  .title-with-text .title {max-width:100%;}
+  .title-with-text .text{display:none;padding:0;}
+  .sub-title{font-size: 15px;}
+}
 
-@media(max-width: 767px) {}
+@media(max-width: 991px) {
+  .sub-title{font-size: 12px;}
+}

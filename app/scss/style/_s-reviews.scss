@@ -122,6 +122,12 @@
   }
 }
 
+@media(max-width:1839px) {
+  .reviews-slider .swiper-wrapper {
+    margin-bottom:70px;
+  }
+}
+
 @media(max-width:1199px) {
   .reviews-slider .swiper-wrapper {
     margin-left: 0;
@@ -146,6 +152,9 @@
 }
 
 @media(max-width:991px) {
+  .reviews-slider{
+    margin-bottom:30px;
+  }
   .reviews-slider .swiper-wrapper {
     margin-bottom: 0;
   }

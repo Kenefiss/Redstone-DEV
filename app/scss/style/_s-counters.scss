@@ -1,0 +1,67 @@
+/*--------------------*/
+/* - COUNTERS          */
+/*--------------------*/
+.counter{text-align: center;}
+.counter:nth-child(3n+3){text-align: right;}
+.counter:nth-child(n+4){margin-top: 120px;}
+.counter-block{position: relative;height: 100%;margin-bottom: 20px;}
+.counter .text-sup{font-size: 60px;font-weight: 800;font-family: var(--ff-2);line-height: 1;}
+.counter small{font-size: 26px;font-weight: 500;color:var(--clr-white);white-space:nowrap;position: absolute;left: 50%;bottom:-20%;transform: translateX(-50%);}
+.counter b{font-size: 170px;line-height: 1;}
+.svg-wrapper{width:100%;height:113px;font-weight: 800;stroke: var(--clr-text);backface-visibility: hidden;}
+.svg-wrapper text{stroke-dasharray: 500;stroke-dashoffset: 500;fill: transparent;font-size: 150px;}
+//.svg-wrapper .text-bold{fill: transparent;}
+.svg-wrapper .text-bold{fill: #303030;}
+.ie .svg-wrapper text, body.touch-screen .svg-wrapper text{stroke-dasharray:0;stroke-dashoffset:0;}
+.svg-wrapper.type-2{height: 360px;stroke: #e6e6e6;}
+.svg-wrapper.type-2 text{font-size: 150px;}
+.svg-wrapper.type-2 .text-bold{fill: #f3f3f3;}
+.dashed{-webkit-animation: dash 8s linear infinite;animation: dash 8s linear infinite;}
+@keyframes dash{from{stroke-dashoffset: 200;}to{stroke-dashoffset: 0;}}
+@-webkit-keyframes dash{from{stroke-dashoffset: 200;}to{stroke-dashoffset: 0;}}
+/*media*/
+@media(min-width:1200px){
+  @keyframes draw{to{stroke-dashoffset: 0;}}
+  @-webkit-keyframes draw{to{stroke-dashoffset: 0;}}
+  @keyframes fill_text{to{fill: #303030;stroke: transparent;}}
+  @-webkit-keyframes fill_text{to{fill: #303030;stroke: transparent;}}
+  @keyframes fill_text_2{to{fill: #f3f3f3;stroke: transparent;}}
+  @-webkit-keyframes fill_text_2{to{fill: #f3f3f3;stroke: transparent;}}
+  @keyframes fill_text_3{to{fill: var(--clr-grey3);stroke: transparent;}}
+  @-webkit-keyframes fill_text_3{to{fill: var(--clr-grey3);stroke: transparent;}}
+  .animated .svg-wrapper text{animation: draw 2s linear forwards;-webkit-animation: draw 2s linear forwards;}
+  .animated .svg-wrapper .text-bold{animation: fill_text 0.8s linear forwards 1s;}
+  .animated .svg-wrapper.type-2 .text-bold{animation: fill_text_2 0.8s linear forwards 1s;}
+}
+@media(max-width:1839px){
+  .svg-wrapper{height: 70px;}
+  .counter:nth-child(n+4){margin-top: 70px;}
+  .counter b{font-size: 100px;}
+  .counter small{font-size: 22px;}
+  .counter .text-sup{font-size: 45px;}
+}
+@media(max-width:1560px){
+  .svg-wrapper.type-2 text{font-size: 130px;}
+}
+@media(max-width:1199px){
+  .svg-wrapper text{stroke-dasharray:0;stroke-dashoffset:0;}
+  .svg-wrapper .text-bold{fill: var(--clr-text);}
+  .svg-wrapper.type-2{height: 225px;stroke: var(--clr-grey3);}
+  .svg-wrapper.type-2 .text-bold{fill: var(--clr-grey3);}
+}
+@media(max-width:991px){
+  .counter:nth-child(3n+3){text-align: center;}
+  .counter:nth-child(n+3){margin-top: 40px;}
+  .counter-block.type-1{height: auto;}
+}
+@media(max-width:767px){
+  .svg-wrapper.type-2 text{font-size: 140px;}
+}
+@media(max-width:575px){
+  .full-height .counter-block{height: auto;margin-top: -80px;}
+  .counter:nth-child(n+3){margin-top: 30px;}
+  .counter small{font-size: 18px;}
+  .svg-wrapper{height:60px;}
+  .svg-wrapper text{font-size: 90px;}
+  .svg-wrapper.type-2{height: 150px;}
+}
