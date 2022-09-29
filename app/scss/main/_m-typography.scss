@@ -93,14 +93,12 @@ h6,
   font-weight: 300;
   color: var(--clr-text);
 
-  &.text-lg {
-    font-size: 21px;
-    line-height: 1.6em;
+  &.text-sm {
+    font-size: 16px;
   }
 
-  &.text-sm {
-    font-size: 15px;
-    line-height: 1.6em;
+  &.text-xs {
+    font-size: 13px;
   }
 
   >*+* {
@@ -132,9 +130,8 @@ h6,
 
 .text a:not(.btn) {
   display: inline;
-  color: var(--clr-red);
-  font-weight: 600;
-  text-underline-offset: 3px;
+  color: var(--clr-text);
+  font-weight: 500;
   text-decoration: underline;
   text-decoration-color: transparent;
 }
