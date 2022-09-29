@@ -95,6 +95,11 @@
                 <p>
                   Якісний та потужний веб-дизайн цікавить всіх спеціалістів, які розробляють <a href="#">інтернет-проекти</a> для сучасних компаній України. Рівень якості дизайну впливає безпосередньо на зацікавленість сайтом цільової аудиторії.
                 </p>
+                <picture>
+                  <source srcset='img/simple-img-1.webp' type='image/webp'>
+                  <source srcset='img/simple-img-1.jpg' type='image/jpg'>
+                  <img src='img/simple-img-1.jpg' alt=''>
+                </picture>
                 <h5>
                   Моушн-дизайн та анімація
                 </h5>
@@ -112,96 +117,112 @@
                     Серед популярних трендів веб-дизайну спеціалісти виділяють 3 головних:
                   </li>
                 </ul>
+                <div class="swiper-entry">
+                  <div class="swiper-container" data-options='{"slidesPerView": 1, "effect":"fade", "autoHeight": true, "loop":true, "lazy": true }'>
+                    <div class="swiper-wrapper">
+                      <div class="swiper-slide">
+                        <div class="slide-img">
+                          <picture>
+                            <source srcset="img/simple-img-2.webp" type="image/webp">
+                            <source srcset="img/simple-img-2.jpg" type="image/jpg">
+                            <img src="img/simple-img-2.jpg" alt="" loading="lazy">
+                          </picture>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="slide-img">
+                          <picture>
+                            <source srcset="img/simple-img-3.webp" type="image/webp">
+                            <source srcset="img/simple-img-3.jpg" type="image/jpg">
+                            <img src="img/simple-img-3.jpg" alt="" loading="lazy">
+                          </picture>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="slide-img">
+                          <picture>
+                            <source srcset="img/simple-img-1.webp" type="image/webp">
+                            <source srcset="img/simple-img-1.jpg" type="image/jpg">
+                            <img src="img/simple-img-1.jpg" alt="" loading="lazy">
+                          </picture>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="slide-img">
+                          <picture>
+                            <source srcset="img/simple-img-3.webp" type="image/webp">
+                            <source srcset="img/simple-img-3.jpg" type="image/jpg">
+                            <img src="img/simple-img-3.jpg" alt="" loading="lazy">
+                          </picture>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-pagination swiper-pagination-relative"></div>
+                  </div>
+                </div>
+                <h5>
+                  Сміливі кольори
+                </h5>
                 <p>
-                  <em> Organic stains (leaves, bird droppings, food) </em> – Mix 1/2 cup of household
-                  bleach with
-                  1 gallon of water. Be sure to wear gloves, eye protection when preparing, and using
-                  the bleach solution. Scrub the area with the solution. It will clean the stains and
-                  kill the organisms that can make them return. Mop up the excess bleach solution with
-                  clean cloths or rags, and rinse with clear water.
+                  Сильні кольори були важливою тенденцією протягом останніх двох років і будуть трендом 2020 року. Насичені кольори і навіть надзвичайно яскраві – вони можуть бути первинними або навіть вторинними відтінками.
                 </p>
-                <blockquote>
-                  First, assess the surface to determine the type of stains you’re dealing with. Sweep
-                  the area and spray it with clean water from a hose to clear away dirt and debris and
-                  reveal the stains. Check under the barbecue, patio furniture and planters – you may
-                  find dripped grease, smoke stains, rust marks, and leaf stains.
-                  <i>By Name Here</i>
-                </blockquote>
                 <p>
-                  <i> Oil stains from vehicles – If you discover an oil stain from a vehicle</i>, it’s
-                  best to
-                  act quickly. Lightly dab (not rub) the stain with the rag or towels. You can try
-                  liquid dish soap or laundry detergent first. Apply the soap to the stain and allow
-                  to sit for 20-30 minutes. Then, gently scrub with a nylon bristle brush and rinse
-                  with hot water. Repeat as needed. If the oil stain has dried and absorbed into the
-                  paver, use a rag to soak up as much oil as possible. Apply a granular absorbing
-                  material to the area and let it sit for approximately six hours. Sweep the area and
-                  try to clean the stain with soap again.
+                  Коли ми ведемо мову про кольорові тенденції, ми бачимо сміливі кольорові поєднання, які стратегічно використовуються для того, щоб веб-дизайни буквально вистрибували з екрану. Веб-дизайн стає все сміливішим і сміливішим, використовуючи світлі неонові і яскраво насичені кольори в поєднанні з більш темними, приглушеними
                 </p>
                 <ol>
-                  <li>Lorem ipsum dolor sit amet</li>
-                  <li>Lorem ipsum dolor sit amet</li>
-                  <li>Lorem ipsum dolor sit amet</li>
-                  <li>Lorem ipsum dolor sit amet</li>
-                  <li>Lorem ipsum dolor sit amet</li>
+                  <li>
+                    Кожен рік дизайн трансформується завдяки новим трендам і темам. 2019 рік
+                  </li>
+                  <li>
+                    Не став виключенням та вніс корективи у сферу веб-дизайну.
+                  </li>
+                  <li>
+                    Серед популярних трендів веб-дизайну спеціалісти виділяють 3 головних:
+                  </li>
                 </ol>
-                <picture>
-                  <source srcset='img/blog-img-1.webp' type='image/webp'>
-                  <source srcset='img/blog-img-1.jpg' type='image/jpg'>
-                  <img src='img/blog-img-1.jpg' alt=''>
-                </picture>
                 <iframe src="https://www.youtube.com/embed/lmsykQMZ7b0" loading='lazy' allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <blockquote>
+                  Сміливі кольори ідеально підходять для ілюстрацій. Вони створюють веселу атмосферу, змушують персонажів виділятися та розповідати історію за зображенням.
+                </blockquote>
                 <table>
                   <thead>
                     <tr>
-                      <td>Період</td>
-                      <td>Ціна за ніч</td>
-                      <td>Ціна за тиждень</td>
-                      <td>Заїзд чи виїзд</td>
+                      <td>МАРКЕТИНГ</td>
+                      <td>ЛЕНДІНГ</td>
+                      <td>ІНТЕРНЕТ МАГАЗИН</td>
+                      <td>APP</td>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td>01.04. - 30.04.2021</td>
-                      <td>€2,086</td>
-                      <td>€14,602</td>
-                      <td>будь-який день</td>
+                      <td>2,086</td>
+                      <td>2,086</td>
+                      <td>14,602</td>
+                      <td>14,602</td>
                     </tr>
                     <tr>
-                      <td>01.05. - 30.06.2021</td>
-                      <td>€3,346</td>
-                      <td>€23,422</td>
-                      <td>будь-який день</td>
+                      <td>3,346</td>
+                      <td>3,346</td>
+                      <td>23,422</td>
+                      <td>23,422</td>
                     </tr>
                     <tr>
-                      <td>01.07. - 31.08.2021</td>
-                      <td>€4,186</td>
-                      <td>€29,302</td>
-                      <td>субота</td>
+                      <td>4,186</td>
+                      <td>4,186</td>
+                      <td>29,302</td>
+                      <td>29,302</td>
                     </tr>
                     <tr>
-                      <td>01.09. - 30.09.2021</td>
-                      <td>€3,346</td>
-                      <td>€23,422</td>
-                      <td>будь-який день</td>
+                      <td>3,346</td>
+                      <td>3,346</td>
+                      <td>23,422</td>
+                      <td>23,422</td>
                     </tr>
                     <tr>
-                      <td>01.10. - 30.10.2021</td>
-                      <td>€2,086</td>
-                      <td>€14,602</td>
-                      <td>будь-який день</td>
-                    </tr>
-                    <tr>
-                      <td>01.04. - 30.04.2022</td>
-                      <td>€2,500</td>
-                      <td>€17,500</td>
-                      <td>будь-який день</td>
-                    </tr>
-                    <tr>
-                      <td>01.05. - 30.06.2022</td>
-                      <td>€4,000</td>
-                      <td>€28,000</td>
-                      <td>субота</td>
+                      <td>2,086</td>
+                      <td>2,086</td>
+                      <td>14,602</td>
+                      <td>14,602</td>
                     </tr>
                   </tbody>
                 </table>
