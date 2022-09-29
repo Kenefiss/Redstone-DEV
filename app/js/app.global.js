@@ -135,12 +135,12 @@ jQuery(function($) {
       prevEl: $p.closest('.section').find('.swiper-button-prev')[0]
     };
     options.preloadImages = false;
+    if (options.lazy == true) {
+      $p.find('.swiper-slide').find('img').addClass('swiper-lazy').after('<div class="swiper-lazy-preloader"></div>');
+    }
     options.lazy = {
       loadPrevNext: true
     };
-    if (options.lazy) {
-      $p.find('.swiper-slide').find('img').addClass('swiper-lazy').after('<div class="swiper-lazy-preloader"></div>');
-    }
 
     options.observer = true;
     options.observeParents = true;
@@ -151,13 +151,6 @@ jQuery(function($) {
     if (isTouchScreen) options.direction = "horizontal";
     if (slidesLength <= 1) {
       options.loop = false;
-    }
-    if (options.customFraction) {
-      $p.addClass('custom-fraction');
-      if (slidesLength > 1 && slidesLength < 100) {
-        $p.closest('.section').find('.c-fraction-current').text('1');
-        $p.closest('.section').find('.c-fraction-total').text(slidesLength);
-      }
     }
     return options;
   };
@@ -186,28 +179,6 @@ jQuery(function($) {
       }
     });
   });
-
-
-
-
-  // Custom fraction
-  $('.custom-fraction').each(function() {
-    var $this = $(this),
-      $thisSwiper = $this.find('.swiper-container')[0].swiper;
-
-    $thisSwiper.on('slideChange', function() {
-      $this.closest('.section').find('.c-fraction-current').text(
-        function() {
-          if ($thisSwiper.realIndex < 100) {
-            return ($thisSwiper.realIndex + 1)
-          } else {
-            return $thisSwiper.realIndex + 1
-          }
-        }
-      )
-    });
-  });
-
 
 
 

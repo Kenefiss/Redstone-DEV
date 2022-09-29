@@ -88,15 +88,33 @@
 .popup-align {
   position: relative;
   padding: 60px 90px;
+
+  >* {
+    margin-bottom: 15px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .popup-title {
-  text-align: center;
   max-width: 420px;
+  margin-inline: auto;
   font-weight: 600;
 
   b {
     font-weight: inherit;
     color: var(--clr-red);
+  }
+}
+
+@media (max-width: 575px) {
+  .popup-align {
+    padding: 40px 15px;
+
+    >* {
+      margin-bottom: 10px;
+    }
   }
 }

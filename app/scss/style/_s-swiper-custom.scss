@@ -1,7 +1,8 @@
 /*---------------------*/
 /* - SWIPER CUSTOM     */
 /*---------------------*/
-.swiper-entry {
+.swiper-entry,
+.swiper-slide {
   position: relative;
 }
 
@@ -45,7 +46,7 @@
 
 .swiper-pagination.swiper-pagination-relative {
   position: relative;
-  margin-top: 20px;
+  margin-top: 40px;
   bottom: auto !important;
 }
 
@@ -150,63 +151,6 @@
   align-items: center;
 }
 
-.c-fraction-wrap {
-  flex-shrink: 0;
-  width: 76px;
-  text-align: center;
-
-  >* {
-    display: inline-block;
-    vertical-align: top;
-    font-size: 18px;
-    font-weight: 500;
-    color: var(--clr-black);
-  }
-}
-
-.c-fraction-total {
-  &::before {
-    content: '/';
-    font-size: inherit;
-    color: inherit;
-    margin: 0 5px 0 2px;
-  }
-}
-
-.swiper-horizontal>.swiper-scrollbar {
-  position: relative;
-  left: 0;
-  bottom: 0;
-  z-index: 50;
-  height: 4px;
-  width: 100%;
-  margin-top: 40px;
-  margin-bottom: 2px;
-}
-
-.swiper-scrollbar {
-  border-radius: 0;
-  background: transparent;
-
-  &::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: .4;
-    background-color: var(--clr-grey-400);
-  }
-}
-
-.swiper-scrollbar-drag {
-  top: -2px;
-  height: 8px;
-  border-radius: 0;
-  background: var(--clr-black);
-}
-
 @media (min-width: 1200px) {
 
   .swiper-button-prev,
@@ -225,15 +169,15 @@
   }
 }
 
-@media (max-width: 1440px) {
-  .swiper-horizontal>.swiper-scrollbar {
-    margin-top: 30px;
-  }
-}
+@media (max-width: 1440px) {}
 
 @media (max-width: 767px) {
   .swiper-pagination {
     bottom: 15px !important;
+  }
+
+  .swiper-pagination.swiper-pagination-relative {
+    margin-top: 25px;
   }
 
   .swiper-pagination-bullet {
@@ -246,18 +190,10 @@
   .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
     margin: 0 6px !important;
   }
-
-  .swiper-button-wrap {
-    text-align: center;
-  }
 }
 
 @media (max-width: 575px) {
   .swiper-container {
     overflow: visible;
-  }
-
-  .swiper-horizontal>.swiper-scrollbar {
-    width: calc(100% + 15px);
   }
 }
