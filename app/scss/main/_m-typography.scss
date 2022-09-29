@@ -409,7 +409,6 @@ h6,
   .sub-title{font-size: 18px;}
 }
 
-<<<<<<< HEAD
 @media(max-width: 1199px) {
   .title-with-text {display: block;text-align: center;margin-bottom: 30px;}
   .title-with-text .title {max-width:100%;}
@@ -419,7 +418,8 @@ h6,
 
 @media(max-width: 991px) {
   .sub-title{font-size: 12px;}
-=======
+}
+
 @media(max-width: 767px) {
   .text {
     font-size: 15px;
@@ -481,5 +481,5 @@ h6,
       }
     }
   }
->>>>>>> 50b6d8c17025c89475b18d9a157c24954b44d5b3
+
 }
