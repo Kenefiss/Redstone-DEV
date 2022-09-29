@@ -259,21 +259,14 @@ jQuery(function($) {
     _functions.openPopup('.popup-content[data-rel="' + $(this).data('rel') + '"]');
   });
 
+  // Close Zoom popup
+  $(document).on('click', '.popup-wrapper .close-popup, .popup-content .layer-close', function(e) {
+    e.preventDefault();
+    _functions.closePopup();
+  });
 
-  // Video popup
-  $(document).on('click', '.video-open', function(e) {
-    e.preventDefault();
-    var video = $(this).attr('href');
-    $('.video-popup-container iframe').attr('src', video);
-    $('.video-popup').addClass('active');
-    $('html').addClass('overflow-hidden');
-  });
-  $('.video-popup-close, .video-popup-layer').on('click', function(e) {
-    $('html').removeClass('overflow-hidden');
-    $('.video-popup').removeClass('active');
-    $('.video-popup-container iframe').attr('src', 'about:blank');
-    e.preventDefault();
-  });
+
+
 
 
 
