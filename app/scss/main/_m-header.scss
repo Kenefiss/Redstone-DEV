@@ -1,0 +1,45 @@
+/*--------------------*/
+/* - HEADER           */
+/*--------------------*/
+header {
+  --h-height: 130px;
+  height: var(--h-height);
+}
+
+.header-wrap {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--clr-white);
+  transition: var(--transition-1);
+
+  &.scrolled {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .02);
+  }
+}
+
+.container {}
+
+.header-wrap-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: var(--h-height);
+}
+
+.header-wrap-left {}
+
+.header-logo {
+  max-width: 138px;
+
+  img {
+    width: 100%;
+    display: block;
+  }
+}
+
+.header-wrap-center {}
+
+.header-wrap-right {}
