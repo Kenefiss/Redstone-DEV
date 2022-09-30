@@ -17,7 +17,8 @@
 //*========================================
 
 let _functions = {},
-  winW, winH, winScr, isTouchScreen, isAndroid, isIPhone, is_Mac, is_IE, is_Chrome;
+  winW, winH, winScr, isTouchScreen, isAndroid, isIPhone, is_Mac, is_IE, is_Chrome,
+  mobileSrc = false;
 
 jQuery(function($) {
   "use strict";
@@ -343,14 +344,31 @@ jQuery(function($) {
     _functions.cutText();
   });
 
-
-
-
-
-
   //*==============
   //* 11 OTHER JS =
   //*==============
+  /* scroll to content */
+  $(document).on('click', '.scroll-to', function () {
+    $('html,body').animate({
+      scrollTop: $("#content").offset().top - $('header').outerHeight() - 50
+    }, 700);
+  });
 
+  /* video */
+  $('.video').each(function () {
+    var videoSrc = (mobileSrc) ? $(this).data('mobile-src') : $(this).data('src');
+    var video = '<video class="active" ' + ($(this).is('[data-autoplay]') ? 'autoplay' : '') + ' muted loop disablePictureInPicture playsinline controlsList="nodownload"><source src="' + videoSrc + '" type="video/mp4" /></video>';
+    if ($(this).is('[data-fullscreen]')) video += '</div>';
+    $(this).html(video);
+    $(this).find('video')[0].oncanplay = function () {
+      $(this).removeClass('active');
+    };
+    if ($(this).is('[data-fullscreen]')) {
+      $(this).on('click', function () {
+        var element = $(this).find('video')[0];
+        _functions.videoFullScreen(element);
+      });
+    }
+  });
 
 });

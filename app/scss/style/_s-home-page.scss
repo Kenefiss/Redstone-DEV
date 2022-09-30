@@ -1,0 +1,19 @@
+/*form*/
+.map-img{position: absolute;left: 0;bottom: -18.421vw;width: 66.316vw;z-index: -1;}
+
+
+
+/*seo*/
+.video {position: relative;background: #888;padding-top: 115%;overflow:hidden;}
+.video video {position: absolute;left: 50%;top: 50%;min-width: 100%;width: auto;min-height: 100%;height: auto;transform: translateX(-50%) translateY(-50%);transition: var(--transition-2);}
+.signature{position: relative;margin-top: 30px;max-width: 380px;margin-left: auto;margin-right: -30px;}
+.seo-img {position: fixed;bottom: 0;right: calc(-100% - 30px);width: calc(100% - 80px);z-index: -100;}
+/*media*/
+@media(min-width: 1200px){
+  .ml-80{margin-left:80px;}
+}
+@media(max-width: 1199px){
+  .signature{margin-right:0;}
+  .seo-img{position: relative;width: auto;right: auto;}
+}
+
