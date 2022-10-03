@@ -70,6 +70,10 @@ html.overflow-visible #content-block {
   overflow: visible;
 }
 
+main > .section:first-child:not(.banner){
+  margin-top:100px;
+}
+
 .section {
   position: relative;
 }
@@ -214,6 +218,9 @@ html.overflow-visible #content-block {
 
   .section.inner-padd {
     margin-bottom: 50px;
+  }
+  main > .section:first-child:not(.banner){
+    margin-top:30px;
   }
 }
 

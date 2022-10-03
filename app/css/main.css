@@ -65,6 +65,7 @@ html.overflow-hidden body {overflow: hidden;}
 html.overflow-menu,
 html.overflow-menu body {overflow: hidden;}
 html.overflow-visible #content-block {overflow: visible;}
+main > .section:first-child:not(.banner) {margin-top: 100px;}
 .section {position: relative;}
 .section.inner-padd {padding: 180px 0;margin-bottom: 180px;}
 .section.black-sec {background: var(--clr-black);}
@@ -105,6 +106,7 @@ html.overflow-visible #content-block {overflow: visible;}
 .container {width: 100%;}
 .spacer-xl {height: 50px;}
 .section.inner-padd {margin-bottom: 50px;}
+main > .section:first-child:not(.banner) {margin-top: 30px;}
 }
 @media (max-width: 991px) {
 :root {--h-1: 36px;--h-2: 28px;--h-3: 26px;--h-4: 20px;--h-5: 18px;--h-6: 16px;}
@@ -334,6 +336,7 @@ h6,
 .sub-title {font-size: 12px;}
 }
 @media (max-width: 767px) {
+.title-with-text {margin-bottom: 20px;}
 .text {font-size: 15px;}
 .text.text-lg {font-size: 19px;}
 .text > * + * {margin-top: 15px;}
