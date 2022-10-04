@@ -44,6 +44,32 @@
               </div>
             </div>
           </div>
+          <div class="row benefits">
+            <div class="col-lg-6">
+              <div class="benefit-item">
+                <div class="benefit-title h5 color-white">Найкращі, унікальні рішення</div>
+                <div class="benefit-desc text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни</div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="benefit-item">
+                <div class="benefit-title h5 color-white">Завжди готові до складних проектів</div>
+                <div class="benefit-desc text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни</div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="benefit-item">
+                <div class="benefit-title h5 color-white">Комплексний підхід до проектів</div>
+                <div class="benefit-desc text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки,</div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="benefit-item">
+                <div class="benefit-title h5 color-white">Постійний аналіз та гнучкість до змін</div>
+                <div class="benefit-desc text">Використовуємо інтерактивний підхід в процесі розробки проектів</div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -54,6 +80,63 @@
             <div calss="col-12">
               <div class="title-with-text">
                 <div class="title h2">Що ми використовуємо</div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="swiper-entry clients-slider size2">
+              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
+                <div class="swiper-wrapper clients">
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-1.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-2.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-3.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-4.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-5.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-6.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-7.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-8.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-9.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-10.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-11.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-12.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-13.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-14.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-15.png" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="img/tech-16.png" loading="lazy" alt=""></div>
+                  </div>
+                </div>
+                <div class="swiper-pagination swiper-pagination-relative"></div>
               </div>
             </div>
           </div>

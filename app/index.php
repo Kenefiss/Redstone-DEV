@@ -259,7 +259,7 @@
           <div class="row">
             <div class="col-xl-5 offset-xl-7">
               <div class="ml-80">
-                <div class="h4 mb-25 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
+                <div class="title h5 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
                 <form method="post" class="ContactForm">
                   <div class="form-block">
                     <div class="input-field-wrapper w-50">
