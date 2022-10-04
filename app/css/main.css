@@ -54,7 +54,11 @@ img {max-width: 100%;height: auto;}
 /*--------------------*/
 /* - GLOBAL SETTINGS  */
 /*--------------------*/
+<<<<<<< HEAD
 :root {--ff-1: "TT Commons",sans-serif;--ff-2: "SF UI Display",sans-serif;--h-1: 80px;--h-2: 50px;--h-3: 46px;--h-4: 38px;--h-5: 26px;--h-6: 22px;--clr-title: #232323;--clr-text: #424242;--clr-text2: #959595;--clr-plc: #626262;--clr-white: #ffffff;--clr-black: #232323;--clr-red: #E70000;--clr-grey: #e1e1e1;--clr-grey2: #e4e4e4;--clr-grey3: #f8f8f8;--clr-grey4: #DADADA;--bg-black1: #252525;--bg-black2: #202020;--bg-black3: #181818;--transition-1: 0.3s;--transition-2: 0.6s;}
+=======
+:root {--ff-1: "TT Commons",sans-serif;--ff-2: "SF UI Display",sans-serif;--h-1: 80px;--h-2: 50px;--h-3: 46px;--h-4: 38px;--h-5: 26px;--h-6: 20px;--clr-title: #232323;--clr-text: #424242;--clr-white: #ffffff;--clr-black: #232323;--clr-red: #E70000;--clr-grey: #e1e1e1;--clr-grey2: #e4e4e4;--clr-grey3: #f8f8f8;--transition-1: 0.3s;--transition-2: 0.6s;}
+>>>>>>> 0989aca22b44a03803bfd112d76ea1e5f214cf6e
 html {height: auto;-webkit-font-smoothing: antialiased;}
 html.keyboard-focus:focus {outline: auto;}
 body {height: auto;background-color: var(--clr-white);}
@@ -65,6 +69,7 @@ html.overflow-hidden body {overflow: hidden;}
 html.overflow-menu,
 html.overflow-menu body {overflow: hidden;}
 html.overflow-visible #content-block {overflow: visible;}
+main > .section:first-child:not(.banner) {margin-top: 100px;}
 .section {position: relative;}
 .section.inner-padd {padding: 180px 0;margin-bottom: 180px;}
 .section.black-sec {background: var(--clr-black);}
@@ -110,6 +115,7 @@ html.overflow-visible #content-block {overflow: visible;}
 .container {width: 100%;}
 .spacer-xl {height: 50px;}
 .section.inner-padd {margin-bottom: 50px;}
+main > .section:first-child:not(.banner) {margin-top: 30px;}
 }
 @media (max-width: 991px) {
 :root {--h-1: 36px;--h-2: 28px;--h-3: 26px;--h-4: 20px;--h-5: 18px;--h-6: 16px;}
@@ -347,6 +353,10 @@ h6,
 .sub-title {font-size: 12px;}
 }
 @media (max-width: 767px) {
+<<<<<<< HEAD
+=======
+.title-with-text {margin-bottom: 20px;}
+>>>>>>> 0989aca22b44a03803bfd112d76ea1e5f214cf6e
 .text {font-size: 15px;}
 .text.text-lg {font-size: 19px;}
 .text > * + * {margin-top: 15px;}

@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="uk">
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Redstone :: Home</title>
-
+  <title>REDSTONE :: Home</title>
 </head>
 
 <body>
@@ -15,7 +14,7 @@
     <main>
 
       <!-- BANNER -->
-      <div class="section main-banner">
+      <div class="section banner main-banner">
         <div class="container full-height">
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
@@ -74,7 +73,7 @@
                   <picture>
                     <source srcset="img/category-img-1.webp" type="image/webp">
                     <source srcset="img/category-img-1.png" type="image/png">
-                    <img src="img/category-img-1.png">
+                    <img src="img/category-img-1.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -89,7 +88,7 @@
                   <picture>
                     <source srcset="img/category-img-6.webp" type="image/webp">
                     <source srcset="img/category-img-6.png" type="image/png">
-                    <img src="img/category-img-6.png">
+                    <img src="img/category-img-6.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -104,7 +103,7 @@
                   <picture>
                     <source srcset="img/category-img-5.webp" type="image/webp">
                     <source srcset="img/category-img-5.png" type="image/png">
-                    <img src="img/category-img-5.png">
+                    <img src="img/category-img-5.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -119,7 +118,7 @@
                   <picture>
                     <source srcset="img/category-img-4.webp" type="image/webp">
                     <source srcset="img/category-img-4.png" type="image/png">
-                    <img src="img/category-img-4.png">
+                    <img src="img/category-img-4.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -134,7 +133,7 @@
                   <picture>
                     <source srcset="img/category-img-7.webp" type="image/webp">
                     <source srcset="img/category-img-7.png" type="image/png">
-                    <img src="img/category-img-7.png">
+                    <img src="img/category-img-7.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -149,7 +148,7 @@
                   <picture>
                     <source srcset="img/category-img-3.webp" type="image/webp">
                     <source srcset="img/category-img-3.png" type="image/png">
-                    <img src="img/category-img-3.png">
+                    <img src="img/category-img-3.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -238,230 +237,13 @@
       </div>
 
       <!-- DIGITS -->
-      <div class="section black-sec inner-padd">
-        <div class="container">
-          <div class="row">
-            <div calss="col-12">
-              <div class="title-with-text">
-                <div class="title h2 color-white">REDSTONE у цифрах</div>
-                <div class="text color-2">Задачі з зірочкою наш профіль - вирішуючи їх неодноразово, ми отримували нагороди в Україні та Світі. Команда <span>REDSTONE</span> - завжди готова до нових викликів</div>
-              </div>
-            </div>
-          </div>
-          <div class="row counters justify-content-center justify-content-lg-start">
-            <div class="col-6 col-lg-4 counter">
-              <div class="counter-block">
-                <div class="svg-wrapper">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">500</tspan>
-                    </text>
-                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
-                      <tspan dx="110" dy="-60" class="text-bold text-sup">+</tspan>
-                    </text>
-                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
-                      <tspan dx="60" dy="-30" class="text-bold text-sup">+</tspan>
-                    </text>
-                  </svg>
-                </div>
-                <small>проектів</small>
-              </div>
-            </div>
-            <div class="col-6 col-lg-4 counter">
-              <div class="counter-block">
-                <div class="svg-wrapper">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">50</tspan>
-                    </text>
-                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
-                      <tspan dx="63" dy="-60" class="text-bold text-sup">+</tspan>
-                    </text>
-                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
-                      <tspan dx="32" dy="-30" class="text-bold text-sup">+</tspan>
-                    </text>
-                  </svg>
-                </div>
-                <small>людей в команді</small>
-              </div>
-            </div>
-            <div class="col-6 col-lg-4 counter">
-              <div class="counter-block">
-                <div class="svg-wrapper">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">300</tspan>
-                    </text>
-                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
-                      <tspan dx="110" dy="-60" class="text-bold text-sup">+</tspan>
-                    </text>
-                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
-                      <tspan dx="60" dy="-30" class="text-bold text-sup">+</tspan>
-                    </text>
-                  </svg>
-                </div>
-                <small>сайтів</small>
-              </div>
-            </div>
-            <div class="col-6 col-lg-4 counter">
-              <div class="counter-block">
-                <div class="svg-wrapper">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">50</tspan>
-                    </text>
-                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
-                      <tspan dx="63" dy="-60" class="text-bold text-sup">+</tspan>
-                    </text>
-                    <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
-                      <tspan dx="32" dy="-30" class="text-bold text-sup">+</tspan>
-                    </text>
-                  </svg>
-                </div>
-                <small>нагород</small>
-              </div>
-            </div>
-            <div class="col-6 col-lg-4 counter">
-              <div class="counter-block">
-                <div class="svg-wrapper">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97" stroke-width="1" font-size="100" text-anchor="middle">
-                      <tspan class="text-bold">16</tspan>
-                    </text>
-                  </svg>
-                </div>
-                <small class="ml-0">років на ринку</small>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <?php include 'inc/_digits.php'; ?>
 
       <!-- REVIEWS -->
-      <div class="section">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="title-with-text">
-                <div class="title h2">Приєднуйтесь до найкращих</div>
-                <div class="text">Наше завдання - рекомендувати, а не сліпо слухати клієнта, знаходити разом найкращі рішення, створювати досконалі проекти - так як це роблять друзі, а не виконавці. Нехай за нас скажуть наші друзі, яких стає все більше.</div>
-              </div>
-            </div>
-            <div class="col-12">
-              <div class="swiper-entry reviews-slider">
-                <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 2, "autoHeight": true, "breakpoints": {"575": {"spaceBetween": 30}}}'>
-                  <div class="swiper-wrapper row">
-                    <div class="col-md-4 swiper-slide">
-                      <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/s7dQ8OSd9rQ?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
-                        <picture>
-                          <source srcset="img/review-img-1.webp" type="image/webp">
-                          <source srcset="img/review-img-1.jpg" type="image/jpg">
-                          <img src="img/review-img-1.jpg" alt="">
-                        </picture>
-                        <div class="review-btn">
-                          <i class="review-icon">play</i>
-                        </div>
-                      </div>
-                      <div class="review-title">INSPE</div>
-                      <div class="review-category">Стоматологічна компанія</div>
-                    </div>
-                    <div class="col-md-4 swiper-slide">
-                      <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/mi7AqJbTRAM?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
-                        <picture>
-                          <source srcset="img/review-img-2.webp" type="image/webp">
-                          <source srcset="img/review-img-2.jpg" type="image/jpg">
-                          <img src="img/review-img-2.jpg" alt="">
-                        </picture>
-                        <div class="review-btn">
-                          <i class="review-icon">play</i>
-                        </div>
-                      </div>
-                      <div class="review-title">!feST Holding Emotions</div>
-                      <div class="review-category">Ресторанна компанія</div>
-                    </div>
-                    <div class="col-md-4 swiper-slide">
-                      <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/5z2rIsRPOso?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
-                        <picture>
-                          <source srcset="img/review-img-3.webp" type="image/webp">
-                          <source srcset="img/review-img-3.jpg" type="image/jpg">
-                          <img src="img/review-img-3.jpg" alt="">
-                        </picture>
-                        <div class="review-btn">
-                          <i class="review-icon">play</i>
-                        </div>
-                      </div>
-                      <div class="review-title">Greenville</div>
-                      <div class="review-category">Девелоперська компанія</div>
-                    </div>
-                  </div>
-                  <div class="swiper-pagination swiper-pagination-relative"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <?php include 'inc/_reviews.php'; ?>
 
       <!-- CLIENTS -->
-      <div class="section">
-        <div class="container">
-          <div class="row">
-            <div class="swiper-entry clients-slider">
-              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 3, "autoHeight": true, "breakpoints": {"991": {"slidesPerView": 5},"575": {"slidesPerView": 3}}}'>
-                <div class="swiper-wrapper clients">
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-11.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-12.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-13.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-14.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-15.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-4.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-5.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-16.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-6.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-8.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-9.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-17.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-2.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-21.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/client-1.png" loading="lazy" alt=""></div>
-                  </div>
-                </div>
-                <div class="swiper-pagination swiper-pagination-relative"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="spacer-xl"></div>
-      </div>
+      <?php include 'inc/_clients.php'; ?>
 
       <!-- FORM -->
       <div class="section">

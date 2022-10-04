@@ -370,4 +370,16 @@ jQuery(function($) {
     }
   });
 
+  /* sorting */
+  $(document).on('click', '.sort-btn', function () {
+    $('.sort-nav').slideToggle();
+    $(this).toggleClass('active');
+  });
+
+  if (winW < 1200) {
+    $(document).on('click', '.js-sort-nav a', function () {
+      $(this).closest('.sort-nav').slideUp();
+    });
+  }
+
 });
