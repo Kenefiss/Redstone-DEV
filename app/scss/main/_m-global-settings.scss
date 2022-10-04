@@ -11,11 +11,13 @@
   --h-3: 46px;
   --h-4: 38px;
   --h-5: 26px;
-  --h-6: 20px;
+  --h-6: 22px;
 
 
   --clr-title: #232323;
   --clr-text: #424242;
+  --clr-text2: #959595;
+  --clr-plc: #626262;
 
 
   --clr-white: #ffffff;
@@ -24,6 +26,12 @@
   --clr-grey: #e1e1e1;
   --clr-grey2: #e4e4e4;
   --clr-grey3: #f8f8f8;
+  --clr-grey4: #DADADA;
+
+
+  --bg-black1: #252525;
+  --bg-black2: #202020;
+  --bg-black3: #181818;
 
 
   --transition-1: 0.3s;
@@ -137,7 +145,7 @@ html.overflow-visible #content-block {
 }
 
 .container-fluid {
-  padding-inline: clamp(15px, 2vw, 70px);
+  padding-inline: 70px;
 }
 
 @media (min-width: 1200px) {
@@ -169,6 +177,12 @@ html.overflow-visible #content-block {
     --h-2: 42px;
     --h-3: 34px;
     --h-4: 30px;
+    --h-5: 22px;
+    --h-6: 19px;
+  }
+
+  .container-fluid {
+    padding-inline: 50px;
   }
 
   .spacer-xl {
@@ -196,12 +210,22 @@ html.overflow-visible #content-block {
   }
 }
 
+@media (max-width: 1440px) {
+  .container-fluid {
+    padding-inline: 30px;
+  }
+}
+
 @media (max-width: 1199px) {
   :root {
     --h-1: 32px;
     --h-2: 24px;
     --h-3: 24px;
     --h-4: 30px;
+  }
+
+  .container-fluid {
+    padding-inline: 15px;
   }
 
   .container {

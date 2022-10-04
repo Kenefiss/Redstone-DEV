@@ -479,21 +479,23 @@
               <div class="ml-80">
                 <div class="h4 mb-25 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
                 <form method="post" class="ContactForm">
-                  <div class="row form-row">
-                      <div class="col-md-6 form-col">
-                          <input type="text" name="name" placeholder="Ваше ім’я" class="input">
-                      </div>
-                      <div class="col-md-6 form-col">
-                          <input type="tel" name="phone" placeholder="Ваш телефон" class="input">
-                      </div>
-                      <div class="col-12 form-col">
-                          <input type="email" name="email" id="email" placeholder="*Ваш email" class="input" required>
-                      </div>
-                      <div class="col-12 form-col">
-                          <textarea name="mess" placeholder="Коротко опишіть свій проект" class="input"></textarea>
-                      </div>
+                  <div class="form-block">
+                    <div class="input-field-wrapper w-50">
+                      <input class="input" placeholder="Ваше ім’я" type="text" name="name">
+                    </div>
+                    <div class="input-field-wrapper w-50">
+                      <input class="input" placeholder="Ваш телефон" type="tel" name="phone">
+                    </div>
+                    <div class="input-field-wrapper">
+                      <input class="input" placeholder="*Ваш email" type="email" name="email" id="email" required>
+                    </div>
+                    <div class="input-field-wrapper">
+                      <textarea class="input" placeholder="Коротко опишіть свій проект" name="mess"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                      <b>НАДІСЛАТИ</b>
+                    </button>
                   </div>
-                  <button type="submit" class="btn btn-primary">НАДІСЛАТИ</button>
                 </form>
               </div>
             </div>

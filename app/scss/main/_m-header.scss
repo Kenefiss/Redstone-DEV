@@ -42,4 +42,38 @@ header {
 
 .header-wrap-center {}
 
-.header-wrap-right {}
+.header-wrap-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-phone {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1em;
+  margin-right: 30px;
+  letter-spacing: .05em;
+  color: var(--clr-black);
+
+  svg {
+    margin-right: 10px;
+    color: inherit;
+
+    path {
+      fill: currentColor;
+      stroke: currentColor;
+    }
+  }
+
+  b {
+    margin-top: 1px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .header-phone:hover {
+    color: var(--clr-red);
+  }
+}
