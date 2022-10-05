@@ -1,8 +1,9 @@
 /*form*/
 .map-img {position: absolute;left: 0;top: 0;width: 66.316vw;z-index: -1;}
 /*seo*/
-.video {position: relative;background: #888;padding-top: 115%;overflow: hidden;}
+.video {position: relative;background: var(--clr-grey3);padding-bottom: 115%;overflow: hidden;}
 .video video {position: absolute;left: 50%;top: 50%;min-width: 100%;width: auto;min-height: 100%;height: auto;-webkit-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);-webkit-transition: var(--transition-2);transition: var(--transition-2);}
+.video-inner.fixed {position: fixed;top: 170px;width: inherit;height: inherit;padding-bottom: 0;}
 .signature {position: relative;margin-top: 120px;max-width: 380px;margin-left: auto;margin-right: -30px;}
 .seo-img {position: fixed;bottom: 0;right: calc(-100% - 30px);width: calc(100% - 80px);z-index: -100;}
 /*media*/

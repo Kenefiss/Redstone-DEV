@@ -25,6 +25,46 @@
             </div>
           </div>
           <div class="row">
+            <div class="col-12 col-md-6">
+              <div class="address">
+                <h5>Київ</h5>
+                <table>
+                  <tr>
+                    <td>Адреса:</td>
+                    <td><a href="#">м. Київ, вул. Вільшанська 8</a></td>
+                  </tr>
+                  <tr>
+                    <td>Телефон:</td>
+                    <td><a href="tel:+38 (098) 15 15 285">+38 (098) 15 15 285 </a></td>
+                  </tr>
+                  <tr>
+                    <td>Email:</td>
+                    <td><a href="mailto:office@redstone.agency">office@redstone.agency</a></td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <div class="address">
+                <h5>Львів</h5>
+                <table>
+                  <tr>
+                    <td>Адреса:</td>
+                    <td><a href="#">м. Львів, вул. Героїв УПА 73</a></td>
+                  </tr>
+                  <tr>
+                    <td>Телефон:</td>
+                    <td><a href="tel:+38 (098) 15 15 285">+38 (098) 15 15 285 </a></td>
+                  </tr>
+                  <tr>
+                    <td>Email:</td>
+                    <td><a href="mailto:office@redstone.agency">office@redstone.agency</a></td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div class="row">
             <div class="col-xl-5 offset-xl-7">
               <div class="ml-80">
                 <div class="title h5 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
