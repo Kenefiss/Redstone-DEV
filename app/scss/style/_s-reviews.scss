@@ -52,7 +52,6 @@
   position: absolute;
   left: 50%;
   top: 50%;
-  ;
   width: 120px;
   height: 120px;
   transform: translate(-50%, -50%);
@@ -158,6 +157,9 @@
 
   .review-icon:after {
     margin-left: 0;
+  }
+  .video-block {
+    margin: 0;
   }
 }
 

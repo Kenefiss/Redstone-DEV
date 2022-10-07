@@ -27,6 +27,7 @@
   --clr-grey2: #e4e4e4;
   --clr-grey3: #f8f8f8;
   --clr-grey4: #DADADA;
+  --clr-grey5: #989898;
 
 
   --bg-black1: #252525;
@@ -173,6 +174,10 @@ main>.section:first-child:not(.banner) {
     padding: 130px 0;
     margin-bottom: 130px;
   }
+  main > .section:first-child:not(.banner){
+    margin-top:70px;
+  }
+
 }
 
 @media (max-width: 1560px) {

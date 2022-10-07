@@ -41,6 +41,14 @@
   width: auto;
 }
 
+.clients-slider.size2 .swiper-slide{
+  flex: 1 1 12.5%;
+  max-width: 12.5%;
+}
+.clients-slider.size2 .client-img{
+  padding-bottom: 100%;
+}
+
 /*media*/
 @media(min-width:1200px) {
   .clients-slider .clients {
@@ -91,6 +99,11 @@
     flex: 0 0 auto;
     padding: 0;
     margin-bottom: 0;
+  }
+
+  .clients-slider.size2 .swiper-slide{
+    flex: 0 0 auto;
+    max-width: none;
   }
 }
 

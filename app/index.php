@@ -267,7 +267,7 @@
           <div class="row">
             <div class="col-xl-5 offset-xl-7">
               <div class="ml-80">
-                <div class="h4 mb-25 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
+                <div class="title h5 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
                 <form method="post" class="ContactForm">
                   <div class="form-block">
                     <div class="input-field-wrapper w-50">
@@ -321,11 +321,16 @@
                 <h2>Поки ви будуєте будинки — ми розбудовуємо ваш бренд та створюємо сайт</h2>
                 <p>Помітили, що інформації про надійність забудовника та якість матеріалів для продажу вже недостатньо? У нашому портфоліо 20+ розроблених сайтів для будівельних компаній. Із нашим сайтом ви не просто інформуєте про будівництво, а максимально спрощуєте шлях і мотивуєте потенційних покупців до того, щоб оселитися у вашому ЖК.</p>
               </div>
-              <div class="signature"><img src="img/signature.svg" loading="lazy" alt=""></div>
+              <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
+<<<<<<< HEAD
               <div class="video-wrap ml-80">
                 <div class="video" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
+=======
+              <div class="simple-page ml-80 fixed-block">
+                <div class="video video-inner" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
+>>>>>>> 1e4ebff3e791b73782da45d785aa1117798082e0
               </div>
             </div>
           </div>

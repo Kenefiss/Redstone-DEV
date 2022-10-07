@@ -70,6 +70,10 @@ select::-ms-expand {
   transition: var(--transition-1);
 }
 
+.input:focus, .input-field-wrapper.value .input{
+  border-bottom-color: #999;
+} 
+
 textarea.input {
   height: 90px;
   line-height: 1.5em;
@@ -83,10 +87,10 @@ textarea.input {
 .form-block {
   display: flex;
   flex-wrap: wrap;
-  margin: -30px -10px 0;
+  margin: 0 -10px;
 
   >* {
-    margin: 30px 10px 0;
+    margin: 20px 10px 0;
 
     &.w-50 {
       width: calc(50% - 20px);
@@ -100,7 +104,7 @@ textarea.input {
 
 @media (max-width: 575px) {
   .form-block {
-    margin: -20px 0 0;
+    margin: 0;
 
     >* {
       margin: 20px 0 0;
@@ -111,6 +115,9 @@ textarea.input {
 
       &:last-child:is(.btn) {
         margin-top: 40px;
+      }
+      &:first-child {
+        margin-top:0;
       }
     }
   }
