@@ -1,8 +1,11 @@
 /*--------------------*/
 /* - HEADER           */
 /*--------------------*/
-header {
+:root {
   --h-height: 130px;
+}
+
+header {
   height: var(--h-height);
 }
 
@@ -20,8 +23,6 @@ header {
   }
 }
 
-.container {}
-
 .header-wrap-inner {
   display: flex;
   align-items: center;
@@ -29,7 +30,10 @@ header {
   height: var(--h-height);
 }
 
-.header-wrap-left {}
+.header-wrap-left {
+  display: flex;
+  align-items: center;
+}
 
 .header-logo {
   max-width: 138px;
@@ -40,7 +44,99 @@ header {
   }
 }
 
-.header-wrap-center {}
+.btn-burger {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: var(--clr-black);
+  margin-left: 80px;
+  transition: var(--transition-1);
+}
+
+.burger {
+  position: relative;
+  display: inline-block;
+  width: 24px;
+  height: 14px;
+  color: currentColor;
+
+  i {
+    position: absolute;
+    left: 0;
+    top: 6px;
+    width: 100%;
+    height: 2px;
+    background-color: currentColor;
+    transition: var(--transition-1);
+  }
+
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 50%;
+    background-color: currentColor;
+    transition: var(--transition-1);
+  }
+
+  &::before {
+    top: 0;
+    left: 0;
+  }
+
+  &::after {
+    right: 0;
+    bottom: 0;
+  }
+}
+
+.burger-word {
+  margin-left: 20px;
+  margin-top: 3px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: currentColor;
+
+  b {
+    font-weight: inherit;
+    transition: var(--transition-1);
+
+    &:first-child {
+      display: block;
+    }
+
+    &:last-child {
+      opacity: 0;
+      visibility: hidden;
+    }
+  }
+}
+
+.header-wrap-center {
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 -30px -15px;
+  }
+
+  li {
+    margin: 0 30px 15px;
+  }
+
+  a {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.1em;
+    color: var(--clr-black);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+}
 
 .header-wrap-right {
   display: flex;
@@ -73,6 +169,25 @@ header {
 }
 
 @media (min-width: 1200px) {
+
+  .btn-burger:hover {
+    color: var(--clr-red);
+
+    .burger {
+
+      &::before,
+      &::after {
+        width: 100%;
+      }
+    }
+  }
+
+  .header-wrap-center {
+    a:hover {
+      color: var(--clr-red);
+    }
+  }
+
   .header-phone:hover {
     color: var(--clr-red);
   }

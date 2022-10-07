@@ -6,12 +6,19 @@
           <div class="header-logo">
             <img src="./img/logo.svg" alt="" loading="lazy">
           </div>
+          <div class="btn-burger">
+            <div class="burger"><i></i></div>
+            <div class="burger-word"><b>меню</b><b>закрити</b></div>
+          </div>
         </div>
-        <div class="header-wrap-center">
-          <nav>
-
-          </nav>
-        </div>
+        <nav class="header-wrap-center">
+          <ul>
+            <li><a href="#">Портфоліо</a></li>
+            <li><a href="#">АРР</a></li>
+            <li><a href="#">Брендінг</a></li>
+            <li><a href="#">Контакти</a></li>
+          </ul>
+        </nav>
         <div class="header-wrap-right">
           <a class="header-phone" href="tel:+380676075784">
             <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -27,7 +34,7 @@
       </div>
     </div>
   </div>
+  <div class="header-menu">
 
-
-
+  </div>
 </header>

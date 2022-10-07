@@ -247,7 +247,15 @@
 
       <!-- FORM -->
       <div class="section">
-        <div class="map-img d-none d-xl-block"><img src="img/map.png" loading="lazy" alt=""></div>
+        <div class="map-img">
+          <!-- <picture>
+            <source srcset="img/map.webp" type="image/webp">
+            <source srcset="img/map.png" type="image/png">
+            <img src="img/map.png" alt="" loading="lazy">
+          </picture> -->
+
+          <img src="img/map.png" alt="">
+        </div>
         <div class="container">
           <div class="row">
             <div class="col-12">
@@ -316,7 +324,7 @@
               <div class="signature"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
-              <div class="simple-page ml-80">
+              <div class="video-wrap ml-80">
                 <div class="video" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
               </div>
             </div>

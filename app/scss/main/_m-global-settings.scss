@@ -53,7 +53,7 @@ body {
 }
 
 #content-block {
-  overflow: hidden;
+  // overflow: hidden;
   position: relative;
   min-height: 100vh;
   display: flex;
@@ -78,8 +78,8 @@ html.overflow-visible #content-block {
   overflow: visible;
 }
 
-main > .section:first-child:not(.banner){
-  margin-top:100px;
+main>.section:first-child:not(.banner) {
+  margin-top: 100px;
 }
 
 .section {
@@ -243,8 +243,9 @@ main > .section:first-child:not(.banner){
   .section.inner-padd {
     margin-bottom: 50px;
   }
-  main > .section:first-child:not(.banner){
-    margin-top:30px;
+
+  main>.section:first-child:not(.banner) {
+    margin-top: 30px;
   }
 }
 
