@@ -15,8 +15,8 @@
 
 .video {
   position: relative;
-  background: #888;
-  padding-top: 115%;
+  background: var(--clr-grey3);
+  padding-bottom: 115%;
   overflow: hidden;
 }
 
@@ -28,9 +28,7 @@
   width: auto;
   min-height: 100%;
   height: 100%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  -webkit-transition: var(--transition-2);
   transition: var(--transition-2);
 }
 
@@ -42,7 +40,14 @@
   margin-right: -30px;
 }
 
-/*seo*/
+.signature {
+  position: relative;
+  margin-top: 120px;
+  max-width: 380px;
+  margin-left: auto;
+  margin-right: -30px;
+}
+
 .seo-img {
   position: fixed;
   bottom: 0;

@@ -324,14 +324,13 @@
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
+              <div class="video-wrap ml-80">
                 <div class="video" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
               </div>
             </div>
           </div>
           <div class="spacer-xl"></div>
         </div>
-      </div>
 
     </main>
 
