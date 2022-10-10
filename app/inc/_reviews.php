@@ -3,11 +3,11 @@
     <div class="row">
       <div class="col-12">
         <div class="title-with-text">
-          <div class="title h2">Нам довіряють корпорації, а також стартапи</div>
+          <div class="title h2 animate-item fadeInUp">Нам довіряють корпорації, а також стартапи</div>
         </div>
       </div>
       <div class="col-12">
-        <div class="swiper-entry reviews-slider">
+        <div class="swiper-entry reviews-slider animate-item fadeInUp delay-1">
           <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 2, "autoHeight": true, "breakpoints": {"575": {"spaceBetween": 30}}}'>
             <div class="swiper-wrapper row">
               <div class="col-md-4 swiper-slide">

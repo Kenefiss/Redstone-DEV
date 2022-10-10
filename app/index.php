@@ -58,14 +58,14 @@
       <div id="content" class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2">Ефектні та ефективні веб і мобайл рішення із зануренням у ваш бізнес</div>
-                <div class="text">Ми знаємо болі у Вашій ніші! У нашому арсеналі є всі інструменти для їх вирішення: аналіз, брендинг, розробка сайту, створення app і технічна підтримка.</div>
+                <div class="title h2 animate-item fadeInUp">Ефектні та ефективні веб і мобайл рішення із зануренням у ваш бізнес</div>
+                <div class="text animate-item fadeInUp delay-1">Ми знаємо болі у Вашій ніші! У нашому арсеналі є всі інструменти для їх вирішення: аналіз, брендинг, розробка сайту, створення app і технічна підтримка.</div>
               </div>
             </div>
           </div>
-          <div class="row categories">
+          <div class="row categories animate-item fadeInUp delay-2">
             <div class="col-6 col-sm-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">Доставка їжі</span>
@@ -172,12 +172,12 @@
           <div class="row">
             <div calss="col-12">
               <div class="title-with-text">
-                <div class="title h2">Ми даємо більше, ніж Ви очікуєте, бо шукаємо рішення, яке працює на 100%</div>
-                <div class="text">Сфокусуйте свої зусилля на тому, що ви робите найкраще. Все що зв’язано з оцифруванням бізнесу залиште для <span>REDSTONE</span>. Щоб ви отримали послугу повного циклу, над розробкою сайтів у команді <span>REDSTONE</span> працює понад 50 фахівців.</div>
+                <div class="title h2 animate-item fadeInUp">Ми даємо більше, ніж Ви очікуєте, бо шукаємо рішення, яке працює на 100%</div>
+                <div class="text animate-item fadeInUp delay-1">Сфокусуйте свої зусилля на тому, що ви робите найкраще. Все що зв’язано з оцифруванням бізнесу залиште для <span>REDSTONE</span>. Щоб ви отримали послугу повного циклу, над розробкою сайтів у команді <span>REDSTONE</span> працює понад 50 фахівців.</div>
               </div>
             </div>
           </div>
-          <div class="row services-wrapp">
+          <div class="row services-wrapp animate-item fadeInUp delay-2">
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">Веб Сайти</div>
               <ul>
@@ -260,13 +260,13 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2">Давайте рухати світ разом!</div>
+                <div class="title h2 animate-item fadeInUp">Давайте рухати світ разом!</div>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="col-xl-5 offset-xl-7">
-              <div class="ml-80">
+              <div class="ml-80 animate-item fadeInUp delay-1">
                 <div class="title h5 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
                 <form method="post" class="ContactForm">
                   <div class="form-block">
@@ -299,8 +299,8 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin">16 років <b>створення і розробки сайтів</b></h1>
-              <div class="simple-page text text-sm">
+              <h1 class="title h2 title-margin animate-item fadeInUp">16 років <b>створення і розробки сайтів</b></h1>
+              <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>На сьогоднішній день будь-який вид бізнесу має своє представництво в всесвітній мережі. Ним безперечно являється сучасний, повноцінний сайт. З допомогою інтернет ресурсів можна активно здійснювати реалізацію товарів в режимі онлайн, рекламу послуг компанії та її продукції. Якісне створення сайтів являється основним видом діяльності нашої веб студії.</p>
                 <p>Це досить складне завдання виконати яке буде не під силу людині, що не володіє основами веб розробки. Тому за подібну роботу беруться лише справжні професіонали з відповідною кваліфікацією та досвідом в даній галузі.</p>
                 <h2>Етапи створення і розробки сайтів:</h2>
@@ -324,18 +324,13 @@
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
-<<<<<<< HEAD
-              <div class="video-wrap ml-80">
+              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
                 <div class="video" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
-=======
-              <div class="simple-page ml-80 fixed-block">
-                <div class="video video-inner" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
->>>>>>> 1e4ebff3e791b73782da45d785aa1117798082e0
               </div>
             </div>
           </div>
+          <div class="spacer-xl"></div>
         </div>
-        <div class="spacer-xl"></div>
       </div>
 
     </main>

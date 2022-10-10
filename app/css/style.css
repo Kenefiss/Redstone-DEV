@@ -1,20 +1,21 @@
-/*form*/
+/*-----------------*/
+/* - Animation     */
+/*-----------------*/
+.fadeInUp {opacity: 0;-webkit-backface-visibility: hidden;backface-visibility: hidden;-webkit-transform: translateY(100px);transform: translateY(100px);-webkit-transition: opacity 0.3s,-webkit-transform 0.4s linear;transition: opacity 0.3s,-webkit-transform 0.4s linear;transition: opacity 0.3s,transform 0.4s linear;transition: opacity 0.3s,transform 0.4s linear,-webkit-transform 0.4s linear;}
+.loaded .animate-item.fadeInUp.animated {opacity: 1;-webkit-transform: translateY(0%);transform: translateY(0%);}
+.loaded .animate-item.delay-1 {-webkit-transition-delay: 0.2s;transition-delay: 0.2s;}
+.loaded .animate-item.delay-2 {-webkit-transition-delay: 0.3s;transition-delay: 0.3s;}
+.loaded .animate-item.delay-2 {-webkit-transition-delay: 0.4s;transition-delay: 0.4s;}
+@media (max-width: 767px) {
+.fadeInUp {-webkit-transform: translateY(50px);transform: translateY(50px);}
+}
 .map-img {position: absolute;left: 0;top: 0;width: 66.316vw;z-index: -1;}
-.video-wrap {position: sticky;top: calc(var(--h-height) + 30px);}
+.video-wrap {position: sticky;top: calc(var(--h-height) + 30px);will-change: scroll-position;-webkit-backface-visibility: hidden;backface-visibility: hidden;}
 .video {position: relative;background: #888;padding-top: 115%;overflow: hidden;}
-.video video {position: absolute;left: 50%;top: 50%;min-width: 100%;width: auto;min-height: 100%;height: auto;-webkit-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);-webkit-transition: var(--transition-2);transition: var(--transition-2);}
+.video video {position: absolute;left: 50%;top: 50%;min-width: 100%;width: auto;min-height: 100%;height: 100%;-webkit-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);-webkit-transition: var(--transition-2);transition: var(--transition-2);}
 .signature {position: relative;margin-top: 120px;max-width: 380px;margin-left: auto;margin-right: -30px;}
 /*seo*/
-.video {position: relative;background: var(--clr-grey3);padding-bottom: 115%;overflow: hidden;}
-.video video {position: absolute;left: 50%;top: 50%;min-width: 100%;width: auto;min-height: 100%;height: auto;-webkit-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);-webkit-transition: var(--transition-2);transition: var(--transition-2);}
-.video-inner.fixed {position: fixed;top: 170px;width: inherit;height: inherit;padding-bottom: 0;}
-.signature {position: relative;margin-top: 120px;max-width: 380px;margin-left: auto;margin-right: -30px;}
-.seo-img {position: fixed;bottom: 0;right: calc(-100% - 30px);width: calc(100% - 80px);z-index: -100;}
-/*media*/
-@media (min-width: 1200px) {
-.ml-80 {margin-left: 80px;}
-}
-.seo-img {position: fixed;bottom: 0;right: calc(-100% - 30px);width: calc(100% - 80px);z-index: -100;}
+.seo-img {position: fixed;bottom: 0;right: calc(-100% - 30px);width: calc(100% - 80px);z-index: -100;display: none;}
 /*media*/
 @media (min-width: 1200px) {
 .ml-80 {margin-left: 80px;}
