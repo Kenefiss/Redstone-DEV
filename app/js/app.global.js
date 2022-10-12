@@ -219,6 +219,19 @@ jQuery(function($) {
     document.querySelector('header').classList.toggle('open-menu');
   });
 
+  document.querySelectorAll('.has-submenu b').forEach(item => {
+    item.addEventListener('click', function() {
+      this.closest('.has-submenu').classList.add('active');
+    });
+  })
+
+  document.querySelectorAll('.submenu-close').forEach(item => {
+    item.addEventListener('click', function() {
+      this.closest('.has-submenu').classList.remove('active');
+    });
+  })
+
+
 
   //*============
   //* 05 POPUPS =
