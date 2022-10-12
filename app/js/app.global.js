@@ -107,6 +107,36 @@ jQuery(function($) {
     }, false);
   }
 
+
+  // Animation
+  const animateBlock = document.querySelectorAll('.animate-item');
+
+  const observerOptions = {
+    root: null,
+    threshold: 0,
+    rootMargin: (window.innerWidth > 767) ? "-70px" : "-30px"
+  };
+
+  const observerFunction = new IntersectionObserver(function(entries, observer) {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      // console.log(entry.target)
+      entry.target.classList.add('animated')
+      observer.unobserve(entry.target)
+    })
+
+  }, observerOptions);
+
+
+  animateBlock.forEach(block => {
+    observerFunction.observe(block)
+  });
+
+
+
+
+
+
   //*============
   //* 03 SWIPER =
   //*============
@@ -178,14 +208,16 @@ jQuery(function($) {
   //* 04 HEADER =
   //*============
   /* Open menu */
-  $(document).on('click', '.hamburger', function() {
-    _functions.scrollWidth();
-    $(this).toggleClass('is-active');
-    $('html').toggleClass('overflow-menu');
-    $(this).parents('header').toggleClass('open-menu');
-    $(this).closest('header').removeClass('open-search');
-    $(this).closest('header').find('.h-second').removeClass('active')
-    $('html').removeClass('open-second-menu');
+  // $(document).on('click', '.btn-burger', function() {
+  //   $(this).toggleClass('is-active');
+  //   $('html').toggleClass('overflow-menu');
+  //   $(this).parents('header').toggleClass('open-menu');
+  // });
+
+  document.querySelector('.btn-burger').addEventListener('click', function() {
+    this.classList.toggle('is-active');
+    document.querySelector('html').classList.toggle('overflow-menu');
+    document.querySelector('header').classList.toggle('open-menu');
   });
 
 

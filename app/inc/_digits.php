@@ -3,12 +3,12 @@
     <div class="row">
       <div calss="col-12">
         <div class="title-with-text">
-          <div class="title h2 color-white">REDSTONE у цифрах</div>
-          <div class="text color-2">Задачі з зірочкою наш профіль - вирішуючи їх неодноразово, ми отримували нагороди в Україні та Світі. Команда <span>REDSTONE</span> - завжди готова до нових викликів</div>
+          <div class="title h2 color-white animate-item fadeInUp">REDSTONE у цифрах</div>
+          <div class="text color-2 animate-item fadeInUp delay-1">Задачі з зірочкою наш профіль - вирішуючи їх неодноразово, ми отримували нагороди в Україні та Світі. Команда <span>REDSTONE</span> - завжди готова до нових викликів</div>
         </div>
       </div>
     </div>
-    <div class="row counters justify-content-center justify-content-lg-start">
+    <div class="row counters justify-content-center justify-content-lg-start animate-item fadeInUp delay-2">
       <div class="col-6 col-lg-4 counter">
         <div class="counter-block">
           <div class="svg-wrapper">
