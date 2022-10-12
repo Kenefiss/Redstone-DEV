@@ -19,7 +19,7 @@
           <div class="row">
             <div calss="col-12">
               <div class="title-with-text">
-                <div class="title page-title h2">Блог</div>
+                <div class="title page-title h2">Наше портфоліо</div>
                 <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни</div>
               </div>
               <div class="sort-wrapp js-sort-nav">

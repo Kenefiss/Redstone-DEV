@@ -17,9 +17,9 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+          <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="title-with-text">
-                <div class="title page-title h2">Блог</div>
+                <div class="title page-title h2">Тренди веб-дизайну у 2019 році</div>
               </div>
             </div>
           </div>

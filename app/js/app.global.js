@@ -75,6 +75,7 @@ jQuery(function($) {
   /* Function on page scroll */
   $(window).on('scroll', function() {
     _functions.scrollCall();
+    _functions.yearScroll();
   });
 
   var prev_scroll = 0;
@@ -371,5 +372,16 @@ jQuery(function($) {
       $(this).closest('.sort-nav').slideUp();
     });
   }
+
+    /* chnage year after scroll */
+    _functions.yearScroll = function () {
+      if (!$('.year-row').length || winW < 1200) return false;
+  
+      $('.year-row').each(function (i) {
+        if ($(this).offset().top - 120 <= winScr && $(this).data('year') !== $('.year-to-change').text()) {
+          $('.year-to-change').text($(this).data('year'));
+        }
+      });
+    }
 
 });
