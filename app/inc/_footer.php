@@ -84,9 +84,9 @@
       <div class="d-none d-lg-block">
         У вас є цікавий проект, давай втілимо його<br>в реальність
       </div>
-      <button class="btn btn-secondary open-popup" type="button" data-rel="">
+      <a href="documents/REDSTONE Brief Marketing - Corporate.doc" download class="btn btn-secondary">
         <b>ЗАПОВНИТИ БРИФ</b>
-      </button>
+      </a>
     </div>
   </div>
 

@@ -19,7 +19,7 @@
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
-                <div class="title h1">Сайти <b>.</b> Арр <b>.</b> Брендінг - Робимо складне простим</div>
+                <div class="title h1">Сайти <b>.</b> Арр <b>.</b> Брендинг - Робимо складне простим</div>
                 <a href="#" class="btn btn-primary">
                   <b>НАШІ РОБОТИ</b>
                 </a>
@@ -83,12 +83,12 @@
             </div>
             <div class="col-6 col-sm-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Будівництво</span>
+                <span class="category-title">Інтернет-магазини</span>
                 <span class="category-img">
                   <picture>
-                    <source srcset="img/category-img-6.webp" type="image/webp">
-                    <source srcset="img/category-img-6.png" type="image/png">
-                    <img src="img/category-img-6.png" alt="">
+                    <source srcset="img/category-img-8.webp" type="image/webp">
+                    <source srcset="img/category-img-8.png" type="image/png">
+                    <img src="img/category-img-8.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -113,12 +113,12 @@
             </div>
             <div class="col-6 col-sm-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Фінанси</span>
+                <span class="category-title">Експрес рішення</span>
                 <span class="category-img">
                   <picture>
-                    <source srcset="img/category-img-4.webp" type="image/webp">
-                    <source srcset="img/category-img-4.png" type="image/png">
-                    <img src="img/category-img-4.png" alt="">
+                    <source srcset="img/category-img-9.webp" type="image/webp">
+                    <source srcset="img/category-img-9.png" type="image/png">
+                    <img src="img/category-img-9.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -225,11 +225,11 @@
               </ul>
             </div>
             <div class="col-6 col-md-4 service-item">
-              <button type="button" class="round-btn open-popup">
+              <a href="documents/REDSTONE Brief Marketing - Corporate.doc" download class="round-btn">
                 <span class="circle"></span>
                 <span class="name">ЗАПОВНИТИ <br> БРИФ<svg width="24" height="17" fill="none" xmlns="http://www.w3.org/2000/svg" class="arr">
                     <path d="M15.568 0L24 8.5 15.568 17l-1.73-1.744 5.405-5.448H0V7.192h19.243l-5.405-5.448L15.568 0z" /></svg></span>
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -248,12 +248,6 @@
       <!-- FORM -->
       <div class="section">
         <div class="map-img">
-          <!-- <picture>
-            <source srcset="img/map.webp" type="image/webp">
-            <source srcset="img/map.png" type="image/png">
-            <img src="img/map.png" alt="" loading="lazy">
-          </picture> -->
-
           <img src="img/map.png" alt="">
         </div>
         <div class="container">
