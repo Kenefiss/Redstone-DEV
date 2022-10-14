@@ -210,7 +210,7 @@ header {height: var(--h-height);}
 .submenu-close:hover {background-color: var(--clr-red);border-color: var(--clr-red);}
 .submenu-close:hover i {color: var(--clr-white);}
 }
-@media (max-width: 1440px) {
+@media (max-width: 1560px) {
 :root {--h-height: 80px;}
 .header-logo {width: 140px;}
 .header-logo img {width: 140px;}
