@@ -23,7 +23,7 @@
       </div>
       <div class="col-xl-5 d-none d-xl-block">
         <div class="simple-page ml-80">
-          <div class="video" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
+          <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
         </div>
       </div>
     </div>

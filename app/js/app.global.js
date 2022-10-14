@@ -389,23 +389,6 @@ jQuery(function($) {
     }, 700);
   });
 
-  /* video */
-  $('.video').each(function() {
-    var videoSrc = (mobileSrc) ? $(this).data('mobile-src') : $(this).data('src');
-    var video = '<video class="active" ' + ($(this).is('[data-autoplay]') ? 'autoplay' : '') + ' muted loop disablePictureInPicture playsinline controlsList="nodownload"><source src="' + videoSrc + '" type="video/mp4" /></video>';
-    if ($(this).is('[data-fullscreen]')) video += '</div>';
-    $(this).html(video);
-    $(this).find('video')[0].oncanplay = function() {
-      $(this).removeClass('active');
-    };
-    if ($(this).is('[data-fullscreen]')) {
-      $(this).on('click', function() {
-        var element = $(this).find('video')[0];
-        _functions.videoFullScreen(element);
-      });
-    }
-  });
-
   /* sorting */
   $(document).on('click', '.sort-btn', function() {
     $('.sort-nav').slideToggle();
@@ -418,15 +401,15 @@ jQuery(function($) {
     });
   }
 
-    /* chnage year after scroll */
-    _functions.yearScroll = function () {
-      if (!$('.year-row').length || winW < 1200) return false;
-  
-      $('.year-row').each(function (i) {
-        if ($(this).offset().top - 120 <= winScr && $(this).data('year') !== $('.year-to-change').text()) {
-          $('.year-to-change').text($(this).data('year'));
-        }
-      });
-    }
+  /* chnage year after scroll */
+  _functions.yearScroll = function () {
+    if (!$('.year-row').length || winW < 1200) return false;
+
+    $('.year-row').each(function (i) {
+      if ($(this).offset().top - 120 <= winScr && $(this).data('year') !== $('.year-to-change').text()) {
+        $('.year-to-change').text($(this).data('year'));
+      }
+    });
+  }
 
 });
