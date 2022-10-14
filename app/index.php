@@ -15,7 +15,7 @@
 
       <!-- BANNER -->
       <div class="section banner main-banner">
-        <div class="container full-height">
+        <div class="container full-height"> 
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
@@ -238,6 +238,9 @@
 
       <!-- DIGITS -->
       <?php include 'inc/_digits.php'; ?>
+
+      <!-- REVIEWS TEXT BLOCK -->
+      <?php include 'inc/_reviews2.php'; ?>
 
       <!-- REVIEWS -->
       <?php include 'inc/_reviews.php'; ?>
