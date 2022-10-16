@@ -211,7 +211,7 @@ header {height: var(--h-height);}
 .submenu-close:hover {background-color: var(--clr-red);border-color: var(--clr-red);}
 .submenu-close:hover i {color: var(--clr-white);}
 }
-@media (max-width: 1440px) {
+@media (max-width: 1560px) {
 :root {--h-height: 80px;}
 .header-logo {width: 140px;}
 .header-logo img {width: 140px;}
@@ -458,6 +458,7 @@ h6,
 .title-with-text .text {-webkit-box-flex: 1;-ms-flex: 1;flex: 1;margin-left: 9%;}
 .title-with-text .text span {color: var(--clr-red);font-weight: 400;}
 .title-with-text .text.color-2 span {color: var(--clr-white);}
+.title-with-text.no-align {display: block;}
 .sub-title {position: relative;letter-spacing: 0.05em;font-weight: 300;font-size: 24px;line-height: 1.4;color: var(--clr-text);text-transform: uppercase;}
 /*media*/
 @media (min-width: 1200px) {

@@ -150,7 +150,6 @@ jQuery(function($) {
       } else {
         _functions.smoothScroll(event, link_href)
       }
-
     });
   }
 
@@ -159,13 +158,7 @@ jQuery(function($) {
 
     const targetId = link === "#" ? "header" : link;
     const targetPosition = document.querySelector(targetId).offsetTop - document.querySelector('header').offsetHeight - 30;
-
-    console.log(targetPosition)
-
     const startPosition = window.pageYOffset;
-
-    console.log(startPosition)
-
     const distance = targetPosition - startPosition;
     const duration = 1000;
     let start = null;
@@ -319,9 +312,6 @@ jQuery(function($) {
 
 
 
-
-
-
   //*=======================
   //* 06 INPUTS, KEY FOCUS =
   //*=======================
@@ -433,6 +423,7 @@ jQuery(function($) {
       scrollTop: $("#content").offset().top - $('header').outerHeight() - 50
     }, 700);
   });
+
 
   /* sorting */
   $(document).on('click', '.sort-btn', function() {

@@ -15,7 +15,7 @@
 
       <!-- BANNER -->
       <div class="section banner main-banner">
-        <div class="container full-height">
+        <div class="container full-height"> 
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
@@ -71,9 +71,9 @@
                 <span class="category-title">Доставка їжі</span>
                 <span class="category-img">
                   <picture>
-                    <source srcset="img/category-img-1.webp" type="image/webp">
-                    <source srcset="img/category-img-1.png" type="image/png">
-                    <img src="img/category-img-1.png" alt="">
+                    <source srcset="img/category-img-10.webp" type="image/webp">
+                    <source srcset="img/category-img-10.png" type="image/png">
+                    <img src="img/category-img-10.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -83,12 +83,12 @@
             </div>
             <div class="col-6 col-sm-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Будівництво</span>
+                <span class="category-title">Інтернет-магазини</span>
                 <span class="category-img">
                   <picture>
-                    <source srcset="img/category-img-6.webp" type="image/webp">
-                    <source srcset="img/category-img-6.png" type="image/png">
-                    <img src="img/category-img-6.png" alt="">
+                    <source srcset="img/category-img-8.webp" type="image/webp">
+                    <source srcset="img/category-img-8.png" type="image/png">
+                    <img src="img/category-img-8.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -113,12 +113,12 @@
             </div>
             <div class="col-6 col-sm-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Фінанси</span>
+                <span class="category-title">Експрес рішення</span>
                 <span class="category-img">
                   <picture>
-                    <source srcset="img/category-img-4.webp" type="image/webp">
-                    <source srcset="img/category-img-4.png" type="image/png">
-                    <img src="img/category-img-4.png" alt="">
+                    <source srcset="img/category-img-9.webp" type="image/webp">
+                    <source srcset="img/category-img-9.png" type="image/png">
+                    <img src="img/category-img-9.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -160,6 +160,118 @@
           <div class="text-center">
             <a class="btn btn-primary" href="#">
               <b>ПЕРЕГЛЯНУТИ ВСІ РОБОТИ</b>
+            </a>
+          </div>
+        </div>
+        <div class="spacer-xl"></div>
+      </div>
+
+      <!-- CATEGORIES EN -->
+      <div id="content" class="section">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="title-with-text">
+                <div class="title h2 animate-item fadeInUp">Effective and efficient web and mobile solutions with immersion in your business</div>
+                <div class="text animate-item fadeInUp delay-1">We know the pain points in your niche! Our arsenal has all the tools to solve them: analysis, branding, website development, app creation and technical support.</div>
+              </div>
+            </div>
+          </div>
+          <div class="row categories animate-item fadeInUp delay-2">
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">WEB Service</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-11.webp" type="image/webp">
+                    <source srcset="img/category-img-11.png" type="image/png">
+                    <img src="img/category-img-11.png" alt="">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">APP</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-5.webp" type="image/webp">
+                    <source srcset="img/category-img-5.png" type="image/png">
+                    <img src="img/category-img-5.png" alt="">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">MVP</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-12.webp" type="image/webp">
+                    <source srcset="img/category-img-12.png" type="image/png">
+                    <img src="img/category-img-12.png" alt="">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Online stores</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-8.webp" type="image/webp">
+                    <source srcset="img/category-img-8.png" type="image/png">
+                    <img src="img/category-img-8.png" alt="">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Auto</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-7.webp" type="image/webp">
+                    <source srcset="img/category-img-7.png" type="image/png">
+                    <img src="img/category-img-7.png" alt="">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-sm-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Branding</span>
+                <span class="category-img">
+                  <picture>
+                    <source srcset="img/category-img-3.webp" type="image/webp">
+                    <source srcset="img/category-img-3.png" type="image/png">
+                    <img src="img/category-img-3.png" alt="">
+                  </picture>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="text-center">
+            <a class="btn btn-primary" href="#">
+              <b>View all projects</b>
             </a>
           </div>
         </div>
@@ -225,11 +337,11 @@
               </ul>
             </div>
             <div class="col-6 col-md-4 service-item">
-              <button type="button" class="round-btn open-popup">
+              <a href="documents/REDSTONE Brief Marketing - Corporate.doc" download class="round-btn">
                 <span class="circle"></span>
                 <span class="name">ЗАПОВНИТИ <br> БРИФ<svg width="24" height="17" fill="none" xmlns="http://www.w3.org/2000/svg" class="arr">
                     <path d="M15.568 0L24 8.5 15.568 17l-1.73-1.744 5.405-5.448H0V7.192h19.243l-5.405-5.448L15.568 0z" /></svg></span>
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -238,6 +350,9 @@
 
       <!-- DIGITS -->
       <?php include 'inc/_digits.php'; ?>
+
+      <!-- REVIEWS TEXT BLOCK -->
+      <?php include 'inc/_reviews2.php'; ?>
 
       <!-- REVIEWS -->
       <?php include 'inc/_reviews.php'; ?>
@@ -248,12 +363,6 @@
       <!-- FORM -->
       <div class="section" id="contact">
         <div class="map-img">
-          <!-- <picture>
-            <source srcset="img/map.webp" type="image/webp">
-            <source srcset="img/map.png" type="image/png">
-            <img src="img/map.png" alt="" loading="lazy">
-          </picture> -->
-
           <img src="img/map.png" alt="">
         </div>
         <div class="container">
@@ -324,10 +433,16 @@
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
+<<<<<<< HEAD
               <div class="video-wrap ml-80">
                 <div class="video">
                   <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
                 </div>
+=======
+            <div class="video-wrap ml-80">
+              <div class="video">
+                <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+>>>>>>> 4f12602beb72195c729252436570ce607d8a6502
               </div>
             </div>
           </div>

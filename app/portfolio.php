@@ -38,7 +38,7 @@
               </div>
             </div>
           </div>
-          <div class="row categories">
+          <div class="row categories animate-item fadeInUp delay-2">
             <div class="col-6 col-sm-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">Доставка їжі</span>
@@ -56,12 +56,12 @@
             </div>
             <div class="col-6 col-sm-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Будівництво</span>
+                <span class="category-title">Інтернет-магазини</span>
                 <span class="category-img">
                   <picture>
-                    <source srcset="img/category-img-6.webp" type="image/webp">
-                    <source srcset="img/category-img-6.png" type="image/png">
-                    <img src="img/category-img-6.png" alt="">
+                    <source srcset="img/category-img-8.webp" type="image/webp">
+                    <source srcset="img/category-img-8.png" type="image/png">
+                    <img src="img/category-img-8.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -86,12 +86,12 @@
             </div>
             <div class="col-6 col-sm-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Фінанси</span>
+                <span class="category-title">Експрес рішення</span>
                 <span class="category-img">
                   <picture>
-                    <source srcset="img/category-img-4.webp" type="image/webp">
-                    <source srcset="img/category-img-4.png" type="image/png">
-                    <img src="img/category-img-4.png" alt="">
+                    <source srcset="img/category-img-9.webp" type="image/webp">
+                    <source srcset="img/category-img-9.png" type="image/png">
+                    <img src="img/category-img-9.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
