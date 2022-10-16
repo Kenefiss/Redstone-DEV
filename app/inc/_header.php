@@ -17,7 +17,7 @@
             <li><a href="#">Портфоліо</a></li>
             <li><a href="#">АРР</a></li>
             <li><a href="#">Брендінг</a></li>
-            <li><a href="#">Контакти</a></li>
+            <li><a href="#footer">Контакти</a></li>
           </ul>
         </nav>
         <div class="header-wrap-right">
@@ -28,9 +28,9 @@
             </svg>
             <b>+38 067 607 57 84</b>
           </a>
-          <div class="btn open-popup d-none d-lg-block" data-rel="">
+          <a class="btn d-none d-lg-block" href="#contact">
             <b>Задати запитання</b>
-          </div>
+          </a>
         </div>
         <div class="header-menu">
           <div class="header-menu-left">
@@ -41,9 +41,9 @@
                   <li><a href="../en/">ENG</a></li>
                   <li><a href="../ru/">РУС</a></li>
                 </ul>
-                <button type="button" class="btn h-btn d-lg-none open-popup" data-rel="">
+                <a class="btn h-btn d-lg-none" href="#contact">
                   <b>Задати запитання</b>
-                </button>
+                </a>
                 <nav class="header-mega-menu" style="--items: 4;">
                   <ul>
                     <li><a href="#">АРР</a></li>

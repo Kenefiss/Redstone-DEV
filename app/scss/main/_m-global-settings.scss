@@ -51,6 +51,7 @@ html.keyboard-focus:focus {
 body {
   height: auto;
   background-color: var(--clr-white);
+  scroll-behavior: smooth;
 }
 
 #content-block {
@@ -174,10 +175,10 @@ main>.section:first-child:not(.banner) {
     padding: 130px 0;
     margin-bottom: 130px;
   }
-  main > .section:first-child:not(.banner){
-    margin-top:70px;
-  }
 
+  main>.section:first-child:not(.banner) {
+    margin-top: 70px;
+  }
 }
 
 @media (max-width: 1560px) {
@@ -231,6 +232,10 @@ main>.section:first-child:not(.banner) {
     --h-2: 24px;
     --h-3: 24px;
     --h-4: 30px;
+  }
+
+  #content-block {
+    overflow: hidden;
   }
 
   .container-fluid {

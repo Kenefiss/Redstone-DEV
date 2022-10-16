@@ -19,7 +19,7 @@
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
-                <div class="title h1">Сайти <b>.</b> Арр <b>.</b> Брендінг - Робимо складне простим</div>
+                <div class="title h1">Сайти <b>.</b> Арр <b>.</b> Брендинг - Робимо складне простим</div>
                 <a href="#" class="btn btn-primary">
                   <b>НАШІ РОБОТИ</b>
                 </a>
@@ -246,7 +246,7 @@
       <?php include 'inc/_clients.php'; ?>
 
       <!-- FORM -->
-      <div class="section">
+      <div class="section" id="contact">
         <div class="map-img">
           <!-- <picture>
             <source srcset="img/map.webp" type="image/webp">
@@ -325,7 +325,9 @@
             </div>
             <div class="col-xl-5 d-none d-xl-block">
               <div class="video-wrap ml-80">
-                <div class="video" data-src="video/video.mp4" data-mobile-src="video/video.mp4" data-autoplay data-fullscreen="Watch full screen"></div>
+                <div class="video">
+                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                </div>
               </div>
             </div>
           </div>

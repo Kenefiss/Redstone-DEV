@@ -1,5 +1,4 @@
-<footer itemscope itemtype="http://schema.org/Organization">
-  <!-- itemscope itemtype="http://schema.org/Organization" -->
+<footer itemscope itemtype="http://schema.org/Organization" id="footer">
   <meta itemprop="url" content="https://redstone.media/">
   <meta itemprop="logo" content="https://redstone.media/logo.svg">
   <meta itemprop="name" content="Redstone">
@@ -44,6 +43,46 @@
       </div>
       <div class="contact-item">
         <div class="contact-caption">Київ</div>
+        <div class="contact-info">
+          <div class="contact-info-title">Адреса:</div>
+          <div class="contact-info-list">
+            <a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
+              <b itemprop="addressLocality">м. Київ</b>,
+              <b itemprop="streetAddress">вул. Солом'янська, 1</b>
+            </a>
+          </div>
+        </div>
+        <div class="contact-info">
+          <div class="contact-info-title">Телефон:</div>
+          <div class="contact-info-list">
+            <a href="tel:+380981515285">
+              <b itemprop="telephone">+38 (098) 15 15 285</b>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="contact-item">
+        <div class="contact-caption">Львів 2</div>
+        <div class="contact-info">
+          <div class="contact-info-title">Адреса:</div>
+          <div class="contact-info-list">
+            <a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
+              <b itemprop="addressLocality">м. Львів</b>,
+              <b itemprop="streetAddress">вул. Героїв УПА 73</b>
+            </a>
+          </div>
+        </div>
+        <div class="contact-info">
+          <div class="contact-info-title">Телефон:</div>
+          <div class="contact-info-list">
+            <a href="tel:+380676075784">
+              <b itemprop="telephone">+38 (067) 607 57 84</b>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="contact-item">
+        <div class="contact-caption">Київ 2</div>
         <div class="contact-info">
           <div class="contact-info-title">Адреса:</div>
           <div class="contact-info-list">

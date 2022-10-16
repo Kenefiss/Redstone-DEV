@@ -127,13 +127,59 @@ jQuery(function($) {
 
   }, observerOptions);
 
-
   animateBlock.forEach(block => {
     observerFunction.observe(block)
   });
 
 
+  // Anchor Links Scroll
+  const anchorLinks = document.querySelectorAll('a[href*="#"]:not([href="#"])');
 
+  for (let i = 0; i < anchorLinks.length; i++) {
+    anchorLinks[i].addEventListener("click", function(event) {
+      event.preventDefault();
+      const link_href = event.currentTarget.getAttribute("href")
+      const parentHasClass = event.target.closest('.header-menu') !== null;
+
+      if (parentHasClass) {
+        document.querySelector('html').classList.remove('overflow-menu');
+        document.querySelector('header').classList.remove('open-menu');
+        setTimeout(function() {
+          _functions.smoothScroll(event, link_href)
+        }, 1500);
+      } else {
+        _functions.smoothScroll(event, link_href)
+      }
+
+    });
+  }
+
+  _functions.smoothScroll = function(event, link) {
+    event.preventDefault();
+
+    const targetId = link === "#" ? "header" : link;
+    const targetPosition = document.querySelector(targetId).offsetTop - document.querySelector('header').offsetHeight - 30;
+
+    console.log(targetPosition)
+
+    const startPosition = window.pageYOffset;
+
+    console.log(startPosition)
+
+    const distance = targetPosition - startPosition;
+    const duration = 1000;
+    let start = null;
+
+    window.requestAnimationFrame(step);
+
+    function step(timestamp) {
+      if (!start) start = timestamp;
+      const progress = timestamp - start;
+      console.log(distance * (progress / duration) + startPosition)
+      window.scrollTo(0, distance * (progress / duration) + startPosition);
+      if (progress < duration) window.requestAnimationFrame(step);
+    }
+  }
 
 
 
@@ -208,12 +254,6 @@ jQuery(function($) {
   //* 04 HEADER =
   //*============
   /* Open menu */
-  // $(document).on('click', '.btn-burger', function() {
-  //   $(this).toggleClass('is-active');
-  //   $('html').toggleClass('overflow-menu');
-  //   $(this).parents('header').toggleClass('open-menu');
-  // });
-
   document.querySelector('.btn-burger').addEventListener('click', function() {
     this.classList.toggle('is-active');
     document.querySelector('html').classList.toggle('overflow-menu');
@@ -222,7 +262,12 @@ jQuery(function($) {
 
   document.querySelectorAll('.has-submenu b').forEach(item => {
     item.addEventListener('click', function() {
-      this.closest('.has-submenu').classList.add('active');
+
+      if (window.innerWidth > 992) {
+        this.closest('.has-submenu').classList.add('active');
+      } else {
+        this.closest('.has-submenu').classList.toggle('active');
+      }
     });
   })
 
@@ -389,23 +434,6 @@ jQuery(function($) {
     }, 700);
   });
 
-  /* video */
-  $('.video').each(function() {
-    var videoSrc = (mobileSrc) ? $(this).data('mobile-src') : $(this).data('src');
-    var video = '<video class="active" ' + ($(this).is('[data-autoplay]') ? 'autoplay' : '') + ' muted loop disablePictureInPicture playsinline controlsList="nodownload"><source src="' + videoSrc + '" type="video/mp4" /></video>';
-    if ($(this).is('[data-fullscreen]')) video += '</div>';
-    $(this).html(video);
-    $(this).find('video')[0].oncanplay = function() {
-      $(this).removeClass('active');
-    };
-    if ($(this).is('[data-fullscreen]')) {
-      $(this).on('click', function() {
-        var element = $(this).find('video')[0];
-        _functions.videoFullScreen(element);
-      });
-    }
-  });
-
   /* sorting */
   $(document).on('click', '.sort-btn', function() {
     $('.sort-nav').slideToggle();
@@ -418,15 +446,15 @@ jQuery(function($) {
     });
   }
 
-    /* chnage year after scroll */
-    _functions.yearScroll = function () {
-      if (!$('.year-row').length || winW < 1200) return false;
-  
-      $('.year-row').each(function (i) {
-        if ($(this).offset().top - 120 <= winScr && $(this).data('year') !== $('.year-to-change').text()) {
-          $('.year-to-change').text($(this).data('year'));
-        }
-      });
-    }
+  /* change year after scroll */
+  _functions.yearScroll = function() {
+    if (!$('.year-row').length || winW < 1200) return false;
+
+    $('.year-row').each(function(i) {
+      if ($(this).offset().top - 120 <= winScr && $(this).data('year') !== $('.year-to-change').text()) {
+        $('.year-to-change').text($(this).data('year'));
+      }
+    });
+  }
 
 });
