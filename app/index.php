@@ -15,7 +15,7 @@
 
       <!-- BANNER -->
       <div class="section banner main-banner">
-        <div class="container full-height"> 
+        <div class="container full-height">
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
@@ -433,21 +433,16 @@
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
-<<<<<<< HEAD
               <div class="video-wrap ml-80">
                 <div class="video">
                   <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
                 </div>
-=======
-            <div class="video-wrap ml-80">
-              <div class="video">
-                <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
->>>>>>> 4f12602beb72195c729252436570ce607d8a6502
               </div>
             </div>
           </div>
-          <div class="spacer-xl"></div>
         </div>
+        <div class="spacer-xl"></div>
+      </div>
 
     </main>
 
