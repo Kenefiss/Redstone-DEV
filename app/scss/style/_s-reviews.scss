@@ -32,7 +32,7 @@
 .video-block {
   position: relative;
   padding: 0;
-  margin:0;
+  margin: 0;
 }
 
 .video-block img {
@@ -97,103 +97,103 @@
   line-height: 1.4;
 }
 
-.reviews-slider.type2 .swiper-slide{
+.reviews-slider.type2 .swiper-slide {
   height: auto;
 }
 
-.reviews-slider.type2 .review-block{
+.reviews-slider.type2 .review-block {
   position: relative;
   height: 100%;
-  padding:30px;
+  padding: 30px;
   border: 1px solid #E8E8E8;
 }
 
-.reviews-slider.type2 .review-info{
+.reviews-slider.type2 .review-info {
   position: relative;
-  padding-left:80px;
+  padding-left: 80px;
   padding-top: 5px;
   text-align: left;
   min-height: 60px;
 }
 
-.reviews-slider.type2 .review-info .review-quote{
+.reviews-slider.type2 .review-info .review-quote {
   position: absolute;
-  top:0;
+  top: 0;
   left: 0;
-  width:60px;
-  height:60px;
+  width: 60px;
+  height: 60px;
 }
 
-.reviews-slider.type2 .review-info .review-title{
+.reviews-slider.type2 .review-info .review-title {
   font-weight: 400;
-  margin-bottom:0;
+  margin-bottom: 0;
 }
 
-.reviews-slider.type2 .review-info .review-category{
+.reviews-slider.type2 .review-info .review-category {
   font-size: 16px;
   line-height: 1.3;
   color: var(--clr-plc);
 }
 
-.reviews-slider.type2 .review-content{
-  margin-top:30px;
-  padding-top:30px;
-  border-top:1px solid #E8E8E8;
+.reviews-slider.type2 .review-content {
+  margin-top: 30px;
+  padding-top: 30px;
+  border-top: 1px solid #E8E8E8;
 }
 
-.reviews-slider.type2 .review-content .rating{
-  margin-bottom:10px;
+.reviews-slider.type2 .review-content .rating {
+  margin-bottom: 10px;
   font-size: 0;
 }
 
-.reviews-slider.type2 .review-content .rating img{
-  width:15px;
+.reviews-slider.type2 .review-content .rating img {
+  width: 15px;
   height: auto;
   max-height: 15px;
   margin-right: 5px;
 }
 
-.reviews-slider.type2 .review-content .text{
+.reviews-slider.type2 .review-content .text {
   color: var(--clr-plc);
 }
 
-.reviews-slider.type2 .swiper-wrapper{
-  margin-bottom:60px;
+.reviews-slider.type2 .swiper-wrapper {
+  margin-bottom: 60px;
 }
 
-.general-rating{
+.general-rating {
   display: flex;
   margin-top: 15px;
 }
 
-.general-rating .icon{
+.general-rating .icon {
   width: 31px;
-  margin-right:15px;
+  margin-right: 15px;
 }
 
-.general-rating .icon img{
-  width:100%;
+.general-rating .icon img {
+  width: 100%;
   height: auto;
 }
 
-.general-rating .content{
+.general-rating .content {
   text-align: left;
 }
 
-.general-rating .rating{
-  margin-bottom:5px;
+.general-rating .rating {
+  margin-bottom: 5px;
   font-size: 0;
   max-height: 15px;
 }
 
-.general-rating .rating img{
-  width:15px;
+.general-rating .rating img {
+  width: 15px;
   height: auto;
   max-height: 15px;
   margin-right: 5px;
 }
 
-.general-rating .general-review{
+.general-rating .general-review {
   font-size: 16px;
   line-height: 1.3;
   font-weight: 300;
@@ -225,7 +225,7 @@
   .review-icon {
     opacity: 0;
     visibility: hidden;
-    transition: var(--transition-1);
+    transition: opacity var(--transition-1), visibility var(--transition-1);
   }
 
   .review-img:hover .review-icon {
@@ -236,7 +236,7 @@
 
 @media(max-width:1839px) {
   .reviews-slider .swiper-wrapper {
-    margin-bottom:70px;
+    margin-bottom: 70px;
   }
 }
 
@@ -261,21 +261,23 @@
   .review-icon:after {
     margin-left: 0;
   }
+
   .video-block {
     margin: 0;
   }
-  .general-rating{
-    justify-content:center;
+
+  .general-rating {
+    justify-content: center;
   }
 }
 
 @media(max-width:991px) {
-  .reviews-slider{
-    margin-bottom:30px;
+  .reviews-slider {
+    margin-bottom: 30px;
   }
 
-  .reviews-slider.type2{
-    margin-bottom:40px;
+  .reviews-slider.type2 {
+    margin-bottom: 40px;
   }
 
   .reviews-slider .swiper-wrapper,
@@ -309,23 +311,26 @@
   }
 
   .review-category,
-  .reviews-slider.type2 .review-info .review-category{
+  .reviews-slider.type2 .review-info .review-category {
     font-size: 14px;
   }
 
-  .reviews-slider.type2 .review-block{
-    padding:15px;
+  .reviews-slider.type2 .review-block {
+    padding: 15px;
   }
-  .reviews-slider.type2 .review-info{
+
+  .reviews-slider.type2 .review-info {
     padding: 0;
     min-height: auto;
   }
-  .reviews-slider.type2 .review-info .review-quote{
+
+  .reviews-slider.type2 .review-info .review-quote {
     display: none;
   }
-  .reviews-slider.type2 .review-content{
-    margin-top:15px;
-    padding-top:15px;
+
+  .reviews-slider.type2 .review-content {
+    margin-top: 15px;
+    padding-top: 15px;
   }
 
 }

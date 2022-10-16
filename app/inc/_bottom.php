@@ -4,6 +4,7 @@
 
 <script defer src="js/vendors/jquery.min.js"></script>
 <script defer src="js/vendors/swiper-bundle.min.js"></script>
+<script defer src="js/vendors/gsap.min.js"></script>
 <script defer src="js/app.global.js"></script>
 
 <!-- Remove on mobile device -->

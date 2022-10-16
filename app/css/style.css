@@ -310,7 +310,7 @@ to {fill: var(--clr-grey3);stroke: transparent;}
 .reviews-slider .swiper-pagination {display: none;}
 }
 @media (min-width: 1200px) {
-.review-icon {opacity: 0;visibility: hidden;-webkit-transition: var(--transition-1);transition: var(--transition-1);}
+.review-icon {opacity: 0;visibility: hidden;-webkit-transition: opacity var(--transition-1),visibility var(--transition-1);transition: opacity var(--transition-1),visibility var(--transition-1);}
 .review-img:hover .review-icon {opacity: 1;visibility: visible;}
 }
 @media (max-width: 1839px) {

@@ -127,6 +127,7 @@ jQuery(function($) {
 
   }, observerOptions);
 
+
   animateBlock.forEach(block => {
     observerFunction.observe(block)
   });
@@ -158,7 +159,7 @@ jQuery(function($) {
 
     const targetId = link === "#" ? "header" : link;
     const targetPosition = document.querySelector(targetId).offsetTop - document.querySelector('header').offsetHeight - 30;
-    const startPosition = window.pageYOffset;
+    const startPosition = window.scrollY;
     const distance = targetPosition - startPosition;
     const duration = 1000;
     let start = null;
@@ -168,10 +169,79 @@ jQuery(function($) {
     function step(timestamp) {
       if (!start) start = timestamp;
       const progress = timestamp - start;
-      console.log(distance * (progress / duration) + startPosition)
       window.scrollTo(0, distance * (progress / duration) + startPosition);
       if (progress < duration) window.requestAnimationFrame(step);
     }
+  }
+
+
+
+  if (window.innerWidth > 1199) {
+    // Icon in block
+    document.querySelectorAll('.review-btn').forEach(btn => {
+      btn.addEventListener('mousemove', function(e) {
+        e.preventDefault();
+        let icon = this.querySelectorAll(`:scope ${'.review-icon'}`),
+          btnW = this.getBoundingClientRect().width,
+          btnH = this.getBoundingClientRect().height,
+          btnRect = e.currentTarget.getBoundingClientRect(),
+          btnRectX = e.clientX - btnRect.left,
+          btnRectY = e.clientY - btnRect.top;
+
+        gsap.to(icon, 1, {
+          x: btnRectX - btnW / 2,
+          y: btnRectY - btnH / 2,
+          ease: 'slow'
+        });
+      });
+      btn.addEventListener('mouseleave', function() {
+        let icon = this.querySelectorAll(`:scope ${'.review-icon'}`);
+        gsap.to(icon, 2, {
+          x: 0,
+          y: 0,
+          ease: 'slow'
+        });
+      });
+    })
+
+    // Btn Brief
+    document.querySelectorAll('.round-btn-listener').forEach(btn => {
+      btn.addEventListener('mousemove', function(e) {
+        let icon = this.nextElementSibling.querySelectorAll(`:scope ${'.circle'}`),
+          iconText = this.nextElementSibling.querySelectorAll(`:scope ${'.name'}`),
+          btnW = this.getBoundingClientRect().width,
+          btnH = this.getBoundingClientRect().height,
+          btnRect = e.currentTarget.getBoundingClientRect(),
+          btnRectX = e.clientX - btnRect.left,
+          btnRectY = e.clientY - btnRect.top;
+
+        gsap.to(icon, 2, {
+          x: btnRectX - btnW / 2,
+          y: btnRectY - btnH / 2,
+          ease: 'slow'
+        });
+        gsap.to(iconText, 2.5, {
+          x: btnRectX - btnW / 2,
+          y: btnRectY - btnH / 2,
+          ease: 'slow'
+        });
+      });
+      btn.addEventListener('mouseleave', function() {
+        let icon = this.nextElementSibling.querySelectorAll(`:scope ${'.circle'}`),
+          iconText = this.nextElementSibling.querySelectorAll(`:scope ${'.name'}`);
+
+        gsap.to(icon, 0.5, {
+          x: 0,
+          y: 0,
+          overwrite: true
+        });
+        gsap.to(iconText, 0.5, {
+          x: 0,
+          y: 0,
+          overwrite: true
+        });
+      });
+    })
   }
 
 

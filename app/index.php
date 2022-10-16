@@ -282,7 +282,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Ми даємо більше, ніж Ви очікуєте, бо шукаємо рішення, яке працює на 100%</div>
                 <div class="text animate-item fadeInUp delay-1">Сфокусуйте свої зусилля на тому, що ви робите найкраще. Все що зв’язано з оцифруванням бізнесу залиште для <span>REDSTONE</span>. Щоб ви отримали послугу повного циклу, над розробкою сайтів у команді <span>REDSTONE</span> працює понад 50 фахівців.</div>
@@ -337,11 +337,16 @@
               </ul>
             </div>
             <div class="col-6 col-md-4 service-item">
-              <a href="documents/REDSTONE Brief Marketing - Corporate.doc" download class="round-btn">
-                <span class="circle"></span>
-                <span class="name">ЗАПОВНИТИ <br> БРИФ<svg width="24" height="17" fill="none" xmlns="http://www.w3.org/2000/svg" class="arr">
-                    <path d="M15.568 0L24 8.5 15.568 17l-1.73-1.744 5.405-5.448H0V7.192h19.243l-5.405-5.448L15.568 0z" /></svg></span>
-              </a>
+              <div class="round-btn-wrap">
+                <a class="round-btn-listener" href="documents/REDSTONE Brief Marketing - Corporate.doc" download></a>
+                <div class="round-btn">
+                  <div class="circle"></div>
+                  <span class="name">ЗАПОВНИТИ <br> БРИФ
+                    <svg width="24" height="17" fill="none" xmlns="http://www.w3.org/2000/svg" class="arr">
+                      <path d="M15.568 0L24 8.5 15.568 17l-1.73-1.744 5.405-5.448H0V7.192h19.243l-5.405-5.448L15.568 0z" /></svg>
+                  </span>
+                </div>
+              </div>
             </div>
           </div>
         </div>
