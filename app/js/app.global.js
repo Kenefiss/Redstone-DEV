@@ -158,7 +158,7 @@ jQuery(function($) {
     event.preventDefault();
 
     const targetId = link === "#" ? "header" : link;
-    const targetPosition = document.querySelector(targetId).offsetTop - document.querySelector('header').offsetHeight - 30;
+    const targetPosition = document.querySelector(targetId).offsetTop - document.querySelector('header').offsetHeight - 0;
     const startPosition = window.scrollY;
     const distance = targetPosition - startPosition;
     const duration = 1000;

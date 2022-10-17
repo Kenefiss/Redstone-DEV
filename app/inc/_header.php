@@ -38,9 +38,9 @@
               <div class="header-menu-left-inner">
                 <ul class="header-lang">
                   <li><a href="../" class="current">УКР</a></li>
-                  <li><a href="../en/">ENG</a></li>
-                  <li><a href="../pl/">PL</a></li>
-                  <li><a href="../ru/">РУС</a></li>
+                  <li><a href="en/index.php">ENG</a></li>
+                  <li><a href="pl/index.php">PL</a></li>
+                  <li><a href="ru/index.php">РУС</a></li>
                 </ul>
                 <a class="btn h-btn d-lg-none" href="#contact">
                   <b>Задати запитання</b>
