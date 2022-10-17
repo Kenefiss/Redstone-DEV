@@ -32,24 +32,19 @@
               </div>
             </div>
             <div class="col-xl-5 order-1 order-xl-2">
-              <div class="counter-block type-1">
-                <div class="svg-wrapper type-2">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">16</tspan>
-                    </text>
-                  </svg>
-                </div>
+              <div class="banner-num">
+                <div>16</div>
+                <video preload="auto" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> Років переносимо ваш бізнес online</div>
             </div>
           </div>
-          <div class="btn-scroll scroll-to">
+          <a class="btn-scroll" href="#content">
             <svg width="63" height="14" viewBox="0 0 63 14" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M0 7H55.902" stroke="#989898" stroke-dasharray="5.49 8.78" class="dashed" />
               <path d="M54.9297 1L61.7405 7.16216L54.9297 13" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" />
             </svg>
-          </div>
+          </a>
         </div>
         <div class="spacer-xl"></div>
       </div>
@@ -414,7 +409,7 @@
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
               <h1 class="title h2 title-margin animate-item fadeInUp">16 років <b>створення і розробки сайтів</b></h1>
-              <div class="simple-page text text-sm animate-item fadeInUp delay-2">
+              <div class="simple-page text text-sm animate-item fadeInUp delay-1">
                 <p>На сьогоднішній день будь-який вид бізнесу має своє представництво в всесвітній мережі. Ним безперечно являється сучасний, повноцінний сайт. З допомогою інтернет ресурсів можна активно здійснювати реалізацію товарів в режимі онлайн, рекламу послуг компанії та її продукції. Якісне створення сайтів являється основним видом діяльності нашої веб студії.</p>
                 <p>Це досить складне завдання виконати яке буде не під силу людині, що не володіє основами веб розробки. Тому за подібну роботу беруться лише справжні професіонали з відповідною кваліфікацією та досвідом в даній галузі.</p>
                 <h2>Етапи створення і розробки сайтів:</h2>
@@ -438,7 +433,7 @@
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80">
+              <div class="video-wrap ml-80 animate-item fadeInUp delay-2">
                 <div class="video">
                   <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
                 </div>

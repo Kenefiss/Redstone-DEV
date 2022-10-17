@@ -3,10 +3,11 @@
 /*--------------------*/
 :root {
   --h-height: 130px;
+  --h-info-height: 50px;
 }
 
 header {
-  height: var(--h-height);
+  height: calc(var(--h-height) + var(--h-info-height));
 }
 
 .header-wrap {
@@ -20,6 +21,57 @@ header {
 
   &.scrolled {
     box-shadow: 0 5px 10px rgba(0, 0, 0, .02);
+  }
+}
+
+.header-informer {
+  position: relative;
+  height: var(--h-info-height);
+  text-align: center;
+  padding-block: 8px;
+  transition: margin var(--transition-1);
+  transition-delay: 1.5s;
+
+  &::before {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 50%;
+    height: 100%;
+    width: 150%;
+    transform: translateX(-50%);
+    background-color: var(--clr-grey3);
+  }
+
+  &.text {
+    >* {
+      display: inline;
+      vertical-align: middle;
+      margin-bottom: 0;
+    }
+
+    img {
+      margin-right: 15px;
+      max-width: 35px;
+    }
+
+    b {
+      margin-right: 25px;
+      font-weight: 300;
+    }
+
+    a {
+      display: inline-block !important;
+      text-transform: uppercase;
+      color: var(--clr-red) !important;
+      font-weight: 600 !important;
+      font-size: 12px;
+      line-height: 1em;
+      margin-top: 2px;
+      letter-spacing: 0.12em;
+      margin-top: 4px;
+    }
   }
 }
 
@@ -413,6 +465,11 @@ header {
 }
 
 .open-menu {
+  .header-informer {
+    margin-top: calc(-1 * var(--h-info-height));
+    transition-delay: 0s;
+  }
+
   .header-logo {
     img {
       &:first-child {
@@ -537,6 +594,17 @@ header {
 @media (max-width: 1560px) {
   :root {
     --h-height: 80px;
+    --h-info-height: 40px;
+  }
+
+  .header-informer {
+    padding-block: 7px;
+
+    &.text {
+      img {
+        max-width: 25px;
+      }
+    }
   }
 
   .header-logo {
@@ -665,10 +733,6 @@ header {
     display: none;
   }
 
-  .open-menu .header-phone {
-    display: none;
-  }
-
   .header-menu {
     overflow: auto;
     flex-direction: column;
@@ -709,7 +773,6 @@ header {
 
   .header-mega-menu {
     margin: 30px 0;
-
     transform: translateY(0%);
     transition-delay: 0.5s;
 
@@ -762,6 +825,10 @@ header {
       color: var(--clr-white);
     }
 
+    .header-phone {
+      display: none;
+    }
+
     .header-wrap-left {
       background-color: var(--bg-black1);
       transition-delay: .2s;
@@ -772,4 +839,13 @@ header {
       opacity: 1;
     }
   }
+}
+
+@media (max-width: 575px) {
+  .header-informer.text {
+    b {
+      display: none;
+    }
+  }
+
 }

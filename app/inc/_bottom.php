@@ -8,4 +8,4 @@
 <script defer src="js/app.global.js"></script>
 
 <!-- Remove on mobile device -->
-<script defer src="js/vendors/SmoothScroll.js"></script>
+<!-- <script defer src="js/vendors/SmoothScroll.js"></script> -->

@@ -9,10 +9,6 @@
 //*========================================
 //* 05 POPUPS                             =
 //*========================================
-//* 06 INPUTS, KEY FOCUS                  =
-//*========================================
-//* 07 TABS, ACCORDION                    =
-//*========================================
 //* 11 OTHER JS                           =
 //*========================================
 
@@ -382,47 +378,6 @@ jQuery(function($) {
 
 
 
-  //*=======================
-  //* 06 INPUTS, KEY FOCUS =
-  //*=======================
-  // Inputs 
-  $(document).on('focus', '.input-field-wrapper .input, .input-button-wrap .input', function() {
-    $(this).closest('.input-field-wrapper').addClass('focus');
-  });
-  $(document).on('blur', '.input-field-wrapper .input, .input-button-wrap .input', function() {
-    $(this).closest('.input-field-wrapper').removeClass('focus');
-  });
-  $(document).on('keyup', '.input-field-wrapper .input', function() {
-    if ($(this).val()) $(this).closest('.input-field-wrapper').addClass('value');
-    else $(this).closest('.input-field-wrapper').removeClass('value');
-  });
-
-
-  // Invalid Input
-  $(document).on('blur', '.input-field-wrapper .input[required]', function() {
-    if ($(this).val().trim()) {
-      $(this).closest('.input-field-wrapper').removeClass('invalid');
-    } else {
-      $(this).closest('.input-field-wrapper').addClass('invalid');
-    }
-  });
-
-
-  // Check if input has value or autofill
-  $(document).ready(function() {
-    $('.input-field-wrapper .input').each(function() {
-      let $this = $('.input-field-wrapper .input')
-      if ($this.val()) {
-        $this.closest('.input-field-wrapper').addClass('value');
-      }
-    });
-
-    $('.input-field-wrapper .input:-webkit-autofill').each(function() {
-      let $this = $('.input-field-wrapper .input')
-
-      $this.closest('.input-field-wrapper').addClass('value');
-    });
-  });
 
 
   // Detect if user is using keyboard tab-button to navigate
@@ -447,54 +402,9 @@ jQuery(function($) {
 
 
 
-  //*======================
-  //* 07 TABS, ACCORDION  =
-  //*======================
-  // Tabs
-  $(document).on('click', '.un__tab-title', function() {
-    $(this).closest('.un__tab-nav').toggleClass('active');
-  });
-
-  $(document).on('click', '.un__tab-toggle>div', function(e) {
-    e.preventDefault();
-    var tab = $(this).closest('.un__tabs').find('.un__tabs-block .un__tab');
-    var i = $(this).index();
-    $(this).addClass('active').siblings().removeClass('active');
-    tab.eq(i).siblings('.un__tab:visible').stop().finish().fadeOut(function() {
-      tab.eq(i).fadeIn(200);
-    });
-    $(this).closest('.un__tab-nav').removeClass('active').find('.un__tab-title b').text($(this).text());
-  });
-
-  $(document).on('click', function(e) {
-    if (!$(e.target).closest('.un__tab-nav').length && $(window).width() < 991) {
-      $('.un__tab-nav').removeClass('active');
-    }
-  });
-
-  // Accordion
-  $(document).on('click', '.custom-acr .custom-acr-item .custom-acr-title', function() {
-    if ($(this).hasClass('active')) {
-      $(this).removeClass('active').next().slideUp();
-    } else {
-      $(this).closest('.custom-acr').find('.custom-acr-title').not(this).removeClass('active').next().slideUp();
-      $(this).addClass('active').next().slideDown();
-    }
-
-    _functions.cutText();
-  });
-
   //*==============
   //* 11 OTHER JS =
   //*==============
-  /* scroll to content */
-  $(document).on('click', '.scroll-to', function() {
-    $('html,body').animate({
-      scrollTop: $("#content").offset().top - $('header').outerHeight() - 50
-    }, 700);
-  });
-
-
   /* sorting */
   $(document).on('click', '.sort-btn', function() {
     $('.sort-nav').slideToggle();
@@ -515,6 +425,27 @@ jQuery(function($) {
       if ($(this).offset().top - 120 <= winScr && $(this).data('year') !== $('.year-to-change').text()) {
         $('.year-to-change').text($(this).data('year'));
       }
+    });
+  }
+
+  _functions.loadFileAsync = (url) => {
+    return new Promise((resolve, reject) => {
+      if (url) {
+        let script = document.createElement("script");
+        script.src = url;
+        document.body.appendChild(script);
+        resolve(true);
+      } else {
+        reject(false);
+      }
+    });
+  };
+
+  if (winW > 1200) {
+    window.addEventListener("load", async () => {
+      try {
+        await _functions.loadFileAsync("js/vendors/SmoothScroll.min.js");
+      } catch (err) {} finally {}
     });
   }
 
