@@ -3,7 +3,8 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Home</title>
+  <title>Створення та розробка сайтів Львів - веб-студія REDSTONE</title>
+  <meta name="description" content="Створення та розробка сайтів ► Веб-студія REDSTONE (Львів, Київ) ✓15 років досвіду ✓Якісно ✓Швидко ✓Ціни та відгуки на сайті">
 </head>
 
 <body>
@@ -166,118 +167,6 @@
         <div class="spacer-xl"></div>
       </div>
 
-      <!-- CATEGORIES EN -->
-      <div id="content" class="section">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Effective and efficient web and mobile solutions with immersion in your business</div>
-                <div class="text animate-item fadeInUp delay-1">We know the pain points in your niche! Our arsenal has all the tools to solve them: analysis, branding, website development, app creation and technical support.</div>
-              </div>
-            </div>
-          </div>
-          <div class="row categories animate-item fadeInUp delay-2">
-            <div class="col-6 col-sm-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">WEB Service</span>
-                <span class="category-img">
-                  <picture>
-                    <source srcset="img/category-img-11.webp" type="image/webp">
-                    <source srcset="img/category-img-11.png" type="image/png">
-                    <img src="img/category-img-11.png" alt="">
-                  </picture>
-                </span>
-                <div class="review-btn">
-                  <i class="review-icon"></i>
-                </div>
-              </a>
-            </div>
-            <div class="col-6 col-sm-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">APP</span>
-                <span class="category-img">
-                  <picture>
-                    <source srcset="img/category-img-5.webp" type="image/webp">
-                    <source srcset="img/category-img-5.png" type="image/png">
-                    <img src="img/category-img-5.png" alt="">
-                  </picture>
-                </span>
-                <div class="review-btn">
-                  <i class="review-icon"></i>
-                </div>
-              </a>
-            </div>
-            <div class="col-6 col-sm-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">MVP</span>
-                <span class="category-img">
-                  <picture>
-                    <source srcset="img/category-img-12.webp" type="image/webp">
-                    <source srcset="img/category-img-12.png" type="image/png">
-                    <img src="img/category-img-12.png" alt="">
-                  </picture>
-                </span>
-                <div class="review-btn">
-                  <i class="review-icon"></i>
-                </div>
-              </a>
-            </div>
-            <div class="col-6 col-sm-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Online stores</span>
-                <span class="category-img">
-                  <picture>
-                    <source srcset="img/category-img-8.webp" type="image/webp">
-                    <source srcset="img/category-img-8.png" type="image/png">
-                    <img src="img/category-img-8.png" alt="">
-                  </picture>
-                </span>
-                <div class="review-btn">
-                  <i class="review-icon"></i>
-                </div>
-              </a>
-            </div>
-            <div class="col-6 col-sm-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Auto</span>
-                <span class="category-img">
-                  <picture>
-                    <source srcset="img/category-img-7.webp" type="image/webp">
-                    <source srcset="img/category-img-7.png" type="image/png">
-                    <img src="img/category-img-7.png" alt="">
-                  </picture>
-                </span>
-                <div class="review-btn">
-                  <i class="review-icon"></i>
-                </div>
-              </a>
-            </div>
-            <div class="col-6 col-sm-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Branding</span>
-                <span class="category-img">
-                  <picture>
-                    <source srcset="img/category-img-3.webp" type="image/webp">
-                    <source srcset="img/category-img-3.png" type="image/png">
-                    <img src="img/category-img-3.png" alt="">
-                  </picture>
-                </span>
-                <div class="review-btn">
-                  <i class="review-icon"></i>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="text-center">
-            <a class="btn btn-primary" href="#">
-              <b>View all projects</b>
-            </a>
-          </div>
-        </div>
-        <div class="spacer-xl"></div>
-      </div>
-
       <!-- SERVICES -->
       <div class="section">
         <div class="container">
@@ -293,47 +182,47 @@
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">Веб Сайти</div>
               <ul>
-                <li><span>Аналіз/Аудит</span></li>
-                <li><span>UI/UX</span></li>
-                <li><a href="../lending-pejdzh">Лендінг</a></li>
-                <li><span>Корпоративний</span></li>
-                <li><a href="../stvorennya-internet-magazynu">Інтернет магазин</a></li>
-                <li><span>Редизайн</span></li>
+                <li><a href="#">Аналіз/Аудит</a></li>
+                <li><a href="#">UI/UX</a></li>
+                <li><a href="#">Лендінг</a></li>
+                <li><a href="#">Корпоративний</a></li>
+                <li><a href="#">Інтернет магазин</a></li>
+                <li><a href="#">Редизайн</a></li>
               </ul>
             </div>
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">Інтернет-маркетинг</div>
               <ul>
-                <li><a href="../seo-smm">SEO</a></li>
-                <li><a href="../seo-smm">SMM</a></li>
-                <li><span>Медіа реклама</span></li>
-                <li><a href="../foto-video">Фото/Відео</a></li>
+                <li><a href="#">SEO</a></li>
+                <li><a href="#">SMM</a></li>
+                <li><a href="#">Медіа реклама</a></li>
+                <li><a href="#">Фото/Відео</a></li>
               </ul>
             </div>
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">Брендінг</div>
               <ul>
-                <li><span>Лого</span></li>
-                <li><a href="../brendbuky">Брендбук</a></li>
-                <li><span>Упаковка</span></li>
-                <li><span>Ребрендінг</span></li>
-                <li><span>Копірайтинг</span></li>
+                <li><a href="#">Лого</a></li>
+                <li><a href="#">Брендбук</a></li>
+                <li><a href="#">Упаковка</a></li>
+                <li><a href="#">Ребрендінг</a></li>
+                <li><a href="#">Копірайтинг</a></li>
               </ul>
             </div>
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">APP/Додаток</div>
               <ul>
-                <li><a href="../stvorennja-mobilnih-dodatkiv">APP для Android</a></li>
-                <li><a href="../stvorennja-mobilnih-dodatkiv">APP для IOS</a></li>
-                <li><span>PWA</span></li>
-                <li><span>APP дизайн</span></li>
+                <li><a href="#">APP для Android</a></li>
+                <li><a href="#">APP для IOS</a></li>
+                <li><a href="#">PWA</a></li>
+                <li><a href="#">APP дизайн</a></li>
               </ul>
             </div>
             <div class="col-6 col-md-4 service-item">
               <div class="service-title">Техпідтримка</div>
               <ul>
-                <li><span>Підтримка сайту</span></li>
-                <li><span>Підтримка APP</span></li>
+                <li><a href="#">Підтримка сайту</a></li>
+                <li><a href="#">Підтримка APP</a></li>
               </ul>
             </div>
             <div class="col-6 col-md-4 service-item">
@@ -355,9 +244,6 @@
 
       <!-- DIGITS -->
       <?php include 'inc/_digits.php'; ?>
-
-      <!-- REVIEWS TEXT BLOCK -->
-      <?php include 'inc/_reviews2.php'; ?>
 
       <!-- REVIEWS -->
       <?php include 'inc/_reviews.php'; ?>
