@@ -8,7 +8,7 @@
 
 .video-wrap {
   position: sticky;
-  top: calc(var(--h-height) + 30px);
+  top: calc(var(--h-height) + var(--h-info-height) + 30px);
   will-change: scroll-position;
   backface-visibility: hidden;
 }
@@ -84,5 +84,6 @@
     position: relative;
     width: auto;
     right: auto;
+    display: block;
   }
 }

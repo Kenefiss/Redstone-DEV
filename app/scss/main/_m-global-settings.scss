@@ -275,6 +275,12 @@ main>.section:first-child:not(.banner) {
 }
 
 @media (max-width: 767px) {
+  :root {
+    --h-1: 32px;
+    --h-2: 24px;
+    --h-3: 22px;
+  }
+
   .spacer-xl {
     height: 70px;
   }
