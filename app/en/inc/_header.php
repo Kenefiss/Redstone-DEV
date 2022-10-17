@@ -1,6 +1,11 @@
 <header>
   <div class="header-wrap">
     <div class="container-fluid">
+    <div class="header-informer text text-sm">
+        <img src="../img/informer-img.svg" alt="" loading="lazy">
+        <b>Charity and volunteering in web development.</b>
+        <a href="#">VIEW our projects</a>
+      </div>
       <div class="header-wrap-inner">
         <div class="header-wrap-left">
           <a class="header-logo" href="index.php">

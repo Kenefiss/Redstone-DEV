@@ -333,7 +333,7 @@ header {height: calc(var(--h-height) + var(--h-info-height));}
 /*--------------------*/
 /* - BANNER           */
 /*--------------------*/
-.full-height {position: relative;height: calc(100vh - 130px);padding: 50px 0;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;}
+.full-height {position: relative;height: calc(100vh - 180px);padding: 50px 0;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;}
 .banner-content .title {margin-bottom: 20px;}
 .banner-content .title b {color: var(--clr-red);font-weight: inherit;}
 .logo-group {margin-top: 100px;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;}
@@ -350,7 +350,7 @@ header {height: calc(var(--h-height) + var(--h-info-height));}
 .logo-group a:hover {-webkit-filter: none;filter: none;}
 }
 @media (max-width: 1839px) {
-.full-height {height: calc(100vh - 80px);min-height: 400px;}
+.full-height {height: calc(100vh - 120px);min-height: 400px;}
 .logo-group {margin-top: 45px;}
 .logo-group a:not(:last-child) {margin-right: 45px;}
 }
