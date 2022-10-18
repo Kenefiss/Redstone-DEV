@@ -35,7 +35,7 @@
             <div class="col-xl-5 order-1 order-xl-2">
               <div class="banner-num">
                 <div>16</div>
-                <video preload="auto" poster="../img/seo-img.jpg" src="../video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                <video preload="auto" poster="../img/seo-img.jpg" src="../video/banner-video.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
             </div>
