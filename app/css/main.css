@@ -213,6 +213,7 @@ header {height: calc(var(--h-height) + var(--h-info-height));}
 .btn-burger:hover .burger::before,
 .btn-burger:hover .burger::after {width: 100%;}
 .header-wrap-center a:hover {color: var(--clr-red);}
+.header-lang a:hover {color: var(--clr-red);}
 .header-phone:hover {color: var(--clr-red);}
 .header-mega-menu a:hover,
 .header-mega-menu .has-submenu > b:hover {color: var(--clr-red);}
@@ -361,14 +362,19 @@ header {height: calc(var(--h-height) + var(--h-info-height));}
 .banner-content {text-align: center;}
 .main-banner .sub-title {margin-bottom: 30px;}
 .logo-group {-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;margin-bottom: 30px;}
+.banner .banner-num {padding-top: 20%;}
+}
+@media (max-width: 991px) {
+.banner .banner-num {padding-top: 25%;}
 }
 @media (max-width: 767px) {
 .logo-group a:not(:last-child) {margin-right: 20px;}
+.banner .banner-num {padding-top: 40%;}
 }
 @media (max-width: 575px) {
 .full-height {height: auto;padding: 20px 0 0;}
 .main-banner .full-height .counter-block {margin: 0;}
-.main-banner .sub-title {margin-top: 20px;}
+.main-banner .sub-title {margin-top: 15px;}
 .logo-group {margin: 0;margin-top: 20px;padding: 0 15px;}
 .logo-group a {max-width: 23%;}
 }
@@ -421,6 +427,10 @@ h6,
 .text-right {text-align: right;}
 @media (max-width: 767px) {
 .title-margin {margin-bottom: 15px;}
+.fs-2 h1,
+.fs-2 .h1,
+.fs-2 .h2 {font-size: 32px;}
+.fs-2 .simple-page h2 {font-size: 24px;}
 }
 /*--------------------*/
 /* - TEXT STYLES      */

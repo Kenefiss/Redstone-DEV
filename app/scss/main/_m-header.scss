@@ -566,7 +566,11 @@ header {
   .header-wrap-center {
     a:hover {
       color: var(--clr-red);
-    }
+    }    
+  }
+
+  .header-lang a:hover {
+    color: var(--clr-red);
   }
 
   .header-phone:hover {
