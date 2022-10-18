@@ -27,12 +27,12 @@
                 <nav class="sort-nav">
                   <ul>
                     <li><a class="active">Всі</a></li>
-                    <li><a href="#">Будівництво</a></li>
-                    <li><a href="#">Стоматологія</a></li>
                     <li><a href="#">Доставка їжі</a></li>
-                    <li><a href="#">Фінанси</a></li>
-                    <li><a href="#">Маркетинг</a></li>
-                    <li><a href="#">Арр</a></li>
+                    <li><a href="#">Інтернет-магазини</a></li>
+                    <li><a href="#">АPP</a></li>
+                    <li><a href="#">Експрес рішення</a></li>
+                    <li><a href="#">Aвто</a></li>
+                    <li><a href="#">Брендування</a></li>
                   </ul>
                 </nav>
               </div>
@@ -44,9 +44,9 @@
                 <span class="category-title">Доставка їжі</span>
                 <span class="category-img">
                   <picture>
-                    <source srcset="img/category-img-1.webp" type="image/webp">
-                    <source srcset="img/category-img-1.png" type="image/png">
-                    <img src="img/category-img-1.png" alt="">
+                    <source srcset="img/category-img-10.webp" type="image/webp">
+                    <source srcset="img/category-img-10.png" type="image/png">
+                    <img src="img/category-img-10.png" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">

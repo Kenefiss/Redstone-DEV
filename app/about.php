@@ -85,7 +85,7 @@
           </div>
           <div class="row">
             <div class="swiper-entry clients-slider size2">
-              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
+              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "slidesPerGroup":4, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
                 <div class="swiper-wrapper clients">
                   <div class="swiper-slide">
                     <div class="client-img"><img src="img/tech-1.png" loading="lazy" alt=""></div>

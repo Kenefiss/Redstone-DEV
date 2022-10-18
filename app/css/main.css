@@ -330,6 +330,7 @@ header {height: calc(var(--h-height) + var(--h-info-height));}
 }
 @media (max-width: 575px) {
 .btn-scroll {display: none;}
+.round-btn-wrap {max-width: 220px;}
 }
 /*--------------------*/
 /* - BANNER           */
@@ -431,6 +432,7 @@ h6,
 .fs-2 .h1,
 .fs-2 .h2 {font-size: 32px;}
 .fs-2 .simple-page h2 {font-size: 24px;}
+.page-title {font-size: 40px;}
 }
 /*--------------------*/
 /* - TEXT STYLES      */
