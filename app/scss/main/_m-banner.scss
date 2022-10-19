@@ -128,11 +128,23 @@
     justify-content: center;
     margin-bottom: 30px;
   }
+  .banner .banner-num{
+    padding-top: 20%;
+  }
+}
+
+@media(max-width: 991px) {
+  .banner .banner-num{
+    padding-top: 25%;
+  }
 }
 
 @media(max-width: 767px) {
   .logo-group a:not(:last-child) {
     margin-right: 20px;
+  }
+  .banner .banner-num{
+    padding-top:40%;
   }
 }
 
@@ -147,7 +159,7 @@
   }
 
   .main-banner .sub-title{
-    margin-top: 20px;
+    margin-top: 15px;
   }
   .logo-group {
     margin: 0;

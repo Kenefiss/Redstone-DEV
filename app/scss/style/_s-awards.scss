@@ -6,7 +6,7 @@
 .award-subtitle{font-size: 14px;font-weight: 400;text-transform: uppercase;margin-bottom: 25px;}
 .award-img{overflow: hidden;position: relative;transition: var(--transition-1);}
 .award-img .review-icon{font-size: 40px;}
-.year-wrap{position: sticky;top: calc(var(--h-height) + 30px);}
+.year-wrap{position: sticky;top: calc(var(--h-height) + var(--h-info-height) + 30px);}
 .year-row + .year-row{margin-top: 80px;}
 .year .svg-text{width:100%;height: 100px;position: relative;font-weight: 600;}
 .year .svg-text svg text{font-size:160px;}

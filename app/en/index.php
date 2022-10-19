@@ -33,24 +33,19 @@
               </div>
             </div>
             <div class="col-xl-5 order-1 order-xl-2">
-              <div class="counter-block type-1">
-                <div class="svg-wrapper type-2">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">16</tspan>
-                    </text>
-                  </svg>
-                </div>
+              <div class="banner-num">
+                <div>16</div>
+                <video preload="auto" poster="../img/seo-img.jpg" src="../video/banner-video.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
             </div>
           </div>
-          <div class="btn-scroll scroll-to">
+          <a class="btn-scroll" href="#content">
             <svg width="63" height="14" viewBox="0 0 63 14" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M0 7H55.902" stroke="#989898" stroke-dasharray="5.49 8.78" class="dashed" />
               <path d="M54.9297 1L61.7405 7.16216L54.9297 13" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" />
             </svg>
-          </div>
+          </a>
         </div>
         <div class="spacer-xl"></div>
       </div>
