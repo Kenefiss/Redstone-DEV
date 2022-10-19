@@ -358,6 +358,69 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
 
+  if (window.innerWidth < 576) {
+
+    const obElements = document.querySelectorAll('.category');
+
+    const obOptions = {
+      root: null,
+      rootMargin: '-100px 0px',
+      threshold: 0
+    };
+
+    obElements.forEach(el => {
+
+      const box = el.querySelector('img');
+      el.tl = gsap.timeline({
+        paused: true
+      });
+
+      el.tl
+        .fromTo(box, {
+          y: 300,
+          scale: 1
+        }, {
+          y: -50,
+          scale: 1.5
+        }, {
+          y: -500,
+          scale: 6
+        })
+
+      el.observer = new IntersectionObserver(entry => {
+        if (entry[0].intersectionRatio > 0) {
+
+          gsap.ticker.add(el.progressTween)
+        } else {
+          gsap.ticker.remove(el.progressTween)
+        }
+      }, obOptions);
+
+      el.progressTween = () => {
+        // Get scroll distance to bottom of viewport.
+        const scrollPosition = (window.scrollY + window.innerHeight);
+        // Get element's position relative to bottom of viewport.
+        const elPosition = (scrollPosition - el.offsetTop);
+        // Set desired duration.
+        const durationDistance = (window.innerHeight + el.offsetHeight);
+        // Calculate tween progresss.
+        const currentProgress = (elPosition / durationDistance);
+        // Set progress of gsap timeline.     
+        el.tl.progress(currentProgress / 1.5);
+      }
+
+      el.observer.observe(el);
+    });
+
+
+
+
+  }
+
+
+
+
+
   //*============
   //* 06 POPUPS =
   //*============
