@@ -262,15 +262,11 @@
           <div class="row">
             <div class="col-xl-8 col-lg-10">
               <div class="btn btn-primary open-popup" data-rel="1">
-                <div>
-                  <b>popup 1</b><i></i>
-                </div>
+                <b>popup 1</b>
               </div>
 
               <div class="btn btn-primary open-popup" data-rel="2">
-                <div>
-                  <b>popup 2</b><i></i>
-                </div>
+                <b>popup 2</b>
               </div>
             </div>
           </div>
@@ -287,8 +283,8 @@
   </div>
 
 
+  <div class="popup-wrapper" id="popups"></div>
   <?php include 'inc/_bottom.php';?>
-  <?php include 'inc/_popups.php';?>
 </body>
 
 </html>

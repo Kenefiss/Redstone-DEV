@@ -365,6 +365,10 @@ jQuery(function($) {
     _functions.addScroll();
   };
 
+  _functions.videoPopup = function(src) {
+    $('.video-popup .embed-responsive').html('<iframe src="' + src + '"></iframe>');
+    _functions.openPopup('.video-popup');
+  };
 
   $(document).on('click', '.open-popup', function(e) {
     e.preventDefault();
@@ -376,7 +380,10 @@ jQuery(function($) {
     _functions.closePopup();
   });
 
-
+  $(document).on('click', '.open-video', function(e) {
+    e.preventDefault();
+    _functions.videoPopup($(this).data('src'));
+  });
 
 
 

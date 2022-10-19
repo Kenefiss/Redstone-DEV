@@ -30,7 +30,8 @@
                   <div class="svg-text">
                     <svg version="1.1" viewBox="0 0 100 200" width="100%" height="100%" preserveAspectRatio="xMinYMin meet">
                       <text x="0" y="110" fill="none" stroke="#232323" stroke-width="2" font-size="160">
-                        <tspan fill="#232323" stroke-width="0">20</tspan><tspan class="year-to-change">19</tspan>
+                        <tspan fill="#232323" stroke-width="0">20</tspan>
+                        <tspan class="year-to-change">19</tspan>
                         <tspan fill="#BE0000" stroke-width="0" font-size="60">.</tspan>
                       </text>
                     </svg>
@@ -186,7 +187,7 @@
   </div>
 
 
-  <?php include 'inc/_popups.php';?>
+  <div class="popup-wrapper" id="popups"></div>
   <?php include 'inc/_bottom.php';?>
 </body>
 

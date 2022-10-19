@@ -143,7 +143,7 @@
   </div>
 
 
-  <?php include 'inc/_popups.php';?>
+  <div class="popup-wrapper" id="popups"></div>
   <?php include 'inc/_bottom.php';?>
 </body>
 
