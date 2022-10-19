@@ -25,10 +25,10 @@
                   <b>НАШІ РОБОТИ</b>
                 </a>
                 <div class="logo-group">
-                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" loading="lazy" alt=""></a>
-                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" loading="lazy" alt=""></a>
-                  <a href="https://it-rating.in.ua/rating-webstudio-lvov-2020" target="_blank" rel="nofollow"><img src="img/itr_logo.svg" loading="lazy" alt=""></a>
-                  <a href="#"><img src="img/other.svg" loading="lazy" alt=""></a>
+                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
+                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
+                  <a href="https://it-rating.in.ua/rating-webstudio-lvov-2020" target="_blank" rel="nofollow"><img src="img/itr_logo.svg" width="100" height="39" loading="lazy" alt=""></a>
+                  <a href="#"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
@@ -261,7 +261,11 @@
       <!-- FORM -->
       <div class="section" id="contact">
         <div class="map-img">
-          <img src="img/map.png" alt="">
+          <picture>
+            <source srcset="img/map.webp" type="image/webp">
+            <source srcset="img/map.png" type="image/png">
+            <img src="img/map.png" alt="">
+          </picture>
         </div>
         <div class="container">
           <div class="row">
