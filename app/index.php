@@ -25,10 +25,10 @@
                   <b>НАШІ РОБОТИ</b>
                 </a>
                 <div class="logo-group">
-                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" loading="lazy" alt=""></a>
-                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" loading="lazy" alt=""></a>
-                  <a href="https://it-rating.in.ua/rating-webstudio-lvov-2020" target="_blank" rel="nofollow"><img src="img/itr_logo.svg" loading="lazy" alt=""></a>
-                  <a href="#"><img src="img/other.svg" loading="lazy" alt=""></a>
+                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
+                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
+                  <a href="https://it-rating.in.ua/rating-webstudio-lvov-2020" target="_blank" rel="nofollow"><img src="img/itr_logo.svg" width="100" height="39" loading="lazy" alt=""></a>
+                  <a href="#"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
@@ -69,7 +69,7 @@
                   <picture>
                     <source srcset="img/category-img-10.webp" type="image/webp">
                     <source srcset="img/category-img-10.png" type="image/png">
-                    <img src="img/category-img-10.png" alt="">
+                    <img src="img/category-img-10.png" width="346" height="340" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -84,7 +84,7 @@
                   <picture>
                     <source srcset="img/category-img-8.webp" type="image/webp">
                     <source srcset="img/category-img-8.png" type="image/png">
-                    <img src="img/category-img-8.png" alt="">
+                    <img src="img/category-img-8.png" width="467" height="352" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -99,7 +99,7 @@
                   <picture>
                     <source srcset="img/category-img-5.webp" type="image/webp">
                     <source srcset="img/category-img-5.png" type="image/png">
-                    <img src="img/category-img-5.png" alt="">
+                    <img src="img/category-img-5.png" width="292" height="410" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -114,7 +114,7 @@
                   <picture>
                     <source srcset="img/category-img-9.webp" type="image/webp">
                     <source srcset="img/category-img-9.png" type="image/png">
-                    <img src="img/category-img-9.png" alt="">
+                    <img src="img/category-img-9.png" width="430" height="392" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -129,7 +129,7 @@
                   <picture>
                     <source srcset="img/category-img-7.webp" type="image/webp">
                     <source srcset="img/category-img-7.png" type="image/png">
-                    <img src="img/category-img-7.png" alt="">
+                    <img src="img/category-img-7.png" width="492" height="339" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -144,7 +144,7 @@
                   <picture>
                     <source srcset="img/category-img-3.webp" type="image/webp">
                     <source srcset="img/category-img-3.png" type="image/png">
-                    <img src="img/category-img-3.png" alt="">
+                    <img src="img/category-img-3.png" width="471" height="503" alt="">
                   </picture>
                 </span>
                 <div class="review-btn">
@@ -249,7 +249,11 @@
       <!-- FORM -->
       <div class="section" id="contact">
         <div class="map-img">
+        <picture>
+          <source srcset="img/map.webp" type="image/webp">
+          <source srcset="img/map.png" type="image/png">
           <img src="img/map.png" alt="">
+        </picture>
         </div>
         <div class="container">
           <div class="row">

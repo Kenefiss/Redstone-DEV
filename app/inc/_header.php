@@ -2,7 +2,7 @@
   <div class="header-wrap">
     <div class="container-fluid">
       <div class="header-informer text text-sm">
-        <img src="img/informer-img.svg" alt="" loading="lazy">
+        <img src="img/informer-img.svg" width="35" height="35" alt="" loading="lazy">
         <b>Благодійність та волонтерство у веб-розробці.</b>
         <a href="#">ПЕРЕГЛЯНУТИ РОБОТИ</a>
       </div>

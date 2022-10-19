@@ -15,7 +15,7 @@
                   <picture>
                     <source srcset="img/review-img-1.webp" type="image/webp">
                     <source srcset="img/review-img-1.jpg" type="image/jpg">
-                    <img src="img/review-img-1.jpg" alt="">
+                    <img src="img/review-img-1.jpg" width="468" height="309" alt="">
                   </picture>
                   <div class="review-btn">
                     <i class="review-icon">play</i>
@@ -29,7 +29,7 @@
                   <picture>
                     <source srcset="img/review-img-2.webp" type="image/webp">
                     <source srcset="img/review-img-2.jpg" type="image/jpg">
-                    <img src="img/review-img-2.jpg" alt="">
+                    <img src="img/review-img-2.jpg" width="466" height="309" alt="">
                   </picture>
                   <div class="review-btn">
                     <i class="review-icon">play</i>
@@ -43,7 +43,7 @@
                   <picture>
                     <source srcset="img/review-img-3.webp" type="image/webp">
                     <source srcset="img/review-img-3.jpg" type="image/jpg">
-                    <img src="img/review-img-3.jpg" alt="">
+                    <img src="img/review-img-3.jpg" width="467" height="309" alt="">
                   </picture>
                   <div class="review-btn">
                     <i class="review-icon">play</i>
