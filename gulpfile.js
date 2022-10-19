@@ -214,5 +214,8 @@ export const ftp = () => {
     .pipe(ftpConnect.dest(`./`))
 }
 
-gulp.task('build', gulp.series(cleanBuild, styles, scripts, img, copyApp, zip));
-gulp.task('default', gulp.parallel(styles, scripts, img, server, startWatch));
+// gulp.task('build', gulp.series(cleanBuild, styles, scripts, img, copyApp, zip));
+// gulp.task('default', gulp.parallel(styles, scripts, img, server, startWatch));
+
+gulp.task('build', gulp.series(cleanBuild, styles, img, copyApp, zip));
+gulp.task('default', gulp.parallel(styles, img, server, startWatch));
