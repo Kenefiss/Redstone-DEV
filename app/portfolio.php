@@ -45,8 +45,8 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="img/category-img-10.webp" type="image/webp">
-                      <source srcset="img/category-img-10.png" type="image/png">
+                      <source srcset="img/category-img-1.webp" type="image/webp">
+                      <source srcset="img/category-img-1.png" type="image/png">
                       <img src="img/category-img-10.png" alt="">
                     </picture>
                   </div>
@@ -62,9 +62,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="img/category-img-8.webp" type="image/webp">
-                      <source srcset="img/category-img-8.png" type="image/png">
-                      <img src="img/category-img-8.png" alt="">
+                      <source srcset="img/category-img-2.webp" type="image/webp">
+                      <source srcset="img/category-img-2.png" type="image/png">
+                      <img src="img/category-img-2.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -76,6 +76,40 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">APP</span>
+                <span class="category-img">
+                  <div class="category-img-box">
+                    <picture>
+                      <source srcset="img/category-img-3.webp" type="image/webp">
+                      <source srcset="img/category-img-3.png" type="image/png">
+                      <img src="img/category-img-3.png" alt="">
+                    </picture>
+                  </div>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-sm-6 col-md-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Брендування</span>
+                <span class="category-img">
+                  <div class="category-img-box">
+                    <picture>
+                      <source srcset="img/category-img-6.webp" type="image/webp">
+                      <source srcset="img/category-img-6.png" type="image/png">
+                      <img src="img/category-img-6.png" alt="">
+                    </picture>
+                  </div>
+                </span>
+                <div class="review-btn">
+                  <i class="review-icon"></i>
+                </div>
+              </a>
+            </div>
+            <div class="col-sm-6 col-md-4 category">
+              <a href="category-detail.php" class="category-entry">
+                <span class="category-title">Aвто</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
@@ -96,43 +130,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="img/category-img-9.webp" type="image/webp">
-                      <source srcset="img/category-img-9.png" type="image/png">
-                      <img src="img/category-img-9.png" alt="">
-                    </picture>
-                  </div>
-                </span>
-                <div class="review-btn">
-                  <i class="review-icon"></i>
-                </div>
-              </a>
-            </div>
-            <div class="col-sm-6 col-md-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Aвто</span>
-                <span class="category-img">
-                  <div class="category-img-box">
-                    <picture>
-                      <source srcset="img/category-img-7.webp" type="image/webp">
-                      <source srcset="img/category-img-7.png" type="image/png">
-                      <img src="img/category-img-7.png" alt="">
-                    </picture>
-                  </div>
-                </span>
-                <div class="review-btn">
-                  <i class="review-icon"></i>
-                </div>
-              </a>
-            </div>
-            <div class="col-sm-6 col-md-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Брендування</span>
-                <span class="category-img">
-                  <div class="category-img-box">
-                    <picture>
-                      <source srcset="img/category-img-3.webp" type="image/webp">
-                      <source srcset="img/category-img-3.png" type="image/png">
-                      <img src="img/category-img-3.png" alt="">
+                      <source srcset="img/category-img-4.webp" type="image/webp">
+                      <source srcset="img/category-img-4.png" type="image/png">
+                      <img src="img/category-img-4.png" alt="">
                     </picture>
                   </div>
                 </span>
