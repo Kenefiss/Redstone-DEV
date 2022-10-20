@@ -74,8 +74,13 @@
 <body>
   <div id="content-block">
     <div class="current-links">
+<<<<<<< HEAD
       <a href="http://moonart.net.ua/tarasshev/<?php echo basename(dirname(__DIR__));?>/<?php echo basename(dirname(__DIR__));?>.zip" download="<?php echo basename(dirname(__DIR__));?>.zip">
         <strong><?php echo basename(dirname(__DIR__));?>.zip</strong>
+=======
+      <a href="http://moonart.net.ua/tarasshev/<?php echo basename(dirname( __DIR__)); ?>/<?php echo basename(dirname( __DIR__)); ?>.zip" download="<?php echo basename(dirname( __DIR__)); ?>.zip">
+        <strong><?php echo basename(dirname( __DIR__)); ?>.zip</strong>
+>>>>>>> c182898f76659ba05a5d52ae208512e843536c02
       </a>
 
       <ol>
