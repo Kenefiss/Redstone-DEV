@@ -45,7 +45,7 @@
 .category-img {position: absolute;left: 0;width: 100%;}
 .category-title {font-size: 26px;font-weight: 500;line-height: 1.2;display: block;color: var(--clr-black);height: 25%;top: 0;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
 .category-img {width: 100%;height: 75%;bottom: 0;}
-.category-img-box {position: absolute;top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);transform: translate(-50%, -50%);width: 80%;height: 80%;}
+.category-img-box {position: absolute;top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);transform: translate(-50%, -50%);width: 100%;height: 100%;}
 .category-img-box img {vertical-align: bottom;max-width: 100%;max-height: 100%;}
 .category .review-icon::before,
 .category .review-icon::after,
@@ -74,6 +74,9 @@
 }
 @media (max-width: 767px) {
 .category-title {font-size: 18px;}
+}
+@media (max-width: 575px) {
+.category-img-box {width: 90%;height: 90%;}
 }
 /*--------------------*/
 /* - SERVICES         */
