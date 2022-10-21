@@ -35,7 +35,7 @@
             <div class="col-xl-5 order-1 order-xl-2">
               <div class="banner-num">
                 <div>16</div>
-                <video preload="auto" poster="img/seo-img.jpg" src="video/banner-video.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                <video preload="auto" poster="img/seo-img.jpg" src="video/banner-video12.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> Років переносимо ваш бізнес online</div>
             </div>
@@ -115,13 +115,13 @@
             </div>
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Брендування</span>
+                <span class="category-title">Експрес рішення</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="img/category-img-6.webp" type="image/webp">
-                      <source srcset="img/category-img-6.png" type="image/png">
-                      <img src="img/category-img-6.png" alt="">
+                      <source srcset="img/category-img-4.webp" type="image/webp">
+                      <source srcset="img/category-img-4.png" type="image/png">
+                      <img src="img/category-img-4.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -149,13 +149,13 @@
             </div>
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Експрес рішення</span>
+                <span class="category-title">Брендування</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="img/category-img-4.webp" type="image/webp">
-                      <source srcset="img/category-img-4.png" type="image/png">
-                      <img src="img/category-img-4.png" alt="">
+                      <source srcset="img/category-img-6.webp" type="image/webp">
+                      <source srcset="img/category-img-6.png" type="image/png">
+                      <img src="img/category-img-6.png" alt="">
                     </picture>
                   </div>
                 </span>

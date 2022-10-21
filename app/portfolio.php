@@ -92,13 +92,13 @@
             </div>
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Брендування</span>
+                <span class="category-title">Експрес рішення</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="img/category-img-6.webp" type="image/webp">
-                      <source srcset="img/category-img-6.png" type="image/png">
-                      <img src="img/category-img-6.png" alt="">
+                      <source srcset="img/category-img-4.webp" type="image/webp">
+                      <source srcset="img/category-img-4.png" type="image/png">
+                      <img src="img/category-img-4.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -126,13 +126,13 @@
             </div>
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Експрес рішення</span>
+                <span class="category-title">Брендування</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="img/category-img-4.webp" type="image/webp">
-                      <source srcset="img/category-img-4.png" type="image/png">
-                      <img src="img/category-img-4.png" alt="">
+                      <source srcset="img/category-img-6.webp" type="image/webp">
+                      <source srcset="img/category-img-6.png" type="image/png">
+                      <img src="img/category-img-6.png" alt="">
                     </picture>
                   </div>
                 </span>
