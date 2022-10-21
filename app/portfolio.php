@@ -47,7 +47,7 @@
                     <picture>
                       <source srcset="img/category-img-1.webp" type="image/webp">
                       <source srcset="img/category-img-1.png" type="image/png">
-                      <img src="img/category-img-1.png" alt="">
+                      <img src="img/category-img-10.png" alt="">
                     </picture>
                   </div>
                 </span>

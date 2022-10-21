@@ -15,7 +15,13 @@
 
       <!-- FORM -->
       <div class="section">
-        <div class="map-img d-none d-xl-block"><img src="img/map.png" loading="lazy" alt=""></div>
+        <div class="map-img position-2 d-none d-xl-block">
+          <picture>
+            <source srcset="img/map.webp" type="image/webp">
+            <source srcset="img/map.png" type="image/png">
+            <img src="img/map.png" alt="">
+          </picture>
+        </div>
         <div class="container">
           <div class="row">
             <div class="col-12">
@@ -25,13 +31,13 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 col-xl-3">
               <div class="address">
-                <h5>Київ</h5>
+                <h5>Львів</h5>
                 <table>
                   <tr>
                     <td>Адреса:</td>
-                    <td><a href="#">м. Київ, вул. Вільшанська 8</a></td>
+                    <td><a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" target="_blank" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"><span itemprop="addressLocality">м. Львів</span>, <span itemprop="streetAddress">вул. Героїв УПА 73</span></a></td>
                   </tr>
                   <tr>
                     <td>Телефон:</td>
@@ -44,13 +50,51 @@
                 </table>
               </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 col-xl-3">
               <div class="address">
-                <h5>Львів</h5>
+                <h5>Львів 2</h5>
                 <table>
                   <tr>
                     <td>Адреса:</td>
-                    <td><a href="#">м. Львів, вул. Героїв УПА 73</a></td>
+                    <td><a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" target="_blank" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"><span itemprop="addressLocality">м. Львів</span>, <span itemprop="streetAddress">вул. Героїв УПА 73</span></a></td>
+                  </tr>
+                  <tr>
+                    <td>Телефон:</td>
+                    <td><a href="tel:+38 (098) 15 15 285">+38 (098) 15 15 285 </a></td>
+                  </tr>
+                  <tr>
+                    <td>Email:</td>
+                    <td><a href="mailto:office@redstone.agency">office@redstone.agency</a></td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 col-xl-3">
+              <div class="address">
+                <h5>Київ</h5>
+                <table>
+                  <tr>
+                    <td>Адреса:</td>
+                    <td><a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" target="_blank" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"><span itemprop="addressLocality">м. Київ</span>, <span itemprop="streetAddress">вул. Солом'янська, 1</span></a></td>
+                  </tr>
+                  <tr>
+                    <td>Телефон:</td>
+                    <td><a href="tel:+38 (098) 15 15 285">+38 (098) 15 15 285 </a></td>
+                  </tr>
+                  <tr>
+                    <td>Email:</td>
+                    <td><a href="mailto:office@redstone.agency">office@redstone.agency</a></td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 col-xl-3">
+              <div class="address">
+                <h5>Київ 2</h5>
+                <table>
+                  <tr>
+                    <td>Адреса:</td>
+                    <td><a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" target="_blank" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"><span itemprop="addressLocality">м. Київ</span>, <span itemprop="streetAddress">вул. Солом'янська, 1</span></a></td>
                   </tr>
                   <tr>
                     <td>Телефон:</td>

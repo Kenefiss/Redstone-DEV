@@ -444,7 +444,6 @@ footer {
   }
 
   .contact-info {
-    display: block;
     margin-bottom: 20px;
   }
 
@@ -453,13 +452,14 @@ footer {
     max-width: 100%;
     font-size: 16px;
     margin-bottom: 5px;
+    margin-right:10px;
   }
 }
 
 @media (max-width: 575px) {
   .footer-links li {
     width: calc(100% / 3 - 30px);
-    text-align: center;
+    text-align: left;
   }
 
   .footer-left-bottom {
