@@ -184,4 +184,16 @@
     width: 90%;
     height: 90%;
   }
+
+  .category-entry:before {
+    bottom: auto;
+    transition: .5s;
+    transition-delay: .5s;
+  }
+
+  .show-bg .category-entry:before {
+    top: auto;
+    bottom: 0;
+    height: 100%;
+  }
 }

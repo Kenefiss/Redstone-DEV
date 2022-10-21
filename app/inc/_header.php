@@ -1,11 +1,6 @@
 <header>
   <div class="header-wrap">
     <div class="container-fluid">
-      <div class="header-informer text text-sm">
-        <img src="img/informer-img.svg" width="35" height="35" alt="" loading="lazy">
-        <b>Благодійність та волонтерство у веб-розробці.</b>
-        <a href="#">ПЕРЕГЛЯНУТИ РОБОТИ</a>
-      </div>
       <div class="header-wrap-inner">
         <div class="header-wrap-left">
           <a class="header-logo" href="index.php">
@@ -154,6 +149,13 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="header-informer text text-sm">
+        <img src="img/informer-img.svg" width="35" height="35" alt="" loading="lazy">
+        <b>Благодійність та волонтерство у веб-розробці.</b>
+        <a href="#">ПЕРЕГЛЯНУТИ РОБОТИ</a>
+
+        <div class="btn-close"></div>
       </div>
     </div>
   </div>
