@@ -454,16 +454,26 @@ document.addEventListener("DOMContentLoaded", function() {
   _functions.closePopup = function() {
     document.querySelectorAll(".popup-wrapper, .popup-content").forEach((element) => {
       element.classList.remove("active");
+      $('.video-popup iframe').remove();
     });
     _functions.addScroll();
   };
 
+  _functions.videoPopup = function (src) {
+    $('.video-popup .embed-responsive').html('<iframe src="' + src + '"></iframe>');
+    _functions.openPopup('.video-popup');
+  };
 
   document.addEventListener('click', (e) => {
     if (e.target.closest('.popup-content .layer-close, .popup-wrapper .close-popup')) {
       e.preventDefault();
       _functions.closePopup();
     }
+  });
+
+  $(document).on('click', '.open-video', function (e) {
+    e.preventDefault();
+    _functions.videoPopup($(this).data('src'));
   });
 
 
@@ -494,6 +504,8 @@ document.addEventListener("DOMContentLoaded", function() {
       }
     }
   });
+
+
 
 
   //*==============
