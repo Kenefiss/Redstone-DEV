@@ -13,6 +13,27 @@
 
     <main>
 
+      <!-- BREADCRUMBS -->
+      <div class="section sec-breadcrumbs">
+        <div class="container">
+          <ul class="breadcrumbs">
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <a href="index.php" itemprop="url">
+                <span itemprop="title">Головна</span>
+              </a>
+            </li>
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <a href="blog.php" itemprop="url">
+                <span itemprop="title">Блог</span>
+              </a>
+            </li>
+            <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <span itemprop="title">Тренди веб-дизайну у 2019 році</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
       <!-- BLOG -->
       <div class="section">
         <div class="container">

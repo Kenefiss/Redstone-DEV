@@ -386,6 +386,7 @@ to {fill: var(--clr-grey3);stroke: transparent;}
 .year .svg-text:before {content: "";position: absolute;bottom: 25px;left: 0;height: 2px;width: 100%;max-width: 218px;background-color: var(--clr-red);}
 .year-row .year-mobile {margin-bottom: 30px;}
 .year-row .year-mobile span {border-bottom: 2px solid var(--clr-red);}
+.awards-slider .award-item {margin: 0;}
 /*media*/
 @media (min-width: 1200px) {
 .award-img:hover {-webkit-box-shadow: 0 10px 35px 0 rgba(0, 0, 0, 0.3);box-shadow: 0 10px 35px 0 rgba(0, 0, 0, 0.3);}

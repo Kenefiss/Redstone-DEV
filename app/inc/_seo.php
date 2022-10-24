@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xl-7">
-        <h1 class="title h2 title-margin">REDSTONE - ваш надійний цифровий партнер</h1>
+        <h1 class="title h2 title-margin"><b>REDSTONE</b> - ваш надійний цифровий партнер</h1>
         <div class="row">
           <div class="col-md-6">
             <div class="simple-page text">

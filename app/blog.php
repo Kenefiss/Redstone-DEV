@@ -13,6 +13,22 @@
 
     <main>
 
+      <!-- BREADCRUMBS -->
+      <div class="section sec-breadcrumbs">
+        <div class="container">
+          <ul class="breadcrumbs">
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <a href="index.php" itemprop="url">
+                <span itemprop="title">Головна</span>
+              </a>
+            </li>
+            <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <span itemprop="title">Блог</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
       <!-- BLOG -->
       <div class="section">
         <div class="container">
