@@ -477,6 +477,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 
+
   document.addEventListener('click', (e) => {
     const popupWrapper = document.getElementById("popups");
 

@@ -13,6 +13,22 @@
 
     <main>
 
+      <!-- BREADCRUMBS -->
+      <div class="section sec-breadcrumbs">
+        <div class="container">
+          <ul class="breadcrumbs">
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <a href="index.php" itemprop="url">
+                <span itemprop="title">Головна</span>
+              </a>
+            </li>
+            <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <span itemprop="title">Контакти</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
       <!-- FORM -->
       <div class="section">
         <div class="map-img position-2 d-none d-xl-block">

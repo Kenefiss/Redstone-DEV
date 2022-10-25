@@ -29,6 +29,21 @@
 .seo-img {position: relative;width: auto;right: auto;display: block;}
 }
 /*--------------------*/
+/* - Breadcrumbs      */
+/*--------------------*/
+.breadcrumbs {position: absolute;color: var(--clr-plc);z-index: 10;}
+.breadcrumbs ul {font-size: 0;}
+.breadcrumbs li {display: inline-block;vertical-align: top;font-size: 14px;text-transform: uppercase;letter-spacing: 0.05em;font-weight: 400;}
+.breadcrumbs li + li:before {content: "-";padding: 0 8px;}
+/*media*/
+@media (min-width: 1200px) {
+.breadcrumbs a {-webkit-transition: var(--transition-1);transition: var(--transition-1);}
+.breadcrumbs a:hover {color: var(--clr-red);}
+}
+@media (max-width: 1199px) {
+.sec-breadcrumbs {display: none;}
+}
+/*--------------------*/
 /* - CATEGORIES       */
 /*--------------------*/
 .categories.row {margin-bottom: 60px;--bs-gutter-y: 30px;}
@@ -386,6 +401,7 @@ to {fill: var(--clr-grey3);stroke: transparent;}
 .year .svg-text:before {content: "";position: absolute;bottom: 25px;left: 0;height: 2px;width: 100%;max-width: 218px;background-color: var(--clr-red);}
 .year-row .year-mobile {margin-bottom: 30px;}
 .year-row .year-mobile span {border-bottom: 2px solid var(--clr-red);}
+.awards-slider .award-item {margin: 0;}
 /*media*/
 @media (min-width: 1200px) {
 .award-img:hover {-webkit-box-shadow: 0 10px 35px 0 rgba(0, 0, 0, 0.3);box-shadow: 0 10px 35px 0 rgba(0, 0, 0, 0.3);}
