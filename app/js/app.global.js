@@ -614,7 +614,7 @@ document.addEventListener("DOMContentLoaded", function() {
   //   });
   // }
 
-  // /* change year after scroll */
+  /* change year after scroll */
   // _functions.yearScroll = function() {
   //   if (!$('.year-row').length || winW < 1200) return false;
 
@@ -624,6 +624,40 @@ document.addEventListener("DOMContentLoaded", function() {
   //     }
   //   });
   // }
+
+
+  // Animation
+  if (document.querySelector('.year-wrap')) {
+    const yearRow = document.querySelectorAll('.year-row');
+
+    const yearNum = document.querySelector('.year-to-change');
+
+    const headerH = document.querySelector('header').offsetHeight;
+
+    console.log(headerH)
+
+    const options = {
+      root: null,
+      threshold: 0,
+      rootMargin: `-${headerH}px 0px 0px 0px`
+    };
+
+    const observerYear = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          yearNum.innerHTML = entry.target.getAttribute('data-year');
+        }
+      })
+
+    }, options);
+
+    yearRow.forEach(row => {
+      observerYear.observe(row)
+    });
+  }
+
+
+
 
 
 
