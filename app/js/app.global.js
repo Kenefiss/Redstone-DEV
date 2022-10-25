@@ -465,14 +465,9 @@ document.addEventListener("DOMContentLoaded", function() {
   _functions.closePopup = function() {
     document.querySelectorAll(".popup-wrapper, .popup-content").forEach((element) => {
       element.classList.remove("active");
-      $('.video-popup iframe').remove();
+      document.querySelector('.video-popup iframe').remove();
     });
     _functions.addScroll();
-  };
-
-  _functions.videoPopup = function (src) {
-    $('.video-popup .embed-responsive').html('<iframe src="' + src + '"></iframe>');
-    _functions.openPopup('.video-popup');
   };
 
   document.addEventListener('click', (e) => {
@@ -481,12 +476,6 @@ document.addEventListener("DOMContentLoaded", function() {
       _functions.closePopup();
     }
   });
-
-  $(document).on('click', '.open-video', function (e) {
-    e.preventDefault();
-    _functions.videoPopup($(this).data('src'));
-  });
-
 
   document.addEventListener('click', (e) => {
     const popupWrapper = document.getElementById("popups");
@@ -513,6 +502,41 @@ document.addEventListener("DOMContentLoaded", function() {
         ajaxPopup.open("GET", "inc/_popups.php", true);
         ajaxPopup.send();
       }
+    }
+  });
+
+  _functions.videoPopup = function(src) {
+    const videoPopup = document.querySelector('.video-popup');
+    const videoContent = videoPopup.querySelector('.video-popup-container iframe');
+
+    videoContent.src = src
+    videoPopup.classList.add('active');
+
+    _functions.removeScroll();
+  };
+
+  _functions.closeVideoPopup = function() {
+    const videoPopup = document.querySelector('.video-popup');
+    const videoContent = videoPopup.querySelector('.video-popup-container iframe');
+
+    videoContent.src = 'about:blank'
+    videoPopup.classList.remove('active');
+
+    _functions.addScroll();
+  };
+
+  document.addEventListener('click', (e) => {
+    if (e.target.closest('.open-video')) {
+      const srcVideo = e.target.closest('.open-video').getAttribute('data-src')
+      e.preventDefault();
+      _functions.videoPopup(srcVideo);
+    }
+  });
+
+  document.addEventListener('click', (e) => {
+    if (e.target.closest('.video-popup-close, .video-popup-layer')) {
+      e.preventDefault();
+      _functions.closeVideoPopup();
     }
   });
 

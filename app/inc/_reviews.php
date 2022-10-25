@@ -11,7 +11,7 @@
           <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 2, "autoHeight": true, "breakpoints": {"575": {"spaceBetween": 30}}}'>
             <div class="swiper-wrapper row">
               <div class="col-md-4 swiper-slide">
-                <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/s7dQ8OSd9rQ?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
+                <div class="review-img open-video" data-src="https://www.youtube.com/embed/s7dQ8OSd9rQ?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
                   <picture>
                     <source srcset="img/review-img-1.webp" type="image/webp">
                     <source srcset="img/review-img-1.jpg" type="image/jpg">
@@ -25,7 +25,7 @@
                 <div class="review-category">Стоматологічна компанія</div>
               </div>
               <div class="col-md-4 swiper-slide">
-                <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/mi7AqJbTRAM?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
+                <div class="review-img open-video" data-src="https://www.youtube.com/embed/mi7AqJbTRAM?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
                   <picture>
                     <source srcset="img/review-img-2.webp" type="image/webp">
                     <source srcset="img/review-img-2.jpg" type="image/jpg">
@@ -39,7 +39,7 @@
                 <div class="review-category">Ресторанна компанія</div>
               </div>
               <div class="col-md-4 swiper-slide">
-                <div class="review-img open-video open-popup" data-src="https://www.youtube.com/embed/5z2rIsRPOso?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
+                <div class="review-img open-video" data-src="https://www.youtube.com/embed/5z2rIsRPOso?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=whiteamp;theme=light&wmode=transparent">
                   <picture>
                     <source srcset="img/review-img-3.webp" type="image/webp">
                     <source srcset="img/review-img-3.jpg" type="image/jpg">
