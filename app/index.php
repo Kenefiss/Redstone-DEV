@@ -614,6 +614,7 @@
 
 
   <div class="popup-wrapper" id="popups"></div>
+  <?php include 'inc/_popup-video.php';?>
   <?php include 'inc/_bottom.php';?>
 </body>
 

@@ -1,5 +1,5 @@
 /*--------------------*/
-/* - AWWARDS          */
+/* - AWARDS           */
 /*--------------------*/
 .award-item:nth-child(n+5){margin-top: 70px;}
 .award-title{font-size: 28px;font-weight: 500;color:var(--clr-title);line-height: 1.2;margin-bottom:10px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
@@ -15,28 +15,140 @@
 .year-row .year-mobile span{border-bottom: 2px solid var(--clr-red);}
 .awards-slider .award-item{margin:0;}
 .awards-slider .award-item{margin-top:0!important;}
+.award-item:nth-child(n+5) {
+  margin-top: 70px;
+}
+
+.award-title {
+  font-size: 28px;
+  font-weight: 500;
+  color: var(--clr-title);
+  line-height: 1.2;
+  margin-bottom: 10px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.award-subtitle {
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+
+.award-img {
+  overflow: hidden;
+  position: relative;
+  transition: var(--transition-1);
+}
+
+.award-img .review-icon {
+  font-size: 40px;
+}
+
+.year-wrap {
+  position: sticky;
+  top: calc(var(--h-height) + 30px);
+}
+
+.year-row+.year-row {
+  margin-top: 80px;
+}
+
+.year .svg-text {
+  width: 100%;
+  height: 100px;
+  position: relative;
+  font-weight: 600;
+}
+
+.year .svg-text svg text {
+  font-size: 160px;
+}
+
+.year .svg-text:before {
+  content: "";
+  position: absolute;
+  bottom: 25px;
+  left: 0;
+  height: 2px;
+  width: 100%;
+  max-width: 218px;
+  background-color: var(--clr-red);
+}
+
+.year-row .year-mobile {
+  margin-bottom: 30px;
+}
+
+.year-row .year-mobile span {
+  border-bottom: 2px solid var(--clr-red);
+}
+
+.awards-slider .award-item {
+  margin: 0;
+}
+
 /*media*/
-@media(min-width:1200px){
-  .award-img:hover{box-shadow: 0 10px 35px 0 rgb(0 0 0 / 30%);}
-  .award-img:hover .review-icon{opacity: 1;visibility: visible;}
+@media(min-width:1200px) {
+  .award-img:hover {
+    box-shadow: 0 10px 35px 0 rgb(0 0 0 / 30%);
+  }
+
+  .award-img:hover .review-icon {
+    opacity: 1;
+    visibility: visible;
+  }
 }
-@media(max-width:1839px){
-  .award-item:nth-child(n+5){margin-top: 50px;}
+
+@media(max-width:1839px) {
+  .award-item:nth-child(n+5) {
+    margin-top: 50px;
+  }
 }
-@media(max-width:1560px){
-  .award-title{font-size: 24px;}
+
+@media(max-width:1560px) {
+  .award-title {
+    font-size: 24px;
+  }
 }
-@media(max-width:1199px){
-  .award-item:nth-child(n+5){margin-top: 30px;}
-  .award-img .review-icon{display: none;}
-  .award-title{font-size: 20px;margin-bottom: 5px;}
-  .award-subtitle{margin-bottom: 10px;}
+
+@media(max-width:1199px) {
+  .award-item:nth-child(n+5) {
+    margin-top: 30px;
+  }
+
+  .award-img .review-icon {
+    display: none;
+  }
+
+  .award-title {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .award-subtitle {
+    margin-bottom: 10px;
+  }
 }
-@media(max-width:991px){
-  .award-item:nth-child(n+4){margin-top: 25px;}
+
+@media(max-width:991px) {
+  .award-item:nth-child(n+4) {
+    margin-top: 25px;
+  }
 }
-@media(max-width:767px){
-  .year-row + .year-row{margin-top: 50px;}
-  .year-row .year-mobile{margin-bottom:20px;}
-  .award-item:nth-child(n+3){margin-top: 25px;}
+
+@media(max-width:767px) {
+  .year-row+.year-row {
+    margin-top: 50px;
+  }
+
+  .year-row .year-mobile {
+    margin-bottom: 20px;
+  }
+
+  .award-item:nth-child(n+3) {
+    margin-top: 25px;
+  }
 }
