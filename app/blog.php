@@ -50,7 +50,7 @@
               </div>
             </div>
           </div>
-          <div class="row news-wrapp">
+          <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
                 <a href="blog-detail.php">

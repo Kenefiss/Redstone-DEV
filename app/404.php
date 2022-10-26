@@ -16,10 +16,10 @@
       <div class="section page-404">
         <div class="container">
           <div class="page-404-wrap">
-            <div class="page-404-num">
+            <div class="page-404-num animate-item fadeInUp">
               <b>404</b>
             </div>
-            <div class="page-404-inner">
+            <div class="page-404-inner animate-item fadeInUp delay-1">
               <div class="page-404-inner-right">
                 <h1 class="h4 title">
                   На жаль такої сторінки не існує

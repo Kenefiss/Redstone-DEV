@@ -56,11 +56,11 @@
           <div class="row">
             <div calss="col-12">
               <div class="title-with-text">
-                <div class="title h2 color-white">Ми виходимо за рамки очікуваного, щоб знайти найкраще рішення</div>
+                <div class="title h2 color-white animate-item fadeInUp">Ми виходимо за рамки очікуваного, щоб знайти найкраще рішення</div>
               </div>
             </div>
           </div>
-          <div class="row benefits">
+          <div class="row benefits animate-item fadeInUp delay-1">
             <div class="col-lg-6">
               <div class="benefit-item">
                 <div class="benefit-title h5 color-white">Найкращі, унікальні рішення</div>
@@ -95,11 +95,11 @@
           <div class="row">
             <div calss="col-12">
               <div class="title-with-text">
-                <div class="title h2">Що ми використовуємо</div>
+                <div class="title h2 animate-item fadeInUp">Що ми використовуємо</div>
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row animate-item fadeInUp delay-1">
             <div class="swiper-entry clients-slider size2">
               <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "slidesPerGroup":4, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
                 <div class="swiper-wrapper clients">

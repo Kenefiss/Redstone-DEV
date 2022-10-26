@@ -113,7 +113,7 @@
           </div>
           <div class="row">
             <div class="col-12 col-xl-6 d-none d-xl-block">
-              <div class="service-imgs">
+              <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
                   <source srcset="img/service-img-1.webp" type="image/webp">
                   <source srcset="img/service-img-1.png" type="image/png">
@@ -127,7 +127,7 @@
               </div>
             </div>
             <div class="col-12 col-xl-6">
-              <div class="our-process">
+              <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
                   <div class="title h5">Аналіз конкурентів</div>
@@ -175,7 +175,7 @@
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
                 <div class="circle-item"><div class="inner-content"><span>Робимо аудит та аналіз</span></div></div>
@@ -186,7 +186,7 @@
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
                 <p>Вивчаємо сайт, знаходимо всі проблемні місця і визначаємо, як їх усунути. Аналізуємо конкурентів в пошуковій видачі та іхні стратегії. Робимо аудит наявного трафіку на сайт у розрізі джерел та ефективності у пошукових системах.</p>
@@ -209,7 +209,7 @@
             </div>
           </div>
           <div class="projects-wrapp">
-            <div class="row project-item">
+            <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
                   <div class="title h4">Finhub</div>
@@ -228,7 +228,7 @@
                 </div>
               </div>
             </div>
-            <div class="row project-item">
+            <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
                   <div class="title h4">4 Your health</div>
@@ -247,7 +247,7 @@
                 </div>
               </div>
             </div>
-            <div class="row project-item">
+            <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
                   <div class="title h4">INSPE</div>
@@ -281,7 +281,7 @@
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row animate-item fadeInUp delay-1">
             <div class="swiper-entry awards-slider">
               <div class="swiper-button-prev d-none d-xl-block"><i></i></div>
               <div class="swiper-button-next d-none d-xl-block"><i></i></div>
@@ -372,14 +372,14 @@
           <div class="row">
             <div calss="col-12">
               <div class="title-with-text">
-                <div class="title h2">Що ми використовуємо для досягнення успіху</div>
+                <div class="title h2 animate-item fadeInUp">Що ми використовуємо для досягнення успіху</div>
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row animate-item fadeInUp delay-1">
             <div class="swiper-entry clients-slider size2">
               <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "slidesPerGroup":4, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
-                <div class="swiper-wrapper clients">
+                <div class="swiper-wrapper clients justify-content-xl-center">
                   <div class="swiper-slide">
                     <div class="client-img"><img src="img/tech-10.png" loading="lazy" alt=""></div>
                   </div>

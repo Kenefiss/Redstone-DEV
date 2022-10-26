@@ -46,7 +46,7 @@
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row animate-item fadeInUp">
             <div class="col-12 col-md-6 col-xl-3">
               <div class="address">
                 <h5>Львів</h5>
@@ -124,7 +124,7 @@
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row animate-item fadeInUp delay-1">
             <div class="col-xl-5 offset-xl-7">
               <div class="ml-80">
                 <div class="title h5 fw-500 d-none d-xl-block">Розкажіть про свою ідею, а ми запропонуємо рішення. Залишайте заявку і стартуємо!</div>
