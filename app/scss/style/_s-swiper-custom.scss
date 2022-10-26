@@ -84,15 +84,14 @@
 
 .swiper-button-prev,
 .swiper-button-next {
-  display: inline-block;
-  position: relative;
-  right: 0;
-  left: 0;
+  position: absolute;
+  right: auto;
+  left: -90px;
   margin: 0;
-  width: 40px;
-  height: 20px;
-  border: none;
-  border-radius: 0;
+  width: 60px;
+  height: 60px;
+  border: 1px solid var(--clr-grey2);
+  border-radius: 50%;
   transition: $transition;
 
   i {
@@ -101,33 +100,20 @@
     width: 100%;
     height: 100%;
 
-    &::before {
-      content: '';
-      position: absolute;
-      right: 0;
-      top: 50%;
-      transform: translateY(-50%);
-      width: 100%;
-      height: 2px;
-      color: var(--clr-black);
-      backface-visibility: hidden;
-      background: currentColor;
-      transition: var(--transition-1)
-    }
-
     &::after {
       content: '';
       position: absolute;
-      right: 2px;
+      left: 50%;
       top: 50%;
-      transform: translateY(-50%) rotate(-45deg);
+      transform: translateX(-50%) translateY(-50%) rotate(-45deg);
       width: 12px;
       height: 12px;
       color: var(--clr-black);
       backface-visibility: hidden;
       border-right: 2px solid currentColor;
       border-bottom: 2px solid currentColor;
-      transition: var(--transition-1)
+      transition: var(--transition-1);
+      margin-left: -2px;
     }
   }
 
@@ -138,6 +124,11 @@
 
 .swiper-button-prev {
   transform: rotate(180deg);
+}
+
+.swiper-button-next{
+  left:auto;
+  right: -90px;
 }
 
 .swiper-button-wrap {
