@@ -49,6 +49,78 @@
         <div class="spacer-xl"></div>
       </div>
 
+      <!-- BENEFITS -->
+      <div class="section">
+        <div class="container">
+          <div class="row">
+            <div class="swiper-entry benefit-slider animate-item fadeInUp">
+              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 1, "autoHeight": true, "slidesPerGroup":1, "breakpoints": {"991": {"slidesPerView": 3, "slidesPerGroup":3},"575": {"slidesPerView": 2, "slidesPerGroup":2}}}'>
+                <div class="swiper-wrapper benefits">
+                  <div class="swiper-slide">
+                    <div class="project-benefit">
+                      <div class="icon"><img src="img/icon-1.svg" alt=""></div>
+                      <div class="title h6">Завантажте оптимізацію швидкості</div>
+                      <div class="text">Оптимізація швидкості відповідно до Google Speed Test</div>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="project-benefit">
+                      <div class="icon"><img src="img/icon-2.svg" alt=""></div>
+                      <div class="title h6">Завантажте оптимізацію швидкості</div>
+                      <div class="text">Набір кроків для покращення позиції вашого веб-сайту в пошуку</div>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="project-benefit">
+                      <div class="icon"><img src="img/icon-3.svg" alt=""></div>
+                      <div class="title h6">Зручний модуль додавання квартир</div>
+                      <div class="text">Зручний модуль для додавання квартир, підлог та секцій</div>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="project-benefit">
+                      <div class="icon"><img src="img/icon-4.svg" alt=""></div>
+                      <div class="title h6">Багатомовний</div>
+                      <div class="text">Підключення та оптимізація веб-сайту для багатомовного відображення</div>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="project-benefit">
+                      <div class="icon"><img src="img/icon-5.svg" alt=""></div>
+                      <div class="title h6">Інтернет-платежі</div>
+                      <div class="text">Платіжна система, яка приймає електронні платежі за онлайн-транзакції</div>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="project-benefit">
+                      <div class="icon"><img src="img/icon-6.svg" alt=""></div>
+                      <div class="title h6">eCommerce</div>
+                      <div class="text">Модулі оплати, замовлення, реєстрації товарів та послуг</div>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="project-benefit">
+                      <div class="icon"><img src="img/icon-7.svg" alt=""></div>
+                      <div class="title h6">Онлайн реєстрація на події</div>
+                      <div class="text">Система реєстрації на події з різними налаштуваннями</div>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="project-benefit">
+                      <div class="icon"><img src="img/icon-8.svg" alt=""></div>
+                      <div class="title h6">Нагадування про систему бронювання</div>
+                      <div class="text">Нагадування про припинення, оплату та образливу подію</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-pagination swiper-pagination-relative"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="spacer-xl"></div>
+      </div>
+
       <!-- OPTIMIZATION -->
       <div class="section">
         <div class="container">
@@ -122,6 +194,50 @@
                 </div>
                 <div class="swiper-pagination swiper-pagination-relative"></div>
               </div>
+            </div>
+          </div>
+        </div>
+        <div class="spacer-xl"></div>
+      </div>
+
+      <!-- ELEMENTS SITE -->
+      <div class="section">
+        <div class="container">
+          <div class="row">
+            <div calss="col-12">
+              <div class="title-with-text">
+                <div class="title h2 animate-item fadeInUp">Готові рішення</div>
+              </div>
+            </div>
+          </div>
+          <div class="row solution-wrapp">
+            <div class="col-12">
+              <picture>
+                <source srcset="img/inspe-screen1.webp" type="image/webp">
+                <source srcset="img/inspe-screen1.png" type="image/jpeg">
+                <img src="img/inspe-screen1.png" alt="">
+              </picture>
+            </div>
+            <div class="col-12 col-md-6">
+              <picture>
+                <source srcset="img/inspe-screen2.webp" type="image/webp">
+                <source srcset="img/inspe-screen2.png" type="image/jpeg">
+                <img src="img/inspe-screen2.png" alt="">
+              </picture>
+            </div>
+            <div class="col-12 col-md-6">
+              <picture>
+                <source srcset="img/inspe-screen4.webp" type="image/webp">
+                <source srcset="img/inspe-screen4.png" type="image/jpeg">
+                <img src="img/inspe-screen4.png" alt="">
+              </picture>
+            </div>
+            <div class="col-12">
+              <picture>
+                <source srcset="img/inspe-screen3.webp" type="image/webp">
+                <source srcset="img/inspe-screen3.png" type="image/jpeg">
+                <img src="img/inspe-screen3.png" alt="">
+              </picture>
             </div>
           </div>
         </div>

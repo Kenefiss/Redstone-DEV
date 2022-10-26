@@ -4,7 +4,8 @@
 .award-item:nth-child(n+5){margin-top: 70px;}
 .award-title{font-size: 28px;font-weight: 500;color:var(--clr-title);line-height: 1.2;margin-bottom:10px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
 .award-subtitle{font-size: 14px;font-weight: 400;text-transform: uppercase;margin-bottom: 25px;}
-.award-img{overflow: hidden;position: relative;transition: var(--transition-1);}
+.award-img{overflow: hidden;position: relative;transition: var(--transition-1);font-size:0;}
+.award-img img{vertical-align:top;}
 .award-img .review-icon{font-size: 40px;}
 .year-wrap{position: sticky;top: calc(var(--h-height) + var(--h-info-height) + 30px);}
 .year-row + .year-row{margin-top: 80px;}

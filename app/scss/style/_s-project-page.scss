@@ -1,0 +1,33 @@
+/*--------------------*/
+/* - PROJECT PAGE     */
+/*--------------------*/
+.benefit-slider .benefits{margin: 0 -5px;flex-wrap: nowrap !important;}
+.benefit-slider .swiper-slide{flex: 1 1 25%;max-width: 25%;padding: 0 5px;margin-bottom: 10px;}
+
+
+.project-benefit{text-align: center;border:1px solid var(--clr-grey);padding:34px 35px 45px;height: 100%;}
+.project-benefit .icon{width: 70px;height: 65px;margin: 0 auto 20px;display: flex;align-items: center;justify-content: center;}
+.project-benefit .icon img{width:auto;}
+.project-benefit .title{margin-bottom: 10px;}
+.project-benefit .text{color:var(--clr-plc)}
+
+
+.solution-wrapp{margin-right: -30px;margin-left: -30px;}
+.solution-wrapp >*{padding-right: 30px;padding-left: 30px;margin-top:60px;}
+.solution-wrapp >*:first-child{margin-top:0;}
+.solution-wrapp >* img{width:100%;vertical-align: top;}
+
+
+/*media*/
+@media(min-width:1200px) {
+  .benefit-slider .benefits{width: auto;height: auto !important;transform: none !important;flex-wrap: wrap !important;}
+  .benefit-slider .swiper-pagination {display: none;}
+  .benefit-slider .swiper-slide {width: auto !important;margin-right: 0 !important;}
+  .benefit-slider .swiper-container:not(.swiper-no-swiping) .swiper-wrapper {cursor: default;}
+}
+
+@media(max-width:1199px) {
+  .benefit-slider .swiper-container {overflow: visible;}
+  .benefit-slider .benefits{margin: 0;}
+  .benefit-slider .swiper-slide {max-width: none;flex: 0 0 auto;padding: 0;margin-bottom: 0;}
+}
