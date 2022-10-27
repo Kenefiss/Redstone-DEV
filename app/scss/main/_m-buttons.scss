@@ -175,6 +175,24 @@
   }
 }
 
+.btn-link{
+  font-size: 15px;
+  color: var(--clr-red);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  transition: var(--transition-1);
+}
+.btn-link svg{
+  position: relative;
+  margin-left: 20px;
+  top:2px;
+  width: 7px;
+  height: 12px;
+  stroke: currentColor;
+  transition: var(--transition-1);
+}
+
 @media (min-width: 1200px) {
   .btn:hover {
     color: var(--clr-red);
@@ -216,6 +234,10 @@
 
   .round-btn-listener:hover+.round-btn .arr {
     fill: var(--clr-white);
+  }
+
+  .btn-link:hover svg{
+    transform: translateX(-10px);
   }
 }
 

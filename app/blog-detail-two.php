@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Blog detail</title>
+  <title>REDSTONE :: Blog detail 2</title>
 </head>
 
 <body>
@@ -16,7 +16,7 @@
       <!-- BREADCRUMBS -->
       <div class="section sec-breadcrumbs">
         <div class="container-fluid">
-          <ul class="breadcrumbs">
+          <ul class="breadcrumbs type2">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
               <a href="index.php" itemprop="url">
                 <span itemprop="title">Головна</span>
@@ -34,17 +34,36 @@
         </div>
       </div>
 
-      <!-- BLOG -->
-      <div class="section">
-        <div class="container">
+      <!-- BLOG DETAIL BANNER -->
+      <div class="section project-banner type2">
+        <div class="container-fluid">
           <div class="row">
-            <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
-              <div class="blog-date">20.09.2022</div>
-              <div class="title-with-text full-width">
-                <h1 class="title page-title h2">Тренди веб-дизайну у 2022 році</h1>
+            <div class="col-xl-8">
+              <div class="project-banner-img">
+                <picture>
+                  <source srcset="img/simple-img-3.webp" type="image/webp">
+                  <source srcset="img/isimple-img-3.jpg" type="image/jpg">
+                  <img src="img/simple-img-3.jpg" alt="">
+                </picture>
+              </div>
+            </div>
+            <div class="col-xl-4 align-self-center">
+              <div class="project-detail-info">
+                <div class="blog-date">20.09.2022</div>
+                <h1 class="title h2 name-project">Тренди веб-дизайну у 2022 році</h1>
+                <div class="text desc">
+                  <p>По-перше, сайт повинен бути зрозумілим. Будемо відвертими більше половини читачів, які відвідують такі сайти, мало що розуміють у фінансовій сфері. Найчастіше це люди, які стикнулися з проблемою чи питанням</p>
+                </div>
               </div>
             </div>
           </div>
+        </div>
+        <div class="spacer-xl"></div>
+      </div>
+
+      <!-- BLOG -->
+      <div class="section">
+        <div class="container">
           <div class="row">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="simple-page text">

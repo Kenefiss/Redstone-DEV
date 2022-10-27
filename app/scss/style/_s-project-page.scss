@@ -1,23 +1,29 @@
 /*--------------------*/
 /* - PROJECT PAGE     */
 /*--------------------*/
+.project-detail-info{padding:30px 50px 30px 0;}
+.project-detail-info .tags{margin-bottom:20px;}
+.project-detail-info .desc{margin-bottom:30px;}
+.project-detail-info .project-services{margin-bottom:15px;}
+.project-detail-info .service-item{margin:0;padding:0;margin-bottom:40px;font-weight: 300;}
+.project-detail-info .service-item li{pointer-events:none;}
+.project-detail-info .service-item span{cursor:inherit;}
+.project-banner-img{position: relative;overflow:hidden;padding-bottom:60%;}
+.project-banner-img img{vertical-align:top;position: absolute;top: 0;left: 0;width: 100%;height: 100%;object-fit: cover;}
+.project-banner-img video{position: absolute;left: 50%;top: 50%;min-width: 100%;width: auto;min-height: 100%;height: 100%;transform: translateX(-50%) translateY(-50%);transition: var(--transition-1);}
 .benefit-slider .benefits{margin: 0 -5px;flex-wrap: nowrap !important;}
 .benefit-slider .swiper-slide{flex: 1 1 25%;max-width: 25%;padding: 0 5px;margin-bottom: 10px;}
-
-
-.project-benefit{text-align: center;border:1px solid var(--clr-grey);padding:34px 35px 45px;height: 100%;}
+.project-benefit{text-align: center;border:1px solid var(--clr-grey);padding:35px 35px 45px;height: 100%;}
 .project-benefit .icon{width: 70px;height: 65px;margin: 0 auto 20px;display: flex;align-items: center;justify-content: center;}
 .project-benefit .icon img{width:auto;}
-.project-benefit .title{margin-bottom: 10px;}
+.project-benefit .title{margin-bottom: 10px;min-height:66px;}
 .project-benefit .text{color:var(--clr-plc)}
-
-
 .solution-wrapp{margin-right: -30px;margin-left: -30px;}
 .solution-wrapp >*{padding-right: 30px;padding-left: 30px;margin-top:60px;}
 .solution-wrapp >*:first-child{margin-top:0;}
 .solution-wrapp >* img{width:100%;vertical-align: top;}
-
-
+.project-banner.type2 .project-detail-info{padding-right:0;padding-left:50px;}
+.project-banner.type2 .name-project{margin-bottom:30px;}
 /*media*/
 @media(min-width:1200px) {
   .benefit-slider .benefits{width: auto;height: auto !important;transform: none !important;flex-wrap: wrap !important;}
@@ -25,9 +31,28 @@
   .benefit-slider .swiper-slide {width: auto !important;margin-right: 0 !important;}
   .benefit-slider .swiper-container:not(.swiper-no-swiping) .swiper-wrapper {cursor: default;}
 }
-
 @media(max-width:1199px) {
   .benefit-slider .swiper-container {overflow: visible;}
   .benefit-slider .benefits{margin: 0;}
   .benefit-slider .swiper-slide {max-width: none;flex: 0 0 auto;padding: 0;margin-bottom: 0;}
+  .solution-wrapp{margin-right: -15px;margin-left: -15px;}
+  .solution-wrapp >*{padding-right: 15px;padding-left: 15px;margin-top:30px;}
+  .project-banner .project-detail-info{padding-right:0;padding-bottom:0;}
+  .project-banner.type2 .project-detail-info{padding-left:0;}
+}
+@media(max-width:991px) {
+  .project-benefit{padding:30px 14px;}
+  .project-benefit .title{min-height: auto;}
+}
+@media(max-width:767px) {
+  .project-detail-info{padding:15px 0 0;}
+  .project-detail-info .tags{margin-bottom:15px;}
+  .project-detail-info .desc{margin-bottom:20px;}
+  .project-detail-info .project-services{margin-bottom:10px;}
+  .project-detail-info .service-item{margin-bottom:30px;}
+  .project-benefit{padding:20px;}
+  .optimaze-img img{width:100%;}
+  .solution-wrapp >*{margin-top:15px;}
+  .project-banner.type2 .name-project{margin-bottom:10px;}
+  .project-banner.type2 .blog-date{margin-bottom:5px;}
 }

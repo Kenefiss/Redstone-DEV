@@ -402,6 +402,10 @@ h6,
   display: block;
 }
 
+.title-with-text.full-width .title{
+  max-width: 100%;
+}
+
 .sub-title {
   position: relative;
   letter-spacing: 0.05em;

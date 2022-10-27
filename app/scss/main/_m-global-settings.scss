@@ -85,7 +85,8 @@ main>.section.sec-breadcrumbs:first-child + .section{
   margin-top: 100px;
 }
 
-main>.section.sec-breadcrumbs:first-child{
+main>.section.sec-breadcrumbs:first-child,
+main>.section.sec-breadcrumbs:first-child + .section.project-banner{
   margin-top:0;
 }
 

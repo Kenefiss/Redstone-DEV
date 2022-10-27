@@ -4,6 +4,15 @@
 <head>
   <?php include 'inc/_top.php';?>
   <title>REDSTONE :: Project detail</title>
+  <style>
+    .btn-link{color: #0000F5!important;}
+    .swiper-pagination-bullet-active{border-color:#0000F5!important;}
+    @media (min-width: 1200px){
+      .breadcrumbs a:hover {color: #0000F5!important;}
+      .swiper-pagination-bullet:hover{border-color:#0000F5!important;}
+      .swiper-button-prev:hover i::after, .swiper-button-next:hover i::after{color: #0000F5!important;}
+    }
+  </style>
 </head>
 
 <body>
@@ -15,7 +24,7 @@
 
       <!-- BREADCRUMBS -->
       <div class="section sec-breadcrumbs">
-        <div class="container">
+        <div class="container-fluid">
           <ul class="breadcrumbs">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
               <a href="index.php" itemprop="url">
@@ -36,13 +45,58 @@
 
       <!-- PROJECT BANNER -->
       <div class="section project-banner">
-        <div class="container">
+        <div class="container-fluid">
           <div class="row">
-            <div class="col-12 col-lg-6">
-
+            <div class="col-xl-8 order-xl-2">
+              <div class="swiper-entry">
+                <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 1, "breakpoints": {"575": {"spaceBetween": 0}}}'>
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <div class="project-banner-img">
+                        <picture>
+                          <source srcset="img/inspe-banner-1.webp" type="image/webp">
+                          <source srcset="img/inspe-banner-1.jpg" type="image/jpg">
+                          <img src="img/inspe-banner-1.jpg" alt="">
+                        </picture>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="project-banner-img">
+                        <picture>
+                          <source srcset="img/inspe-banner-1.webp" type="image/webp">
+                          <source srcset="img/inspe-banner-1.jpg" type="image/jpg">
+                          <img src="img/inspe-banner-1.jpg" alt="">
+                        </picture>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="project-banner-img">
+                        <video preload="auto" poster="img/seo-img.jpg" src="video/project-video.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="swiper-pagination swiper-pagination-absolute"></div>
+                </div>
+              </div>
             </div>
-            <div class="col-12 col-lg-6">
-
+            <div class="col-xl-4 order-xl-1 align-self-center">
+              <div class="project-detail-info">
+                <div class="tags">
+                  <span class="tag">стоматологія</span>
+                  <span class="tag">інтеграція з</span>
+                </div>
+                <h1 class="title h1 name-project">Inspe</h1>
+                <div class="text desc">
+                  <p><b>INSPE</b> прийшов до нас із готовим дизайном. На його основі потрібно було створити потужний інструмент для бізнесу - залучати нових клієнтів, працювати з уже існуючими, Інтернет-магазин, електронну комерцію, заходи, обладнання та багато іншого. Це повинен бути не просто хороший сайт, а потужний універсальний ресурс для всіх у галузі стоматології.</p>
+                </div>
+                <div class="title h5 fw-500 project-services">Надані послуги</div>
+                <ul class="service-item">
+                  <li><span>HTML</span></li>
+                  <li><span>Розробка</span></li>
+                  <li><span>Підтримка</span></li>
+                </ul>
+                <a href="#" class="btn-link" target="_blank">ПЕРЕЙТИ НА САЙТ<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 11L6 6L1 1" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"></path></svg></a>
+              </div>
             </div>
           </div>
         </div>
@@ -135,7 +189,7 @@
             <div class="swiper-entry">
               <div class="swiper-button-prev d-none d-xl-block"><i></i></div>
               <div class="swiper-button-next d-none d-xl-block"><i></i></div>
-              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 1, "autoHeight": true, "breakpoints": {"1199": {"slidesPerView": 4, "spaceBetween": 60},"991": {"slidesPerView": 3, "spaceBetween": 40},"575": {"slidesPerView": 2, "spaceBetween": 40}}}'>
+              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 1, "autoHeight": true, "breakpoints": {"1199": {"slidesPerView": 4, "spaceBetween": 60},"991": {"slidesPerView": 3, "spaceBetween": 40, "slidesPerGroup":3},"575": {"slidesPerView": 2, "spaceBetween": 40, "slidesPerGroup":2}}}'>
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
                     <div class="optimaze-img">
@@ -211,28 +265,28 @@
             </div>
           </div>
           <div class="row solution-wrapp">
-            <div class="col-12">
+            <div class="col-12 animate-item fadeInUp delay-1">
               <picture>
                 <source srcset="img/inspe-screen1.webp" type="image/webp">
                 <source srcset="img/inspe-screen1.png" type="image/jpeg">
                 <img src="img/inspe-screen1.png" alt="">
               </picture>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 animate-item fadeInUp delay-1">
               <picture>
                 <source srcset="img/inspe-screen2.webp" type="image/webp">
                 <source srcset="img/inspe-screen2.png" type="image/jpeg">
                 <img src="img/inspe-screen2.png" alt="">
               </picture>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 animate-item fadeInUp delay-1">
               <picture>
                 <source srcset="img/inspe-screen4.webp" type="image/webp">
                 <source srcset="img/inspe-screen4.png" type="image/jpeg">
                 <img src="img/inspe-screen4.png" alt="">
               </picture>
             </div>
-            <div class="col-12">
+            <div class="col-12 animate-item fadeInUp delay-1">
               <picture>
                 <source srcset="img/inspe-screen3.webp" type="image/webp">
                 <source srcset="img/inspe-screen3.png" type="image/jpeg">

@@ -15,7 +15,7 @@
 
       <!-- BREADCRUMBS -->
       <div class="section sec-breadcrumbs">
-        <div class="container">
+        <div class="container-fluid">
           <ul class="breadcrumbs">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
               <a href="index.php" itemprop="url">
@@ -39,7 +39,7 @@
                 <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни</div>
               </div>
               <div class="sort-wrapp js-sort-nav">
-                <div class="sort-btn d-xl-none">Наше портфоліо</div>
+                <div class="sort-btn d-xl-none">Всі</div>
                 <nav class="sort-nav">
                   <ul>
                     <li><a class="active">Всі</a></li>
@@ -49,6 +49,19 @@
                     <li><a href="#">Експрес рішення</a></li>
                     <li><a href="#">Aвто</a></li>
                     <li><a href="#">Брендування</a></li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="sort-wrapp">
+                <div class="sort-btn d-xl-none">Корпоративні</div>
+                <nav class="sort-subnav">
+                  <ul>
+                    <li><a class="active">Корпоративні</a></li>
+                    <li><a href="#"> IIKO / 1C / Torgsoft</a></li>
+                    <li><a href="#">Стоматологія</a></li>
+                    <li><a href="#">Доставка їжі</a></li>
+                    <li><a href="#">Фінанси</a></li>
+                    <li><a href="#">Маркетинг</a></li>
                   </ul>
                 </nav>
               </div>

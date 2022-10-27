@@ -15,7 +15,7 @@
 
       <!-- BREADCRUMBS -->
       <div class="section sec-breadcrumbs">
-        <div class="container">
+        <div class="container-fluid">
           <ul class="breadcrumbs">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
               <a href="index.php" itemprop="url">
