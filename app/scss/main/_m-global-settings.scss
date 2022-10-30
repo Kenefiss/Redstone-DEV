@@ -171,6 +171,11 @@ main>.section.sec-breadcrumbs:first-child + .section.project-banner{
     max-width: 1600px;
   }
 }
+@media (min-width: 2000px) {
+  .container {
+    max-width: 88%;
+  }
+}
 
 @media(max-width:1639px) {
   .spacer-xl {

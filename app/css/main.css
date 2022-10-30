@@ -91,6 +91,9 @@ main > .section.sec-breadcrumbs:first-child + .section.project-banner {margin-to
 @media (min-width: 1640px) {
 .container {max-width: 1600px;}
 }
+@media (min-width: 2000px) {
+.container {max-width: 88%;}
+}
 @media (max-width: 1639px) {
 .spacer-xl {height: 130px;}
 .section.inner-padd {padding: 130px 0;margin-bottom: 130px;}

@@ -544,7 +544,7 @@ to {fill: var(--clr-grey3);stroke: transparent;}
 .news-title a {display: inline-block;vertical-align: top;}
 /*media*/
 @media (min-width: 1200px) {
-.news-wrapp {margin-left: -40px;margin-right: -40px;}
+.news-wrapp {margin-left: -40px;margin-right: -40px;margin-top: 40px;}
 .news-wrapp .news-item {padding-left: 40px;padding-right: 40px;}
 .news-img img {-webkit-transition: var(--transition-2);transition: var(--transition-2);}
 .news-img a:hover img {-webkit-transform: scale(1.1);transform: scale(1.1);}
