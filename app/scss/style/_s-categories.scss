@@ -155,6 +155,9 @@
     transform: translateY(-20px);
   }
 }
+@media(min-width:1200px){
+  .category-img-box img{width:100%;}
+}
 
 @media(max-width:1199px) {
   .categories.row {
