@@ -20,14 +20,14 @@
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
-                <div class="title h1">Websites <b>.</b> App <b>.</b> Branding — Making the difficult simple</div>
+                <div class="title h1">WEB Service <b>.</b> App <b>.</b> MVP <b>.</b> Branding — Making the difficult simple</div>
                 <a href="#" class="btn btn-primary">
                   <b>Our projects</b>
                 </a>
                 <div class="logo-group">
                   <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="../img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
                   <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="../img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
-                  <a href="https://it-rating.in.ua/rating-webstudio-lvov-2020" target="_blank" rel="nofollow"><img src="../img/itr_logo.svg" width="100" height="39" loading="lazy" alt=""></a>
+
                   <a href="#"><img src="../img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
@@ -35,7 +35,7 @@
             <div class="col-xl-5 order-1 order-xl-2">
               <div class="banner-num">
                 <div>16</div>
-                <video preload="auto" poster="../img/seo-img.jpg" src="../video/banner-video.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                <video preload="auto" poster="../img/seo-img.jpg" src="../video/banner-video6.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
             </div>
