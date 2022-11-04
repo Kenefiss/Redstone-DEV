@@ -165,11 +165,11 @@
 }
 
 .reviews-slider.type2 .swiper-wrapper {
-  margin-bottom: 60px;
+  margin-bottom: 0;
 }
 
 .general-rating {
-  display: flex;
+  display: inline-flex;
   margin-top: 15px;
 }
 
@@ -205,6 +205,8 @@
   line-height: 1.3;
   font-weight: 300;
   color: var(--clr-plc);
+  text-transform: uppercase;
+  transition: var(--transition-1);
 }
 
 /*media*/
@@ -238,6 +240,9 @@
   .review-img:hover .review-icon {
     opacity: 1;
     visibility: visible;
+  }
+  .general-rating:hover .general-review{
+    color: #ff3d2e;
   }
 }
 
@@ -284,7 +289,7 @@
   }
 
   .reviews-slider.type2 {
-    margin-bottom: 40px;
+    margin-bottom: 0;
   }
 
   .reviews-slider .swiper-wrapper,

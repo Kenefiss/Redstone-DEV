@@ -27,7 +27,6 @@
                 <div class="logo-group">
                   <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="../img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
                   <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="../img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
-
                   <a href="#"><img src="../img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
@@ -61,7 +60,7 @@
               </div>
             </div>
           </div>
-          <div class="row categories animate-item fadeInUp delay-2">
+          <div class="row categories animate-item fadeInUp delay-1">
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">WEB Service</span>
@@ -165,7 +164,7 @@
               </a>
             </div>
           </div>
-          <div class="text-center">
+          <div class="text-center animate-item fadeInUp">
             <a class="btn btn-primary" href="#">
               <b>View all projects</b>
             </a>
@@ -255,8 +254,8 @@
       <!-- REVIEWS -->
       <?php include 'inc/_reviews2.php'; ?>
 
-      <!-- CLIENTS -->
-      <?php include 'inc/_clients.php'; ?>
+      <!-- CASES -->
+      <?php include 'inc/_cases.php'; ?>
 
       <!-- FORM -->
       <div class="section" id="contact">

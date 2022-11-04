@@ -1,0 +1,151 @@
+/*--------------------*/
+/* - CASES          */
+/*--------------------*/
+.cases-slider .cases {
+  margin: 0 -30px;
+  flex-wrap: nowrap !important;
+}
+
+.cases-slider .swiper-slide {
+  flex: 1 1 33.33%;
+  max-width: 33.33%;
+  padding: 0 30px;
+  margin-bottom: 90px;
+}
+
+.case-item .case-img {
+  padding-bottom: 73%;
+  position: relative;
+  z-index: 1;
+  background: #F8F8F8;
+}
+
+.case-img::before {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 0;
+  background-color: var(--clr-white);
+}
+
+.case-img img {
+  position: absolute;
+  inset: 0;
+  max-width: 90%;
+  max-height: 90%;
+  margin: auto;
+  width: auto;
+}
+
+.case-item .case-info{
+  margin-top:50px;
+  text-align:left;
+}
+
+.case-item .case-info >*:not(:last-child){
+  margin-bottom:15px;
+}
+
+.case-item .case-info .case-desc{
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.case-item .case-info .case-tags{
+  font-size:0;
+}
+
+.case-item .case-info .case-tags >*{
+  display: inline-block;
+  font-size:14px;
+  line-height:1;
+  font-weight:400;
+  color: var(--clr-plc);
+  text-transform:uppercase;
+  margin-top:10px;
+  margin-right:30px;
+}
+.case-item .case-info .case-tags >*:last-child{
+  margin-right:0;
+}
+
+/*media*/
+@media(min-width:1200px) {
+  .cases-slider .cases {
+    width: auto;
+    height: auto !important;
+    transform: none !important;
+    flex-wrap: wrap !important;
+  }
+
+  .case-img.contain-link {
+    cursor: pointer;
+    transition: var(--transition-1);
+  }
+
+  .case-img::before {
+    transition: inherit;
+  }
+
+  .case-item .case-img.contain-link:hover::before {
+    height: 100%;
+  }
+
+  .case-item .case-title.title a:hover{
+    color: var(--clr-red);
+  }
+
+  .cases-slider .swiper-pagination {
+    display: none;
+  }
+
+  .cases-slider .swiper-slide {
+    width: auto !important;
+    margin-right: 0 !important;
+  }
+
+  .cases-slider .swiper-container:not(.swiper-no-swiping) .swiper-wrapper {
+    cursor: default;
+  }
+}
+
+@media(max-width:1199px) {
+  .cases-slider{
+    margin-bottom:30px;
+  }
+  .cases-slider .swiper-container {
+    overflow: visible;
+  }
+
+  .cases-slider .cases {
+    margin: 0;
+  }
+
+  .cases-slider .swiper-slide {
+    max-width: none;
+    flex: 0 0 auto;
+    padding: 0;
+    margin-bottom: 0;
+  }
+  .case-item .case-info{
+    margin-top:30px;
+  }
+  .case-item .case-info .case-tags > *{
+    margin-right:20px;
+  }
+}
+
+@media(max-width:767px) {
+  .case-item .case-info{
+    margin-top:20px;
+  }
+  .case-item .case-info > *:not(:last-child){
+    margin-bottom:10px;
+  }
+}

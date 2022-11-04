@@ -9,7 +9,7 @@
       <div class="header-wrap-inner">
         <div class="header-wrap-left">
           <a class="header-logo" href="index.php">
-            <img src="../img/logo.svg" alt="" loading="lazy">
+            <img src="../img/logo-en.svg" alt="" loading="lazy">
             <img src="../img/logo-white.svg" alt="" loading="lazy">
           </a>
           <div class="btn-burger">
