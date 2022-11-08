@@ -1,6 +1,16 @@
 /*--------------------*/
 /* - CASES          */
 /*--------------------*/
+.cases-row {
+  margin: 0 -30px;
+}
+
+.cases-row .case-item{
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom:90px;
+}
+
 .cases-slider .cases {
   margin: 0 -30px;
   flex-wrap: nowrap !important;

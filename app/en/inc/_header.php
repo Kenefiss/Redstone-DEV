@@ -19,7 +19,7 @@
         </div>
         <nav class="header-wrap-center">
           <ul>
-            <li><a href="#">Portfolio</a></li>
+            <li><a href="portfolio.php">Portfolio</a></li>
             <li><a href="#">АРР</a></li>
             <li><a href="#">Branding</a></li>
             <li><a href="#footer">Contacts</a></li>

@@ -34,7 +34,7 @@
             </div>
             <div class="col-xl-5 order-1 order-xl-2">
               <div class="banner-num">
-                <div>16</div>
+                <div class="num">16</div>
                 <video preload="auto" poster="img/seo-img.jpg" src="video/banner-video6.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
                 <img src="img/patern-1.png"  loading="lazy" alt="">
               </div>

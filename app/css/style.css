@@ -397,6 +397,8 @@ to {fill: var(--clr-grey3);stroke: transparent;}
 /*--------------------*/
 /* - CASES          */
 /*--------------------*/
+.cases-row {margin: 0 -30px;}
+.cases-row .case-item {padding-left: 30px;padding-right: 30px;margin-bottom: 90px;}
 .cases-slider .cases {margin: 0 -30px;-ms-flex-wrap: nowrap !important;flex-wrap: nowrap !important;}
 .cases-slider .swiper-slide {-webkit-box-flex: 1;-ms-flex: 1 1 33.33%;flex: 1 1 33.33%;max-width: 33.33%;padding: 0 30px;margin-bottom: 90px;}
 .case-item .case-img {padding-bottom: 73%;position: relative;z-index: 1;background: #F8F8F8;}
