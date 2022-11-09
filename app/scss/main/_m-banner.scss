@@ -56,15 +56,6 @@
   overflow: hidden;
   font-size: var(--h-1);
 
-  video{
-    position: absolute;
-    z-index: 0;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
   .num {
     display: inline-block;
     vertical-align: middle;
@@ -80,93 +71,9 @@
     font-weight: 700;
     text-align: center;
     text-transform: uppercase;
-    mix-blend-mode: screen;
-    background-color: var(--clr-white);
+    color: #e6e6e6;
   }
 }
-
-.banner .banner-num img{
-  position: absolute;
-  z-index: 0;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  z-index: 0;
-}
-
-// animation 1
-.banner-num #animation{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  z-index: 0;
-}
-
-// animation 2
-#animation2{
-  position: absolute;
-  z-index: 0;
-  top: 0;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
-}
-
-// animation 3
-#animation3{
-  animation: fade-in 1s ease-out forwards;
-  opacity: 0;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 0;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.wrapper2{
-  position: relative;
-  margin-bottom: -10px;
-  margin-left: -10px;
-}
-
-.circle2{
-  animation: rotate 5s infinite linear;
-  border-radius: 50%;
-  border: 1px solid transparent;
-  height: 26px;
-  position: relative;
-  width: 26px;
-  transition: border 1s ease-out;
-}
-
-.circle2:after{
-  content: "";
-  border-radius: 50%;
-  background: var(--clr-black);
-  position: absolute;
-  height: 4px;
-  top: -2px;
-  left: calc(50% - 2px);
-  width: 4px;
-}
-
-@keyframes rotate {
-  to {
-    transform: rotateZ(360deg);
-  }
-}
-
-@keyframes fade-in {
-  to {
-    opacity: 1;
-  }
-}
-
-
 
 /*media*/
 @media(min-width: 1200px) {

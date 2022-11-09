@@ -13,20 +13,20 @@
     <?php include 'inc/_header.php';?>
 
     <main>
-
       <!-- BANNER -->
       <div class="section banner main-banner">
         <div class="container full-height">
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
-                <div class="title h1">WEB Service <b>.</b> App <b>.</b> MVP <b>.</b> Branding — Making the difficult simple</div>
+                <div class="title h1">WEB Solutions <b>.</b> App <b>.</b> MVP <b>.</b> Making the difficult simple</div>
                 <a href="#" class="btn btn-primary">
                   <b>Our projects</b>
                 </a>
                 <div class="logo-group">
                   <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="../img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
                   <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="../img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
+                  <a href="../en/awwards.php"><img src="../img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
@@ -34,74 +34,6 @@
               <div class="banner-num">
                 <div class="num">16</div>
                 <div id="animation"></div>
-              </div>
-              <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
-            </div>
-          </div>
-          <a class="btn-scroll" href="#content">
-            <svg width="63" height="14" viewBox="0 0 63 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M0 7H55.902" stroke="#989898" stroke-dasharray="5.49 8.78" class="dashed" />
-              <path d="M54.9297 1L61.7405 7.16216L54.9297 13" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
-          </a>
-        </div>
-        <div class="spacer-xl"></div>
-      </div>
-
-      <!-- BANNER -->
-      <div class="section banner main-banner">
-        <div class="container full-height">
-          <div class="row align-items-lg-center">
-            <div class="col-xl-7 order-2 order-xl-1">
-              <div class="banner-content">
-                <div class="title h1">WEB Service <b>.</b> App <b>.</b> MVP <b>.</b> Branding — Making the difficult simple</div>
-                <a href="#" class="btn btn-primary">
-                  <b>Our projects</b>
-                </a>
-                <div class="logo-group">
-                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="../img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
-                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="../img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-5 order-1 order-xl-2">
-              <div class="banner-num">
-                <div class="num">16</div>
-                <div id="animation2"></div>
-              </div>
-              <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
-            </div>
-          </div>
-          <a class="btn-scroll" href="#content">
-            <svg width="63" height="14" viewBox="0 0 63 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M0 7H55.902" stroke="#989898" stroke-dasharray="5.49 8.78" class="dashed" />
-              <path d="M54.9297 1L61.7405 7.16216L54.9297 13" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
-          </a>
-        </div>
-        <div class="spacer-xl"></div>
-      </div>
-
-      <!-- BANNER -->
-      <div class="section banner main-banner">
-        <div class="container full-height">
-          <div class="row align-items-lg-center">
-            <div class="col-xl-7 order-2 order-xl-1">
-              <div class="banner-content">
-                <div class="title h1">WEB Service <b>.</b> App <b>.</b> MVP <b>.</b> Branding — Making the difficult simple</div>
-                <a href="#" class="btn btn-primary">
-                  <b>Our projects</b>
-                </a>
-                <div class="logo-group">
-                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="../img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
-                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="../img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-5 order-1 order-xl-2">
-              <div class="banner-num">
-                <div class="num">16</div>
-                <div id="animation3"></div>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
             </div>
@@ -130,7 +62,7 @@
           <div class="row categories animate-item fadeInUp delay-1">
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">WEB Service</span>
+                <span class="category-title">WEB Solution</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
@@ -181,7 +113,7 @@
             </div>
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Online stores</span>
+                <span class="category-title">E - stores</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
@@ -198,7 +130,7 @@
             </div>
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
-                <span class="category-title">Auto</span>
+                <span class="category-title">Car Dealers</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>

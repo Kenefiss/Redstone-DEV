@@ -28,15 +28,13 @@
                   <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
                   <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
                   <a href="https://it-rating.in.ua/rating-webstudio-lvov-2020" target="_blank" rel="nofollow"><img src="img/itr_logo.svg" width="100" height="39" loading="lazy" alt=""></a>
-                  <a href="#"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
+                  <a href="awwards.php"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
             <div class="col-xl-5 order-1 order-xl-2">
               <div class="banner-num">
                 <div class="num">16</div>
-                <video preload="auto" poster="img/seo-img.jpg" src="video/banner-video6.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
-                <img src="img/patern-1.png"  loading="lazy" alt="">
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> Років переносимо ваш бізнес online</div>
             </div>

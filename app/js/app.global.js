@@ -595,18 +595,6 @@ document.addEventListener("DOMContentLoaded", function() {
   document.addEventListener('keydown', keyboardFocus, false);
 
 
-
-  // $('.ContactForm').on('submit', function (e) {
-  //   if (!validateEmail($(this).find('input[name="email"]').val())) {
-  //     $(this).find('input[name="email"]').addClass('invalid');
-  //     return false;
-  //   }
-  //   ContactForm();
-  //   return false;
-  // });
-
-
-
   // Get Data from Forms
   _functions.getFormValue = function(form) {
     if (!form instanceof Element) return;
@@ -647,7 +635,6 @@ document.addEventListener("DOMContentLoaded", function() {
     return formData;
   }
 
-
   // Post Ajax
   _functions.postAjax = function(url, data, success) {
       let params = typeof data == 'string' ? data : Object.keys(data).map(
@@ -665,7 +652,6 @@ document.addEventListener("DOMContentLoaded", function() {
       xhr.send(params);
       return xhr;
   }
-
 
   // Validate email
   _functions.validateEmail = function(email) {
@@ -764,229 +750,5 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
-
-
-  // animation 1
-  var NUM_PARTICLES = 50000,
-      THICKNESS = Math.pow( 80, 2 ),
-      SPACING = 3,
-      MARGIN = 100,
-      COLOR = 7,
-      DRAG = 0.2,
-      EASE = 0.1,
-      ROWS = 150,
-      COLS = 160,
-
-
-  container,
-  particle,
-  canvas,
-  mouse,
-  stats,
-  list,
-  ctx,
-  tog,
-  man,
-  dx, dy,
-  mx, my,
-  d, t, f,
-  a, b,
-  i, n,
-  w, h,
-  p, s,
-  r, c
-  ;
-
-  particle = {
-  vx: 0,
-  vy: 0,
-  x: 0,
-  y: 0
-  };
-
-  function init() {
-
-    container = document.getElementById( 'animation' );
-    canvas = document.createElement( 'canvas' );
-
-    ctx = canvas.getContext( '2d' );
-    man = false;
-    tog = true;
-
-    list = [];
-
-    w = canvas.width = COLS * SPACING + MARGIN * 2;
-    h = canvas.height = ROWS * SPACING + MARGIN * 2;
-
-    container.style.marginLeft = Math.round( w * -0.5 ) + 'px';
-    container.style.marginTop = Math.round( h * -0.5 ) + 'px';
-
-    for ( i = 0; i < NUM_PARTICLES; i++ ) {
-
-    p = Object.create( particle );
-    p.x = p.ox = MARGIN + SPACING * ( i % COLS );
-    p.y = p.oy = MARGIN + SPACING * Math.floor( i / COLS );
-
-    list[i] = p;
-    }
-
-    container.addEventListener( 'mousemove', function(e) {
-
-    bounds = container.getBoundingClientRect();
-    mx = e.clientX - bounds.left;
-    my = e.clientY - bounds.top;
-    man = true;
-
-    });
-
-    if ( typeof Stats === 'function' ) {
-    document.body.appendChild( ( stats = new Stats() ).domElement );
-    }
-
-    container.appendChild( canvas );
-  }
-
-  function step() {
-
-    if ( stats ) stats.begin();
-
-    if ( tog = !tog ) {
-
-      if ( !man ) {
-          t = +new Date() * 0.001;
-          mx = w * 0.5 + ( Math.cos( t * 2.1 ) * Math.cos( t * 0.9 ) * w * 0.45 );
-          my = h * 0.5 + ( Math.sin( t * 3.2 ) * Math.tan( Math.sin( t * 0.8 ) ) * h * 0.45 );
-        }
-        
-        for ( i = 0; i < NUM_PARTICLES; i++ ) {
-          p = list[i];
-          
-          d = ( dx = mx - p.x ) * dx + ( dy = my - p.y ) * dy;
-          f = -THICKNESS / d;
-
-          if ( d < THICKNESS ) {
-            t = Math.atan2( dy, dx );
-            p.vx += f * Math.cos(t);
-            p.vy += f * Math.sin(t);
-          }
-
-          p.x += ( p.vx *= DRAG ) + (p.ox - p.x) * EASE;
-          p.y += ( p.vy *= DRAG ) + (p.oy - p.y) * EASE;
-        }
-
-    } else {
-      b = ( a = ctx.createImageData( w, h ) ).data;
-
-      for ( i = 0; i < NUM_PARTICLES; i++ ) {
-
-        p = list[i];
-        b[n = ( ~~p.x + ( ~~p.y * w ) ) * 4] = b[n+1] = b[n+2] = COLOR, b[n+3] = 255;
-      }
-
-      ctx.putImageData( a, 0, 0 );
-    }
-
-    if ( stats ) stats.end();
-    requestAnimationFrame( step );
-  }
-
-  init();
-  step();
-
-
-  // animation 2
-  var mousePos = {x:.5,y:.5};
-  var container = document.getElementById( 'animation2' );
-  document.addEventListener('mousemove', function (event) {  mousePos = {x:event.clientX/window.innerWidth, y:event.clientY/window.innerHeight};});
-  var phase = 0;
-  
-  var scene = new THREE.Scene();
-  var camera = new THREE.PerspectiveCamera(95, window.innerWidth / window.innerHeight, 0.1, 1000);
-  camera.position.z = 30;
-  
-  var renderer = new THREE.WebGLRenderer();
-  renderer.setSize(window.innerWidth/2, window.innerHeight/2);
-  //document.body.appendChild(renderer.domElement);
-  
-  container.appendChild(renderer.domElement);
-
-  var boxSize = 0.2;
-  var geometry = new THREE.BoxGeometry(boxSize, boxSize, boxSize);
-  var materialGreen = new THREE.MeshBasicMaterial({transparent: true,  color: 0xe70000,  opacity: 0.4,  side: THREE.DoubleSide});
-  
-  var pitchSegments = 60;
-  var elevationSegments = pitchSegments/2;
-  var particles = pitchSegments*elevationSegments
-  var side = Math.pow(particles, 1/3);
-  
-  var radius = 16;
-  
-  var parentContainer = new THREE.Object3D();
-  scene.add(parentContainer);
-  
-  function posInBox(place) {
-    return ((place/side) - 0.5) * radius * 1.2;  
-  }
-  
-  //Plant the seeds, grow some trees in a grid!
-  for (var p = 0; p < pitchSegments; p++) {
-    var pitch = Math.PI * 2 * p / pitchSegments ;
-    for (var e = 0; e < elevationSegments; e++) {
-      var elevation = Math.PI  * ((e / elevationSegments)-0.5)
-      var particle = new THREE.Mesh(geometry, materialGreen);
-      
-      
-      parentContainer.add(particle);
-  
-      var dest = new THREE.Vector3();
-      dest.z = (Math.sin(pitch) * Math.cos(elevation)) * radius; //z pos in sphere
-      dest.x = (Math.cos(pitch) * Math.cos(elevation)) * radius; //x pos in sphere
-      dest.y = Math.sin(elevation) * radius; //y pos in sphere
-  
-      particle.position.x = posInBox(parentContainer.children.length % side);
-      particle.position.y = posInBox(Math.floor(parentContainer.children.length/side) % side);
-      particle.position.z = posInBox(Math.floor(parentContainer.children.length/Math.pow(side,2)) % side);
-      //console.log(side, parentContainer.children.length, particle.position.x, particle.position.y, particle.position.z)
-      particle.userData = {dests: [dest,particle.position.clone()], speed: new THREE.Vector3() };
-    }
-  }
-  
-  function render() {
-    phase += 0.002;
-    for (var i = 0, l = parentContainer.children.length; i < l; i++) {
-      var particle = parentContainer.children[i];
-      var dest = particle.userData.dests[Math.floor(phase)%particle.userData.dests.length].clone();
-      var diff = dest.sub(particle.position);
-      particle.userData.speed.divideScalar(1.02); // Some drag on the speed
-      particle.userData.speed.add(diff.divideScalar(400));// Modify speed by a fraction of the distance to the dest    
-      particle.position.add(particle.userData.speed);
-      particle.lookAt(dest);
-    }
-    
-    parentContainer.rotation.y = phase*3;
-    parentContainer.rotation.x = (mousePos.y-0.5) * Math.PI;
-    parentContainer.rotation.z = (mousePos.x-0.5) * Math.PI;
-  
-    renderer.render(scene, camera);
-    requestAnimationFrame(render);
-  }
-  render();
-
-  // animation 3
-  const animation3 = document.getElementById('animation3');
-  let delay2 = -2;
-  for (let i = 0; i < 798; i++) {
-    const wrapper2 = document.createElement('div');
-    wrapper2.className = 'wrapper2';
-    const circle2 = document.createElement('div');
-    circle2.className = 'circle2';
-    wrapper2.appendChild(circle2);
-    delay2 += 0.1;
-    if (delay2 > 0) {
-      delay2 = -2;
-    }
-    circle2.style.animationDelay = `${delay2}s`;
-    animation3.appendChild(wrapper2);
-  }
 
 });
