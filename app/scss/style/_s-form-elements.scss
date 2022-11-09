@@ -70,8 +70,9 @@ select::-ms-expand {
   transition: var(--transition-1);
 }
 
-.input:focus, .input-field-wrapper.value .input{
-  border-bottom-color: #999;
+.input:focus,
+.input-field-wrapper.value .input{
+  border-color: var(--clr-black)
 } 
 
 textarea.input {
@@ -82,6 +83,11 @@ textarea.input {
 .input-field-wrapper {
   width: 100%;
   position: relative;
+
+  &.invalid .input,
+  &.invalid-email .input {
+    border-color: var(--clr-red)
+  }
 }
 
 .form-block {

@@ -66,7 +66,6 @@ document.addEventListener("DOMContentLoaded", function() {
   //* Function on page scroll
   window.addEventListener("scroll", () => {
     _functions.scrollCall();
-    // _functions.yearScroll();
   });
 
 
@@ -465,7 +464,6 @@ document.addEventListener("DOMContentLoaded", function() {
   _functions.closePopup = function() {
     document.querySelectorAll(".popup-wrapper, .popup-content").forEach((element) => {
       element.classList.remove("active");
-      document.querySelector('.video-popup iframe').remove();
     });
     _functions.addScroll();
   };
@@ -598,43 +596,126 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
+  // $('.ContactForm').on('submit', function (e) {
+  //   if (!validateEmail($(this).find('input[name="email"]').val())) {
+  //     $(this).find('input[name="email"]').addClass('invalid');
+  //     return false;
+  //   }
+  //   ContactForm();
+  //   return false;
+  // });
+
+
+
+  // Get Data from Forms
+  _functions.getFormValue = function(form) {
+    if (!form instanceof Element) return;
+
+    let fields = form.querySelectorAll('input, select, textarea'),
+      formData = {};
+
+    for (let i = 0, imax = fields.length; i < imax; ++i) {
+      let field = fields[i],
+        name = field.name || field.id;
+
+      if (field.type === 'button' || field.type === 'image' || field.type === 'submit' || !name) continue;
+
+      switch (field.type) {
+        case 'checkbox':
+          if (formData[name] === undefined) formData[name] = '';
+          if (field.checked) formData[name] = field.value;
+          break;
+
+        case 'radio':
+          if (formData[name] === undefined) formData[name] = '';
+          if (field.checked) formData[name] = field.value;
+          break;
+
+        case 'select-multiple':
+          var selectOpt = [];
+          for (var j = 0, jmax = field.options.length; j < jmax; ++j) {
+            if (field.options[j].selected) selectOpt.push(field.options[j].value);
+          }
+          formData[name] = selectOpt;
+          break;
+
+        default:
+          formData[name] = field.value;
+      }
+    }
+
+    return formData;
+  }
+
+
+  // Post Ajax
+  _functions.postAjax = function(url, data, success) {
+      let params = typeof data == 'string' ? data : Object.keys(data).map(
+              function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
+          ).join('&');
+  
+      let xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+
+      xhr.open('POST', url);
+      xhr.onreadystatechange = function() {
+          if (xhr.readyState>3 && xhr.status==200) { success(xhr.responseText); }
+      };
+      xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+      xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+      xhr.send(params);
+      return xhr;
+  }
+
+
+  // Validate email
+  _functions.validateEmail = function(email) {
+    var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(String(email).toLowerCase());
+  }
+
+
+  document.addEventListener('submit', (e) => {
+    if (e.target.closest('form')) {
+      e.preventDefault();
+      const form = e.target.closest('form');
+      const email = form.querySelector(`:scope ${'input[name="email"]'}`)
+
+      if (!_functions.validateEmail(email.value)) {
+        email.parentNode.classList.add('invalid-email');
+        return false;
+      }
+
+      _functions.postAjax('ContactForm.php', _functions.getFormValue(form), function(data){ 
+        form.reset();
+        _functions.openPopup('.popup-content[data-rel="1"]');
+        return false;
+      });
+    }
+  });
+
+  document.addEventListener('keyup', (e) => {
+    if (e.target.closest('input[name="email"]')) {
+      const email = e.target.closest('input[name="email"]');
+
+      if (!_functions.validateEmail(email.value)) {
+        email.parentNode.classList.add('invalid-email');
+      } else {
+        email.parentNode.classList.remove('invalid-email');
+      }
+    }
+  });
+
+
+
 
   //*==============
   //* 08 OTHER JS =
   //*==============
-  /* sorting */
-  // $(document).on('click', '.sort-btn', function() {
-  //   $('.sort-nav').slideToggle();
-  //   $(this).toggleClass('active');
-  // });
-
-  // if (winW < 1200) {
-  //   $(document).on('click', '.js-sort-nav a', function() {
-  //     $(this).closest('.sort-nav').slideUp();
-  //   });
-  // }
-
-  /* change year after scroll */
-  // _functions.yearScroll = function() {
-  //   if (!$('.year-row').length || winW < 1200) return false;
-
-  //   $('.year-row').each(function(i) {
-  //     if ($(this).offset().top - 120 <= winScr && $(this).data('year') !== $('.year-to-change').text()) {
-  //       $('.year-to-change').text($(this).data('year'));
-  //     }
-  //   });
-  // }
-
-
-  // Animation
+  // Animation change year
   if (document.querySelector('.year-wrap')) {
     const yearRow = document.querySelectorAll('.year-row');
-
     const yearNum = document.querySelector('.year-to-change');
-
     const headerH = document.querySelector('header').offsetHeight;
-
-    console.log(headerH)
 
     const options = {
       root: null,
@@ -655,9 +736,6 @@ document.addEventListener("DOMContentLoaded", function() {
       observerYear.observe(row)
     });
   }
-
-
-
 
 
 
@@ -728,93 +806,88 @@ document.addEventListener("DOMContentLoaded", function() {
 
   function init() {
 
-  container = document.getElementById( 'animation' );
-  canvas = document.createElement( 'canvas' );
+    container = document.getElementById( 'animation' );
+    canvas = document.createElement( 'canvas' );
 
-  ctx = canvas.getContext( '2d' );
-  man = false;
-  tog = true;
+    ctx = canvas.getContext( '2d' );
+    man = false;
+    tog = true;
 
-  list = [];
+    list = [];
 
-  w = canvas.width = COLS * SPACING + MARGIN * 2;
-  h = canvas.height = ROWS * SPACING + MARGIN * 2;
+    w = canvas.width = COLS * SPACING + MARGIN * 2;
+    h = canvas.height = ROWS * SPACING + MARGIN * 2;
 
-  container.style.marginLeft = Math.round( w * -0.5 ) + 'px';
-  container.style.marginTop = Math.round( h * -0.5 ) + 'px';
+    container.style.marginLeft = Math.round( w * -0.5 ) + 'px';
+    container.style.marginTop = Math.round( h * -0.5 ) + 'px';
 
-  for ( i = 0; i < NUM_PARTICLES; i++ ) {
+    for ( i = 0; i < NUM_PARTICLES; i++ ) {
 
-  p = Object.create( particle );
-  p.x = p.ox = MARGIN + SPACING * ( i % COLS );
-  p.y = p.oy = MARGIN + SPACING * Math.floor( i / COLS );
+    p = Object.create( particle );
+    p.x = p.ox = MARGIN + SPACING * ( i % COLS );
+    p.y = p.oy = MARGIN + SPACING * Math.floor( i / COLS );
 
-  list[i] = p;
-  }
+    list[i] = p;
+    }
 
-  container.addEventListener( 'mousemove', function(e) {
+    container.addEventListener( 'mousemove', function(e) {
 
-  bounds = container.getBoundingClientRect();
-  mx = e.clientX - bounds.left;
-  my = e.clientY - bounds.top;
-  man = true;
+    bounds = container.getBoundingClientRect();
+    mx = e.clientX - bounds.left;
+    my = e.clientY - bounds.top;
+    man = true;
 
-  });
+    });
 
-  if ( typeof Stats === 'function' ) {
-  document.body.appendChild( ( stats = new Stats() ).domElement );
-  }
+    if ( typeof Stats === 'function' ) {
+    document.body.appendChild( ( stats = new Stats() ).domElement );
+    }
 
-  container.appendChild( canvas );
+    container.appendChild( canvas );
   }
 
   function step() {
 
-  if ( stats ) stats.begin();
+    if ( stats ) stats.begin();
 
-  if ( tog = !tog ) {
+    if ( tog = !tog ) {
 
-  if ( !man ) {
+      if ( !man ) {
+          t = +new Date() * 0.001;
+          mx = w * 0.5 + ( Math.cos( t * 2.1 ) * Math.cos( t * 0.9 ) * w * 0.45 );
+          my = h * 0.5 + ( Math.sin( t * 3.2 ) * Math.tan( Math.sin( t * 0.8 ) ) * h * 0.45 );
+        }
+        
+        for ( i = 0; i < NUM_PARTICLES; i++ ) {
+          p = list[i];
+          
+          d = ( dx = mx - p.x ) * dx + ( dy = my - p.y ) * dy;
+          f = -THICKNESS / d;
 
-    t = +new Date() * 0.001;
-    mx = w * 0.5 + ( Math.cos( t * 2.1 ) * Math.cos( t * 0.9 ) * w * 0.45 );
-    my = h * 0.5 + ( Math.sin( t * 3.2 ) * Math.tan( Math.sin( t * 0.8 ) ) * h * 0.45 );
-  }
-    
-  for ( i = 0; i < NUM_PARTICLES; i++ ) {
-    
-    p = list[i];
-    
-    d = ( dx = mx - p.x ) * dx + ( dy = my - p.y ) * dy;
-    f = -THICKNESS / d;
+          if ( d < THICKNESS ) {
+            t = Math.atan2( dy, dx );
+            p.vx += f * Math.cos(t);
+            p.vy += f * Math.sin(t);
+          }
 
-    if ( d < THICKNESS ) {
-      t = Math.atan2( dy, dx );
-      p.vx += f * Math.cos(t);
-      p.vy += f * Math.sin(t);
+          p.x += ( p.vx *= DRAG ) + (p.ox - p.x) * EASE;
+          p.y += ( p.vy *= DRAG ) + (p.oy - p.y) * EASE;
+        }
+
+    } else {
+      b = ( a = ctx.createImageData( w, h ) ).data;
+
+      for ( i = 0; i < NUM_PARTICLES; i++ ) {
+
+        p = list[i];
+        b[n = ( ~~p.x + ( ~~p.y * w ) ) * 4] = b[n+1] = b[n+2] = COLOR, b[n+3] = 255;
+      }
+
+      ctx.putImageData( a, 0, 0 );
     }
 
-    p.x += ( p.vx *= DRAG ) + (p.ox - p.x) * EASE;
-    p.y += ( p.vy *= DRAG ) + (p.oy - p.y) * EASE;
-
-  }
-
-  } else {
-
-  b = ( a = ctx.createImageData( w, h ) ).data;
-
-  for ( i = 0; i < NUM_PARTICLES; i++ ) {
-
-    p = list[i];
-    b[n = ( ~~p.x + ( ~~p.y * w ) ) * 4] = b[n+1] = b[n+2] = COLOR, b[n+3] = 255;
-  }
-
-  ctx.putImageData( a, 0, 0 );
-  }
-
-  if ( stats ) stats.end();
-
-  requestAnimationFrame( step );
+    if ( stats ) stats.end();
+    requestAnimationFrame( step );
   }
 
   init();

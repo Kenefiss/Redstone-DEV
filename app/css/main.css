@@ -367,9 +367,9 @@ header {height: var(--h-height);}
 #animation3 {-webkit-animation: fade-in 1s ease-out forwards;animation: fade-in 1s ease-out forwards;opacity: 0;position: absolute;top: 0;left: 0;z-index: 0;width: 100%;height: 100%;display: -webkit-box;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;}
 .wrapper,
 .wrapper2 {position: relative;margin-bottom: -10px;margin-left: -10px;}
-.circle,
+.circle:not(.round-btn .circle),
 .circle2 {-webkit-animation: rotate 3s infinite linear;animation: rotate 3s infinite linear;border-radius: 50%;border: 1px solid transparent;height: 26px;position: relative;width: 26px;-webkit-transition: border 1s ease-out;transition: border 1s ease-out;}
-.circle:after,
+.circle:not(.round-btn .circle):after,
 .circle2:after {content: "";border-radius: 50%;background: var(--clr-grey);position: absolute;height: 4px;top: -2px;left: calc(50% - 2px);width: 4px;}
 .circle2 {-webkit-animation: rotate 5s infinite linear;animation: rotate 5s infinite linear;}
 .circle2:after {background: var(--clr-grey4);}

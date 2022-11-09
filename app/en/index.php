@@ -381,7 +381,7 @@
             <div class="col-xl-5 offset-xl-7">
               <div class="ml-80 animate-item fadeInUp delay-1">
                 <div class="title h5 fw-500 d-none d-xl-block">Tell us about your idea, and we will offer a solution. Leave an application and we will start!</div>
-                <form method="post" class="ContactForm">
+                <form method="post" class="ContactForm" id="ContactForm">
                   <div class="form-block">
                     <div class="input-field-wrapper w-50">
                       <input class="input" placeholder="Your name" type="text" name="name">

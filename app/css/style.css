@@ -863,9 +863,11 @@ textarea {display: block;resize: none;overflow: auto;}
 select::-ms-expand {display: none;}
 .input {position: relative;z-index: 1;height: 50px;font-size: 18px;font-weight: 400;line-height: 50px;padding: 15px 0;text-align: left;letter-spacing: 0.02em;text-overflow: ellipsis;color: var(--clr-black);border-bottom: 1px solid var(--clr-grey4);-webkit-transition: var(--transition-1);transition: var(--transition-1);}
 .input:focus,
-.input-field-wrapper.value .input {border-bottom-color: #999;}
+.input-field-wrapper.value .input {border-color: var(--clr-black);}
 textarea.input {height: 90px;line-height: 1.5em;}
 .input-field-wrapper {width: 100%;position: relative;}
+.input-field-wrapper.invalid .input,
+.input-field-wrapper.invalid-email .input {border-color: var(--clr-red);}
 .form-block {display: -webkit-box;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin: 0 -10px;}
 .form-block > * {margin: 20px 10px 0;}
 .form-block > *.w-50 {width: calc(50% - 20px);}
