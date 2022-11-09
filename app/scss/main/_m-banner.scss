@@ -103,8 +103,18 @@
   z-index: 0;
 }
 
-// animation 2 3
-#animation2, #animation3{
+// animation 2
+#animation2{
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+// animation 3
+#animation3{
   animation: fade-in 1s ease-out forwards;
   opacity: 0;
   position: absolute;
@@ -117,14 +127,14 @@
   flex-wrap: wrap;
 }
 
-.wrapper, .wrapper2{
+.wrapper2{
   position: relative;
   margin-bottom: -10px;
   margin-left: -10px;
 }
 
-.circle:not(.round-btn .circle), .circle2 {
-  animation: rotate 3s infinite linear;
+.circle2{
+  animation: rotate 5s infinite linear;
   border-radius: 50%;
   border: 1px solid transparent;
   height: 26px;
@@ -133,22 +143,15 @@
   transition: border 1s ease-out;
 }
 
-.circle:not(.round-btn .circle):after,.circle2:after{
+.circle2:after{
   content: "";
   border-radius: 50%;
-  background: var(--clr-grey);
+  background: var(--clr-black);
   position: absolute;
   height: 4px;
   top: -2px;
   left: calc(50% - 2px);
   width: 4px;
-}
-
-.circle2{
-  animation: rotate 5s infinite linear;
-}
-.circle2:after {
-  background: var(--clr-grey4);
 }
 
 @keyframes rotate {
@@ -162,8 +165,6 @@
     opacity: 1;
   }
 }
-
-// animation 4
 
 
 
@@ -227,6 +228,9 @@
   }
   .banner .banner-num{
     padding-top:40%;
+  }
+  #animation2{
+    top: -90%;
   }
 }
 

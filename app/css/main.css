@@ -363,16 +363,11 @@ header {height: var(--h-height);}
 .banner .banner-num .num {display: inline-block;vertical-align: middle;position: absolute;z-index: 1;top: 0;left: 0;width: 100%;height: 100%;-o-object-fit: cover;object-fit: cover;font-size: 6.5em;line-height: 1em;font-weight: 700;text-align: center;text-transform: uppercase;mix-blend-mode: screen;background-color: var(--clr-white);}
 .banner .banner-num img {position: absolute;z-index: 0;inset: 0;width: 100%;height: 100%;-o-object-fit: cover;object-fit: cover;z-index: 0;}
 .banner-num #animation {position: absolute;top: 50%;left: 50%;z-index: 0;}
-#animation2,
+#animation2 {position: absolute;z-index: 0;top: 0;left: 50%;-webkit-transform: translateX(-50%);transform: translateX(-50%);}
 #animation3 {-webkit-animation: fade-in 1s ease-out forwards;animation: fade-in 1s ease-out forwards;opacity: 0;position: absolute;top: 0;left: 0;z-index: 0;width: 100%;height: 100%;display: -webkit-box;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;}
-.wrapper,
 .wrapper2 {position: relative;margin-bottom: -10px;margin-left: -10px;}
-.circle:not(.round-btn .circle),
-.circle2 {-webkit-animation: rotate 3s infinite linear;animation: rotate 3s infinite linear;border-radius: 50%;border: 1px solid transparent;height: 26px;position: relative;width: 26px;-webkit-transition: border 1s ease-out;transition: border 1s ease-out;}
-.circle:not(.round-btn .circle):after,
-.circle2:after {content: "";border-radius: 50%;background: var(--clr-grey);position: absolute;height: 4px;top: -2px;left: calc(50% - 2px);width: 4px;}
-.circle2 {-webkit-animation: rotate 5s infinite linear;animation: rotate 5s infinite linear;}
-.circle2:after {background: var(--clr-grey4);}
+.circle2 {-webkit-animation: rotate 5s infinite linear;animation: rotate 5s infinite linear;border-radius: 50%;border: 1px solid transparent;height: 26px;position: relative;width: 26px;-webkit-transition: border 1s ease-out;transition: border 1s ease-out;}
+.circle2:after {content: "";border-radius: 50%;background: var(--clr-black);position: absolute;height: 4px;top: -2px;left: calc(50% - 2px);width: 4px;}
 @-webkit-keyframes rotate {
 to {-webkit-transform: rotateZ(360deg);transform: rotateZ(360deg);}
 }
@@ -409,6 +404,7 @@ to {opacity: 1;}
 @media (max-width: 767px) {
 .logo-group a:not(:last-child) {margin-right: 20px;}
 .banner .banner-num {padding-top: 40%;}
+#animation2 {top: -90%;}
 }
 @media (max-width: 575px) {
 .full-height {height: auto;padding: 20px 0 0;}
