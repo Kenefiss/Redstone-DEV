@@ -4,13 +4,13 @@
     <div class="header-informer text text-sm">
         <img src="../img/informer-img.svg" alt="" loading="lazy">
         <b>Charity and volunteering in web development.</b>
-        <a href="#">VIEW our projects</a>
+        <a href="portfolio.php">VIEW our projects</a>
       </div>
       <div class="header-wrap-inner">
         <div class="header-wrap-left">
           <a class="header-logo" href="index.php">
             <img src="../img/logo-en.svg" alt="" loading="lazy">
-            <img src="../img/logo-white.svg" alt="" loading="lazy">
+            <img src="../img/logo-en-white.svg" alt="" loading="lazy">
           </a>
           <div class="btn-burger">
             <div class="burger"><i></i></div>

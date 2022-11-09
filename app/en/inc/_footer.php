@@ -7,7 +7,7 @@
   <div class="footer-left">
     <div class="footer-left-top">
       <a class="footer-logo" href="index.php">
-        <img src="../img/logo-white.svg" alt="" loading="lazy">
+        <img src="../img/logo-en-white.svg" alt="" loading="lazy">
       </a>
       <div class="footer-links">
         <ul>
