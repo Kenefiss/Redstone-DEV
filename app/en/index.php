@@ -20,7 +20,7 @@
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
                 <div class="title h1">WEB Solutions <b>.</b> App <b>.</b> MVP <b>.</b> Making the difficult simple</div>
-                <a href="#" class="btn btn-primary">
+                <a href="portfolio.php" class="btn btn-primary">
                   <b>Our projects</b>
                 </a>
                 <div class="logo-group">
@@ -134,9 +134,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="../img/category-img-5.webp" type="image/webp">
-                      <source srcset="../img/category-img-5.png" type="image/png">
-                      <img src="../img/category-img-5.png" alt="">
+                      <source srcset="../img/category-img-9.webp" type="image/webp">
+                      <source srcset="../img/category-img-9.png" type="image/png">
+                      <img src="../img/category-img-9.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -151,9 +151,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="../img/category-img-6.webp" type="image/webp">
-                      <source srcset="../img/category-img-6.png" type="image/png">
-                      <img src="../img/category-img-6.png" alt="">
+                      <source srcset="../img/category-img-10.webp" type="image/webp">
+                      <source srcset="../img/category-img-10.png" type="image/png">
+                      <img src="../img/category-img-10.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -164,7 +164,7 @@
             </div>
           </div>
           <div class="text-center animate-item fadeInUp">
-            <a class="btn btn-primary" href="#">
+            <a class="btn btn-primary" href="portfolio.php">
               <b>View all projects</b>
             </a>
           </div>
@@ -172,7 +172,7 @@
         <div class="spacer-xl"></div>
       </div>
 
-      <!-- SERVICES -->
+      <!-- SERVICES type 2  -->
       <div class="section">
         <div class="container">
           <div class="row">
@@ -183,63 +183,36 @@
               </div>
             </div>
           </div>
-          <div class="row services-wrapp animate-item fadeInUp delay-2">
-            <div class="col-6 col-md-4 service-item">
-              <div class="service-title">Web-sites</div>
-              <ul>
-                <li><a href="#">Analysis / Audit</a></li>
-                <li><a href="#">UI/UX</a></li>
-                <li><a href="#">Landing page</a></li>
-                <li><a href="#">Corporate</a></li>
-                <li><a href="#">Online store</a></li>
-                <li><a href="#">Redesign</a></li>
-              </ul>
-            </div>
-            <div class="col-6 col-md-4 service-item">
-              <div class="service-title">Internet marketing</div>
-              <ul>
-                <li><a href="#">SEO</a></li>
-                <li><a href="#">SMM</a></li>
-                <li><a href="#">Media advertising</a></li>
-                <li><a href="#">Photo / Video</a></li>
-              </ul>
-            </div>
-            <div class="col-6 col-md-4 service-item">
-              <div class="service-title">Branding</div>
-              <ul>
-                <li><a href="#">Logo</a></li>
-                <li><a href="#">Brandbook</a></li>
-                <li><a href="#">Packaging</a></li>
-                <li><a href="#">Rebranding</a></li>
-                <li><a href="#">Copywriting</a></li>
-              </ul>
-            </div>
-            <div class="col-6 col-md-4 service-item">
-              <div class="service-title">APP / Application</div>
-              <ul>
-                <li><a href="#">APP for Android</a></li>
-                <li><a href="#">APP for IOS</a></li>
-                <li><a href="#">PWA</a></li>
-                <li><a href="#">APP design</a></li>
-              </ul>
-            </div>
-            <div class="col-6 col-md-4 service-item">
-              <div class="service-title">Technical support</div>
-              <ul>
-                <li><a href="#">Site support</a></li>
-                <li><a href="#">APP support</a></li>
-              </ul>
-            </div>
-            <div class="col-6 col-md-4 service-item">
-              <div class="round-btn-wrap">
-                <a class="round-btn-listener" href="../documents/REDSTONE Brief Marketing - Corporate Eng.doc" download></a>
-                <div class="round-btn">
-                  <div class="circle"></div>
-                  <span class="name">Fill out <br> the brief
-                    <svg width="24" height="17" fill="none" xmlns="http://www.w3.org/2000/svg" class="arr">
-                      <path d="M15.568 0L24 8.5 15.568 17l-1.73-1.744 5.405-5.448H0V7.192h19.243l-5.405-5.448L15.568 0z" /></svg>
-                  </span>
+          <div class="row animate-item fadeInUp delay-2">
+            <div class="swiper-entry clients-slider size2">
+              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "slidesPerGroup":4, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
+                <div class="swiper-wrapper clients">
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="../img/tech-img-1.svg" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="../img/tech-img-2.svg" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="../img/tech-img-3.svg" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="../img/tech-img-4.svg" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="../img/tech-img-5.svg" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="../img/tech-img-6.svg" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="../img/tech-img-7.svg" loading="lazy" alt=""></div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="client-img"><img src="../img/tech-img-8.svg" loading="lazy" alt=""></div>
+                  </div>
                 </div>
+                <div class="swiper-pagination swiper-pagination-relative"></div>
               </div>
             </div>
           </div>

@@ -1,7 +1,7 @@
 <?php
 
 /* recipients */
-$to1= 'kenefiss@gmail.com';
+$to1= 'office@redstone.software';
 /* subject */
 $subject1 = "REDSTONE Digital Agency message";
 /* message */

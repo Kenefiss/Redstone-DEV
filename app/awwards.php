@@ -58,133 +58,151 @@
             <div class="col-12 col-xl-9">
               <div class="row year-row" data-year="19">
                 <div class="col-12 d-xl-none h2 text-center year-mobile"><span>2019</span></div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">Love & Dress</div>
-                  <div class="award-subtitle">AWWWARDS Honors</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-1.webp" type="image/webp">
-                        <source srcset="img/award-1.jpg" type="image/jpeg">
-                        <img src="img/award-1.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">Love & Dress</div>
+                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-1.webp" type="image/webp">
+                          <source srcset="img/award-1.jpg" type="image/jpeg">
+                          <img src="img/award-1.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">Love & Dress</div>
-                  <div class="award-subtitle">AWWWARDS MOBILE EXCELLENCE</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-2.webp" type="image/webp">
-                        <source srcset="img/award-2.jpg" type="image/jpeg">
-                        <img src="img/award-2.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">Love & Dress</div>
+                    <div class="award-subtitle">AWWWARDS MOBILE EXCELLENCE</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-2.webp" type="image/webp">
+                          <source srcset="img/award-2.jpg" type="image/jpeg">
+                          <img src="img/award-2.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">M.vision Clinic</div>
-                  <div class="award-subtitle">AWWWARDS Honors</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-1.webp" type="image/webp">
-                        <source srcset="img/award-1.jpg" type="image/jpeg">
-                        <img src="img/award-1.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">M.vision Clinic</div>
+                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-1.webp" type="image/webp">
+                          <source srcset="img/award-1.jpg" type="image/jpeg">
+                          <img src="img/award-1.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">Love & Dress</div>
-                  <div class="award-subtitle">AWWWARDS Honors</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-1.webp" type="image/webp">
-                        <source srcset="img/award-1.jpg" type="image/jpeg">
-                        <img src="img/award-1.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">Love & Dress</div>
+                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-1.webp" type="image/webp">
+                          <source srcset="img/award-1.jpg" type="image/jpeg">
+                          <img src="img/award-1.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">Love & Dress</div>
-                  <div class="award-subtitle">AWWWARDS Honors</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-3.webp" type="image/webp">
-                        <source srcset="img/award-3.jpg" type="image/jpeg">
-                        <img src="img/award-3.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">Love & Dress</div>
+                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-3.webp" type="image/webp">
+                          <source srcset="img/award-3.jpg" type="image/jpeg">
+                          <img src="img/award-3.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">Love & Dress</div>
-                  <div class="award-subtitle">AWWWARDS Honors</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-4.webp" type="image/webp">
-                        <source srcset="img/award-4.jpg" type="image/jpeg">
-                        <img src="img/award-4.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">Love & Dress</div>
+                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-4.webp" type="image/webp">
+                          <source srcset="img/award-4.jpg" type="image/jpeg">
+                          <img src="img/award-4.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
               </div>
               <div class="row year-row" data-year="18">
                 <div class="col-12 d-xl-none h2 text-center year-mobile"><span>2018</span></div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">Love & Dress</div>
-                  <div class="award-subtitle">AWWWARDS Honors</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-5.webp" type="image/webp">
-                        <source srcset="img/award-5.jpg" type="image/jpeg">
-                        <img src="img/award-5.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">Love & Dress</div>
+                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-5.webp" type="image/webp">
+                          <source srcset="img/award-5.jpg" type="image/jpeg">
+                          <img src="img/award-5.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">Love & Dress</div>
-                  <div class="award-subtitle">AWWWARDS MOBILE EXCELLENCE</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-5.webp" type="image/webp">
-                        <source srcset="img/award-5.jpg" type="image/jpeg">
-                        <img src="img/award-5.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">Love & Dress</div>
+                    <div class="award-subtitle">AWWWARDS MOBILE EXCELLENCE</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-5.webp" type="image/webp">
+                          <source srcset="img/award-5.jpg" type="image/jpeg">
+                          <img src="img/award-5.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
-                <div class="col-md-6 col-lg-4 award-item">
-                  <div class="award-title">M.vision Clinic</div>
-                  <div class="award-subtitle">AWWWARDS Honors</div>
-                  <div class="award-img">
-                    <a href="#">
-                      <span class="review-btn"><i class="review-icon"></i></span>
-                      <picture>
-                        <source srcset="img/award-5.webp" type="image/webp">
-                        <source srcset="img/award-5.jpg" type="image/jpeg">
-                        <img src="img/award-5.jpg" alt="">
-                      </picture>
-                    </a>
+                <div class="col-md-6 col-lg-4">
+                  <div class="award-item">
+                    <div class="award-title">M.vision Clinic</div>
+                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-img">
+                      <a href="#">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-5.webp" type="image/webp">
+                          <source srcset="img/award-5.jpg" type="image/jpeg">
+                          <img src="img/award-5.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
                   </div>
                 </div>
               </div>

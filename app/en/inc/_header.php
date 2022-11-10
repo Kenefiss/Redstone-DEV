@@ -47,18 +47,18 @@
               </a>
               <nav class="header-mega-menu" style="--items: 3;">
                 <ul>
-                  <li><a href="#">АРР</a></li>
-                  <li><a href="#">Branding</a></li>
+                  <li><a href="app.php">АРР</a></li>
+                  <li><a href="branding.php">Branding</a></li>
                   <li class="has-submenu">
                     <b>Portfolio</b>
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 3;">
-                        <li><a href="#">Food delivery</a></li>
-                        <li><a href="#">Construction</a></li>
-                        <li><a href="#">APP</a></li>
-                        <li><a href="#">Finances</a></li>
-                        <li><a href="#">Marketing</a></li>
+                        <li><a href="car-dealers.php">Car Dealers</a></li>
+                        <li><a href="e-store.php">E - Stores</a></li>
+                        <li><a href="mvp.php">MVP</a></li>
+                        <li><a href="site.php">Website</a></li>
+                        <li><a href="web.php">Web Solutions</a></li>
                       </ul>
                     </div>
                   </li>
@@ -79,13 +79,13 @@
                   </li> -->
                   <!-- hide on phase 1 -->
 
-                  <li><a href="#">Awards</a></li>
+                  <li><a href="awwards.php">Awards</a></li>
 
                   <!-- hide on phase 1 -->
                   <!-- <li><a href="#">Blog</a></li> -->
                   <!-- hide on phase 1 -->
 
-                  <li><a href="#">Reviews</a></li>
+                  <li><a href="#en-reviews">Reviews</a></li>
                   <li class="menu-close"><a href="#footer">Contacts</a></li>
                 </ul>
               </nav>
@@ -136,14 +136,14 @@
           <div class="header-menu-right-top">
             <div class="rs-email">
               <div>email:</div>
-              <a href="mailto:office@redstone.media">
-                <span itemprop="email">office@redstone.media</span>
+              <a href="mailto:office@redstone.software">
+                <span itemprop="email">office@redstone.software</span>
               </a>
             </div>
             <div class="rs-email">
               <div>email:</div>
-              <a href="mailto:support@redstone.media">
-                <span itemprop="email">support@redstone.media</span>
+              <a href="mailto:support@redstone.software">
+                <span itemprop="email">support@redstone.software</span>
               </a>
             </div>
           </div>
@@ -160,7 +160,7 @@
     </div>
     <div class="header-informer text text-sm">
         <img src="../img/informer-img.svg" alt="" loading="lazy">
-        <b>Charity and volunteering in web development.</b>
+        <b>We stand with Ukraine.</b>
 
         <!-- hide on phase 1 -->
         <!-- <a href="#">VIEW our projects</a> -->

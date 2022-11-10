@@ -1,8 +1,8 @@
 <div class="section">
   <div class="container">
-    <div class="row">
-      <div class="col-xl-7">
-        <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> - ваш надійний цифровий партнер</h1>
+    <div class="row justify-content-center">
+      <div class="col-xl-6">
+        <h1 class="title h2 title-margin"><b>REDSTONE</b> - ваш надійний цифровий партнер</h1>
         <div class="row">
           <div class="col-md-6 animate-item fadeInUp delay-1">
             <div class="simple-page text">
@@ -21,9 +21,11 @@
           </div>
         </div>
       </div>
-      <div class="col-xl-5 d-none d-xl-block animate-item fadeInUp delay-1">
-        <div class="simple-page ml-80">
-          <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+      <div class="col-xl-5 d-none d-xl-block animate-item fadeInUp delay-2">
+        <div class="video-wrap ml-80">
+          <div class="video">
+            <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline="" loop="" autoplay="" muted="" disablepictureinpicture=""></video>
+          </div>
         </div>
       </div>
     </div>

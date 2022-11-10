@@ -1,15 +1,32 @@
 /*--------------------*/
 /* - AWARDS           */
 /*--------------------*/
-.award-item:nth-child(n+5){margin-top: 70px;}
+.year-row {
+  --bs-gutter-x: 30px;
+  --bs-gutter-y: 80px;
+  margin-bottom: 80px;
+
+  &.size-2 {
+    --bs-gutter-x: 60px;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+.award-item {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
 .award-title{font-size: 28px;font-weight: 500;color:var(--clr-title);line-height: 1.2;margin-bottom:10px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
 .award-subtitle{font-size: 14px;font-weight: 400;text-transform: uppercase;margin-bottom: 25px;}
-.award-img{overflow: hidden;position: relative;transition: var(--transition-1);font-size:0;}
+.award-img{overflow: hidden;position: relative;transition: var(--transition-1);font-size:0; margin-top: auto;}
 .award-img a{display: block;}
 .award-img img{vertical-align:top;width:100%;}
 .award-img .review-icon{font-size: 40px;}
 .year-wrap{position: sticky;top: calc(var(--h-height) + var(--h-info-height) + 30px);}
-.year-row + .year-row{margin-top: 80px;}
 .year .svg-text{width:100%;height: 100px;position: relative;font-weight: 600;}
 .year .svg-text svg text{font-size:160px;}
 .year .svg-text:before{content:"";position: absolute;bottom: 25px;left: 0;height: 2px;width: 100%;max-width:218px;background-color:var(--clr-red);}
@@ -29,21 +46,31 @@
   }
 }
 
-@media(max-width:1839px) {
-  .award-item:nth-child(n+5) {
-    margin-top: 50px;
-  }
-}
-
 @media(max-width:1560px) {
   .award-title {
     font-size: 24px;
   }
+
+  .year-row {
+    --bs-gutter-x: 30px;
+    --bs-gutter-y: 60px;
+    margin-bottom: 60px;
+  
+    &.size-2 {
+      --bs-gutter-x: 30px;
+    }
+  }
 }
 
 @media(max-width:1199px) {
-  .award-item:nth-child(n+5) {
-    margin-top: 30px;
+  .year-row {
+    --bs-gutter-x: 30px;
+    --bs-gutter-y: 30px;
+    margin-bottom: 50px;
+  
+    &.size-2 {
+      --bs-gutter-x: 30px;
+    }
   }
 
   .award-img .review-icon {
@@ -60,22 +87,8 @@
   }
 }
 
-@media(max-width:991px) {
-  .award-item:nth-child(n+4) {
-    margin-top: 25px;
-  }
-}
-
 @media(max-width:767px) {
-  .year-row+.year-row {
-    margin-top: 50px;
-  }
-
   .year-row .year-mobile {
     margin-bottom: 20px;
-  }
-
-  .award-item:nth-child(n+3) {
-    margin-top: 25px;
   }
 }

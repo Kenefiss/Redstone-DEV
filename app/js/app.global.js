@@ -260,7 +260,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
   // Anchor Links Scroll
-  const anchorLinks = document.querySelectorAll('a[href*="#"]:not([href="#"])');
+  const anchorLinks = document.querySelectorAll('a[href*="#"]:not([href="#"]):not(.review-title)');
 
   for (let i = 0; i < anchorLinks.length; i++) {
     anchorLinks[i].addEventListener("click", function(event) {

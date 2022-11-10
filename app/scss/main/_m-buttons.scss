@@ -175,7 +175,7 @@
   }
 }
 
-.btn-link{
+.btn-link {
   font-size: 15px;
   color: var(--clr-red);
   font-weight: 600;
@@ -183,10 +183,11 @@
   letter-spacing: 0.1em;
   transition: var(--transition-1);
 }
-.btn-link svg{
+.btn-link svg {
   position: relative;
+  vertical-align: top;
   margin-left: 20px;
-  top:2px;
+  top:1px;
   width: 7px;
   height: 12px;
   stroke: currentColor;

@@ -316,7 +316,7 @@ header {height: var(--h-height);}
 .round-btn .name {position: absolute;z-index: -1;left: 50%;top: 50%;font-size: 18px;display: block;pointer-events: none;line-height: 1.56;padding: 70px 0 0 45px;width: 100%;height: 100%;text-align: left;text-transform: uppercase;color: var(--clr-red);font-weight: 600;-webkit-transform: translate(-50%, -50%);transform: translate(-50%, -50%);}
 .round-btn .arr {position: absolute;right: 65px;bottom: 76px;width: 24px;height: 17px;fill: var(--clr-red);}
 .btn-link {font-size: 15px;color: var(--clr-red);font-weight: 600;text-transform: uppercase;letter-spacing: 0.1em;-webkit-transition: var(--transition-1);transition: var(--transition-1);}
-.btn-link svg {position: relative;margin-left: 20px;top: 2px;width: 7px;height: 12px;stroke: currentColor;-webkit-transition: var(--transition-1);transition: var(--transition-1);}
+.btn-link svg {position: relative;vertical-align: top;margin-left: 20px;top: 1px;width: 7px;height: 12px;stroke: currentColor;-webkit-transition: var(--transition-1);transition: var(--transition-1);}
 @media (min-width: 1200px) {
 .btn:hover {color: var(--clr-red);}
 .btn:hover::before {-webkit-transform: translateY(0%);transform: translateY(0%);}
