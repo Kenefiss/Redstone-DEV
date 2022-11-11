@@ -143,7 +143,7 @@
               <div class="d-none d-lg-block">
                 У вас є цікавий проект, давай втілимо його<br>в реальність
               </div>
-              <a href="documents/REDSTONE Brief Marketing - Corporate.doc" download class="btn btn-secondary">
+              <a href="documents/REDSTONEBriefMarketing-Corporate.doc" download class="btn btn-secondary">
                 <b>ЗАПОВНИТИ БРИФ</b>
               </a>
             </div>

@@ -644,7 +644,7 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><span>REDSTONE</span> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>Today, every business has its presence in the global network.</p>
                 <p>Thanks to our extensive experience and narrow specialization, we managed to come up with a formula that works and benefits the client.</p>

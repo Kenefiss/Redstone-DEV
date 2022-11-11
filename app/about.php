@@ -33,7 +33,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2">Ефектні та ефективні веб і мобайл рішення з зануренням в ваш бізнес</div>
                 <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію.</div>
@@ -54,7 +54,7 @@
       <div class="section black-sec inner-padd">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 color-white animate-item fadeInUp">Ми виходимо за рамки очікуваного, щоб знайти найкраще рішення</div>
               </div>
@@ -93,7 +93,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Що ми використовуємо</div>
               </div>

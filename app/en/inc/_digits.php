@@ -1,7 +1,7 @@
 <div class="section black-sec inner-padd">
   <div class="container">
     <div class="row">
-      <div calss="col-12">
+      <div class="col-12">
         <div class="title-with-text">
           <div class="title h2 color-white animate-item fadeInUp">REDSTONE in numbers</div>
           <div class="text color-2 animate-item fadeInUp delay-1">Tasks with an asterisk are our profile. Solving them, we have repeatedly received awards in Ukraine and across the globe. The <span>REDSTONE</span> team is always ready for new challenges.</div>

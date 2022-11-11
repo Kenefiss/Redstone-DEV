@@ -336,7 +336,7 @@
             <div class="col-xl-5 d-none d-xl-block">
               <div class="video-wrap ml-80 animate-item fadeInUp delay-2">
                 <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablePictureInPicture></video>
                 </div>
               </div>
             </div>

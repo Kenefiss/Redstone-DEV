@@ -33,7 +33,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title page-title h2">Блог</div>
               </div>
