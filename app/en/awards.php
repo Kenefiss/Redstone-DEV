@@ -69,9 +69,9 @@
                       <a href="https://www.cssreel.com/website/redstone" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-8.webp" type="image/webp">
-                          <source srcset="../img/award-img-8.png" type="image/png">
-                          <img src="../img/award-img-8.png" alt="">
+                          <source srcset="img/award-img-8.webp" type="image/webp">
+                          <source srcset="img/award-img-8.png" type="image/png">
+                          <img src="img/award-img-8.png" alt="">
                         </picture>
                       </a>
                     </div>
@@ -85,9 +85,9 @@
                       <a href="https://www.awwwards.com/REDSTONE/" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-9.webp" type="image/webp">
-                          <source srcset="../img/award-img-9.png" type="image/png">
-                          <img src="../img/award-img-9.png" alt="">
+                          <source srcset="img/award-img-9.webp" type="image/webp">
+                          <source srcset="img/award-img-9.png" type="image/png">
+                          <img src="img/award-img-9.png" alt="">
                         </picture>
                       </a>
                     </div>
@@ -101,9 +101,9 @@
                       <a href="https://www.awwwards.com/sites/bilo" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-10.webp" type="image/webp">
-                          <source srcset="../img/award-img-10.png" type="image/png">
-                          <img src="../img/award-img-10.png" alt="">
+                          <source srcset="img/award-img-10.webp" type="image/webp">
+                          <source srcset="img/award-img-10.png" type="image/png">
+                          <img src="img/award-img-10.png" alt="">
                         </picture>
                       </a>
                     </div>
@@ -117,9 +117,9 @@
                       <a href="https://www.awwwards.com/sites/love-dress/mobile-excellence-report" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-2.webp" type="image/webp">
-                          <source srcset="../img/award-img-2.jpg" type="image/jpeg">
-                          <img src="../img/award-img-2.jpg" alt="">
+                          <source srcset="img/award-img-2.webp" type="image/webp">
+                          <source srcset="img/award-img-2.jpg" type="image/jpeg">
+                          <img src="img/award-img-2.jpg" alt="">
                         </picture>
                       </a>
                     </div>
@@ -133,9 +133,9 @@
                       <a href="https://www.awwwards.com/sites/love-dress/mobile-excellence-report" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-2.webp" type="image/webp">
-                          <source srcset="../img/award-img-2.jpg" type="image/jpeg">
-                          <img src="../img/award-img-2.jpg" alt="">
+                          <source srcset="img/award-img-2.webp" type="image/webp">
+                          <source srcset="img/award-img-2.jpg" type="image/jpeg">
+                          <img src="img/award-img-2.jpg" alt="">
                         </picture>
                       </a>
                     </div>
@@ -149,9 +149,9 @@
                       <a href="https://www.awwwards.com/sites/m-vision-clinic" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-3.webp" type="image/webp">
-                          <source srcset="../img/award-img-3.jpg" type="image/jpeg">
-                          <img src="../img/award-img-3.jpg" alt="">
+                          <source srcset="img/award-img-3.webp" type="image/webp">
+                          <source srcset="img/award-img-3.jpg" type="image/jpeg">
+                          <img src="img/award-img-3.jpg" alt="">
                         </picture>
                       </a>
                     </div>
@@ -165,9 +165,9 @@
                       <a href="http://www.bestcss.in/user/detail/DAandCO-6864" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-4.webp" type="image/webp">
-                          <source srcset="../img/award-img-4.jpg" type="image/jpeg">
-                          <img src="../img/award-img-4.jpg" alt="">
+                          <source srcset="img/award-img-4.webp" type="image/webp">
+                          <source srcset="img/award-img-4.jpg" type="image/jpeg">
+                          <img src="img/award-img-4.jpg" alt="">
                         </picture>
                       </a>
                     </div>
@@ -181,9 +181,9 @@
                       <a href="https://www.designnominees.com/sites/daco" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-5.webp" type="image/webp">
-                          <source srcset="../img/award-img-5.jpg" type="image/jpeg">
-                          <img src="../img/award-img-5.jpg" alt="">
+                          <source srcset="img/award-img-5.webp" type="image/webp">
+                          <source srcset="img/award-img-5.jpg" type="image/jpeg">
+                          <img src="img/award-img-5.jpg" alt="">
                         </picture>
                       </a>
                     </div>
@@ -197,9 +197,9 @@
                       <a href="https://www.csslight.com/website/23929/MVISION-Study-Resort" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-6.webp" type="image/webp">
-                          <source srcset="../img/award-img-6.jpg" type="image/jpeg">
-                          <img src="../img/award-img-6.jpg" alt="">
+                          <source srcset="img/award-img-6.webp" type="image/webp">
+                          <source srcset="img/award-img-6.jpg" type="image/jpeg">
+                          <img src="img/award-img-6.jpg" alt="">
                         </picture>
                       </a>
                     </div>
@@ -213,9 +213,9 @@
                       <a href="https://www.csslight.com/website/23853/DA-and-Co" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-7.webp" type="image/webp">
-                          <source srcset="../img/award-img-7.jpg" type="image/jpeg">
-                          <img src="../img/award-img-7.jpg" alt="">
+                          <source srcset="img/award-img-7.webp" type="image/webp">
+                          <source srcset="img/award-img-7.jpg" type="image/jpeg">
+                          <img src="img/award-img-7.jpg" alt="">
                         </picture>
                       </a>
                     </div>

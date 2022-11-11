@@ -7,7 +7,7 @@
   <div class="footer-left">
     <div class="footer-left-top">
       <a class="footer-logo" href="index.php">
-        <img src="../img/logo-en-white.svg" alt="" loading="lazy">
+        <img src="img/logo-en-white.svg" alt="" loading="lazy">
       </a>
       <div class="footer-links">
         <ul>
@@ -121,7 +121,7 @@
       <div class="d-none d-lg-block">
       Do you have an interesting project? Let's make it a reality
       </div>
-      <a href="../documents/REDSTONE Brief Marketing - Corporate Eng.doc" download class="btn btn-secondary">
+      <a href="documents/REDSTONE Brief Marketing - Corporate Eng.doc" download class="btn btn-secondary">
         <b>Fill out the brief</b>
       </a>
     </div>

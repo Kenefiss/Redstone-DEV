@@ -13,7 +13,7 @@
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-1.png" loading="lazy" alt="">
+                  <img src="img/p-img-1.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow">Blum</a></div>
                   <div class="case-tags">
@@ -27,7 +27,7 @@
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img">
-                  <img src="../img/case-2.png" loading="lazy" alt="">
+                  <img src="img/case-2.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Porsche</div>
                 <div class="case-tags">
@@ -41,7 +41,7 @@
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img">
-                  <img src="../img/case-3.png" loading="lazy" alt="">
+                  <img src="img/case-3.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Mercedes-Benz</div>
                 <div class="case-tags">
@@ -56,7 +56,7 @@
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-9.png" loading="lazy" alt="">
+                  <img src="img/p-img-9.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
                 <div class="case-tags">
@@ -73,7 +73,7 @@
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-3.png" loading="lazy" alt="">
+                  <img src="img/p-img-3.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base One</a></div>
                   <div class="case-tags">
@@ -90,7 +90,7 @@
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://fiatlineafresca.com/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-4.png" loading="lazy" alt="">
+                  <img src="img/p-img-4.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://fiatlineafresca.com/" target="_blank" rel="nofollow">Fiat Linea Fresca</a></div>
                   <div class="case-tags">

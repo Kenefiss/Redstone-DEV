@@ -46,7 +46,7 @@
                     <li><a data-filter="._web" href="web.php ">Web Solutions</a></li>
                     <li><a data-filter="._app" href="app.php">APP</a></li>
                     <li><a data-filter="._mvp" href="mvp.php">MVP</a></li>
-                    <li><a data-filter="._e-сommerce" href="e-сommerce.php">E - Commerce</a></li>
+                    <li><a data-filter="._e-сommerce" href="e-commerce.php">E - Commerce</a></li>
                     <li><a data-filter="._car-dealers" href="car-dealers.php">Car Dealers</a></li>
                     <li><a data-filter="._branding" href="branding.php">Branding</a></li>
                     <li><a class="active" data-filter="._website" href="website.php">Website</a></li>
@@ -60,7 +60,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-1.png" loading="lazy" alt="">
+                  <img src="img/p-img-1.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow">Blum</a></div>
                 <div class="case-tags">
@@ -76,7 +76,7 @@
             <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-2.png" loading="lazy" alt="">
+                  <img src="img/case-2.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Porsche</div>
                 <div class="case-tags">
@@ -92,7 +92,7 @@
             <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-3.png" loading="lazy" alt="">
+                  <img src="img/case-3.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Mercedes-Benz</div>
                 <div class="case-tags">
@@ -109,7 +109,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://galicia.com.ua/en/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-2.png" loading="lazy" alt="">
+                  <img src="img/p-img-2.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://galicia.com.ua/en/" target="_blank" rel="nofollow">Galicia</a></div>
                 <div class="case-tags">
@@ -128,7 +128,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-3.png" loading="lazy" alt="">
+                  <img src="img/p-img-3.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base One</a></div>
                 <div class="case-tags">
@@ -147,7 +147,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://fiatlineafresca.com/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-4.png" loading="lazy" alt="">
+                  <img src="img/p-img-4.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://fiatlineafresca.com/" target="_blank" rel="nofollow">Fiat Linea Fresca</a></div>
                 <div class="case-tags">
@@ -163,7 +163,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://www.bilo.ua/en/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-5.png" loading="lazy" alt="">
+                  <img src="img/p-img-5.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://www.bilo.ua/en/" target="_blank" rel="nofollow">Bilo</a></div>
                 <div class="case-tags">
@@ -182,7 +182,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://bobox.cz/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-6.png" loading="lazy" alt="">
+                  <img src="img/p-img-6.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://bobox.cz/" target="_blank" rel="nofollow">BoBoX</a></div>
                 <div class="case-tags">
@@ -201,7 +201,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://opticloud.io/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-7.png" loading="lazy" alt="">
+                  <img src="img/p-img-7.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://opticloud.io/" target="_blank" rel="nofollow">Opti means</a></div>
                 <div class="case-tags">
@@ -220,7 +220,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://www.rmg.business/en/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-8.png" loading="lazy" alt="">
+                  <img src="img/p-img-8.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://www.rmg.business/en/" target="_blank" rel="nofollow">RMG</a></div>
                 <div class="case-tags">
@@ -239,7 +239,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-9.png" loading="lazy" alt="">
+                  <img src="img/p-img-9.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
                 <div class="case-tags">
@@ -258,7 +258,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://carpathianmint.com/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-10.png" loading="lazy" alt="">
+                  <img src="img/p-img-10.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://carpathianmint.com/" target="_blank" rel="nofollow">Carpathian Mint</a></div>
                 <div class="case-tags">
@@ -277,7 +277,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://proffiz.com/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-11.png" loading="lazy" alt="">
+                  <img src="img/p-img-11.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://proffiz.com/" target="_blank" rel="nofollow">Profizz</a></div>
                 <div class="case-tags">
@@ -296,7 +296,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://mint21.com/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-12.png" loading="lazy" alt="">
+                  <img src="img/p-img-12.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://mint21.com/" target="_blank" rel="nofollow">Mint 21</a></div>
                 <div class="case-tags">
@@ -315,7 +315,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://call2bid.com/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-13.png" loading="lazy" alt="">
+                  <img src="img/p-img-13.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://call2bid.com/" target="_blank" rel="nofollow">Call2bid</a></div>
                 <div class="case-tags">
@@ -334,7 +334,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://mvision.pro/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-14.png" loading="lazy" alt="">
+                  <img src="img/p-img-14.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://mvision.pro/" target="_blank" rel="nofollow">Mvision</a></div>
                 <div class="case-tags">
@@ -353,7 +353,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://www.peeklogic.com/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-15.png" loading="lazy" alt="">
+                  <img src="img/p-img-15.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://www.peeklogic.com/" target="_blank" rel="nofollow">Peeklogic</a></div>
                 <div class="case-tags">
@@ -372,7 +372,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://finhubfund.co.uk/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-16.png" loading="lazy" alt="">
+                  <img src="img/p-img-16.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://finhubfund.co.uk/" target="_blank" rel="nofollow">Finhub</a></div>
                 <div class="case-tags">
@@ -391,7 +391,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://www.finhubfund.com/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-17.png" loading="lazy" alt="">
+                  <img src="img/p-img-17.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://www.finhubfund.com/" target="_blank" rel="nofollow">Finhub | Capital Fund</a></div>
                 <div class="case-tags">
@@ -410,7 +410,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://fruechtesnack.eu/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-18.png" loading="lazy" alt="">
+                  <img src="img/p-img-18.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://fruechtesnack.eu/" target="_blank" rel="nofollow">Fruchte Snack</a></div>
                 <div class="case-tags">
@@ -429,7 +429,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://redstone.studio/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-19.png" loading="lazy" alt="">
+                  <img src="img/p-img-19.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://redstone.studio/" target="_blank" rel="nofollow">Redstone.studio</a></div>
                 <div class="case-tags">
@@ -448,7 +448,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://studioglass.ua/en/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-20.png" loading="lazy" alt="">
+                  <img src="img/p-img-20.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://studioglass.ua/en/" target="_blank" rel="nofollow">Studio Glass</a></div>
                 <div class="case-tags">
@@ -466,7 +466,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://www.behance.net/gallery/130179893/Book-Buy-Hadria-Brand-identity" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-21.png" loading="lazy" alt="">
+                  <img src="img/p-img-21.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://www.behance.net/gallery/130179893/Book-Buy-Hadria-Brand-identity" target="_blank" rel="nofollow">Book and Buy</a></div>
                 <div class="case-tags">
@@ -481,7 +481,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-22.png" loading="lazy" alt="">
+                  <img src="img/p-img-22.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5"><a href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" target="_blank" rel="nofollow">UNITY APP</a></div>
                 <div class="case-tags">
@@ -496,7 +496,7 @@
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-25.png" loading="lazy" alt="">
+                  <img src="img/case-25.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Soundsence</div>
                 <div class="case-tags">
@@ -512,7 +512,7 @@
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-26.png" loading="lazy" alt="">
+                  <img src="img/case-26.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Unify Inc.</div>
                 <div class="case-tags">
@@ -528,7 +528,7 @@
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-27.png" loading="lazy" alt="">
+                  <img src="img/case-27.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Cohflow</div>
                 <div class="case-tags">
@@ -543,7 +543,7 @@
             <div class="col-12 col-md-6 col-lg-4 _web _mvp">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-28.png" loading="lazy" alt="">
+                  <img src="img/case-28.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Leadent</div>
                 <div class="case-tags">
@@ -559,7 +559,7 @@
             <div class="col-12 col-md-6 col-lg-4 _app">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-29.png" loading="lazy" alt="">
+                  <img src="img/case-29.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Longsong</div>
                 <div class="case-tags">
@@ -575,7 +575,7 @@
             <div class="col-12 col-md-6 col-lg-4 _app">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-30.png" loading="lazy" alt="">
+                  <img src="img/case-30.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Upipe</div>
                 <div class="case-tags">
@@ -590,7 +590,7 @@
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
-                  <img src="../img/case-31.png" loading="lazy" alt="">
+                  <img src="img/case-31.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Clip-Clop</div>
                 <div class="case-tags">
@@ -608,7 +608,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://finhubfund.co.uk/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-24.png" loading="lazy" alt="">
+                  <img src="img/p-img-24.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Finhub</div>
                 <div class="case-tags">
@@ -623,7 +623,7 @@
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://fruechtesnack.eu/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-23.png" loading="lazy" alt="">
+                  <img src="img/p-img-23.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Fruchte Snack</div>
                 <div class="case-tags">
@@ -666,12 +666,12 @@
                 <p>For the sale of products, a one-page site — a landing page or a full-fledged online store — would be appropriate. Depending on the number of product categories, the volume of the assortment presented. You can provide significant targeted traffic and actively advertise products or services using a multifunctional Internet portal and various useful online services.</p>
                 <p>Our web studio creates wonderful animation sites using modern web technologies and innovative ideas of talented specialists. We are able to translate into reality any idea in accordance with the individual wishes and needs of each client, provide expert advice, useful advice on the development of a particular resource.</p>
               </div>
-              <div class="signature" style="margin-top:30px"><img src="../img/signature.svg" loading="lazy" alt=""></div>
+              <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
               <div class="video-wrap ml-80">
                 <div class="video">
-                  <video preload="none" poster="../img/seo-img.jpg" src="../video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
                 </div>
               </div>
             </div>

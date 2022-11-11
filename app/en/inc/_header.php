@@ -4,8 +4,8 @@
     <div class="header-wrap-inner">
       <div class="header-wrap-left">
         <a class="header-logo" href="index.php">
-          <img src="../img/logo-en.svg" alt="" loading="lazy">
-          <img src="../img/logo-en-white.svg" alt="" loading="lazy">
+          <img src="img/logo-en.svg" alt="" loading="lazy">
+          <img src="img/logo-en-white.svg" alt="" loading="lazy">
         </a>
         <div class="btn-burger">
           <div class="burger"><i></i></div>
@@ -37,10 +37,10 @@
           <div class="container-fluid">
             <div class="header-menu-left-inner">
               <ul class="header-lang d-none">
-                <li><a href="../">УКР</a></li>
-                <li><a href="../en/" class="current">ENG</a></li>
-                <li><a href="../pl/">PL</a></li>
-                <li><a href="../ru/">РУС</a></li>
+                <li><a href="">УКР</a></li>
+                <li><a href="en/" class="current">ENG</a></li>
+                <li><a href="pl/">PL</a></li>
+                <li><a href="ru/">РУС</a></li>
               </ul>
               <a class="btn h-btn d-lg-none" href="#contact">
                 <b>Ask a question</b>
@@ -151,7 +151,7 @@
             <div class="d-none d-lg-block">
             You have an interesting project, let's make it<br>a reality
             </div>
-            <a href="../documents/REDSTONE Brief Marketing - Corporate Eng.doc" download class="btn btn-secondary">
+            <a href="documents/REDSTONE Brief Marketing - Corporate Eng.doc" download class="btn btn-secondary">
               <b>Fill out the brief</b>
             </a>
           </div>
@@ -159,7 +159,7 @@
       </div>
     </div>
     <div class="header-informer text text-sm">
-        <img src="../img/informer-img.svg" alt="" loading="lazy">
+        <img src="img/informer-img.svg" alt="" loading="lazy">
         <b>We stand with Ukraine.</b>
 
         <!-- hide on phase 1 -->

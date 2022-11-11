@@ -24,11 +24,11 @@
                   <b>Our projects</b>
                 </a>
                 <div class="logo-group">
-                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="../img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
-                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="../img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
-                  <a href="https://www.bestcss.in/user/detail/DAandCO-6864" target="_blank" rel="nofollow"><img src="../img/best-css.svg" width="80" height="16" loading="lazy" alt=""></a>
-                  <a href="https://www.csslight.com/website/23929/MVISION-Study-Resort" target="_blank" rel="nofollow"><img src="../img/csslight.svg" width="82" height="40" loading="lazy" alt=""></a>
-                  <a href="../en/awards.php"><img src="../img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
+                  <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
+                  <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
+                  <a href="https://www.bestcss.in/user/detail/DAandCO-6864" target="_blank" rel="nofollow"><img src="img/best-css.svg" width="80" height="16" loading="lazy" alt=""></a>
+                  <a href="https://www.csslight.com/website/23929/MVISION-Study-Resort" target="_blank" rel="nofollow"><img src="img/csslight.svg" width="82" height="40" loading="lazy" alt=""></a>
+                  <a href="en/awards.php"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
@@ -68,9 +68,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="../img/category-img-7.webp" type="image/webp">
-                      <source srcset="../img/category-img-7.png" type="image/png">
-                      <img src="../img/category-img-7.png" alt="">
+                      <source srcset="img/category-img-7.webp" type="image/webp">
+                      <source srcset="img/category-img-7.png" type="image/png">
+                      <img src="img/category-img-7.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -85,9 +85,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="../img/category-img-3.webp" type="image/webp">
-                      <source srcset="../img/category-img-3.png" type="image/png">
-                      <img src="../img/category-img-3.png" alt="">
+                      <source srcset="img/category-img-3.webp" type="image/webp">
+                      <source srcset="img/category-img-3.png" type="image/png">
+                      <img src="img/category-img-3.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -102,9 +102,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="../img/category-img-8.webp" type="image/webp">
-                      <source srcset="../img/category-img-8.png" type="image/png">
-                      <img src="../img/category-img-8.png" alt="">
+                      <source srcset="img/category-img-8.webp" type="image/webp">
+                      <source srcset="img/category-img-8.png" type="image/png">
+                      <img src="img/category-img-8.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -119,9 +119,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="../img/category-img-2.webp" type="image/webp">
-                      <source srcset="../img/category-img-2.png" type="image/png">
-                      <img src="../img/category-img-2.png" alt="">
+                      <source srcset="img/category-img-2.webp" type="image/webp">
+                      <source srcset="img/category-img-2.png" type="image/png">
+                      <img src="img/category-img-2.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -136,9 +136,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="../img/category-img-9.webp" type="image/webp">
-                      <source srcset="../img/category-img-9.png" type="image/png">
-                      <img src="../img/category-img-9.png" alt="">
+                      <source srcset="img/category-img-9.webp" type="image/webp">
+                      <source srcset="img/category-img-9.png" type="image/png">
+                      <img src="img/category-img-9.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -153,9 +153,9 @@
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="../img/category-img-10.webp" type="image/webp">
-                      <source srcset="../img/category-img-10.png" type="image/png">
-                      <img src="../img/category-img-10.png" alt="">
+                      <source srcset="img/category-img-10.webp" type="image/webp">
+                      <source srcset="img/category-img-10.png" type="image/png">
+                      <img src="img/category-img-10.png" alt="">
                     </picture>
                   </div>
                 </span>
@@ -190,28 +190,28 @@
               <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "slidesPerGroup":4, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
                 <div class="swiper-wrapper clients">
                   <div class="swiper-slide">
-                    <div class="client-img"><img src="../img/tech-img-1.svg" loading="lazy" alt=""></div>
+                    <div class="client-img"><img src="img/tech-img-1.svg" loading="lazy" alt=""></div>
                   </div>
                   <div class="swiper-slide">
-                    <div class="client-img"><img src="../img/tech-img-2.svg" loading="lazy" alt=""></div>
+                    <div class="client-img"><img src="img/tech-img-2.svg" loading="lazy" alt=""></div>
                   </div>
                   <div class="swiper-slide">
-                    <div class="client-img"><img src="../img/tech-img-3.svg" loading="lazy" alt=""></div>
+                    <div class="client-img"><img src="img/tech-img-3.svg" loading="lazy" alt=""></div>
                   </div>
                   <div class="swiper-slide">
-                    <div class="client-img"><img src="../img/tech-img-4.svg" loading="lazy" alt=""></div>
+                    <div class="client-img"><img src="img/tech-img-4.svg" loading="lazy" alt=""></div>
                   </div>
                   <div class="swiper-slide">
-                    <div class="client-img"><img src="../img/tech-img-5.svg" loading="lazy" alt=""></div>
+                    <div class="client-img"><img src="img/tech-img-5.svg" loading="lazy" alt=""></div>
                   </div>
                   <div class="swiper-slide">
-                    <div class="client-img"><img src="../img/tech-img-6.svg" loading="lazy" alt=""></div>
+                    <div class="client-img"><img src="img/tech-img-6.svg" loading="lazy" alt=""></div>
                   </div>
                   <div class="swiper-slide">
-                    <div class="client-img"><img src="../img/tech-img-7.svg" loading="lazy" alt=""></div>
+                    <div class="client-img"><img src="img/tech-img-7.svg" loading="lazy" alt=""></div>
                   </div>
                   <div class="swiper-slide">
-                    <div class="client-img"><img src="../img/tech-img-8.svg" loading="lazy" alt=""></div>
+                    <div class="client-img"><img src="img/tech-img-8.svg" loading="lazy" alt=""></div>
                   </div>
                 </div>
                 <div class="swiper-pagination swiper-pagination-relative"></div>
@@ -234,7 +234,7 @@
       <!-- FORM -->
       <div class="section" id="contact">
         <div class="map-img">
-          <img src="../img/map.png" alt="">
+          <img src="img/map.png" alt="">
         </div>
         <div class="container">
           <div class="row">
@@ -301,12 +301,12 @@
                 <p>For the sale of products, a one-page site — a landing page or a full-fledged online store — would be appropriate. Depending on the number of product categories, the volume of the assortment presented. You can provide significant targeted traffic and actively advertise products or services using a multifunctional Internet portal and various useful online services.</p>
                 <p>Our web studio creates wonderful animation sites using modern web technologies and innovative ideas of talented specialists. We are able to translate into reality any idea in accordance with the individual wishes and needs of each client, provide expert advice, useful advice on the development of a particular resource.</p>
               </div>
-              <div class="signature" style="margin-top:30px"><img src="../img/signature.svg" loading="lazy" alt=""></div>
+              <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
               <div class="video-wrap ml-80">
                 <div class="video">
-                  <video preload="none" poster="../img/seo-img.jpg" src="../video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
                 </div>
               </div>
             </div>
