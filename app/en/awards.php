@@ -3,7 +3,8 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Awwards</title>
+  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
+  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
 </head>
 
 <body>
@@ -65,12 +66,12 @@
                     <div class="award-title">REDSTONE CSS RELL</div>
                     <div class="award-subtitle">REDSTONE - Featured of the day</div>
                     <div class="award-img">
-                      <a href="#" target="_blank">
+                      <a href="https://www.cssreel.com/website/redstone" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
                           <source srcset="../img/award-img-8.webp" type="image/webp">
-                          <source srcset="../img/award-img-8.jpg" type="image/jpeg">
-                          <img src="../img/award-img-8.jpg" alt="">
+                          <source srcset="../img/award-img-8.png" type="image/png">
+                          <img src="../img/award-img-8.png" alt="">
                         </picture>
                       </a>
                     </div>
@@ -85,8 +86,8 @@
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
                           <source srcset="../img/award-img-9.webp" type="image/webp">
-                          <source srcset="../img/award-img-9.jpg" type="image/jpeg">
-                          <img src="../img/award-img-9.jpg" alt="">
+                          <source srcset="../img/award-img-9.png" type="image/png">
+                          <img src="../img/award-img-9.png" alt="">
                         </picture>
                       </a>
                     </div>
@@ -101,8 +102,8 @@
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
                           <source srcset="../img/award-img-10.webp" type="image/webp">
-                          <source srcset="../img/award-img-10.jpg" type="image/jpeg">
-                          <img src="../img/award-img-10.jpg" alt="">
+                          <source srcset="../img/award-img-10.png" type="image/png">
+                          <img src="../img/award-img-10.png" alt="">
                         </picture>
                       </a>
                     </div>

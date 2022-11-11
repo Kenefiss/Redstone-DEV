@@ -134,7 +134,10 @@
     margin-right: 20px;
   }
   .banner .banner-num{
-    padding-top:40%;
+    padding-top:50%;
+  }
+  .banner .banner-num .num{
+    font-size: 8.2em;
   }
   #animation2{
     top: -90%;
@@ -143,7 +146,6 @@
 
 @media (max-width: 575px) {
   .full-height {
-    height: auto;
     padding: 20px 0 0;
   }
 
@@ -161,6 +163,11 @@
   }
 
   .logo-group a {
-    max-width: 23%;
+    max-width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
+  .logo-group a:nth-child(1){
+    max-width:100%;
   }
 }

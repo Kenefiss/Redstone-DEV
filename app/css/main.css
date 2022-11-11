@@ -380,15 +380,17 @@ header {height: var(--h-height);}
 }
 @media (max-width: 767px) {
 .logo-group a:not(:last-child) {margin-right: 20px;}
-.banner .banner-num {padding-top: 40%;}
+.banner .banner-num {padding-top: 50%;}
+.banner .banner-num .num {font-size: 8.2em;}
 #animation2 {top: -90%;}
 }
 @media (max-width: 575px) {
-.full-height {height: auto;padding: 20px 0 0;}
+.full-height {padding: 20px 0 0;}
 .main-banner .full-height .counter-block {margin: 0;}
 .main-banner .sub-title {margin-top: 15px;}
 .logo-group {margin: 0;margin-top: 20px;padding: 0 15px;}
-.logo-group a {max-width: 23%;}
+.logo-group a {max-width: 100%;text-align: center;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
+.logo-group a:nth-child(1) {max-width: 100%;}
 }
 /*--------------------*/
 /* - TYPOGRAPHY       */

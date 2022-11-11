@@ -30,7 +30,7 @@
                   <img src="../img/case-2.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Porsche</div>
-                <div class="case-desc text">We collaborated with Blum to develop and support connected app features that extend Dynamics 365 CRM</div>
+                <div class="case-desc text">We created a car sales website to help you buy your dream car.</div>
                 <div class="case-tags">
                   <span>#Angular</span>
                   <span>#Angular Material</span>
@@ -44,7 +44,7 @@
                   <img src="../img/case-3.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Mercedes-Benz</div>
-                <div class="case-desc text">We collaborated with Blum to develop and support connected app features that extend Dynamics 365 CRM</div>
+                <div class="case-desc text">We developed a marketing website for the luxury car dealer.</div>
                 <div class="case-tags">
                   <span>#Angular</span>
                   <span>#Angular Material</span>

@@ -21,12 +21,12 @@
         </ul>
       </nav>
       <div class="header-wrap-right">
-        <a class="header-phone" href="tel:07493872709">
+        <a class="header-phone" href="tel:+4407493872709">
           <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
             <path d="M16.5453 0V-0.1H16.4453H3.55469H3.45469V0V20V20.1H3.55469H16.4453H16.5453V20V0ZM15.1734 18.7281H4.82656V1.27188H15.1734V18.7281Z" stroke-width="0.2" />
             <path d="M8 15H12V17H8V15Z" stroke-width="0" />
           </svg>
-          <b>07493872709</b>
+          <b>+4407493872709</b>
         </a>
         <a class="btn d-none d-lg-block" href="#contact">
           <b>Ask a question</b>
