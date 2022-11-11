@@ -16,7 +16,6 @@
         <ul>
           <li><a href="portfolio.php">Case Studies</a></li>
           <li><a href="#">АРР</a></li>
-          <li><a href="#">Branding</a></li>
           <li><a href="#footer">Contacts</a></li>
         </ul>
       </nav>
@@ -48,14 +47,13 @@
               <nav class="header-mega-menu" style="--items: 3;">
                 <ul>
                   <li><a href="app.php">АРР</a></li>
-                  <li><a href="branding.php">Branding</a></li>
                   <li class="has-submenu">
                     <b>Case Studies</b>
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 3;">
                         <li><a href="car-dealers.php">Car Dealers</a></li>
-                        <li><a href="e-commerce.php">E-Commerce</a></li>
+                        <li><a href="e-commerce.php">E - Commerce</a></li>
                         <li><a href="mvp.php">MVP</a></li>
                         <li><a href="site.php">Website</a></li>
                         <li><a href="web.php">Web Solutions</a></li>

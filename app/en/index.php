@@ -113,7 +113,7 @@
             </div>
             <div class="col-sm-6 col-md-4 category">
               <a href="e-commerce.php" class="category-entry">
-                <span class="category-title">E-Commerce</span>
+                <span class="category-title">E - Commerce</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
