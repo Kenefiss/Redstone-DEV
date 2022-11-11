@@ -22,13 +22,11 @@
 .sort-wrapp:last-child{margin-bottom:55px;margin-top:30px;}
 .sort-nav,.sort-btn{text-align: left;}
 .sort-nav ul,.sort-nav li{font-size:0;}
-.sort-nav li,.sort-btn{display: inline-block;vertical-align: top;font-size: 20px;font-weight: 400;line-height: 1.2;}
+.sort-nav li{display: inline-block;vertical-align: top;font-size: 20px;font-weight: 400;line-height: 1.2;}
 .sort-nav li:not(:last-child){margin-right: 50px;}
 .sort-nav a{color:var( --clr-black);}
 .sort-nav a.active{color:var(--clr-red);}
-.sort-btn{display:block;border:1px #ebebeb solid;width: 100%;padding:15px 20px;position: relative;}
-.sort-btn:after{content: '';display: block;position: absolute;right: 20px;top:50%;background: url('../img/chevron-down.svg') no-repeat 0 0;width: 16px;height: 16px;margin-top: -8px;}
-.sort-btn.active:after{transform: scale(-1);}
+
 
 .sort-subnav ul,.sort-subnav li{font-size:0;}
 .sort-subnav li{display: inline-block;font-size: 14px;font-weight: 400;line-height: 1.2;}
@@ -43,12 +41,27 @@
   .sort-nav a:hover{color:var(--clr-red);}
   .sort-subnav a:hover{color:var(--clr-white);background-color: var(--clr-red);}
 }
-@media(max-width:1199px){
-  .sort-nav{display: none;position: absolute;left:0;right: 0;top:40px;border:1px solid #ebebeb ;background-color: var(--clr-white);z-index: 5;padding: 20px;min-height: 0;}
-  .sort-nav,.sort-btn{margin-bottom: 50px;}
-  .sort-btn{padding-top: 10px;padding-bottom: 10px;margin-bottom: 30px;font-size: 16px;}
+@media(max-width:1199px) {
+  .sort-nav{position: absolute;left:0;right: 0;bottom: 0;margin-top: -1px; border:1px solid #ebebeb ;background-color: var(--clr-white);z-index: 5;padding: 20px;min-height: 0; opacity: 0; visibility: hidden; transform: translateY(calc(100% - 1px)); transition: var(--transition-1);}
+  .sort-btn{
+    position: relative;
+    display:block;
+    width: 100%;
+    padding: 15px 20px 13px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1em;
+    border:1px #ebebeb solid;
+    }
+    .sort-btn:after{content: '';display: block;position: absolute;right: 20px;top:50%;background: url('../img/chevron-down.svg') no-repeat 0 0;width: 16px;height: 16px;margin-top: -8px;}
+    .sort-wrapp.active .sort-btn:after{transform: scale(-1);}
   .sort-nav li{display: block;}
   .sort-nav li:not(:last-child){margin-right: 0;margin-bottom: 10px;}
+  .sort-wrapp.active .sort-nav {opacity: 1;visibility: visible;}
+  .sort-wrapp:last-child {
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
 }
 
 /*benefits*/

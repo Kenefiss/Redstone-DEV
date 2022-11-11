@@ -41,8 +41,8 @@
                 <div class="sort-btn d-xl-none">All</div>
                 <nav class="sort-nav">
                   <ul>
-                    <li><a class="active" data-filter="*" href="portfolio.php">All</a></li>
-                    <li><a data-filter="._web" href="web.php ">Web Solutions</a></li>
+                    <li><a data-filter="*" href="portfolio.php">All</a></li>
+                    <li><a class="active" data-filter="._web" href="web.php ">Web Solutions</a></li>
                     <li><a data-filter="._app" href="app.php">APP</a></li>
                     <li><a data-filter="._mvp" href="mvp.php">MVP</a></li>
                     <li><a data-filter="._e-сommerce" href="e-сommerce.php">E - Commerce</a></li>

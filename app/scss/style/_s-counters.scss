@@ -10,7 +10,6 @@
 .counter b{font-size: 170px;line-height: 1;}
 .svg-wrapper{width:100%;height:113px;font-weight: 800;stroke: var(--clr-text);backface-visibility: hidden;}
 .svg-wrapper text{stroke-dasharray: 500;stroke-dashoffset: 500;fill: transparent;font-size: 150px;}
-//.svg-wrapper .text-bold{fill: transparent;}
 .svg-wrapper .text-bold{fill: #303030;}
 .ie .svg-wrapper text, body.touch-screen .svg-wrapper text{stroke-dasharray:0;stroke-dashoffset:0;}
 .svg-wrapper.type-2{height: 360px;stroke: #e6e6e6;}

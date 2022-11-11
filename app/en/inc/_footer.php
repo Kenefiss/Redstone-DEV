@@ -11,12 +11,12 @@
       </a>
       <div class="footer-links">
         <ul>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Awards</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Portfolio</a></li>
-          <li><a href="#">Reviews</a></li>
-          <li><a href="#">Contacts</a></li>
+          <!-- <li><a href="#">Services</a></li> -->
+          <li><a href="awwards.php">Awards</a></li>
+          <!-- <li><a href="#">About</a></li> -->
+          <li><a href="portfolio.php">Portfolio</a></li>
+          <li><a href="#en-reviews">Reviews</a></li>
+          <li><a href="#footer">Contacts</a></li>
         </ul>
       </div>
     </div>
@@ -131,7 +131,7 @@
 
   <div class="footer-bottom">
     <div class="footer-copy">
-      2022 © REDSTONE Websites developing Lviv
+      2022 © REDSTONE Software
     </div>
     <div class="social">
       <ul>

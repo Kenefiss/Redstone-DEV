@@ -15,8 +15,8 @@
       <nav class="header-wrap-center">
         <ul>
           <li><a href="portfolio.php">Portfolio</a></li>
-          <li><a href="#">АРР</a></li>
-          <li><a href="#">Branding</a></li>
+          <li><a href="app.php">АРР</a></li>
+          <li><a href="branding.php">Branding</a></li>
           <li><a href="#footer">Contacts</a></li>
         </ul>
       </nav>
@@ -55,9 +55,9 @@
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 3;">
                         <li><a href="car-dealers.php">Car Dealers</a></li>
-                        <li><a href="e-store.php">E - Stores</a></li>
+                        <li><a href="e-сommerce.php">E - Stores</a></li>
                         <li><a href="mvp.php">MVP</a></li>
-                        <li><a href="site.php">Website</a></li>
+                        <li><a href="website.php">Website</a></li>
                         <li><a href="web.php">Web Solutions</a></li>
                       </ul>
                     </div>
