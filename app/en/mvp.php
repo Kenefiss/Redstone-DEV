@@ -473,7 +473,7 @@
                   <span>#branding</span>
                 </div>
                 <div class="case-desc text">
-                  branding
+                  We designed branding for real estate agency in Croatia.
                 </div>
               </div>
             </div>
@@ -489,7 +489,7 @@
                   <span>#Angular Material</span>
                 </div>
                 <div class="case-desc text">
-                  app where Tour Guide & all Tourists in the Group use the same Application. Tour Guide communicates with the members of the group using the AudioGuide System, speaks to the group. Tourists, members of the group, listen to the transmission dedicated only to the group. Password restricted, safe, 21st century solution for the Travel Industry.
+                  App where Tour Guide & all Tourists in the Group use the same Application. Tour Guide communicates with the members of the group using the AudioGuide System, speaks to the group. Tourists, members of the group, listen to the transmission dedicated only to the group. Password restricted, safe, 21st century solution for the Travel Industry.
                 </div>
               </div>
             </div>
