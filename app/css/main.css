@@ -352,8 +352,8 @@ header {height: var(--h-height);}
 .logo-group {margin-top: 100px;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;}
 .logo-group a {max-width: 110px;-webkit-box-flex: 1;-ms-flex: 1 0 auto;flex: 1 0 auto;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-filter: grayscale(1);filter: grayscale(1);cursor: pointer;}
 .logo-group a:nth-child(1) {max-width: 80px;}
-.logo-group a:nth-child(3) {max-width: 100px;}
-.logo-group a:nth-child(4) {max-width: 38px;}
+.logo-group a:nth-child(3) {max-width: 80px;}
+.logo-group a:nth-child(4) {max-width: 82px;}
 .logo-group a:not(:last-child) {margin-right: 55px;}
 .banner .banner-num {position: relative;width: 100%;padding-top: 60%;overflow: hidden;font-size: var(--h-1);}
 .banner .banner-num .num {display: inline-block;vertical-align: middle;position: absolute;z-index: 1;top: 0;left: 0;width: 100%;height: 100%;-o-object-fit: cover;object-fit: cover;font-size: 6.5em;line-height: 1em;font-weight: 700;text-align: center;text-transform: uppercase;color: #e6e6e6;}
@@ -380,17 +380,17 @@ header {height: var(--h-height);}
 }
 @media (max-width: 767px) {
 .logo-group a:not(:last-child) {margin-right: 20px;}
-.banner .banner-num {padding-top: 50%;}
-.banner .banner-num .num {font-size: 8.2em;}
+.banner .banner-num {padding-top: 48%;}
+.banner .banner-num .num {font-size: 8em;}
 #animation2 {top: -90%;}
 }
 @media (max-width: 575px) {
 .full-height {padding: 20px 0 0;}
 .main-banner .full-height .counter-block {margin: 0;}
 .main-banner .sub-title {margin-top: 15px;}
-.logo-group {margin: 0;margin-top: 20px;padding: 0 15px;}
-.logo-group a {max-width: 100%;text-align: center;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
-.logo-group a:nth-child(1) {max-width: 100%;}
+.logo-group {margin: 0;margin-top: 20px;padding: 0 15px;-webkit-box-pack: space-evenly;-ms-flex-pack: space-evenly;justify-content: space-evenly;-ms-flex-wrap: wrap;flex-wrap: wrap;}
+.logo-group a {max-width: 100%;text-align: center;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;max-width: -webkit-fit-content;max-width: -moz-fit-content;max-width: fit-content;margin-bottom: 15px;}
+.logo-group a:nth-child(1) {max-width: -webkit-fit-content;max-width: -moz-fit-content;max-width: fit-content;}
 }
 /*--------------------*/
 /* - TYPOGRAPHY       */
