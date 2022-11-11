@@ -3,8 +3,8 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Website development Lviv :: REDSTONE :: Website development Lviv</title>
-  <meta name="description" content="Створення сайтів та розробка сайтів - веб студія REDSTONE. 15 років досвіду, по створенню сайтів, дизайну (UI/UX), копірайту, тестування та SEO.">
+  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
+  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
 </head>
 
 <body>
@@ -26,7 +26,7 @@
                 <div class="logo-group">
                   <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="../img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
                   <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="../img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
-                  <a href="../en/awwards.php"><img src="../img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
+                  <a href="../en/awards.php"><img src="../img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
@@ -61,7 +61,7 @@
           </div>
           <div class="row categories animate-item fadeInUp delay-1">
             <div class="col-sm-6 col-md-4 category">
-              <a href="category-detail.php" class="category-entry">
+              <a href="web-solution.php" class="category-entry">
                 <span class="category-title">WEB Solution</span>
                 <span class="category-img">
                   <div class="category-img-box">
@@ -78,7 +78,7 @@
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="category-detail.php" class="category-entry">
+              <a href="app.php" class="category-entry">
                 <span class="category-title">APP</span>
                 <span class="category-img">
                   <div class="category-img-box">
@@ -95,7 +95,7 @@
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="category-detail.php" class="category-entry">
+              <a href="mvp.php" class="category-entry">
                 <span class="category-title">MVP</span>
                 <span class="category-img">
                   <div class="category-img-box">
@@ -112,8 +112,8 @@
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="category-detail.php" class="category-entry">
-                <span class="category-title">E - stores</span>
+              <a href="e-commerce.php" class="category-entry">
+                <span class="category-title">E - Commerce</span>
                 <span class="category-img">
                   <div class="category-img-box">
                     <picture>
@@ -129,7 +129,7 @@
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="category-detail.php" class="category-entry">
+              <a href="car-dealers.php" class="category-entry">
                 <span class="category-title">Car Dealers</span>
                 <span class="category-img">
                   <div class="category-img-box">
@@ -146,7 +146,7 @@
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="category-detail.php" class="category-entry">
+              <a href="branding.php" class="category-entry">
                 <span class="category-title">Branding</span>
                 <span class="category-img">
                   <div class="category-img-box">

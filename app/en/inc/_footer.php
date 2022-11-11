@@ -11,10 +11,8 @@
       </a>
       <div class="footer-links">
         <ul>
-          <!-- <li><a href="#">Services</a></li> -->
-          <li><a href="awwards.php">Awards</a></li>
-          <!-- <li><a href="#">About</a></li> -->
-          <li><a href="portfolio.php">Portfolio</a></li>
+          <li><a href="awards.php">Awards</a></li>
+          <li><a href="portfolio.php">Case Studies</a></li>
           <li><a href="#en-reviews">Reviews</a></li>
           <li><a href="#footer">Contacts</a></li>
         </ul>
@@ -22,33 +20,33 @@
     </div>
     <div class="footer-left-bottom">
       <div class="contact-item">
-        <div class="contact-caption">Lviv</div>
+        <div class="contact-caption">United Kingdom</div>
         <div class="contact-info">
           <div class="contact-info-title">Address: </div>
           <div class="contact-info-list">
-            <a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
-              <b itemprop="addressLocality">Lviv</b>,
-              <b itemprop="streetAddress">73 Heroes of UPA Street</b>
+            <a href="https://goo.gl/maps/6JEchaCUh4aAeoKq8" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
+              <b itemprop="addressLocality">United Kingdom</b>,
+              <b itemprop="streetAddress">4 Ferndale Lurgan Co Armagh BT66 8LQ</b>
             </a>
           </div>
         </div>
         <div class="contact-info">
           <div class="contact-info-title">Phone number: </div>
           <div class="contact-info-list">
-            <a href="tel:+380676075784">
-              <b itemprop="telephone">+38 (067) 607 57 84</b>
+            <a href="tel:+4407493872709">
+              <b itemprop="telephone">+4407493872709</b>
             </a>
           </div>
         </div>
       </div>
       <div class="contact-item">
-        <div class="contact-caption">Kyiv</div>
+        <div class="contact-caption">Wrocław</div>
         <div class="contact-info">
           <div class="contact-info-title">Address:</div>
           <div class="contact-info-list">
-            <a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
-              <b itemprop="addressLocality">Kyiv</b>,
-              <b itemprop="streetAddress">1 Solomianska Street</b>
+            <a href="https://goo.gl/maps/RkRvUoUEqbpJutz69" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
+              <b itemprop="addressLocality">Wrocław</b>,
+              <b itemprop="streetAddress">plac Grunwaldzki 22, 50-363</b>
             </a>
           </div>
         </div>
@@ -56,7 +54,7 @@
           <div class="contact-info-title">Phone number:</div>
           <div class="contact-info-list">
             <a href="tel:+380981515285">
-              <b itemprop="telephone">+38 (098) 15 15 285</b>
+              <b itemprop="telephone">+380981515285</b>
             </a>
           </div>
         </div>
@@ -66,7 +64,7 @@
         <div class="contact-info">
           <div class="contact-info-title">Address:</div>
           <div class="contact-info-list">
-            <a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
+            <a href="https://goo.gl/maps/NhepzepmWVB34hkB8" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
               <b itemprop="addressLocality">Lviv</b>,
               <b itemprop="streetAddress">73 Heroes of UPA Street</b>
             </a>
@@ -76,7 +74,7 @@
           <div class="contact-info-title">Phone number:</div>
           <div class="contact-info-list">
             <a href="tel:+380676075784">
-              <b itemprop="telephone">+38 (067) 607 57 84</b>
+              <b itemprop="telephone">+380676075784</b>
             </a>
           </div>
         </div>
@@ -86,7 +84,7 @@
         <div class="contact-info">
           <div class="contact-info-title">Address:</div>
           <div class="contact-info-list">
-            <a href="https://goo.gl/maps/dHkt3o9xMfiJruYX7" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
+            <a href="https://goo.gl/maps/C1zc5QfV6BStHsDo8" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
               <b itemprop="addressLocality">Kyiv</b>,
               <b itemprop="streetAddress">1 Solomianska Street</b>
             </a>
@@ -96,7 +94,7 @@
           <div class="contact-info-title">Phone number:</div>
           <div class="contact-info-list">
             <a href="tel:+380981515285">
-              <b itemprop="telephone">+38 (098) 15 15 285</b>
+              <b itemprop="telephone">+380981515285</b>
             </a>
           </div>
         </div>
@@ -131,7 +129,7 @@
 
   <div class="footer-bottom">
     <div class="footer-copy">
-      2022 © REDSTONE Software
+      2022 © REDSTONE SOFTWARE
     </div>
     <div class="social">
       <ul>

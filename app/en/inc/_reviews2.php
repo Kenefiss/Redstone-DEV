@@ -45,6 +45,10 @@
                     <div class="text">
                       <p>"Their ability to adapt to demand and process change and provide solutions was outstanding!"</p>
                     </div>
+                    <div class="review-price-block text">
+                      <div class="verify-review"><img src="../img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>
+                      <div class="verify-price"><img src="../img/price-icon.svg" loading="lazy" alt="price icon">Less than $ 10,000</div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -66,14 +70,18 @@
                     <div class="text">
                       <p>"It was a first-class service. We did not see anything that could be improved."</p>
                     </div>
+                    <div class="review-price-block text">
+                      <div class="verify-review"><img src="../img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>
+                      <div class="verify-price"><img src="../img/price-icon.svg" loading="lazy" alt="price icon">More than $ 30,000</div>
+                    </div>
                   </div>
                 </div>
               </div>
               <div class="col-md-4 swiper-slide">
                 <div class="review-block">
                   <div class="review-info">
-                    <div class="review-quote"><img src="../img/review-icon.svg" alt=""></div>
-                    <div class="review-title"> Project Manager</div>
+                    <div class="review-quote"><img src="../img/review-cl-3.jpg" alt=""></div>
+                    <div class="review-title">Kevin Watson</div>
                     <div class="review-category">Project Manager, Venture Capital Startup
                     </div>
                   </div>
@@ -87,6 +95,10 @@
                     </div>
                     <div class="text"> 
                       <p>"Their quick turnaround time was impressive."</p>
+                    </div>
+                    <div class="review-price-block text">
+                      <div class="verify-review"><img src="../img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>
+                      <div class="verify-price"><img src="../img/price-icon.svg" loading="lazy" alt="price icon">Less than $ 10,000</div>
                     </div>
                   </div>
                 </div>
