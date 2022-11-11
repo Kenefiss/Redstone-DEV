@@ -151,7 +151,7 @@
             <div class="d-none d-lg-block">
             You have an interesting project, let's make it<br>a reality
             </div>
-            <a href="documents/REDSTONE Brief Marketing - Corporate Eng.doc" download class="btn btn-secondary">
+            <a href="documents/REDSTONEBriefMarketing-CorporateEng.doc" download class="btn btn-secondary">
               <b>Fill out the brief</b>
             </a>
           </div>

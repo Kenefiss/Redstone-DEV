@@ -71,7 +71,7 @@
                     </div>
                     <div class="swiper-slide">
                       <div class="project-banner-img">
-                        <video preload="auto" poster="img/seo-img.jpg" src="video/project-video.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                        <video preload="auto" poster="img/seo-img.jpg" src="video/project-video.mp4" playsinline loop autoplay muted disablePictureInPicture></video>
                       </div>
                     </div>
                   </div>
@@ -179,7 +179,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Оптимізовано для кожного пристрою</div>
               </div>
@@ -258,7 +258,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Готові рішення</div>
               </div>
@@ -302,7 +302,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Що ми використовуємо для досягнення успіху</div>
               </div>

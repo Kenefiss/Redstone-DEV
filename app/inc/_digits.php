@@ -1,7 +1,7 @@
 <div class="section black-sec inner-padd">
   <div class="container">
     <div class="row">
-      <div calss="col-12">
+      <div class="col-12">
         <div class="title-with-text">
           <div class="title h2 color-white animate-item fadeInUp">REDSTONE у цифрах</div>
           <div class="text color-2 animate-item fadeInUp delay-1">Задачі з зірочкою наш профіль - вирішуючи їх неодноразово, ми отримували нагороди в Україні та Світі. Команда <span>REDSTONE</span> - завжди готова до нових викликів</div>

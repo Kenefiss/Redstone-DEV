@@ -275,7 +275,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Наші перемоги</div>
               </div>
@@ -370,7 +370,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div calss="col-12">
+            <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Що ми використовуємо для досягнення успіху</div>
               </div>

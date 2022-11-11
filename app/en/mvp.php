@@ -644,7 +644,7 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><span>REDSTONE</span> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>Today, every business has its presence in the global network.</p>
                 <p>Thanks to our extensive experience and narrow specialization, we managed to come up with a formula that works and benefits the client.</p>
@@ -671,7 +671,7 @@
             <div class="col-xl-5 d-none d-xl-block">
               <div class="video-wrap ml-80">
                 <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablePictureInPicture></video>
                 </div>
               </div>
             </div>
