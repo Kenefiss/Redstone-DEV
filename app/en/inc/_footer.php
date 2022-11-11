@@ -12,7 +12,7 @@
       <div class="footer-links">
         <ul>
           <li><a href="#">Services</a></li>
-          <li><a href="#">Awards</a></li>
+          <li><a href="awards.php">Awards</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Portfolio</a></li>
           <li><a href="#">Reviews</a></li>

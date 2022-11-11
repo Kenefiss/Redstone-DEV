@@ -62,15 +62,63 @@
                 <!-- <div class="col-12 d-xl-none h2 text-center year-mobile"><span>2019</span></div> -->
                 <div class="col-md-6 col-lg-4 col-xl-3">
                   <div class="award-item">
-                    <div class="award-title">Love & Dress - Awwwards Honors</div>
-                    <div class="award-subtitle">Honorable Mention according to the version AWWWARDS</div>
+                    <div class="award-title">REDSTONE CSS RELL</div>
+                    <div class="award-subtitle">REDSTONE - Featured of the day</div>
                     <div class="award-img">
-                      <a href="https://www.awwwards.com/sites/love-dress" target="_blank">
+                      <a href="#" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="../img/award-img-1.webp" type="image/webp">
-                          <source srcset="../img/award-img-1.jpg" type="image/jpeg">
-                          <img src="../img/award-img-1.jpg" alt="">
+                          <source srcset="../img/award-img-8.webp" type="image/webp">
+                          <source srcset="../img/award-img-8.jpg" type="image/jpeg">
+                          <img src="../img/award-img-8.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3">
+                  <div class="award-item">
+                    <div class="award-title">REDSTONE</div>
+                    <div class="award-subtitle">REDSTONE - AWWWARDS HONORS</div>
+                    <div class="award-img">
+                      <a href="#" target="_blank">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="../img/award-img-9.webp" type="image/webp">
+                          <source srcset="../img/award-img-9.jpg" type="image/jpeg">
+                          <img src="../img/award-img-9.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3">
+                  <div class="award-item">
+                    <div class="award-title">Bilo</div>
+                    <div class="award-subtitle">Bilo - AWWWARDS HONORS</div>
+                    <div class="award-img">
+                      <a href="#" target="_blank">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="../img/award-img-10.webp" type="image/webp">
+                          <source srcset="../img/award-img-10.jpg" type="image/jpeg">
+                          <img src="../img/award-img-10.jpg" alt="">
+                        </picture>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3">
+                  <div class="award-item">
+                    <div class="award-title">Love & Dress - Awwwards mobile excellence</div>
+                    <div class="award-subtitle">SiMobile Excellence according to the version AWWWARDS</div>
+                    <div class="award-img">
+                      <a href="https://www.awwwards.com/sites/love-dress/mobile-excellence-report" target="_blank">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="../img/award-img-2.webp" type="image/webp">
+                          <source srcset="../img/award-img-2.jpg" type="image/jpeg">
+                          <img src="../img/award-img-2.jpg" alt="">
                         </picture>
                       </a>
                     </div>
@@ -159,7 +207,7 @@
                 <div class="col-md-6 col-lg-4 col-xl-3">
                   <div class="award-item">
                     <div class="award-title">DA & CO - CSSlight awards</div>
-                    <div class="award-subtitle">Featured Of The Day за версією "CSSLight"</div>
+                    <div class="award-subtitle">Featured Of The Day according to the version "CSSLight"</div>
                     <div class="award-img">
                       <a href="https://www.csslight.com/website/23853/DA-and-Co" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
