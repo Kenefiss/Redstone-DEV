@@ -55,11 +55,11 @@
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
-                  <a class="full-link" href="https://galicia.com.ua/en/" target="_blank" rel="nofollow"></a>
-                  <img src="../img/p-img-2.png" loading="lazy" alt="">
+                  <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+                  <img src="../img/p-img-9.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5"><a href="https://galicia.com.ua/en/" target="_blank" rel="nofollow">Galicia</a></div>
-                <div class="case-desc text">We developed a marketing website for a producer of natural juices.</div>
+                <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+                <div class="case-desc text">A mobile app where you can order food delivery from takeaway, restaurants, etc. book a table, speedy place an order to skip a queue in a restaurant, and much more about food.</div>
                 <div class="case-tags">
                   <span>#WordPress</span>
                   <span>#Javascript</span>

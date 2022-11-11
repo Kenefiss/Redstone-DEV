@@ -17,7 +17,7 @@
               <div class="general-review">21 reviews</div>
             </div>
           </a>
-          <a class="btn-link" href="https://clutch.co/profile/redstone?page=1">
+          <a class="btn-link" target="_blank" rel="nofollow" href="https://clutch.co/profile/redstone?page=1">
             View all
             <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 11L6 6L1 1" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"></path></svg>
           </a>

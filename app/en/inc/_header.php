@@ -55,7 +55,7 @@
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 3;">
                         <li><a href="car-dealers.php">Car Dealers</a></li>
-                        <li><a href="e-commerce.php">E-commerce</a></li>
+                        <li><a href="e-commerce.php">E-Commerce</a></li>
                         <li><a href="mvp.php">MVP</a></li>
                         <li><a href="site.php">Website</a></li>
                         <li><a href="web.php">Web Solutions</a></li>

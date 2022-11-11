@@ -289,9 +289,6 @@ header {height: var(--h-height);}
 .open-menu .header-lang,
 .open-menu .h-btn {opacity: 1;}
 }
-@media (max-width: 767px) {
-.header-informer.text b {display: none;}
-}
 /*--------------------*/
 /* - BUTTONS          */
 /*--------------------*/

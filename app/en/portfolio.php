@@ -38,17 +38,17 @@
                 <div class="title page-title h2">Explore our cases</div>
               </div>
               <div class="sort-wrapp js-sort-nav">
-                <div class="sort-btn d-xl-none">Всі</div>
+                <div class="sort-btn d-xl-none">All</div>
                 <nav class="sort-nav">
                   <ul>
                     <li><a class="active">All</a></li>
-                    <li><a href="#">APP</a></li>
-                    <li><a href="#">Branding</a></li>
-                    <li><a href="#">Car Dealers</a></li>
-                    <li><a href="#">E - Stores</a></li>
-                    <li><a href="#">MVP</a></li>
-                    <li><a href="#">Website</a></li>
                     <li><a href="#">Web Solutions</a></li>
+                    <li><a href="#">APP</a></li>
+                    <li><a href="#">MVP</a></li>
+                    <li><a href="#">E-Commerce</a></li>
+                    <li><a href="#">Car Dealers</a></li>
+                    <li><a href="#">Branding</a></li>
+                    <li><a href="#">Website</a></li>
                   </ul>
                 </nav>
               </div>
