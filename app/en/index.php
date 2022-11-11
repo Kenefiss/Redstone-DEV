@@ -65,7 +65,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="web.php" class="category-entry">
                 <span class="category-title">WEB Solution</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-7.webp" type="image/webp">
@@ -73,7 +73,7 @@
                       <img src="img/category-img-7.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -82,7 +82,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="app.php" class="category-entry">
                 <span class="category-title">APP</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-3.webp" type="image/webp">
@@ -90,7 +90,7 @@
                       <img src="img/category-img-3.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -99,7 +99,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="mvp.php" class="category-entry">
                 <span class="category-title">MVP</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-8.webp" type="image/webp">
@@ -107,7 +107,7 @@
                       <img src="img/category-img-8.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -116,7 +116,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="e-commerce.php" class="category-entry">
                 <span class="category-title">E - Commerce</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-2.webp" type="image/webp">
@@ -124,7 +124,7 @@
                       <img src="img/category-img-2.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -133,7 +133,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="car-dealers.php" class="category-entry">
                 <span class="category-title">Car Dealers</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-9.webp" type="image/webp">
@@ -141,7 +141,7 @@
                       <img src="img/category-img-9.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -150,7 +150,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="branding.php" class="category-entry">
                 <span class="category-title">Branding</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-10.webp" type="image/webp">
@@ -158,7 +158,7 @@
                       <img src="img/category-img-10.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -306,7 +306,7 @@
             <div class="col-xl-5 d-none d-xl-block">
               <div class="video-wrap ml-80">
                 <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablepictureinpicture></video>
+                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablePictureInPicture></video>
                 </div>
               </div>
             </div>

@@ -64,7 +64,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">Доставка їжі</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-1.webp" type="image/webp">
@@ -72,7 +72,7 @@
                       <img src="img/category-img-10.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -81,7 +81,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">Інтернет-магазини</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-2.webp" type="image/webp">
@@ -89,7 +89,7 @@
                       <img src="img/category-img-2.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -98,7 +98,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">APP</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-3.webp" type="image/webp">
@@ -106,7 +106,7 @@
                       <img src="img/category-img-3.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -115,7 +115,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">Експрес рішення</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-4.webp" type="image/webp">
@@ -123,7 +123,7 @@
                       <img src="img/category-img-4.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -132,7 +132,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">Aвто</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-5.webp" type="image/webp">
@@ -140,7 +140,7 @@
                       <img src="img/category-img-5.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
@@ -149,7 +149,7 @@
             <div class="col-sm-6 col-md-4 category">
               <a href="category-detail.php" class="category-entry">
                 <span class="category-title">Брендування</span>
-                <span class="category-img">
+                <div class="category-img">
                   <div class="category-img-box">
                     <picture>
                       <source srcset="img/category-img-6.webp" type="image/webp">
@@ -157,7 +157,7 @@
                       <img src="img/category-img-6.png" alt="">
                     </picture>
                   </div>
-                </span>
+                </div>
                 <div class="review-btn">
                   <i class="review-icon"></i>
                 </div>
