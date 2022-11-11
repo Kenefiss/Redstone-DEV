@@ -73,7 +73,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-12 col-md-6 col-lg-4 _web">
+            <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
                   <img src="../img/case-2.png" loading="lazy" alt="">
@@ -89,7 +89,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-12 col-md-6 col-lg-4 _web">
+            <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
                   <img src="../img/case-3.png" loading="lazy" alt="">
@@ -368,7 +368,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-12 col-md-6 col-lg-4 _web">
+            <div class="col-12 col-md-6 col-lg-4 _web _mvp">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
                   <a class="full-link" href="https://finhubfund.co.uk/" target="_blank" rel="nofollow"></a>
@@ -540,7 +540,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-12 col-md-6 col-lg-4 _web">
+            <div class="col-12 col-md-6 col-lg-4 _web _mvp">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
                   <img src="../img/case-28.png" loading="lazy" alt="">

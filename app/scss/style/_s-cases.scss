@@ -27,6 +27,7 @@
   position: relative;
   z-index: 1;
   background: #F8F8F8;
+  transition: var(--transition-1);
 
   &::before {
     content: "";
@@ -121,14 +122,13 @@
 
   .case-img.contain-link {
     cursor: pointer;
-    transition: var(--transition-1);
   }
 
   .case-img::before {
     transition: inherit;
   }
 
-  .case-item .case-img.contain-link:hover::before {
+  .case-item .case-img:hover::before {
     height: 100%;
   }
 
