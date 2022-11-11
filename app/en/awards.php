@@ -82,7 +82,7 @@
                     <div class="award-title">REDSTONE</div>
                     <div class="award-subtitle">REDSTONE - AWWWARDS HONORS</div>
                     <div class="award-img">
-                      <a href="#" target="_blank">
+                      <a href="https://www.awwwards.com/REDSTONE/" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
                           <source srcset="../img/award-img-9.webp" type="image/webp">
@@ -98,7 +98,7 @@
                     <div class="award-title">Bilo</div>
                     <div class="award-subtitle">Bilo - AWWWARDS HONORS</div>
                     <div class="award-img">
-                      <a href="#" target="_blank">
+                      <a href="https://www.awwwards.com/sites/bilo" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
                           <source srcset="../img/award-img-10.webp" type="image/webp">

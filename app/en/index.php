@@ -26,6 +26,8 @@
                 <div class="logo-group">
                   <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow"><img src="../img/clutchco.svg" width="80" height="23" loading="lazy" alt=""></a>
                   <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="../img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
+                  <a href="https://www.bestcss.in/user/detail/DAandCO-6864" target="_blank" rel="nofollow"><img src="../img/best-css.svg" width="80" height="16" loading="lazy" alt=""></a>
+                  <a href="https://www.csslight.com/website/23929/MVISION-Study-Resort" target="_blank" rel="nofollow"><img src="../img/csslight.svg" width="82" height="40" loading="lazy" alt=""></a>
                   <a href="../en/awards.php"><img src="../img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
@@ -61,7 +63,7 @@
           </div>
           <div class="row categories animate-item fadeInUp delay-1">
             <div class="col-sm-6 col-md-4 category">
-              <a href="web-solution.php" class="category-entry">
+              <a href="web.php" class="category-entry">
                 <span class="category-title">WEB Solution</span>
                 <span class="category-img">
                   <div class="category-img-box">

@@ -25,8 +25,8 @@
           <div class="contact-info-title">Address: </div>
           <div class="contact-info-list">
             <a href="https://goo.gl/maps/6JEchaCUh4aAeoKq8" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
-              <b itemprop="addressLocality">United Kingdom</b>,
-              <b itemprop="streetAddress">4 Ferndale Lurgan Co Armagh BT66 8LQ</b>
+              <b itemprop="addressLocality">Lurgan</b>,
+              <b itemprop="streetAddress">4 Ferndale Co Armagh BT66 8LQ</b>
             </a>
           </div>
         </div>

@@ -38,11 +38,11 @@
 }
 
 .logo-group a:nth-child(3) {
-  max-width: 100px;
+  max-width: 80px;
 }
 
 .logo-group a:nth-child(4) {
-  max-width: 38px;
+  max-width: 82px;
 }
 
 .logo-group a:not(:last-child) {
@@ -134,10 +134,10 @@
     margin-right: 20px;
   }
   .banner .banner-num{
-    padding-top:50%;
+    padding-top:48%;
   }
   .banner .banner-num .num{
-    font-size: 8.2em;
+    font-size: 8em;
   }
   #animation2{
     top: -90%;
@@ -160,14 +160,18 @@
     margin: 0;
     margin-top: 20px;
     padding: 0 15px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
   }
 
   .logo-group a {
     max-width: 100%;
     text-align: center;
     justify-content: center;
+    max-width: fit-content;
+    margin-bottom: 15px;
   }
   .logo-group a:nth-child(1){
-    max-width:100%;
+    max-width:fit-content;
   }
 }
