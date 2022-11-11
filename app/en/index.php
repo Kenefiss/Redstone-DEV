@@ -61,7 +61,7 @@
           </div>
           <div class="row categories animate-item fadeInUp delay-1">
             <div class="col-sm-6 col-md-4 category">
-              <a href="web-solution.php" class="category-entry">
+              <a href="web.php" class="category-entry">
                 <span class="category-title">WEB Solution</span>
                 <span class="category-img">
                   <div class="category-img-box">
