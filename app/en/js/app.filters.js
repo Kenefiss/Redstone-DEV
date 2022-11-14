@@ -16,11 +16,27 @@ document.addEventListener("DOMContentLoaded", function() {
     let iso = new Isotope( isoContainer, {
       // options
       itemSelector: '.cases-isotope [class*=col]',
+      percentPosition: true,
       layoutMode: 'fitRows'
-    //   masonry: {
-    //     columnWidth: ".grid-sizer"
-    //   }
+      // masonry: {
+      //   columnWidth: ".grid-sizer"
+      // }
     });
+
+    imagesLoaded( isoContainer ).on( 'progress', function() {
+      // layout Isotope after each image loads
+      iso.layout();
+    });
+
+
+    setTimeout(function() {
+      iso.arrange({
+        filter: document.querySelector(".sort-nav a.active").getAttribute("data-filter"),
+        transitionDuration: 0
+      });
+    }, 500);
+
+
 
 
     document.addEventListener('click', function (e) {
@@ -58,12 +74,6 @@ document.addEventListener("DOMContentLoaded", function() {
         t($this.getAttribute("href"));
       }
     });
-
-
-    iso.arrange({
-      filter: document.querySelector(".sort-nav a.active").getAttribute("data-filter"),
-      transitionDuration: 0
-    }),
 
 
 

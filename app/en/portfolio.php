@@ -130,7 +130,7 @@
                   <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-3.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base One</a></div>
+                <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base1</a></div>
                 <div class="case-tags">
                   <span>#Webpack</span>
                   <span>#GSAP</span>
@@ -456,7 +456,7 @@
                   <span>#HTML5</span>
                   <span>#CSS3</span>
                   <span>#Node.js</span>
-                </div>
+                </div> 
                 <div class="case-desc text">
                   We created a creative and minimalistic marketing website for the mirror factory.
                 </div>
