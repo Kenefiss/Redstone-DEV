@@ -31,10 +31,10 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Phone number: </div>
+          <div class="contact-info-title">Phone: </div>
           <div class="contact-info-list">
-            <a href="tel:+4407493872709">
-              <b itemprop="telephone">+4407493872709</b>
+            <a href="tel:+447493872709">
+              <b itemprop="telephone">+447493872709</b>
             </a>
           </div>
         </div>
@@ -51,7 +51,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Phone number:</div>
+          <div class="contact-info-title">Phone:</div>
           <div class="contact-info-list">
             <a href="tel:+380981515285">
               <b itemprop="telephone">+380981515285</b>
@@ -71,7 +71,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Phone number:</div>
+          <div class="contact-info-title">Phone:</div>
           <div class="contact-info-list">
             <a href="tel:+380676075784">
               <b itemprop="telephone">+380676075784</b>
@@ -91,7 +91,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Phone number:</div>
+          <div class="contact-info-title">Phone:</div>
           <div class="contact-info-list">
             <a href="tel:+380981515285">
               <b itemprop="telephone">+380981515285</b>

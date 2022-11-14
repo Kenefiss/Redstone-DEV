@@ -34,7 +34,7 @@ header {
   padding-block: 8px;
   transition: transform var(--transition-1);
 
-  &.hide-informer {
+  &.hide-informer,&.hide {
     transform: translateY(100%);
   }
 

@@ -68,9 +68,11 @@ document.addEventListener("DOMContentLoaded", function() {
     _functions.scrollCall();
   });
 
-
+  
   _functions.scrollCall = function() {
     winScr = window.scrollY;
+
+    //header
     if (document.querySelector("header")) {
       let header = document.querySelector(".header-wrap");
 
@@ -80,8 +82,19 @@ document.addEventListener("DOMContentLoaded", function() {
         header.classList.remove("scrolled");
       }
     }
-  };
 
+    //stand with Ukraine
+    let headerHeight = document.querySelector(".header-wrap").clientHeight;
+    let heightScreen = screen.availHeight - headerHeight;
+    let headerInformer = document.querySelector(".header-informer");
+
+    if (winScr > heightScreen) {
+      headerInformer.classList.add("hide");
+    } else {
+      headerInformer.classList.remove("hide");
+    }
+
+  };
 
   //*  Function on page resize 
   _functions.resizeCall = function() {
@@ -285,6 +298,7 @@ document.addEventListener("DOMContentLoaded", function() {
     event.preventDefault();
 
     const targetId = link === "#" ? "header" : link;
+
     const targetPosition = document.querySelector(targetId).offsetTop - document.querySelector('header').offsetHeight - 30;
     const startPosition = window.scrollY;
     const distance = targetPosition - startPosition;

@@ -18,8 +18,8 @@
                 <div class="case-title title h5"><a href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow">Blum</a></div>
                   <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node js</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">We created a marketing website with online store functionality for a company that makes fasteners for furniture</div>
               </div>
@@ -32,8 +32,8 @@
                 <div class="case-title title h5">Porsche</div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node js</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">We created a car sales website to help you buy your dream car.</div>
               </div>
@@ -46,8 +46,8 @@
                 <div class="case-title title h5">Mercedes-Benz</div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node js</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">We developed a marketing website for the luxury car dealer.</div>
               </div>

@@ -91,4 +91,10 @@
   .year-row .year-mobile {
     margin-bottom: 20px;
   }
+  .year-row{
+    width: auto;
+    display: flex;
+    overflow-y: auto;
+    flex-wrap: nowrap;
+  }
 }

@@ -28,7 +28,7 @@
                   <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
                   <a href="https://www.bestcss.in/user/detail/DAandCO-6864" target="_blank" rel="nofollow"><img src="img/best-css.svg" width="80" height="16" loading="lazy" alt=""></a>
                   <a href="https://www.csslight.com/website/23929/MVISION-Study-Resort" target="_blank" rel="nofollow"><img src="img/csslight.svg" width="82" height="40" loading="lazy" alt=""></a>
-                  <a href="en/awards.php"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
+                  <a href="awards.php"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
@@ -186,35 +186,32 @@
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
-            <div class="swiper-entry clients-slider size2">
-              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "slidesPerGroup":4, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
-                <div class="swiper-wrapper clients">
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-img-1.svg" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-img-2.svg" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-img-3.svg" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-img-4.svg" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-img-5.svg" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-img-6.svg" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-img-7.svg" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-img-8.svg" loading="lazy" alt=""></div>
-                  </div>
+            <div class="clients-slider size2">
+              <div class="clients">
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech-img-1.svg" loading="lazy" alt=""></div>
                 </div>
-                <div class="swiper-pagination swiper-pagination-relative"></div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech-img-2.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech-img-3.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech-img-4.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech-img-5.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech-img-6.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech-img-7.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech-img-8.svg" loading="lazy" alt=""></div>
+                </div>
               </div>
             </div>
           </div>

@@ -10,7 +10,7 @@
 /*--------------------*/
 /* - CUSTOM PRELOADER */
 /*--------------------*/
-#loader-wrapper {position: fixed;left: 0;top: 0;width: 100%;height: 100%;z-index: 999;background-color: var(--clr-white);-webkit-animation: loader 0.8s linear;animation: loader 0.8s linear;-webkit-animation-iteration-count: 1;animation-iteration-count: 1;-webkit-animation-fill-mode: forwards;animation-fill-mode: forwards;}
+#loader-wrapper {position: fixed;left: 0;top: 0;width: 100%;height: 100%;z-index: 999;background-color: var(--clr-white);-webkit-animation: loader 1s linear;animation: loader 1s linear;-webkit-animation-iteration-count: 1;animation-iteration-count: 1;-webkit-animation-fill-mode: forwards;animation-fill-mode: forwards;}
 @-webkit-keyframes loader {
 0% {opacity: 1;}
 70% {opacity: 1;}
@@ -145,7 +145,8 @@ header {height: var(--h-height);}
 .header-wrap {position: fixed;z-index: 100;top: 0;left: 0;width: 100%;background-color: var(--clr-white);-webkit-transition: var(--transition-1);transition: var(--transition-1);}
 .header-wrap.scrolled {-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.02);box-shadow: 0 5px 10px rgba(0, 0, 0, 0.02);}
 .header-informer {position: fixed;bottom: 0;left: 0;width: 100%;height: var(--h-info-height);text-align: center;padding-block: 8px;-webkit-transition: -webkit-transform var(--transition-1);transition: -webkit-transform var(--transition-1);transition: transform var(--transition-1);transition: transform var(--transition-1),-webkit-transform var(--transition-1);}
-.header-informer.hide-informer {-webkit-transform: translateY(100%);transform: translateY(100%);}
+.header-informer.hide-informer,
+.header-informer.hide {-webkit-transform: translateY(100%);transform: translateY(100%);}
 .header-informer::before {content: "";position: absolute;z-index: -1;top: 0;left: 50%;height: 100%;width: 150%;-webkit-transform: translateX(-50%);transform: translateX(-50%);background-color: var(--clr-grey3);}
 .header-informer.text > * {display: inline;vertical-align: middle;margin-bottom: 0;}
 .header-informer.text img {margin-right: 15px;max-width: 35px;}
@@ -306,7 +307,7 @@ header {height: var(--h-height);}
 .btn-close::after {content: "";position: absolute;top: 50%;left: 50%;width: 70%;height: 2px;-webkit-transform: translate(-50%, -50%) rotate(45deg);transform: translate(-50%, -50%) rotate(45deg);background-color: currentColor;}
 .btn-close::after {-webkit-transform: translate(-50%, -50%) rotate(-45deg);transform: translate(-50%, -50%) rotate(-45deg);}
 .btn-scroll {position: absolute;bottom: 40px;left: 50%;cursor: pointer;-webkit-transform-origin: 0 0;transform-origin: 0 0;margin-right: -14px;-webkit-transform: rotate(90deg) translateX(-50%) translateY(-14px);transform: rotate(90deg) translateX(-50%) translateY(-14px);}
-.round-btn-wrap {position: relative;max-width: 260px;width: 100%;aspect-ratio: 1;}
+.round-btn-wrap {position: relative;max-width: 260px;width: 100%;aspect-ratio: 1/1;}
 .round-btn-listener {cursor: pointer;position: relative;z-index: 10;width: 100%;height: 100%;}
 .round-btn {display: block;position: absolute;inset: 0;z-index: 0;cursor: pointer;width: 100%;height: 100%;z-index: 1;-ms-flex-negative: 0;flex-shrink: 0;}
 .round-btn .circle {position: absolute;z-index: -1;left: 50%;top: 50%;width: 100%;height: 100%;border: 1px solid var(--clr-red);border-radius: 50%;-webkit-transform: translate(-50%, -50%);transform: translate(-50%, -50%);}
@@ -381,7 +382,7 @@ header {height: var(--h-height);}
 @media (max-width: 767px) {
 .logo-group a:not(:last-child) {margin-right: 20px;}
 .banner .banner-num {padding-top: 48%;}
-.banner .banner-num .num {font-size: 8em;}
+.banner .banner-num .num {font-size: 7.8em;}
 #animation2 {top: -90%;}
 }
 @media (max-width: 575px) {

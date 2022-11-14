@@ -65,8 +65,8 @@
                 <div class="case-title title h5"><a href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow">Blum</a></div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node JS</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">
                   We created a marketing website with online store functionality for a company that makes fasteners for furniture
@@ -81,8 +81,8 @@
                 <div class="case-title title h5">Porsche</div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node JS</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">
                   We collaborated with Blum to develop and support connected app features that extend Dynamics 365 CRM
@@ -97,8 +97,8 @@
                 <div class="case-title title h5">Mercedes-Benz</div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node JS</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">
                   We collaborated with Blum to develop and support connected app features that extend Dynamics 365 CRM
@@ -455,7 +455,7 @@
                   <span>#Javascript</span>
                   <span>#HTML5</span>
                   <span>#CSS3</span>
-                  <span>#Node.js</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">
                   We created a creative and minimalistic marketing website for the mirror factory.
@@ -486,7 +486,7 @@
                 <div class="case-title title h5"><a href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" target="_blank" rel="nofollow">UNITY APP</a></div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
+                  <span>#Node JS</span>
                 </div>
                 <div class="case-desc text">
                   App where Tour Guide & all Tourists in the Group use the same Application. Tour Guide communicates with the members of the group using the AudioGuide System, speaks to the group. Tourists, members of the group, listen to the transmission dedicated only to the group. Password restricted, safe, 21st century solution for the Travel Industry.
@@ -501,8 +501,8 @@
                 <div class="case-title title h5">Soundsence</div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node JS</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">
                   Music license portal, where you can purchase licenses, calculate rates, and manage the website as an admin user
@@ -533,7 +533,7 @@
                 <div class="case-title title h5">Cohflow</div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
+                  <span>#Node JS</span>
                 </div>
                 <div class="case-desc text">
                   We developed a telecom portal. Cohflow's offerings include a range of innovative, highly scalable managed services, including voice and collaboration, connectivity, and managed IT services for enterprise customers.
@@ -548,8 +548,8 @@
                 <div class="case-title title h5">Leadent</div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node JS</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">
                   We have created a portal to find the best dental professionals for all client needs. The user can choose the right specialist from a large list of dental professions.You also have the opportunity to use the portal if you are looking for an employee or looking for a new job
@@ -564,8 +564,8 @@
                 <div class="case-title title h5">Longsong</div>
                 <div class="case-tags">
                   <span>#Angular</span>
-                  <span>#Angular Material</span>
-                  <span>#Node.js</span>
+                  <span>#Node JS</span>
+                  <span>#aws</span>
                 </div>
                 <div class="case-desc text">
                   Portal for copyrights for the use of music, where users can use different functionality as per creation of tracks, concerts organization,in the role of admin, publisher, performer, representative. As user of mobile app you can calculate music license fee and copyright fees.
@@ -636,7 +636,7 @@
             </div>
           </div>
         </div>
-        <div class="spacer-md"></div>
+        <div class="sspacer-xl"></div>
       </div>
 
       <!-- SEO -->
