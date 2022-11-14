@@ -32,7 +32,7 @@
           <div class="svg-wrapper">
             <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
               <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                <tspan class="text-bold">50</tspan>
+                <tspan class="text-bold">60</tspan>
               </text>
               <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
                 <tspan dx="63" dy="-60" class="text-bold text-sup">+</tspan>

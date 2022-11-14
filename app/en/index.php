@@ -19,7 +19,7 @@
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
-                <div class="title h1">WEB Solutions <b>.</b> App <b>.</b> MVP <b>.</b> Making the difficult simple</div>
+                <div class="title h1">WEB Solutions <b>.</b> App <b>.</b> MVP <b>.</b><br> Making the difficult simple</div>
                 <a href="portfolio.php" class="btn btn-primary">
                   <b>Our projects</b>
                 </a>

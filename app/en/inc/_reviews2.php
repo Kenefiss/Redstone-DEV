@@ -4,7 +4,7 @@
       <div class="col-12">
         <div class="title-with-text no-align animate-item fadeInUp">
           <div class="title h2">Customer Testimonials</div>
-          <a href="https://clutch.co/profile/redstone" target="_blank" rel="nofollow" class="general-rating">
+          <a href="https://clutch.co/profile/redstone?page=1#reviews" target="_blank" rel="nofollow" class="general-rating">
             <div class="icon"><img src="img/general_rating-icon.svg" loading="lazy" alt=""></div>
             <div class="content">
               <div class="rating">
@@ -17,7 +17,7 @@
               <div class="general-review">21 reviews</div>
             </div>
           </a>
-          <a class="btn-link" href="https://clutch.co/profile/redstone?page=1" target="_blank">
+          <a class="btn-link" href="https://clutch.co/profile/redstone?page=1#reviews" target="_blank" rel="nofollow">
             View all
             <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 11L6 6L1 1" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"></path></svg>
           </a>
@@ -31,7 +31,7 @@
                 <div class="review-block">
                   <div class="review-info">
                     <div class="review-quote"><img src="img/review-cl-1.jpg" alt="" loading="lazy"></div>
-                    <a class="review-title" href="https://clutch.co/profile/redstone#review-2035942" target="_blank">Matthew Spuffard</a>
+                    <a class="review-title" href="https://clutch.co/profile/redstone#review-2035942" rel="nofollow" target="_blank">Matthew Spuffard</a>
                     <div class="review-category">CEO, BaseOne</div>
                   </div>
                   <div class="review-content">
@@ -56,7 +56,7 @@
                 <div class="review-block">
                   <div class="review-info">
                     <div class="review-quote"><img src="img/review-cl-2.jpg" alt=""></div>
-                    <a class="review-title" href="https://clutch.co/profile/redstone?page=1#review-1560968" target="_blank">Sergii Grushai</a>
+                    <a class="review-title" href="https://clutch.co/profile/redstone?page=1#review-1560968" rel="nofollow" target="_blank">Sergii Grushai</a>
                     <div class="review-category">CEO & Founder of Peeklogic Salesforce Development Company</div>
                   </div>
                   <div class="review-content">
