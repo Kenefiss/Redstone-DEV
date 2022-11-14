@@ -456,7 +456,7 @@
                   <span>#HTML5</span>
                   <span>#CSS3</span>
                   <span>#Node.js</span>
-                </div>
+                </div> 
                 <div class="case-desc text">
                   We created a creative and minimalistic marketing website for the mirror factory.
                 </div>
