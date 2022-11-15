@@ -13,7 +13,7 @@
         <ul>
           <li><a href="awards.php">Awards</a></li>
           <li><a href="portfolio.php">Case Studies</a></li>
-          <li><a href="#en-reviews">Reviews</a></li>
+          <li><a href="index.php#en-reviews" class="hash">Reviews</a></li>
           <li><a href="#footer">Contacts</a></li>
         </ul>
       </div>

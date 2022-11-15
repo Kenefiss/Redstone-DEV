@@ -273,47 +273,29 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
   // Anchor Links Scroll
-  const anchorLinks = document.querySelectorAll('a[href*="#"]:not([href="#"]):not(.review-title)');
-
-  for (let i = 0; i < anchorLinks.length; i++) {
-    anchorLinks[i].addEventListener("click", function(event) {
-      event.preventDefault();
-      const link_href = event.currentTarget.getAttribute("href")
-      const parentHasClass = event.target.closest('.header-menu') !== null;
-
-      if (parentHasClass) {
-        document.querySelector('html').classList.remove('overflow-menu');
-        document.querySelector('header').classList.remove('open-menu');
-        setTimeout(function() {
-          _functions.smoothScroll(event, link_href)
-        }, 1500);
+  document.querySelectorAll('.hash').forEach(item => {
+    item.addEventListener('click', function(e) {
+      const headerHeight = document.querySelector('header').offsetHeight;
+      const href = this.getAttribute("href");
+      //console.log(location.pathname, this.pathname);
+      document.querySelector('html').classList.remove('overflow-menu');
+      document.querySelector('header').classList.remove('open-menu');
+      e.preventDefault();
+  
+      if (location.pathname.replace(/^\//, "") == this.pathname.replace(/^\//, "") && location.hostname == this.hostname){
+        let target = this.hash;
+        target = target.length ? target : $("[name=" + this.hash.slice(1) + "]");
+        if (target.length) {
+          const targetElement = document.getElementById(target.replace('#', ''));
+          const position = window.pageYOffset + targetElement.getBoundingClientRect().top - headerHeight - 30;
+          window.scrollTo({top: position, behavior: 'smooth'});
+          return false;
+        }
       } else {
-        _functions.smoothScroll(event, link_href)
+        window.location = this.getAttribute("href");
       }
     });
-  }
-
-
-  _functions.smoothScroll = function(event, link) {
-    event.preventDefault();
-
-    const targetId = link === "#" ? "header" : link;
-
-    const targetPosition = document.querySelector(targetId).offsetTop - document.querySelector('header').offsetHeight - 30;
-    const startPosition = window.scrollY;
-    const distance = targetPosition - startPosition;
-    const duration = 1000;
-    let start = null;
-
-    window.requestAnimationFrame(step);
-
-    function step(timestamp) {
-      if (!start) start = timestamp;
-      const progress = timestamp - start;
-      window.scrollTo(0, distance * (progress / duration) + startPosition);
-      if (progress < duration) window.requestAnimationFrame(step);
-    }
-  }
+  })
 
 
   // GSAP
@@ -763,6 +745,15 @@ document.addEventListener("DOMContentLoaded", function() {
       } catch (err) {} finally {}
     });
   }
+
+  // LOAD VIDEO SRC
+  // if (winW > 1200) {
+  //   window.addEventListener("load", async () => {
+  //     try {
+  //       await _functions.loadFileAsync("js/vendors/SmoothScroll.min.js");
+  //     } catch (err) {} finally {}
+  //   });
+  // }
 
 
 });

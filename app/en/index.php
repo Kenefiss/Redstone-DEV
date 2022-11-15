@@ -40,7 +40,7 @@
               <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
             </div>
           </div>
-          <a class="btn-scroll" href="#content">
+          <a class="btn-scroll hash" href="#content">
             <svg width="63" height="14" viewBox="0 0 63 14" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M0 7H55.902" stroke="#989898" stroke-dasharray="5.49 8.78" class="dashed" />
               <path d="M54.9297 1L61.7405 7.16216L54.9297 13" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" />
@@ -231,7 +231,11 @@
       <!-- FORM -->
       <div class="section" id="contact">
         <div class="map-img">
-          <img src="img/map.png" alt="">
+          <picture>
+            <source srcset="img/map.webp" type="image/webp">
+            <source srcset="img/map.png" type="image/png">
+            <img src="img/map.png" alt="" loading="lazy">
+          </picture>
         </div>
         <div class="container">
           <div class="row">

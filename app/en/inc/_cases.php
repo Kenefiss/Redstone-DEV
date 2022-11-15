@@ -12,10 +12,10 @@
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
-                  <a class="full-link" href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow"></a>
+                  <a class="full-link" href="https://shop-ua.blum.com/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-1.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5"><a href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow">Blum</a></div>
+                <div class="case-title title h5"><a href="https://shop-ua.blum.com/" target="_blank" rel="nofollow">Blum</a></div>
                   <div class="case-tags">
                   <span>#Angular</span>
                   <span>#Node js</span>
@@ -54,11 +54,18 @@
             </div>
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
-                <div class="case-img contain-link">
-                  <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+                <div class="case-img contain-btn">
+                  <div class="app-stores">
+                    <a href="https://apps.apple.com/ua/app/myresto-app/id1643866018?l=uk" target="_blank" rel="nofollow">
+                      <img src="img/app-store.png" loading="lazy" alt="">
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=my.resto.app&pli=1" target="_blank" rel="nofollow">
+                      <img src="img/google-play.png" loading="lazy" alt="">
+                    </a>
+                  </div>
                   <img src="img/p-img-9.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+                <div class="case-title title h5">MyResto</div>
                 <div class="case-tags">
                   <span>#WordPress</span>
                   <span>#Javascript</span>
@@ -66,7 +73,9 @@
                   <span>#PHP</span>
                   <span>#CSS3</span>
                 </div>
-                <div class="case-desc text">A mobile app where you can order food delivery from takeaway, restaurants, etc. book a table, speedy place an order to skip a queue in a restaurant, and much more about food.</div>
+                <div class="case-desc text">
+                  A mobile app where you can order food delivery from takeaway, restaurants, etc. book a table, speedy place an order to skip a queue in a restaurant, and much more about food.
+                </div>
               </div>
             </div>
             <div class="swiper-slide">
@@ -75,7 +84,7 @@
                   <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-3.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base One</a></div>
+                <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base1</a></div>
                   <div class="case-tags">
                   <span>#Webpack</span>
                   <span>#GSAP</span>

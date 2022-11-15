@@ -17,7 +17,7 @@
           <li><a href="portfolio.php">Case Studies</a></li>
           <li><a href="app.php
           ">АРР</a></li>
-          <li><a href="#footer">Contacts</a></li>
+          <li><a href="#footer" class="hash">Contacts</a></li>
         </ul>
       </nav>
       <div class="header-wrap-right">
@@ -28,7 +28,7 @@
           </svg>
           <b>+447493872709</b>
         </a>
-        <a class="btn d-none d-lg-block" href="index.php#contact">
+        <a class="btn d-none d-lg-block hash" href="index.php#contact">
           <b>Ask a question</b>
         </a>
       </div>
@@ -42,7 +42,7 @@
                 <li><a href="pl/">PL</a></li>
                 <li><a href="ru/">РУС</a></li>
               </ul>
-              <a class="btn h-btn d-lg-none" href="#contact">
+              <a class="btn h-btn d-lg-none hash" href="index.php#contact">
                 <b>Ask a question</b>
               </a>
               <nav class="header-mega-menu" style="--items: 3;">
@@ -85,7 +85,7 @@
                   <!-- <li><a href="#">Blog</a></li> -->
                   <!-- hide on phase 1 -->
 
-                  <li><a href="#en-reviews">Reviews</a></li>
+                  <li><a href="index.php#en-reviews" class="hash">Reviews</a></li>
                   <li class="menu-close"><a href="#footer">Contacts</a></li>
                 </ul>
               </nav>

@@ -157,12 +157,15 @@ export const img = () => {
       })
     ))
     .pipe(newer('app/img/'))
+    .pipe(newer('app/en/img/'))
     .pipe(webp({
       quality: 50
     }))
     .pipe(gulp.dest('app/img/'))
+    .pipe(gulp.dest('app/en/img/'))
     .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
     .pipe(newer('app/img/'))
+    .pipe(newer('app/en/img/'))
     .pipe(
       imagemin({
           progressive: true,

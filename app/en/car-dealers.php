@@ -59,10 +59,10 @@
             <div class="col-12 col-md-6 col-lg-4 _e-сommerce">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
-                  <a class="full-link" href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow"></a>
+                  <a class="full-link" href="https://shop-ua.blum.com/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-1.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5"><a href="https://www.blum.com/gb/en/" target="_blank" rel="nofollow">Blum</a></div>
+                <div class="case-title title h5"><a href="https://shop-ua.blum.com/" target="_blank" rel="nofollow">Blum</a></div>
                 <div class="case-tags">
                   <span>#Angular</span>
                   <span>#Node JS</span>
@@ -85,7 +85,7 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  We collaborated with Blum to develop and support connected app features that extend Dynamics 365 CRM
+                  We created a car sales website to help you buy your dream car.
                 </div>
               </div>
             </div>
@@ -101,7 +101,7 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  We collaborated with Blum to develop and support connected app features that extend Dynamics 365 CRM
+                  We developed a marketing website for the luxury car dealer. 
                 </div>
               </div>
             </div>
@@ -237,11 +237,18 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 _app">
               <div class="case-item animate-item fadeInUp">
-                <div class="case-img contain-link">
-                  <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+                <div class="case-img contain-btn">
+                  <div class="app-stores">
+                    <a href="https://apps.apple.com/ua/app/myresto-app/id1643866018?l=uk" target="_blank" rel="nofollow">
+                      <img src="img/app-store.png" loading="lazy" alt="">
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=my.resto.app&pli=1" target="_blank" rel="nofollow">
+                      <img src="img/google-play.png" loading="lazy" alt="">
+                    </a>
+                  </div>
                   <img src="img/p-img-9.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+                <div class="case-title title h5">MyResto</div>
                 <div class="case-tags">
                   <span>#WordPress</span>
                   <span>#Javascript</span>
@@ -490,6 +497,75 @@
                 </div>
                 <div class="case-desc text">
                   App where Tour Guide & all Tourists in the Group use the same Application. Tour Guide communicates with the members of the group using the AudioGuide System, speaks to the group. Tourists, members of the group, listen to the transmission dedicated only to the group. Password restricted, safe, 21st century solution for the Travel Industry.
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 _app">
+              <div class="case-item animate-item fadeInUp">
+                <div class="case-img contain-btn">
+                  <div class="app-stores">
+                    <a href="https://apps.apple.com/app/id1550737219" target="_blank" rel="nofollow">
+                      <img src="img/app-store.png" loading="lazy" alt="">
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=app.robert.com" target="_blank" rel="nofollow">
+                      <img src="img/google-play.png" loading="lazy" alt="">
+                    </a>
+                  </div>
+                  <img src="img/p-img-25.png" loading="lazy" alt="">
+                </div>
+                <div class="case-title title h5">Robert App</div>
+                <div class="case-tags">
+                  <span>#Angular</span>
+                  <span>#Node JS</span>
+                </div>
+                <div class="case-desc text">
+                  Robert is a virtual assistant to facilitate interaction between visitors and staff of a restaurant, cafe, bar. Use one app for all establishments served with Robert.
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 _app">
+              <div class="case-item animate-item fadeInUp">
+                <div class="case-img contain-btn">
+                  <div class="app-stores">
+                    <a href="https://apps.apple.com/us/app/smaki-maki/id1543396014" target="_blank" rel="nofollow">
+                      <img src="img/app-store.png" loading="lazy" alt="">
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=com.smakiMaki.app" target="_blank" rel="nofollow">
+                      <img src="img/google-play.png" loading="lazy" alt="">
+                    </a>
+                  </div>
+                  <img src="img/p-img-26.png" loading="lazy" alt="">
+                </div>
+                <div class="case-title title h5">Smaki-Maki App</div>
+                <div class="case-tags">
+                  <span>#Angular</span>
+                  <span>#Node JS</span>
+                </div>
+                <div class="case-desc text">
+                  With the Smaki-Maki application, you can order the tastiest pizza and sushi in your city!
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 _app">
+              <div class="case-item animate-item fadeInUp">
+                <div class="case-img contain-btn">
+                  <div class="app-stores">
+                    <a href="https://apps.apple.com/us/app/ma-pizza/id1596914596" target="_blank" rel="nofollow">
+                      <img src="img/app-store.png" loading="lazy" alt="">
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=com.mamaitaliano.app" target="_blank" rel="nofollow">
+                      <img src="img/google-play.png" loading="lazy" alt="">
+                    </a>
+                  </div>
+                  <img src="img/p-img-27.png" loading="lazy" alt="">
+                </div>
+                <div class="case-title title h5">MA App</div>
+                <div class="case-tags">
+                  <span>#Angular</span>
+                  <span>#Node JS</span>
+                </div>
+                <div class="case-desc text">
+                  Using this application, users can: view the menu; learn about promotions; independently create and pay for an order (cash, card, Apple Pay, Google Pay, Privat Pay); set the time of home delivery of the order; place an order for pickup.
                 </div>
               </div>
             </div>

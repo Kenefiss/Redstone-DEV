@@ -111,6 +111,37 @@
   height: auto;
 }
 
+.app-stores{
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  top: 43%;
+  height:14%;
+  font-size: 0;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 2;
+  transition: var(--transition-2);
+  opacity:0;
+  visibility: hidden;
+}
+.app-stores a{
+  display: inline-block;
+  vertical-align: top;
+  height:100%;
+  margin:0 5px;
+}
+
+.app-stores a img {
+  display: block;
+  height: 100%;
+  width: auto;
+  position: relative;
+  inset: inherit;
+  max-width: initial;
+  max-height: none;
+}
+
 /*media*/
 @media(min-width:1200px) {
   .cases-slider .cases {
@@ -148,6 +179,15 @@
   .cases-slider .swiper-container:not(.swiper-no-swiping) .swiper-wrapper {
     cursor: default;
   }
+
+  .case-img.contain-btn:hover .app-stores{
+    opacity:1;
+    visibility: visible;
+  }
+  .app-stores a:hover{
+    transform: translateY(-4px);
+  }
+
 }
 
 @media(max-width:1440px) {
@@ -183,7 +223,7 @@
     margin-bottom: 0;
   }
 
-  .case-item .case-img.contain-link::before {
+  .case-item .case-img::before {
     height: 100%;
   }
   .case-title {
@@ -192,6 +232,13 @@
 
   .case-desc {
     margin-top: 10px;
+  }
+
+  .app-stores{
+    top:auto;
+    bottom:10px;
+    opacity:1;
+    visibility: visible;
   }
 
 }

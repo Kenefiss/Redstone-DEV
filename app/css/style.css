@@ -439,6 +439,9 @@ a.review-title:hover {color: var(--clr-red);}
 .case-tags > * {display: inline-block;font-size: 14px;line-height: 1;font-weight: 400;color: var(--clr-plc);letter-spacing: 0.05em;text-transform: uppercase;margin-top: 10px;margin-right: 10px;border: 1px solid #E8E8E8;padding: 8px 10px 6px;}
 .case-tags > *:last-child {margin-right: 0;}
 .cases-slider .swiper-slide {height: auto;}
+.app-stores {position: absolute;left: 15px;right: 15px;top: 43%;height: 14%;font-size: 0;text-align: center;white-space: nowrap;z-index: 2;-webkit-transition: var(--transition-2);transition: var(--transition-2);opacity: 0;visibility: hidden;}
+.app-stores a {display: inline-block;vertical-align: top;height: 100%;margin: 0 5px;}
+.app-stores a img {display: block;height: 100%;width: auto;position: relative;inset: inherit;max-width: initial;max-height: none;}
 /*media*/
 @media (min-width: 1200px) {
 .cases-slider .cases {width: auto;height: auto !important;-webkit-transform: none !important;transform: none !important;-ms-flex-wrap: wrap !important;flex-wrap: wrap !important;}
@@ -449,6 +452,8 @@ a.review-title:hover {color: var(--clr-red);}
 .cases-slider .swiper-pagination {display: none;}
 .cases-slider .swiper-slide {width: auto !important;margin-right: 0 !important;}
 .cases-slider .swiper-container:not(.swiper-no-swiping) .swiper-wrapper {cursor: default;}
+.case-img.contain-btn:hover .app-stores {opacity: 1;visibility: visible;}
+.app-stores a:hover {-webkit-transform: translateY(-4px);transform: translateY(-4px);}
 }
 @media (max-width: 1440px) {
 .cases-slider .swiper-slide {margin-bottom: 60px;}
@@ -460,9 +465,10 @@ a.review-title:hover {color: var(--clr-red);}
 .cases-slider .swiper-container {overflow: visible;}
 .cases-slider .cases {margin: 0;}
 .cases-slider .swiper-slide {max-width: none;-webkit-box-flex: 0;-ms-flex: 0 0 auto;flex: 0 0 auto;padding: 0;margin-bottom: 0;}
-.case-item .case-img.contain-link::before {height: 100%;}
+.case-item .case-img::before {height: 100%;}
 .case-title {margin-top: 15px;}
 .case-desc {margin-top: 10px;}
+.app-stores {top: auto;bottom: 10px;opacity: 1;visibility: visible;}
 }
 @media (max-width: 767px) {
 .case-tags {margin-top: -5px;}
