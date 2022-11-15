@@ -746,14 +746,5 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
-  // LOAD VIDEO SRC
-  // if (winW > 1200) {
-  //   window.addEventListener("load", async () => {
-  //     try {
-  //       await _functions.loadFileAsync("js/vendors/SmoothScroll.min.js");
-  //     } catch (err) {} finally {}
-  //   });
-  // }
-
-
+  
 });
