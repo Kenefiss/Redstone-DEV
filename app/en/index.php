@@ -34,8 +34,10 @@
             </div>
             <div class="col-xl-5 order-1 order-xl-2">
               <div class="banner-num">
-                <div class="num">16</div>
-                <div id="animation"></div>
+                <div id="num" class="num">
+                  <div id="text">16</div>
+                  <div id="graphics" data-color="#b0b0b0"></div>
+                </div>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
             </div>
@@ -322,10 +324,10 @@
   </div>
 
 
-  <?php include 'inc/_popups.php';?>
+  <div class="popup-wrapper" id="popups"></div>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r71/three.js"></script>
   <?php include 'inc/_bottom.php';?>
+  <script defer src="js/app.graphics.js"></script>
 </body>
 
 </html>

@@ -49,12 +49,11 @@
   margin-right: 55px;
 }
 
-.banner .banner-num {
+.banner-num {
   position: relative;
   width: 100%;
-  padding-top: 60%;
+  height: 390px;
   overflow: hidden;
-  font-size: var(--h-1);
 
   .num {
     display: inline-block;
@@ -65,13 +64,44 @@
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    font-size: 80px;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  #text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    transform: translate(-50%, -50%);
     font-size: 6.5em;
     line-height: 1em;
     font-weight: 700;
     text-align: center;
     text-transform: uppercase;
-    color: #e6e6e6;
+    color: #000;
+  }
+
+  #graphics {
+    background: #ededed;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    mix-blend-mode: lighten;
+
+    canvas {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 100% !important;
+      height: 136% !important;
+      transform: translate(-50%, -50%);
+      object-fit: cover;
+    }
   }
 }
 
@@ -105,6 +135,16 @@
   }
 }
 
+@media(max-width: 1560px) {
+  .banner-num {
+    max-height: 310px;
+
+    .num {
+      font-size: 64px;
+    }
+  }
+}
+
 @media(max-width: 1199px) {
   .banner-content {
     text-align: center;
@@ -118,16 +158,10 @@
     justify-content: center;
     margin-bottom: 30px;
   }
-  .banner .banner-num{
-    padding-top: 20%;
-  }
 }
 
 @media(max-width: 991px) {
-  .banner .banner-num{
-    padding-top: 25%;
-  }
-  .logo-group a{
+  .logo-group a {
     max-width: fit-content;
   }
 }
@@ -136,15 +170,6 @@
   .logo-group a:not(:last-child) {
     margin-right: 20px;
   }
-  .banner .banner-num{
-    padding-top:48%;
-  }
-  .banner .banner-num .num{
-    font-size: 7.8em;
-  }
-  #animation2{
-    top: -90%;
-  }
 }
 
 @media (max-width: 575px) {
@@ -152,13 +177,14 @@
     padding: 20px 0 0;
   }
 
-  .main-banner .full-height .counter-block{
-    margin:0;
+  .main-banner .full-height .counter-block {
+    margin: 0;
   }
 
-  .main-banner .sub-title{
+  .main-banner .sub-title {
     margin-top: 15px;
   }
+
   .logo-group {
     margin: 0;
     margin-top: 20px;
@@ -175,7 +201,8 @@
     max-width: fit-content;
     margin-bottom: 15px;
   }
-  .logo-group a:nth-child(1){
-    max-width:fit-content;
+
+  .logo-group a:nth-child(1) {
+    max-width: fit-content;
   }
 }

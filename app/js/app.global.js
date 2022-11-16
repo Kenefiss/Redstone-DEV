@@ -637,20 +637,24 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Post Ajax
   _functions.postAjax = function(url, data, success) {
-      let params = typeof data == 'string' ? data : Object.keys(data).map(
-              function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
-          ).join('&');
-  
-      let xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+    let params = typeof data == 'string' ? data : Object.keys(data).map(
+      function(k) {
+        return encodeURIComponent(k) + '=' + encodeURIComponent(data[k])
+      }
+    ).join('&');
 
-      xhr.open('POST', url);
-      xhr.onreadystatechange = function() {
-          if (xhr.readyState>3 && xhr.status==200) { success(xhr.responseText); }
-      };
-      xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-      xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-      xhr.send(params);
-      return xhr;
+    let xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+
+    xhr.open('POST', url);
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState > 3 && xhr.status == 200) {
+        success(xhr.responseText);
+      }
+    };
+    xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.send(params);
+    return xhr;
   }
 
   // Validate email
@@ -671,7 +675,7 @@ document.addEventListener("DOMContentLoaded", function() {
         return false;
       }
 
-      _functions.postAjax('ContactForm.php', _functions.getFormValue(form), function(data){ 
+      _functions.postAjax('ContactForm.php', _functions.getFormValue(form), function(data) {
         form.reset();
         _functions.openPopup('.popup-content[data-rel="1"]');
         return false;
@@ -745,31 +749,31 @@ document.addEventListener("DOMContentLoaded", function() {
   if (winW > 1200) {
     window.addEventListener("load", async () => {
       try {
-        await _functions.loadFileAsync("../js/vendors/SmoothScroll.min.js");
+        await _functions.loadFileAsync("js/vendors/SmoothScroll.min.js");
       } catch (err) {} finally {}
     });
   }
 
-//dynamic load video
-_functions.loadSrc = (block, src) => {
-  return new Promise((resolve, reject) => {
-    if (src) {
-      let bl = document.querySelector(block);
-      bl.src = src;
-      resolve(true);
-    } else {
-      reject(false);
-    }
-  });
-};
+  //dynamic load video
+  _functions.loadSrc = (block, src) => {
+    return new Promise((resolve, reject) => {
+      if (src) {
+        let bl = document.querySelector(block);
+        bl.src = src;
+        resolve(true);
+      } else {
+        reject(false);
+      }
+    });
+  };
 
-if (winW > 1200) {
-  window.addEventListener("load", async () => {
-    try {
-      await _functions.loadSrc(".video video", "video/video-1.mp4");
-    } catch (err) {} finally {}
-  });
-}
+  if (winW > 1200) {
+    window.addEventListener("load", async () => {
+      try {
+        await _functions.loadSrc(".video video", "video/video-1.mp4");
+      } catch (err) {} finally {}
+    });
+  }
 
 
 });

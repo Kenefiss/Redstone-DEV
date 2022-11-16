@@ -34,7 +34,10 @@
             </div>
             <div class="col-xl-5 order-1 order-xl-2">
               <div class="banner-num">
-                <div class="num">16</div>
+                <div id="num" class="num">
+                  <div id="text">16</div>
+                  <div id="graphics" data-color="#b0b0b0"></div>
+                </div>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> Років переносимо ваш бізнес online</div>
             </div>
@@ -352,8 +355,9 @@
 
 
   <div class="popup-wrapper" id="popups"></div>
-  <?php include 'inc/_popup-video.php';?>
+
   <?php include 'inc/_bottom.php';?>
+  <script defer src="js/app.graphics.js"></script>
 </body>
 
 </html>
