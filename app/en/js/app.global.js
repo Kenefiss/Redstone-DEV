@@ -746,5 +746,26 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
+  //dynamic load video
+  _functions.loadSrc = (block, src) => {
+    return new Promise((resolve, reject) => {
+      if (src) {
+        let bl = document.querySelector(block);
+        bl.src = src;
+        resolve(true);
+      } else {
+        reject(false);
+      }
+    });
+  };
+
+  if (winW > 1200) {
+    window.addEventListener("load", async () => {
+      try {
+        await _functions.loadSrc(".video video", "./video/video-1.mp4");
+      } catch (err) {} finally {}
+    });
+  }
+
   
 });

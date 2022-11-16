@@ -69,13 +69,17 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  We created a marketing website with online store functionality for a company that makes fasteners for furniture
+                  We created a marketing website with online store functionality for the second most famous fasteners manufacturer in the world.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-2.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Porsche</div>
@@ -85,13 +89,17 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  We created a car sales website to help you buy your dream car.
+                  We created a closed CRM system for luxury cars manufacturer.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-3.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Mercedes-Benz</div>
@@ -101,7 +109,7 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  We developed a marketing website for the luxury car dealer. 
+                  We developed a closed CRM system for exclusive cars dealer. 
                 </div>
               </div>
             </div>
@@ -120,13 +128,17 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  We developed a marketing website for a producer of natural juices.
+                  We developed a marketing website for the most famous producer of natural juices.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
+                  <div class="top-info clutch">
+                    <img class="icon" src="img/clutch.svg" alt>
+                    <div class="text">This project has verified testimonial on Clutch.</div>
+                  </div>
                   <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-3.png" loading="lazy" alt="">
                 </div>
@@ -139,7 +151,7 @@
                   <span>#Wordpress</span>
                 </div>
                 <div class="case-desc text">
-                  Solutions for data-driven creative agile teams
+                  We worked on solutions for famous data-driven creative agile teams in United Kingdom
                 </div>
               </div>
             </div>
@@ -155,7 +167,7 @@
                   <span>#Javascript</span>
                 </div>
                 <div class="case-desc text">
-                  Website for Fiat car models configuration. Users can choose different options for car configuration from color to wide range of wheels types
+                  Website for Fiat car models configuration. Users can choose different options for car configuration from exclusive color to wide range of wheels types.
                 </div>
               </div>
             </div>
@@ -174,13 +186,17 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Creative and interactive marketing website for dairy products manufacturers.
+                  This is creative and interactive marketing website for dairy products manufacturer.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _website">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
+                  <div class="top-info clutch">
+                    <img class="icon" src="img/clutch.svg" alt>
+                    <div class="text">This project has verified testimonial on Clutch.</div>
+                  </div>
                   <a class="full-link" href="https://bobox.cz/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-6.png" loading="lazy" alt="">
                 </div>
@@ -193,7 +209,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  We created a website for a construction company. Their goal is to unite industries involved in real estate investment and project implementation and sales into one group.
+                  We created a website for the leading construction company in Czech republic. 
                 </div>
               </div>
             </div>
@@ -212,7 +228,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Our team developed a marketing website for an Internet of Things platform that combines the physical and digital worlds for collecting, processing, visualizing, and controlling devices.
+                  Our team developed a marketing website for high-rated Internet of Things platform.
                 </div>
               </div>
             </div>
@@ -257,7 +273,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  A mobile app where you can order food delivery from takeaway, restaurants, etc. book a table, speedy place an order to skip a queue in a restaurant, and much more about food.
+                  We worked on a mobile app for the food delivery service in United Kingdom.
                 </div>
               </div>
             </div>
@@ -276,7 +292,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  We created a marketing website for a company that makes collectible coins.
+                  We created a marketing website for a Polish company that makes collectible coins.
                 </div>
               </div>
             </div>
@@ -295,7 +311,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  We developed a marketing website for software development company
+                  We developed a marketing website for top-rated software development company
                 </div>
               </div>
             </div>
@@ -314,7 +330,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  We created a marketing website for a company that makes collectible coins.
+                  We created a marketing website for a company that makes collectible coins in Poland.
                 </div>
               </div>
             </div>
@@ -333,13 +349,17 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Our team created a marketing website with online store functionality for a company that provides services for potential buyers of cars from auctions.
+                  Our team created a marketing website with online store functionality for thr company that provides services for potential buyers of cars from auctions.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _e-сommerce">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
+                  <div class="top-info awwards">
+                    <img class="icon" src="img/awwards.svg" alt>
+                    <div class="text">This is an awards nominee project.</div>
+                  </div>
                   <a class="full-link" href="https://mvision.pro/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-14.png" loading="lazy" alt="">
                 </div>
@@ -352,13 +372,17 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Our team created a marketing website with online store functionality for a company that provides dental services.
+                  Our team created a marketing website with online store functionality for the higly-recomended company that provides dental services
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _website">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
+                  <div class="top-info clutch">
+                    <img class="icon" src="img/clutch.svg" alt>
+                    <div class="text">This project has verified testimonial on Clutch.</div>
+                  </div>
                   <a class="full-link" href="https://www.peeklogic.com/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-15.png" loading="lazy" alt="">
                 </div>
@@ -371,7 +395,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  We developed a marketing website for salesforce development company.
+                  We developed a marketing website for the leading salesforce development company in USA.
                 </div>
               </div>
             </div>
@@ -390,7 +414,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Finhub is an online platform that was created to communicate with potential investors with promising projects in one trading arena.
+                  Finhub is a worldwide online platform that was created to communicate with potential investors with promising projects in one trading arena.
                 </div>
               </div>
             </div>
@@ -409,7 +433,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  We created a marketing website for Finhub`s Capital Fund.
+                  We created a marketing website for worldwide Finhub`s Capital Fund.
                 </div>
               </div>
             </div>
@@ -428,7 +452,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Our team developed a marketing website with online store functionality for healthy snacks manufacturer.
+                  Our team developed a marketing website with online store functionality for famous German healthy snacks manufacturer.
                 </div>
               </div>
             </div>
@@ -447,7 +471,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Our team developed a marketing website.
+                  Our team developed a creative and dynamic marketing website.
                 </div>
               </div>
             </div>
@@ -463,9 +487,9 @@
                   <span>#HTML5</span>
                   <span>#CSS3</span>
                   <span>#aws</span>
-                </div>
+                </div> 
                 <div class="case-desc text">
-                  We created a creative and minimalistic marketing website for the mirror factory.
+                  We created a creative and minimalistic marketing website for  the custom and exclusive mirrors factory.
                 </div>
               </div>
             </div>
@@ -486,17 +510,21 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 _app">
               <div class="case-item animate-item fadeInUp">
-                <div class="case-img contain-link">
-                  <a class="full-link" href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" target="_blank" rel="nofollow"></a>
+                <div class="case-img contain-btn">
+                  <div class="app-stores">
+                    <a href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" target="_blank" rel="nofollow">
+                      <img src="img/app-store.png" loading="lazy" alt="">
+                    </a>
+                  </div>
                   <img src="img/p-img-22.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5"><a href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" target="_blank" rel="nofollow">UNITY APP</a></div>
+                <div class="case-title title h5">UNITY App</div>
                 <div class="case-tags">
                   <span>#Angular</span>
                   <span>#Node JS</span>
                 </div>
                 <div class="case-desc text">
-                  App where Tour Guide & all Tourists in the Group use the same Application. Tour Guide communicates with the members of the group using the AudioGuide System, speaks to the group. Tourists, members of the group, listen to the transmission dedicated only to the group. Password restricted, safe, 21st century solution for the Travel Industry.
+                  We were working on app where Tour Guide & all Tourists in the Group use the same Application for communication.
                 </div>
               </div>
             </div>
@@ -572,6 +600,10 @@
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-25.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Soundsence</div>
@@ -581,13 +613,17 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  Music license portal, where you can purchase licenses, calculate rates, and manage the website as an admin user
+                  Music license portal for leading music agency in North America
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-26.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Unify Inc.</div>
@@ -597,13 +633,17 @@
                   <span>#D3.js</span>
                 </div>
                 <div class="case-desc text">
-                  Solution for real-time equipment monitoring, location management, quota ordering developed for
+                  Solution for real-time equipment monitoring for famous service provider. 
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-27.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Cohflow</div>
@@ -612,13 +652,17 @@
                   <span>#Node JS</span>
                 </div>
                 <div class="case-desc text">
-                  We developed a telecom portal. Cohflow's offerings include a range of innovative, highly scalable managed services, including voice and collaboration, connectivity, and managed IT services for enterprise customers.
+                  We developed a telecom portal for high-rated IT services company that working exclusively with enterprise customers.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _web _mvp">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-28.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Leadent</div>
@@ -628,13 +672,17 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  We have created a portal to find the best dental professionals for all client needs. The user can choose the right specialist from a large list of dental professions.You also have the opportunity to use the portal if you are looking for an employee or looking for a new job
+                  We have created a portal for top dental service in North America.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _app">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-29.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Longsong</div>
@@ -644,13 +692,17 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  Portal for copyrights for the use of music, where users can use different functionality as per creation of tracks, concerts organization,in the role of admin, publisher, performer, representative. As user of mobile app you can calculate music license fee and copyright fees.
+                  Portal for the music copyrights in most famous North America music company.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _app">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-30.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Upipe</div>
@@ -666,6 +718,10 @@
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
                   <img src="img/case-31.png" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Clip-Clop</div>
@@ -676,37 +732,37 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  A social network for horse owners
+                  A social network for horse owners.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _branding">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
-                  <a class="full-link" href="https://finhubfund.co.uk/" target="_blank" rel="nofollow"></a>
+                  <a class="full-link" href="https://www.behance.net/gallery/88065473/Finhub-Brand-Identity" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-24.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5">Finhub</div>
+                <div class="case-title title h5"><a href="https://www.behance.net/gallery/88065473/Finhub-Brand-Identity" target="_blank" rel="nofollow">Finhub</a></div>
                 <div class="case-tags">
                   <span>#branding</span>
                 </div>
                 <div class="case-desc text">
-                  Our team designed branding for an online platform for potential investors
+                  We designed branding for the worldwide financial online platform.
                 </div>
               </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4 _branding">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
-                  <a class="full-link" href="https://fruechtesnack.eu/" target="_blank" rel="nofollow"></a>
+                  <a class="full-link" href="https://www.behance.net/gallery/130060879/Fruit-Snack-Brand-identity-website" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-23.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5">Fruchte Snack</div>
+                <div class="case-title title h5"><a href="https://www.behance.net/gallery/130060879/Fruit-Snack-Brand-identity-website" target="_blank" rel="nofollow">Fruchte Snack</a></div>
                 <div class="case-tags">
                   <span>#branding</span>
                 </div>
                 <div class="case-desc text">
-                  Our team created the branding for a healthy snacks manufacturer.
+                  Our team created the branding for the German famous healthy snacks manufacturer.
                 </div>
               </div>
             </div>
@@ -747,7 +803,7 @@
             <div class="col-xl-5 d-none d-xl-block">
               <div class="video-wrap ml-80">
                 <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="video/video-1.mp4" playsinline loop autoplay muted disablePictureInPicture></video>
+                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
                 </div>
               </div>
             </div>

@@ -127,6 +127,9 @@
   .banner .banner-num{
     padding-top: 25%;
   }
+  .logo-group a{
+    max-width: fit-content;
+  }
 }
 
 @media(max-width: 767px) {
@@ -160,8 +163,9 @@
     margin: 0;
     margin-top: 20px;
     padding: 0 15px;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow-y: auto;
   }
 
   .logo-group a {

@@ -101,36 +101,36 @@ export const styles = () => {
       })
     ))
     .pipe(scss({
-      // outputStyle: "compressed"
-      outputStyle: "expanded"
+      outputStyle: "compressed"
+      //outputStyle: "expanded"
     }))
     .pipe(autoprefixer({
       overrideBrowserslist: ['last 2 versions'],
       cascade: true,
       grid: true
     }))
-    .pipe(cleanCss({
-      format: {
-        breaks: {
-          afterAtRule: 0,
-          afterBlockBegins: 1, // 1 is synonymous with `true`
-          afterBlockEnds: 2,
-          afterComment: 1,
-          afterProperty: 0,
-          afterRuleBegins: 0,
-          afterRuleEnds: 1,
-          beforeBlockEnds: 1,
-          betweenSelectors: 1 // 0 is synonymous with `false`
-        },
-        spaces: { // controls where to insert spaces
-          aroundSelectorRelation: false, // controls if spaces come around selector relations; e.g. `div > a`; defaults to `false`
-          beforeBlockBegins: true, // controls if a space comes before a block begins; e.g. `.block {`; defaults to `false`
-          beforeValue: true // controls if a space comes before a value; e.g. `width: 1rem`; defaults to `false`
-        },
-        semicolonAfterLastProperty: true
-      },
-      level: 0
-    }))
+    // .pipe(cleanCss({
+    //   format: {
+    //     breaks: {
+    //       afterAtRule: 0,
+    //       afterBlockBegins: 1, // 1 is synonymous with `true`
+    //       afterBlockEnds: 2,
+    //       afterComment: 1,
+    //       afterProperty: 0,
+    //       afterRuleBegins: 0,
+    //       afterRuleEnds: 1,
+    //       beforeBlockEnds: 1,
+    //       betweenSelectors: 1 // 0 is synonymous with `false`
+    //     },
+    //     spaces: { // controls where to insert spaces
+    //       aroundSelectorRelation: false, // controls if spaces come around selector relations; e.g. `div > a`; defaults to `false`
+    //       beforeBlockBegins: true, // controls if a space comes before a block begins; e.g. `.block {`; defaults to `false`
+    //       beforeValue: true // controls if a space comes before a value; e.g. `width: 1rem`; defaults to `false`
+    //     },
+    //     semicolonAfterLastProperty: true
+    //   },
+    //   level: 0
+    // }))
     .pipe(gulp.dest('app/css/'))
     .pipe(gulp.dest('app/en/css/'))
     .pipe(browsersync.stream())
@@ -187,6 +187,7 @@ export const img = () => {
         ])
     )
     .pipe(gulp.dest('app/img/'))
+    .pipe(gulp.dest('app/en/img/'))
 }
 
 export const zip = () => {
