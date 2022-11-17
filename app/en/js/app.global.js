@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", function() {
     _functions.scrollCall();
   });
 
-  
+
   _functions.scrollCall = function() {
     winScr = window.scrollY;
 
@@ -281,14 +281,17 @@ document.addEventListener("DOMContentLoaded", function() {
       document.querySelector('html').classList.remove('overflow-menu');
       document.querySelector('header').classList.remove('open-menu');
       e.preventDefault();
-  
-      if (location.pathname.replace(/^\//, "") == this.pathname.replace(/^\//, "") && location.hostname == this.hostname){
+
+      if (location.pathname.replace(/^\//, "") == this.pathname.replace(/^\//, "") && location.hostname == this.hostname) {
         let target = this.hash;
         target = target.length ? target : $("[name=" + this.hash.slice(1) + "]");
         if (target.length) {
           const targetElement = document.getElementById(target.replace('#', ''));
           const position = window.pageYOffset + targetElement.getBoundingClientRect().top - headerHeight - 30;
-          window.scrollTo({top: position, behavior: 'smooth'});
+          window.scrollTo({
+            top: position,
+            behavior: 'smooth'
+          });
           return false;
         }
       } else {
@@ -633,20 +636,24 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Post Ajax
   _functions.postAjax = function(url, data, success) {
-      let params = typeof data == 'string' ? data : Object.keys(data).map(
-              function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
-          ).join('&');
-  
-      let xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+    let params = typeof data == 'string' ? data : Object.keys(data).map(
+      function(k) {
+        return encodeURIComponent(k) + '=' + encodeURIComponent(data[k])
+      }
+    ).join('&');
 
-      xhr.open('POST', url);
-      xhr.onreadystatechange = function() {
-          if (xhr.readyState>3 && xhr.status==200) { success(xhr.responseText); }
-      };
-      xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-      xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-      xhr.send(params);
-      return xhr;
+    let xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+
+    xhr.open('POST', url);
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState > 3 && xhr.status == 200) {
+        success(xhr.responseText);
+      }
+    };
+    xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.send(params);
+    return xhr;
   }
 
   // Validate email
@@ -667,7 +674,7 @@ document.addEventListener("DOMContentLoaded", function() {
         return false;
       }
 
-      _functions.postAjax('ContactForm.php', _functions.getFormValue(form), function(data){ 
+      _functions.postAjax('ContactForm.php', _functions.getFormValue(form), function(data) {
         form.reset();
         _functions.openPopup('.popup-content[data-rel="1"]');
         return false;
@@ -746,6 +753,14 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
+  if (document.querySelector(".ContactForm")) {
+    window.addEventListener("load", async () => {
+      try {
+        await _functions.loadFileAsync("https://www.google.com/recaptcha/api.js?render=6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c");
+      } catch (err) {} finally {}
+    });
+  }
+
   //dynamic load video
   _functions.loadSrc = (block, src) => {
     return new Promise((resolve, reject) => {
@@ -767,5 +782,55 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
-  
+
+
+  //*=====================
+  //* 10 Recaptcha       =
+  //*=====================
+
+  var _recaptcha = {
+    sitekey: '6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c',
+    actions: {
+      homepage: 'homepage',
+      contactform: 'ContactForm',
+    },
+    execute: function(action) {
+      grecaptcha.execute(_recaptcha.sitekey, {
+        action: action
+      }).then(function(token) {
+        var event = new CustomEvent('grecaptchaexecuted', {
+          detail: {
+            action: action,
+            token: token,
+          },
+        });
+        document.dispatchEvent(event);
+      });
+    },
+    execute_on_homepage: function() {
+      _recaptcha.execute(_recaptcha.actions['homepage']);
+    },
+    execute_on_contactform: function() {
+      _recaptcha.execute(_recaptcha.actions['ContactForm']);
+    }
+  };
+
+  document.addEventListener('DOMContentLoaded', function(event) {
+    grecaptcha.ready(_recaptcha.execute_on_homepage);
+  });
+
+  document.addEventListener('change', _recaptcha.execute_on_contactform);
+
+  document.addEventListener('grecaptchaexecuted', function(event) {
+    var fields = document.querySelectorAll(".ContactForm input[name='g-recaptcha-response']");
+
+    for (var i = 0; i < fields.length; i++) {
+      var field = fields[i];
+      field.setAttribute('value', event.detail.token);
+    }
+  });
+
+  _recaptcha.execute_on_homepage();
+
+
 });

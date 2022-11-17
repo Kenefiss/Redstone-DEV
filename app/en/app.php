@@ -109,7 +109,7 @@
                   <span>#aws</span>
                 </div>
                 <div class="case-desc text">
-                  We developed a closed CRM system for exclusive cars dealer. 
+                  We developed a closed CRM system for exclusive cars dealer.
                 </div>
               </div>
             </div>
@@ -213,7 +213,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  We created a website for the leading construction company in Czech republic. 
+                  We created a website for the leading construction company in Czech republic.
                 </div>
               </div>
             </div>
@@ -495,9 +495,9 @@
                   <span>#HTML5</span>
                   <span>#CSS3</span>
                   <span>#aws</span>
-                </div> 
+                </div>
                 <div class="case-desc text">
-                  We created a creative and minimalistic marketing website for  the custom and exclusive mirrors factory.
+                  We created a creative and minimalistic marketing website for the custom and exclusive mirrors factory.
                 </div>
               </div>
             </div>
@@ -612,7 +612,7 @@
                     <img class="icon" src="img/nda.svg" alt>
                     <div class="text">This project has a Non-Disclosure Agreement.</div>
                   </div>
-                  <img src="img/case-25.png" loading="lazy" alt="">
+                  <img src="img/SoundSence.svg" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Soundsence</div>
                 <div class="case-tags">
@@ -641,7 +641,7 @@
                   <span>#D3.js</span>
                 </div>
                 <div class="case-desc text">
-                  Solution for real-time equipment monitoring for famous service provider. 
+                  Solution for real-time equipment monitoring for famous service provider.
                 </div>
               </div>
             </div>
@@ -652,7 +652,7 @@
                     <img class="icon" src="img/nda.svg" alt>
                     <div class="text">This project has a Non-Disclosure Agreement.</div>
                   </div>
-                  <img src="img/case-27.png" loading="lazy" alt="">
+                  <img src="img/Cohflow.svg" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Cohflow</div>
                 <div class="case-tags">
@@ -691,7 +691,7 @@
                     <img class="icon" src="img/nda.svg" alt>
                     <div class="text">This project has a Non-Disclosure Agreement.</div>
                   </div>
-                  <img src="img/case-29.png" loading="lazy" alt="">
+                  <img src="img/Longsong.svg" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Longsong</div>
                 <div class="case-tags">
@@ -730,7 +730,7 @@
                     <img class="icon" src="img/nda.svg" alt>
                     <div class="text">This project has a Non-Disclosure Agreement.</div>
                   </div>
-                  <img src="img/case-31.png" loading="lazy" alt="">
+                  <img src="img/Clip-clop.svg" loading="lazy" alt="">
                 </div>
                 <div class="case-title title h5">Clip-Clop</div>
                 <div class="case-tags">
@@ -809,7 +809,7 @@
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80">
+              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
                 <div class="video">
                   <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
                 </div>

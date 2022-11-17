@@ -19,7 +19,9 @@
           </a>
           <a class="btn-link" href="https://clutch.co/profile/redstone?page=1#reviews" target="_blank" rel="nofollow">
             View all
-            <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 11L6 6L1 1" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+            <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M1 11L6 6L1 1" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
           </a>
         </div>
       </div>
@@ -30,24 +32,24 @@
               <div class="col-md-4 swiper-slide">
                 <div class="review-block">
                   <div class="review-info">
-                    <div class="review-quote"><img src="img/review-cl-1.jpg" alt="" loading="lazy"></div>
-                    <a class="review-title" href="https://clutch.co/profile/redstone#review-2035942" rel="nofollow" target="_blank">Matthew Spuffard</a>
-                    <div class="review-category">CEO, BaseOne</div>
+                    <div class="review-quote"><img src="img/review-cl-3.jpg" alt=""></div>
+                    <a class="review-title" href="https://clutch.co/profile/redstone?sort_by=rating_DESC&project_cost=&service_provided=&review_type=#reviews">Kevin Watson</a>
+                    <div class="review-category">Proprietor, MyResto</div>
                   </div>
                   <div class="review-content">
                     <div class="rating">
                       <img src="img/start-icon.svg" loading="lazy" alt="">
                       <img src="img/start-icon.svg" loading="lazy" alt="">
-                      <img src="img/start-icon.svg" loading="lazy" alt=""> 
+                      <img src="img/start-icon.svg" loading="lazy" alt="">
                       <img src="img/start-icon.svg" loading="lazy" alt="">
                       <img src="img/start-icon.svg" loading="lazy" alt="">
                     </div>
                     <div class="text">
-                      <p>"Their ability to adapt to demand and process change and provide solutions was outstanding!"</p>
+                      <p>"I was impressed with REDSTONE's quick turnaround time."</p>
                     </div>
                     <div class="review-price-block text">
                       <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>
-                      <div class="verify-price"><img src="img/price-icon.svg" loading="lazy" alt="price icon">Less than $ 10,000</div>
+                      <div class="verify-price"><img src="img/price-icon.svg" loading="lazy" alt="price icon">More than $ 100,000</div>
                     </div>
                   </div>
                 </div>
@@ -80,10 +82,9 @@
               <div class="col-md-4 swiper-slide">
                 <div class="review-block">
                   <div class="review-info">
-                    <div class="review-quote"><img src="img/review-cl-3.jpg" alt=""></div>
-                    <div class="review-title">Kevin Watson</div>
-                    <div class="review-category">Project Manager, Venture Capital Startup
-                    </div>
+                    <div class="review-quote"><img src="img/review-cl-1.jpg" alt="" loading="lazy"></div>
+                    <a class="review-title" href="https://clutch.co/profile/redstone#reviews" rel="nofollow" target="_blank">Matthew Spuffard</a>
+                    <div class="review-category">CEO, BaseOne</div>
                   </div>
                   <div class="review-content">
                     <div class="rating">
@@ -93,8 +94,8 @@
                       <img src="img/start-icon.svg" loading="lazy" alt="">
                       <img src="img/start-icon.svg" loading="lazy" alt="">
                     </div>
-                    <div class="text"> 
-                      <p>"Their quick turnaround time was impressive."</p>
+                    <div class="text">
+                      <p>"Their ability to adapt to demand and process change and provide solutions was outstanding!"</p>
                     </div>
                     <div class="review-price-block text">
                       <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

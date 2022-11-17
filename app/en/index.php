@@ -252,6 +252,7 @@
               <div class="ml-80 animate-item fadeInUp delay-1">
                 <div class="title h5 fw-500 d-none d-xl-block">Tell us about your idea, and we will offer a solution. Leave an application and we will start!</div>
                 <form method="post" class="ContactForm" id="ContactForm">
+                  <input type="hidden" name="g-recaptcha-response" value="">
                   <div class="form-block">
                     <div class="input-field-wrapper w-50">
                       <input class="input" placeholder="Your name" type="text" name="name">
@@ -307,7 +308,7 @@
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
             <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80">
+              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
                 <div class="video">
                   <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
                 </div>
