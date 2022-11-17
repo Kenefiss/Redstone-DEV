@@ -40,7 +40,7 @@
         </div>
       </div>
       <div class="contact-item">
-        <div class="contact-caption">Wrocław</div>
+        <div class="contact-caption">Poland</div>
         <div class="contact-info">
           <div class="contact-info-title">Address:</div>
           <div class="contact-info-list">
@@ -60,7 +60,7 @@
         </div>
       </div>
       <div class="contact-item">
-        <div class="contact-caption">Lviv</div>
+        <div class="contact-caption">Ukraine</div>
         <div class="contact-info">
           <div class="contact-info-title">Address:</div>
           <div class="contact-info-list">
@@ -80,7 +80,7 @@
         </div>
       </div>
       <div class="contact-item">
-        <div class="contact-caption">Kyiv</div>
+        <div class="contact-caption">Ukraine</div>
         <div class="contact-info">
           <div class="contact-info-title">Address:</div>
           <div class="contact-info-list">
