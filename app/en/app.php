@@ -135,10 +135,10 @@
             <div class="col-12 col-md-6 col-lg-4 _web">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
-                  <div class="top-info clutch">
+                  <a class="top-info clutch" href="https://clutch.co/profile/redstone?project_cost=&review_type=&service_provided=&sort_by=date_DESC#review-2035942" target="_blank" rel="nofollow">
                     <img class="icon" src="img/clutch.svg" alt>
                     <div class="text">This project has verified testimonial on Clutch.</div>
-                  </div>
+                  </a>
                   <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-3.png" loading="lazy" alt="">
                 </div>
@@ -174,6 +174,10 @@
             <div class="col-12 col-md-6 col-lg-4 _website">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
+                  <a class="top-info awwards" href="https://www.awwwards.com/sites/bilo" target="_blank" rel="nofollow">
+                    <img class="icon" src="img/awwards.svg" alt>
+                    <div class="text">This is an awards nominee project.</div>
+                  </a>
                   <a class="full-link" href="https://www.bilo.ua/en/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-5.png" loading="lazy" alt="">
                 </div>
@@ -193,10 +197,10 @@
             <div class="col-12 col-md-6 col-lg-4 _website">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
-                  <div class="top-info clutch">
+                  <a class="top-info clutch" href="https://clutch.co/profile/redstone?page=1#review-1982687" target="_blank" rel="nofollow">
                     <img class="icon" src="img/clutch.svg" alt>
                     <div class="text">This project has verified testimonial on Clutch.</div>
-                  </div>
+                  </a>
                   <a class="full-link" href="https://bobox.cz/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-6.png" loading="lazy" alt="">
                 </div>
@@ -356,10 +360,10 @@
             <div class="col-12 col-md-6 col-lg-4 _e-сommerce">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
-                  <div class="top-info awwards">
+                  <a class="top-info awwards" href="https://www.awwwards.com/sites/m-vision-clinic" target="_blank" rel="nofollow">
                     <img class="icon" src="img/awwards.svg" alt>
                     <div class="text">This is an awards nominee project.</div>
-                  </div>
+                  </a>
                   <a class="full-link" href="https://mvision.pro/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-14.png" loading="lazy" alt="">
                 </div>
@@ -379,10 +383,10 @@
             <div class="col-12 col-md-6 col-lg-4 _website">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
-                  <div class="top-info clutch">
+                  <a class="top-info clutch" href="https://clutch.co/profile/redstone?page=1&project_cost=&review_type=&service_provided=&sort_by=date_DESC#review-1560968" target="_blank" rel="nofollow">
                     <img class="icon" src="img/clutch.svg" alt>
                     <div class="text">This project has verified testimonial on Clutch.</div>
-                  </div>
+                  </a>
                   <a class="full-link" href="https://www.peeklogic.com/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-15.png" loading="lazy" alt="">
                 </div>
@@ -459,6 +463,10 @@
             <div class="col-12 col-md-6 col-lg-4 _website">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
+                  <a class="top-info awwards" href="https://www.awwwards.com/sites/redstone" target="_blank" rel="nofollow">
+                    <img class="icon" src="img/awwards.svg" alt>
+                    <div class="text">This is an awards nominee project.</div>
+                  </a>
                   <a class="full-link" href="https://redstone.studio/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-19.png" loading="lazy" alt="">
                 </div>

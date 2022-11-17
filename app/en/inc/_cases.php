@@ -89,10 +89,10 @@
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
-                  <div class="top-info clutch">
+                  <a class="top-info clutch" href="https://clutch.co/profile/redstone?project_cost=&review_type=&service_provided=&sort_by=date_DESC#review-2035942" target="_blank" rel="nofollow">
                     <img class="icon" src="img/clutch.svg" alt>
                     <div class="text">This project has verified testimonial on Clutch.</div>
-                  </div>
+                  </a>
                   <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
                   <img src="img/p-img-3.png" loading="lazy" alt="">
                 </div>
