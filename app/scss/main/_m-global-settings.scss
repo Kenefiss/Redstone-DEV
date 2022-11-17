@@ -81,13 +81,13 @@ html.overflow-visible #content-block {
 }
 
 main>.section:first-child:not(.banner),
-main>.section.sec-breadcrumbs:first-child + .section{
+main>.section.sec-breadcrumbs:first-child+.section {
   margin-top: 100px;
 }
 
 main>.section.sec-breadcrumbs:first-child,
-main>.section.sec-breadcrumbs:first-child + .section.project-banner{
-  margin-top:0;
+main>.section.sec-breadcrumbs:first-child+.section.project-banner {
+  margin-top: 0;
 }
 
 .section {
@@ -171,6 +171,7 @@ main>.section.sec-breadcrumbs:first-child + .section.project-banner{
     max-width: 1600px;
   }
 }
+
 @media (min-width: 2000px) {
   .container {
     max-width: 88%;
@@ -188,19 +189,19 @@ main>.section.sec-breadcrumbs:first-child + .section.project-banner{
   }
 
   main>.section:first-child:not(.banner),
-  main>.section.sec-breadcrumbs:first-child + .section{
+  main>.section.sec-breadcrumbs:first-child+.section {
     margin-top: 70px;
   }
-  
-  main>.section.sec-breadcrumbs:first-child{
-    margin-top:0;
+
+  main>.section.sec-breadcrumbs:first-child {
+    margin-top: 0;
   }
-  
+
 }
 
 @media (max-width: 1560px) {
   :root {
-    --h-1: 62px;
+    --h-1: 60px;
     --h-2: 42px;
     --h-3: 34px;
     --h-4: 30px;
@@ -272,12 +273,12 @@ main>.section.sec-breadcrumbs:first-child + .section.project-banner{
   }
 
   main>.section:first-child:not(.banner),
-  main>.section.sec-breadcrumbs:first-child + .section{
+  main>.section.sec-breadcrumbs:first-child+.section {
     margin-top: 30px;
   }
-  
-  main>.section.sec-breadcrumbs:first-child{
-    margin-top:0;
+
+  main>.section.sec-breadcrumbs:first-child {
+    margin-top: 0;
   }
 
 }
