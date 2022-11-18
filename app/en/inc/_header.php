@@ -17,7 +17,7 @@
           <li><a href="portfolio.php">Case Studies</a></li>
           <li><a href="app.php
           ">АРР</a></li>
-          <li><a href="#footer" class="hash">Contacts</a></li>
+          <li><a href="contact.php" class="hash">Contacts</a></li>
         </ul>
       </nav>
       <div class="header-wrap-right">
@@ -85,8 +85,9 @@
                   <!-- <li><a href="#">Blog</a></li> -->
                   <!-- hide on phase 1 -->
 
-                  <li><a href="index.php#en-reviews" class="hash">Reviews</a></li>
-                  <li class="menu-close"><a href="#footer">Contacts</a></li>
+                  <li><a href="review.php" class="hash">Reviews</a></li>
+                  <li><a href="about.php" class="hash">About</a></li>
+                  <li class="menu-close"><a href="contact.php">Contacts</a></li>
                 </ul>
               </nav>
               <div class="social">

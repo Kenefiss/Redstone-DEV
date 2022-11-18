@@ -14,7 +14,7 @@
                 <img src="img/start-icon.svg" loading="lazy" alt="">
                 <img src="img/start-icon.svg" loading="lazy" alt="">
               </div>
-              <div class="general-review">21 reviews</div>
+              <div class="general-review">22 reviews</div>
             </div>
           </a>
           <a class="btn-link" href="https://clutch.co/profile/redstone?page=1#reviews" target="_blank" rel="nofollow">
@@ -33,7 +33,7 @@
                 <div class="review-block">
                   <div class="review-info">
                     <div class="review-quote"><img src="img/review-cl-3.jpg" alt=""></div>
-                    <a class="review-title" href="https://clutch.co/profile/redstone?sort_by=rating_DESC&project_cost=&service_provided=&review_type=#reviews">Kevin Watson</a>
+                    <a class="review-title" href="https://clutch.co/profile/redstone?sort_by=rating_DESC&project_cost=&service_provided=&review_type=#reviews" rel="nofollow" target="_blank">Kevin Watson</a>
                     <div class="review-category">Proprietor, MyResto</div>
                   </div>
                   <div class="review-content">

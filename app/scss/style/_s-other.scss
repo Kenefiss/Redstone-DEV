@@ -99,8 +99,8 @@
 .map-img.position-2{top:20%;}
 .address{position: relative;margin-bottom:80px;}
 .address h5{margin-bottom: 20px;font-weight: 500;}
-.address table{font-size: 18px;line-height: 1.8;font-weight: 300;}
-.address table td:first-child{width: 28%;color: var(--clr-plc);}
+.address table{font-size: 18px;line-height: 1.6;font-weight: 300;}
+.address table td:first-child{width: 28%;color: var(--clr-plc);vertical-align:top;}
 .address table td:last-child{color: var(--clr-title);font-weight: 400;}
 /*media*/
 @media(min-width:1200px){

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="uk">
+<html lang="en">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -63,6 +63,22 @@
                 <!-- <div class="col-12 d-xl-none h2 text-center year-mobile"><span>2019</span></div> -->
                 <div class="col-md-6 col-lg-4 col-xl-3">
                   <div class="award-item">
+                    <div class="award-title">Base1</div>
+                    <div class="award-subtitle">Base1 - AWWWARDS HONORS</div>
+                    <div class="award-img">
+                      <a href="https://www.awwwards.com/sites/base1-1" rel="nofollow" target="_blank">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-img-19.webp" type="image/webp">
+                          <source srcset="img/award-img-19.png" type="image/png">
+                          <img src="img/award-img-19.png" alt="">
+                        </picture>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3">
+                  <div class="award-item">
                     <div class="award-title">REDSTONE CSS RELL</div>
                     <div class="award-subtitle">REDSTONE - Featured of the day</div>
                     <div class="award-img">
@@ -79,22 +95,6 @@
                 </div>
                 <div class="col-md-6 col-lg-4 col-xl-3">
                   <div class="award-item">
-                    <div class="award-title">REDSTONE</div>
-                    <div class="award-subtitle">REDSTONE - AWWWARDS HONORS</div>
-                    <div class="award-img">
-                      <a href="https://www.awwwards.com/REDSTONE/" rel="nofollow" target="_blank">
-                        <span class="review-btn"><i class="review-icon"></i></span>
-                        <picture>
-                          <source srcset="img/award-img-9.webp" type="image/webp">
-                          <source srcset="img/award-img-9.png" type="image/png">
-                          <img src="img/award-img-9.png" alt="">
-                        </picture>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3">
-                  <div class="award-item">
                     <div class="award-title">Bilo</div>
                     <div class="award-subtitle">Bilo - AWWWARDS HONORS</div>
                     <div class="award-img">
@@ -104,6 +104,22 @@
                           <source srcset="img/award-img-10.webp" type="image/webp">
                           <source srcset="img/award-img-10.png" type="image/png">
                           <img src="img/award-img-10.png" alt="">
+                        </picture>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3">
+                  <div class="award-item">
+                    <div class="award-title">REDSTONE</div>
+                    <div class="award-subtitle">REDSTONE - AWWWARDS HONORS</div>
+                    <div class="award-img">
+                      <a href="https://www.awwwards.com/REDSTONE/" rel="nofollow" target="_blank">
+                        <span class="review-btn"><i class="review-icon"></i></span>
+                        <picture>
+                          <source srcset="img/award-img-9.webp" type="image/webp">
+                          <source srcset="img/award-img-9.png" type="image/png">
+                          <img src="img/award-img-9.png" alt="">
                         </picture>
                       </a>
                     </div>

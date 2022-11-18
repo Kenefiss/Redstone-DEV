@@ -12,9 +12,10 @@
       <div class="footer-links">
         <ul>
           <li><a href="awards.php">Awards</a></li>
+          <li><a href="about.php">About</a></li>
           <li><a href="portfolio.php">Case Studies</a></li>
-          <li><a href="index.php#en-reviews" class="hash">Reviews</a></li>
-          <li><a href="#footer">Contacts</a></li>
+          <li><a href="review.php">Reviews</a></li>
+          <li><a href="contact.php">Contacts</a></li>
         </ul>
       </div>
     </div>
