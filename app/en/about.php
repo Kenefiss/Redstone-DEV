@@ -40,7 +40,7 @@
                 <div class="text">Discover an award-winning web studio in Ukraine. Our Ukrainian team uses advanced web designs, web development, branding, digital marketing, e-commerce.</div>
               </div>
               <div class="video-block review-img">
-                <img src="img/video-preview.jpg" loading="lazy" alt="">
+                <img src="img/video-preview.png" loading="lazy" alt="">
               </div>
             </div>
           </div>
