@@ -205,4 +205,12 @@
   .logo-group a:nth-child(1) {
     max-width: fit-content;
   }
+
+  .banner-num {
+    max-height: 254px;
+
+    .num {
+      font-size: 54px;
+    }
+  }
 }

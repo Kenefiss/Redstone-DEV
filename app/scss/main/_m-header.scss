@@ -34,7 +34,8 @@ header {
   padding-block: 8px;
   transition: transform var(--transition-1);
 
-  &.hide-informer,&.hide {
+  &.hide-informer,
+  &.hide {
     transform: translateY(100%);
   }
 
@@ -179,6 +180,7 @@ header {
 }
 
 .burger-word {
+  min-width: 60px;
   margin-left: 20px;
   margin-top: 3px;
   font-weight: 400;

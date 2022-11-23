@@ -165,7 +165,7 @@
   </div>
 
 
-  <div class="popup-wrapper" id="popups"></div>
+  <?php include 'inc/_popups.php';?>
   <?php include 'inc/_bottom.php';?>
 </body>
 

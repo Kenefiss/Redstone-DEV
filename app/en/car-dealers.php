@@ -47,7 +47,7 @@
                     <li><a data-filter="._app" href="app.php">APP</a></li>
                     <li><a data-filter="._mvp" href="mvp.php">MVP</a></li>
                     <li><a data-filter="._e-сommerce" href="e-commerce.php">E - Commerce</a></li>
-                    <li><a class="active" data-filter="._car-dealers" href="car-dealers.php">Car Dealers</a></li>
+                    <li><a data-filter="._car-dealers" href="car-dealers.php" class="active">Car Dealers</a></li>
                     <li><a data-filter="._branding" href="branding.php">Branding</a></li>
                     <li><a data-filter="._website" href="website.php">Website</a></li>
                   </ul>

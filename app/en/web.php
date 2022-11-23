@@ -43,7 +43,7 @@
                 <nav class="sort-nav">
                   <ul>
                     <li><a data-filter="*" href="portfolio.php">All</a></li>
-                    <li><a class="active" data-filter="._web" href="web.php ">Web Solutions</a></li>
+                    <li><a data-filter="._web" href="web.php " class="active">Web Solutions</a></li>
                     <li><a data-filter="._app" href="app.php">APP</a></li>
                     <li><a data-filter="._mvp" href="mvp.php">MVP</a></li>
                     <li><a data-filter="._e-сommerce" href="e-commerce.php">E - Commerce</a></li>
