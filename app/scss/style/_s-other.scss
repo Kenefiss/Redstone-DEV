@@ -316,7 +316,8 @@
 
 /*contacts*/
 .map-img.position-2 {
-  top: 20%;
+  top: auto;
+  bottom: 15%;
 }
 
 .address {
@@ -336,7 +337,8 @@
 }
 
 .address table td:first-child {
-  width: 28%;
+  min-width: 100px;
+  max-width: 100px;
   color: var(--clr-plc);
   vertical-align: top;
 }
@@ -364,5 +366,17 @@
 
   .address table td:first-child {
     width: 100px;
+  }
+}
+@media(max-width:767px){
+  .address {
+    margin-bottom: 30px;
+  }
+  .address table{
+    font-size:16px;
+  }
+  .address table td:first-child {
+    width: 70px;
+    min-width: 70px;
   }
 }

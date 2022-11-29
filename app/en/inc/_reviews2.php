@@ -14,7 +14,7 @@
                 <img src="img/start-icon.svg" loading="lazy" alt="">
                 <img src="img/start-icon.svg" loading="lazy" alt="">
               </div>
-              <div class="general-review">22 reviews</div>
+              <div class="general-review">23 reviews</div>
             </div>
           </a>
           <a class="btn-link" href="https://clutch.co/profile/redstone?page=1#reviews" target="_blank" rel="nofollow">
@@ -31,6 +31,7 @@
             <div class="swiper-wrapper row">
               <div class="col-md-4 swiper-slide">
                 <div class="review-block">
+                  <a class="full-link" href="https://clutch.co/profile/redstone?sort_by=rating_DESC&project_cost=&service_provided=&review_type=#reviews" rel="nofollow" target="_blank"></a>
                   <div class="review-info">
                     <div class="review-quote"><img src="img/review-cl-3.jpg" alt=""></div>
                     <a class="review-title" href="https://clutch.co/profile/redstone?sort_by=rating_DESC&project_cost=&service_provided=&review_type=#reviews" rel="nofollow" target="_blank">Kevin Watson</a>
@@ -56,6 +57,7 @@
               </div>
               <div class="col-md-4 swiper-slide">
                 <div class="review-block">
+                  <a class="full-link" href="https://clutch.co/profile/redstone?page=1#review-1560968" rel="nofollow" target="_blank"></a>
                   <div class="review-info">
                     <div class="review-quote"><img src="img/review-cl-2.jpg" alt=""></div>
                     <a class="review-title" href="https://clutch.co/profile/redstone?page=1#review-1560968" rel="nofollow" target="_blank">Sergii Grushai</a>
@@ -81,6 +83,7 @@
               </div>
               <div class="col-md-4 swiper-slide">
                 <div class="review-block">
+                  <a class="full-link" href="https://clutch.co/profile/redstone#reviews" rel="nofollow" target="_blank"></a>
                   <div class="review-info">
                     <div class="review-quote"><img src="img/review-cl-1.jpg" alt="" loading="lazy"></div>
                     <a class="review-title" href="https://clutch.co/profile/redstone#reviews" rel="nofollow" target="_blank">Matthew Spuffard</a>

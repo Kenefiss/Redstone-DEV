@@ -48,7 +48,7 @@
             </div>
           </div>
           <div class="row animate-item fadeInUp">
-            <div class="col-12 col-md-6 col-xl-3">
+            <div class="col-12 col-md-6">
               <div class="address">
                 <h5>United Kingdom</h5>
                 <table>
@@ -67,7 +67,7 @@
                 </table>
               </div>
             </div>
-            <div class="col-12 col-md-6 col-xl-3">
+            <div class="col-12 col-md-6">
               <div class="address">
                 <h5>Poland</h5>
                 <table>
@@ -86,7 +86,7 @@
                 </table>
               </div>
             </div>
-            <div class="col-12 col-md-6 col-xl-3">
+            <div class="col-12 col-md-6">
               <div class="address">
                 <h5>Ukraine</h5>
                 <table>
@@ -105,7 +105,7 @@
                 </table>
               </div>
             </div>
-            <div class="col-12 col-md-6 col-xl-3">
+            <div class="col-12 col-md-6">
               <div class="address">
                 <h5>Ukraine</h5>
                 <table>
