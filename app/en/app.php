@@ -155,6 +155,25 @@
                 </div>
               </div>
             </div>
+            <div class="col-12 col-md-6 col-lg-4 _website">
+              <div class="case-item animate-item fadeInUp">
+                <div class="case-img contain-link">
+                  <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+                  <img src="img/p-img-28.png" loading="lazy" alt="">
+                </div>
+                <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+                <div class="case-tags">
+                  <span>#WordPress</span>
+                  <span>#Javascript</span>
+                  <span>#HTML5</span>
+                  <span>#PHP</span>
+                  <span>#CSS3</span>
+                </div>
+                <div class="case-desc text">
+                  We created a landing page for famous online food-ordering platform in United Kingdom.
+                </div>
+              </div>
+            </div>
             <div class="col-12 col-md-6 col-lg-4 _car-dealers">
               <div class="case-item animate-item fadeInUp">
                 <div class="case-img contain-link">
@@ -268,13 +287,11 @@
                   </div>
                   <img src="img/p-img-9.png" loading="lazy" alt="">
                 </div>
-                <div class="case-title title h5">MyResto</div>
+                <div class="case-title title h5">MyResto App</div>
                 <div class="case-tags">
+                  <span>#Angular</span>
+                  <span>#Ionic</span>
                   <span>#WordPress</span>
-                  <span>#Javascript</span>
-                  <span>#HTML5</span>
-                  <span>#PHP</span>
-                  <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
                   We worked on a mobile app for the food delivery service in United Kingdom.
