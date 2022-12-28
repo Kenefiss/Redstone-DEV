@@ -36,10 +36,14 @@
   margin: 0;
 }
 
-.video-block.review-img{
+.video-block.review-img {
   position: relative;
   opacity: 1;
   visibility: visible;
+
+  img {
+    content-visibility: unset;
+  }
 }
 
 .video-block img {
@@ -93,7 +97,6 @@
 
 .review-title {
   position: relative;
-  z-index:2;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -171,25 +174,27 @@
   min-height: 56px;
 }
 
-.reviews-slider.type2 .review-price-block{
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  margin-top:20px;
-  line-height:1;
+.reviews-slider.type2 .review-price-block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  line-height: 1;
 }
-.reviews-slider.type2 .review-price-block>*{
-  margin-top:0;
+
+.reviews-slider.type2 .review-price-block>* {
+  margin-top: 0;
   display: flex;
   align-items: center;
   line-height: 1;
 }
-.reviews-slider.type2 .review-price-block>* img{
-  vertical-align:top;
-  font-size:0;
-  margin-right:10px;
-  width:20px;
-  height:20px;
+
+.reviews-slider.type2 .review-price-block>* img {
+  vertical-align: top;
+  font-size: 0;
+  margin-right: 10px;
+  width: 20px;
+  height: 20px;
   margin-bottom: 0;
   margin-top: -3px;
 }
@@ -264,12 +269,13 @@
   }
 }
 
-@media(min-width:992px) and (max-width:1199px){
-  .reviews-slider.type2 .review-price-block{
+@media(min-width:992px) and (max-width:1199px) {
+  .reviews-slider.type2 .review-price-block {
     display: block;
   }
-  .reviews-slider.type2 .review-price-block .verify-price{
-    margin-top:10px;
+
+  .reviews-slider.type2 .review-price-block .verify-price {
+    margin-top: 10px;
   }
 }
 
@@ -284,7 +290,8 @@
     opacity: 1;
     visibility: visible;
   }
-  .general-rating:hover .general-review{
+
+  .general-rating:hover .general-review {
     color: #ff3d2e;
   }
 
@@ -368,8 +375,9 @@
     flex-basis: auto;
     padding: 0;
   }
-  .reviews-slider.type2 .review-content .text:not(.review-price-block){
-    min-height:56px;
+
+  .reviews-slider.type2 .review-content .text:not(.review-price-block) {
+    min-height: 56px;
   }
 }
 
@@ -396,11 +404,11 @@
     padding-top: 15px;
   }
 
-  .reviews-slider.type2 .review-price-block{
-    margin-top:15px;
+  .reviews-slider.type2 .review-price-block {
+    margin-top: 15px;
   }
 
-  .reviews-slider.type2 .review-content .text:not(.review-price-block){
-    min-height:44px;
+  .reviews-slider.type2 .review-content .text:not(.review-price-block) {
+    min-height: 44px;
   }
 }

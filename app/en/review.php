@@ -31,16 +31,16 @@
       </div>
 
       <!-- REVIEWS -->
-      <?php include 'inc/_reviews2.php'; ?>
+      <?php include 'inc/sections/_reviews-2.php'; ?>
 
       <!-- CLIENTS -->
-      <?php include 'inc/_clients.php'; ?>
+      <?php include 'inc/sections/_clients.php'; ?>
 
       <!-- BRIEF -->
-      <?php include 'inc/_brief.php'; ?>
+      <?php include 'inc/sections/_brief.php'; ?>
 
       <!-- SEO -->
-      <?php include 'inc/_seo.php'; ?>
+      <?php include 'inc/sections/_seo.php'; ?>
 
     </main>
 

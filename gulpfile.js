@@ -26,6 +26,7 @@ import {
 } from './ftp-settings.js';
 
 
+// copy all
 const copyApp = () => {
   return gulp.src([
       'app/css/**/*.css',
@@ -45,6 +46,63 @@ const copyApp = () => {
     .pipe(gulp.dest(`build/${rootFolder}`));
 }
 
+const copyAppEn = () => {
+  return gulp.src([
+      'app/en/css/**/*.css',
+      'app/en/fonts/**/*',
+      'app/en/js/**/*.js',
+      'app/en/img/**/*.*',
+      'app/en/video/**/*.*',
+      'app/en/model/**/*.*',
+      'app/en/**/*.html',
+      'app/en/**/*.php',
+      'app/en/.htaccess',
+      'app/en/**/*.json',
+      'app/en/**/*.txt'
+    ], {
+      base: 'app/en'
+    })
+    .pipe(gulp.dest(`build/${rootFolder}`));
+}
+
+const copyAppPl = () => {
+  return gulp.src([
+      'app/pl/css/**/*.css',
+      'app/pl/fonts/**/*',
+      'app/pl/js/**/*.js',
+      'app/pl/img/**/*.*',
+      'app/pl/video/**/*.*',
+      'app/pl/model/**/*.*',
+      'app/pl/**/*.html',
+      'app/pl/**/*.php',
+      'app/pl/.htaccess',
+      'app/pl/**/*.json',
+      'app/pl/**/*.txt'
+    ], {
+      base: 'app/pl'
+    })
+    .pipe(gulp.dest(`build/${rootFolder}`));
+}
+
+const copyAppRu = () => {
+  return gulp.src([
+      'app/ru/css/**/*.css',
+      'app/ru/fonts/**/*',
+      'app/ru/js/**/*.js',
+      'app/ru/img/**/*.*',
+      'app/ru/video/**/*.*',
+      'app/ru/model/**/*.*',
+      'app/ru/**/*.html',
+      'app/ru/**/*.php',
+      'app/ru/.htaccess',
+      'app/ru/**/*.json',
+      'app/ru/**/*.txt'
+    ], {
+      base: 'app/ru'
+    })
+    .pipe(gulp.dest(`build/${rootFolder}`));
+}
+
 function startWatch() {
   gulp.watch('app/scss/**/*.scss', styles)
   gulp.watch(['app/js/**/*.js', '!app/js/**/*.min.js']).on('change', refresh)
@@ -54,7 +112,7 @@ function startWatch() {
 }
 
 export const cleanImg = () => {
-  return deleteAsync('images/**/*', {
+  return deleteAsync('{images/**/*,images-en/**/*,images-pl/**/*,images-ru/**/*}', {
     force: true
   })
 }
@@ -136,6 +194,7 @@ export const styles = () => {
     .pipe(browsersync.stream())
 }
 
+// not active 
 export const scripts = () => {
   return gulp.src([
       'node_modules/jquery/dist/jquery.min.js'
@@ -149,23 +208,14 @@ export const scripts = () => {
 }
 
 export const img = () => {
-  return gulp.src('images/**/*.{png,jpg}')
-    .pipe(plumber(
-      notify.onError({
-        title: "IMAGES",
-        message: "Error: <%= error.message %>"
-      })
-    ))
+  return gulp.src('images/**/*.{png,jpg,svg}')
     .pipe(newer('app/img/'))
-    .pipe(newer('app/en/img/'))
     .pipe(webp({
       quality: 50
     }))
     .pipe(gulp.dest('app/img/'))
-    .pipe(gulp.dest('app/en/img/'))
     .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
     .pipe(newer('app/img/'))
-    .pipe(newer('app/en/img/'))
     .pipe(
       imagemin({
           progressive: true,
@@ -187,7 +237,102 @@ export const img = () => {
         ])
     )
     .pipe(gulp.dest('app/img/'))
+}
+
+export const imgEn = () => {
+  return gulp.src('images-en/**/*.{png,jpg,svg}')
+    .pipe(newer('app/en/img/'))
+    .pipe(webp({
+      quality: 50
+    }))
     .pipe(gulp.dest('app/en/img/'))
+    .pipe(gulp.src('images-en/**/*.{png,jpg,svg}'))
+    .pipe(newer('app/en/img/'))
+    .pipe(
+      imagemin({
+          progressive: true,
+          svgoPlugins: [{
+            removeViewBox: false
+          }]
+        },
+        [
+          imageminJPG({
+            loops: 4,
+            min: 30,
+            max: 70,
+            quality: "medium",
+          }),
+          imageminPNG({
+            speed: 1,
+            floyd: 1,
+          }),
+        ])
+    )
+    .pipe(gulp.dest('app/en/img/'))
+}
+
+export const imgPl = () => {
+  return gulp.src('images/**/*.{png,jpg,svg}')
+    .pipe(newer('app/img/'))
+    .pipe(webp({
+      quality: 50
+    }))
+    .pipe(gulp.dest('app/img/'))
+    .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
+    .pipe(newer('app/img/'))
+    .pipe(
+      imagemin({
+          progressive: true,
+          svgoPlugins: [{
+            removeViewBox: false
+          }]
+        },
+        [
+          imageminJPG({
+            loops: 6,
+            min: 30,
+            max: 70,
+            quality: "medium",
+          }),
+          imageminPNG({
+            speed: 1,
+            floyd: 1,
+          }),
+        ])
+    )
+    .pipe(gulp.dest('app/img/'))
+}
+
+export const imgRu = () => {
+  return gulp.src('images/**/*.{png,jpg,svg}')
+    .pipe(newer('app/img/'))
+    .pipe(webp({
+      quality: 50
+    }))
+    .pipe(gulp.dest('app/img/'))
+    .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
+    .pipe(newer('app/img/'))
+    .pipe(
+      imagemin({
+          progressive: true,
+          svgoPlugins: [{
+            removeViewBox: false
+          }]
+        },
+        [
+          imageminJPG({
+            loops: 6,
+            min: 30,
+            max: 70,
+            quality: "medium",
+          }),
+          imageminPNG({
+            speed: 1,
+            floyd: 1,
+          }),
+        ])
+    )
+    .pipe(gulp.dest('app/img/'))
 }
 
 export const zip = () => {
@@ -219,8 +364,15 @@ export const ftp = () => {
     .pipe(ftpConnect.dest(`./`))
 }
 
+
 // gulp.task('build', gulp.series(cleanBuild, styles, scripts, img, copyApp, zip));
 // gulp.task('default', gulp.parallel(styles, scripts, img, server, startWatch));
 
-gulp.task('build', gulp.series(cleanBuild, styles, img, copyApp, zip));
-gulp.task('default', gulp.parallel(styles, img, server, startWatch));
+
+gulp.task('build-ru', gulp.series(cleanBuild, styles, imgRu, copyAppRu));
+gulp.task('build-pl', gulp.series(cleanBuild, styles, imgPl, copyAppPl));
+gulp.task('build-en', gulp.series(cleanBuild, styles, imgEn, copyAppEn));
+
+
+gulp.task('build', gulp.series(cleanBuild, styles, img, imgEn, copyApp));
+gulp.task('default', gulp.parallel(styles, img, imgEn, server, startWatch));

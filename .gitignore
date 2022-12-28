@@ -1,7 +1,10 @@
 node_modules/
 logs/
-build/
-images/
+build/*
+images/*
+images-en/*
+images-pl/*
+images-ru/*
 app/scss/bootstrap-grid.min.scss
 .DS_Store
 .AppleDouble

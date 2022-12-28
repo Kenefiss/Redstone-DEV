@@ -753,13 +753,13 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
-  if (document.querySelector(".ContactForm")) {
-    window.addEventListener("load", async () => {
-      try {
-        await _functions.loadFileAsync("https://www.google.com/recaptcha/api.js?render=6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c");
-      } catch (err) {} finally {}
-    });
-  }
+  // if (document.querySelector(".ContactForm")) {
+  //   window.addEventListener("load", async () => {
+  //     try {
+  //       await _functions.loadFileAsync("https://www.google.com/recaptcha/api.js?render=6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c");
+  //     } catch (err) {} finally {}
+  //   });
+  // }
 
   //dynamic load video
   _functions.loadSrc = (block, src) => {
@@ -788,49 +788,49 @@ document.addEventListener("DOMContentLoaded", function() {
   //* 10 Recaptcha       =
   //*=====================
 
-  var _recaptcha = {
-    sitekey: '6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c',
-    actions: {
-      homepage: 'homepage',
-      contactform: 'ContactForm',
-    },
-    execute: function(action) {
-      grecaptcha.execute(_recaptcha.sitekey, {
-        action: action
-      }).then(function(token) {
-        var event = new CustomEvent('grecaptchaexecuted', {
-          detail: {
-            action: action,
-            token: token,
-          },
-        });
-        document.dispatchEvent(event);
-      });
-    },
-    execute_on_homepage: function() {
-      _recaptcha.execute(_recaptcha.actions['homepage']);
-    },
-    execute_on_contactform: function() {
-      _recaptcha.execute(_recaptcha.actions['ContactForm']);
-    }
-  };
+  // var _recaptcha = {
+  //   sitekey: '6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c',
+  //   actions: {
+  //     homepage: 'homepage',
+  //     contactform: 'ContactForm',
+  //   },
+  //   execute: function(action) {
+  //     grecaptcha.execute(_recaptcha.sitekey, {
+  //       action: action
+  //     }).then(function(token) {
+  //       var event = new CustomEvent('grecaptchaexecuted', {
+  //         detail: {
+  //           action: action,
+  //           token: token,
+  //         },
+  //       });
+  //       document.dispatchEvent(event);
+  //     });
+  //   },
+  //   execute_on_homepage: function() {
+  //     _recaptcha.execute(_recaptcha.actions['homepage']);
+  //   },
+  //   execute_on_contactform: function() {
+  //     _recaptcha.execute(_recaptcha.actions['ContactForm']);
+  //   }
+  // };
 
-  document.addEventListener('DOMContentLoaded', function(event) {
-    grecaptcha.ready(_recaptcha.execute_on_homepage);
-  });
+  // document.addEventListener('DOMContentLoaded', function(event) {
+  //   grecaptcha.ready(_recaptcha.execute_on_homepage);
+  // });
 
-  document.addEventListener('change', _recaptcha.execute_on_contactform);
+  // document.addEventListener('change', _recaptcha.execute_on_contactform);
 
-  document.addEventListener('grecaptchaexecuted', function(event) {
-    var fields = document.querySelectorAll(".ContactForm input[name='g-recaptcha-response']");
+  // document.addEventListener('grecaptchaexecuted', function(event) {
+  //   var fields = document.querySelectorAll(".ContactForm input[name='g-recaptcha-response']");
 
-    for (var i = 0; i < fields.length; i++) {
-      var field = fields[i];
-      field.setAttribute('value', event.detail.token);
-    }
-  });
+  //   for (var i = 0; i < fields.length; i++) {
+  //     var field = fields[i];
+  //     field.setAttribute('value', event.detail.token);
+  //   }
+  // });
 
-  _recaptcha.execute_on_homepage();
+  // _recaptcha.execute_on_homepage();
 
 
 });
