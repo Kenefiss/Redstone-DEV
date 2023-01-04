@@ -31,7 +31,7 @@
             <div class="swiper-wrapper row">
               <div class="col-md-4 swiper-slide">
                 <div class="review-block">
-                  <a class="full-link" href="https://clutch.co/profile/redstone?sort_by=rating_DESC&project_cost=&service_provided=&review_type=#reviews" rel="nofollow" target="_blank"></a>
+                  <a class="full-link" href="https://clutch.co/profile/redstone?project_cost=&review_type=&service_provided=&sort_by=rating_DESC#review-2045865" rel="nofollow" target="_blank"></a>
                   <div class="review-info">
                     <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
                     <div class="review-title">Kevin Watson</div>
@@ -83,7 +83,7 @@
               </div>
               <div class="col-md-4 swiper-slide">
                 <div class="review-block">
-                  <a class="full-link" href="https://clutch.co/profile/redstone?project_cost=&review_type=&service_provided=&sort_by=date_DESC#reviews" rel="nofollow" target="_blank"></a>
+                  <a class="full-link" href="https://clutch.co/profile/redstone?project_cost=&review_type=&service_provided=&sort_by=date_DESC#review-2035942" rel="nofollow" target="_blank"></a>
                   <div class="review-info">
                     <div class="review-quote"><img src="img/reviews/review-cl-1.jpg" alt="" loading="lazy"></div>
                     <div class="review-title">Matthew Spuffard</div>

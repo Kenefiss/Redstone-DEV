@@ -49,6 +49,7 @@ const copyApp = () => {
 const copyAppEn = () => {
   return gulp.src([
       'app/en/css/**/*.css',
+      'app/en/documents/**/*.*',
       'app/en/fonts/**/*',
       'app/en/js/**/*.js',
       'app/en/img/**/*.*',
@@ -68,6 +69,7 @@ const copyAppEn = () => {
 const copyAppPl = () => {
   return gulp.src([
       'app/pl/css/**/*.css',
+      'app/pl/documents/**/*.*',
       'app/pl/fonts/**/*',
       'app/pl/js/**/*.js',
       'app/pl/img/**/*.*',
@@ -87,6 +89,7 @@ const copyAppPl = () => {
 const copyAppRu = () => {
   return gulp.src([
       'app/ru/css/**/*.css',
+      'app/ru/documents/**/*.*',
       'app/ru/fonts/**/*',
       'app/ru/js/**/*.js',
       'app/ru/img/**/*.*',
@@ -109,6 +112,9 @@ function startWatch() {
   gulp.watch('app/**/*.html').on('change', refresh)
   gulp.watch('app/**/*.php').on('change', refresh)
   gulp.watch('images/**/*', img)
+  gulp.watch('images-en/**/*', imgEn)
+  gulp.watch('images-pl/**/*', imgPl)
+  gulp.watch('images-ru/**/*', imgRu)
 }
 
 export const cleanImg = () => {
@@ -211,7 +217,7 @@ export const img = () => {
   return gulp.src('images/**/*.{png,jpg,svg}')
     .pipe(newer('app/img/'))
     .pipe(webp({
-      quality: 50
+      quality: 100
     }))
     .pipe(gulp.dest('app/img/'))
     .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
@@ -225,9 +231,9 @@ export const img = () => {
         },
         [
           imageminJPG({
-            loops: 6,
-            min: 30,
-            max: 70,
+            loops: 3,
+            min: 70,
+            max: 85,
             quality: "medium",
           }),
           imageminPNG({
@@ -243,7 +249,7 @@ export const imgEn = () => {
   return gulp.src('images-en/**/*.{png,jpg,svg}')
     .pipe(newer('app/en/img/'))
     .pipe(webp({
-      quality: 50
+      quality: 100
     }))
     .pipe(gulp.dest('app/en/img/'))
     .pipe(gulp.src('images-en/**/*.{png,jpg,svg}'))
@@ -257,9 +263,9 @@ export const imgEn = () => {
         },
         [
           imageminJPG({
-            loops: 4,
-            min: 30,
-            max: 70,
+            loops: 3,
+            min: 70,
+            max: 85,
             quality: "medium",
           }),
           imageminPNG({
@@ -275,7 +281,7 @@ export const imgPl = () => {
   return gulp.src('images/**/*.{png,jpg,svg}')
     .pipe(newer('app/img/'))
     .pipe(webp({
-      quality: 50
+      quality: 100
     }))
     .pipe(gulp.dest('app/img/'))
     .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
@@ -289,9 +295,9 @@ export const imgPl = () => {
         },
         [
           imageminJPG({
-            loops: 6,
-            min: 30,
-            max: 70,
+            loops: 3,
+            min: 70,
+            max: 85,
             quality: "medium",
           }),
           imageminPNG({
@@ -307,7 +313,7 @@ export const imgRu = () => {
   return gulp.src('images/**/*.{png,jpg,svg}')
     .pipe(newer('app/img/'))
     .pipe(webp({
-      quality: 50
+      quality: 100
     }))
     .pipe(gulp.dest('app/img/'))
     .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
@@ -321,9 +327,9 @@ export const imgRu = () => {
         },
         [
           imageminJPG({
-            loops: 6,
-            min: 30,
-            max: 70,
+            loops: 3,
+            min: 70,
+            max: 85,
             quality: "medium",
           }),
           imageminPNG({
