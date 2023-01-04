@@ -1,4 +1,4 @@
-<div class="section">
+<div class="section nav-section">
   <div class="container">
     <div class="row">
       <div class="col-12 col-xxl-8 offset-xxl-2">
