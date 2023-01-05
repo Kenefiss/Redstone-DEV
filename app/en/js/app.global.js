@@ -429,6 +429,65 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
+  const navigation = document.querySelector('.page-nav');
+
+  if (navigation) {
+    console.log('123')
+
+    let num = 0;
+    document.querySelectorAll('.nav-section').forEach(item => {
+      num++
+
+      item.setAttribute('id', 'nav-section-' + num);
+
+      let link = document.createElement("a");
+      link.classList.add('hash')
+      link.setAttribute('href', '#nav-section-' + num);
+      link.innerText = '0' + num
+
+
+      navigation.appendChild(link);
+    })
+
+    setTimeout(() => {
+      navigation.classList.add('is-active')
+    }, 500);
+
+
+    // scroll nav 
+    const navBlock = document.querySelectorAll('.nav-section');
+    let headerHeight = document.querySelector('header').offsetHeight + 50;
+
+    const obOptions = {
+      threshold: 0,
+      rootMargin: `-${headerHeight}px 0px`
+    };
+
+    const obFunction = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(entry => {
+
+        let section = entry.target;
+        let link = document.querySelector(`.page-nav a[href='#${section.id}']`);
+
+        if (entry.isIntersecting) {
+          link.classList.add('active')
+        } else {
+          link.classList.remove('active')
+        }
+      })
+
+    }, obOptions);
+
+    navBlock.forEach(block => {
+      obFunction.observe(block)
+    });
+
+
+  }
+
+
+
+
 
   //*============
   //* 06 POPUPS =

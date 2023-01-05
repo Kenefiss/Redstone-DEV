@@ -1,7 +1,35 @@
 /*--------------------*/
 /* - PROJECT HERO     */
 /*--------------------*/
-.page-nav {}
+.page-nav {
+  position: fixed;
+  z-index: 99;
+  left: 0;
+  top: 50%;
+  transform: translate(-100%, -50%);
+  padding-block: 25px;
+  background: #F8F8F8;
+  transition: var(--clr-grey3);
+
+  a {
+    display: block;
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--clr-grey5);
+
+    &.active {
+      color: var(--accent-clr);
+    }
+  }
+
+  &.is-active {
+    transform: translate(0%, -50%);
+  }
+}
 
 .prj-hero {
   .service-item {
@@ -102,8 +130,10 @@
 }
 
 @media(min-width:1200px) {
-  .text-lg-center {
-    text-align: center;
+  .page-nav {
+    a:hover {
+      text-decoration: underline;
+    }
   }
 }
 
@@ -160,6 +190,12 @@
 
   .prj-hero .service-item {
     margin-top: 15px;
+  }
+}
+
+@media(max-width:767px) {
+  .page-nav {
+    display: none;
   }
 }
 
