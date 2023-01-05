@@ -434,6 +434,11 @@ h6,
     text-decoration-color: currentColor;
   }
 }
+@media(min-width: 992px) {
+  .text-lg-center {
+    text-align: center;
+  }
+}
 
 @media(max-width: 1640px) {
   .title-with-text {

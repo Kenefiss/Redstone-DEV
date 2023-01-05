@@ -16,7 +16,6 @@
 
       <!-- PAGE NAV -->
       <div class="page-nav">
-        <ul></ul>
       </div>
 
       <!-- BREADCRUMBS  * -->
@@ -41,7 +40,7 @@
       </div>
 
       <!-- PROJECT HERO SECTION  * -->
-      <div class="section prj-hero">
+      <div class="section prj-hero nav-section">
 
         <div class="container">
           <div class="row justify-content-center">
@@ -103,7 +102,7 @@
       </div>
 
       <!-- PROJECT FEATURES * -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-11">
@@ -202,7 +201,7 @@
       </div>
 
       <!-- DEVICE SCREEN * -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-11">
@@ -304,7 +303,7 @@
       </div>
 
       <!-- SOLUTIONS * -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container-fluid">
           <div class="title-with-text">
             <div class="title h2 w-100 animate-item fadeInUp">
@@ -380,7 +379,7 @@
       </div>
 
       <!-- Tech used * -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-11">
@@ -422,7 +421,7 @@
       </div>
 
       <!-- Client testimonial -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-11">

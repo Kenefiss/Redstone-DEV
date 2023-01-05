@@ -31,6 +31,27 @@
   }
 }
 
+.project-icons{
+  position: fixed;
+  z-index: 99;
+  right: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  font-size:0;
+
+  a {
+    display: block;
+    width: 65px;
+    height: 65px;
+    line-height: 65px;
+    text-align: center;
+
+    &:not(:last-child) {
+      margin-bottom:30px;
+    }
+  }
+}
+
 .prj-hero {
   .service-item {
     display: inline-block;
@@ -176,6 +197,17 @@
       }
     }
   }
+  .project-icons{ 
+    a {
+      width: 50px;
+      height: 50px;
+      line-height: 50px;
+  
+      &:not(:last-child) {
+        margin-bottom:20px;
+      }
+    }
+  }
 }
 
 @media(max-width:991px) {
@@ -191,10 +223,11 @@
   .prj-hero .service-item {
     margin-top: 15px;
   }
+
 }
 
 @media(max-width:767px) {
-  .page-nav {
+  .page-nav,.project-icons {
     display: none;
   }
 }

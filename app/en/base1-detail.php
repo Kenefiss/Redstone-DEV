@@ -16,7 +16,13 @@
 
       <!-- PAGE NAV -->
       <div class="page-nav">
-        <ul></ul>
+      </div>
+
+      <!-- PROJECT ICONS -->
+      <div class="project-icons">
+        <a class="clutch" href="https://clutch.co/profile/redstone?project_cost=&amp;review_type=&amp;service_provided=&amp;sort_by=date_DESC#review-2035942" target="_blank" rel="nofollow">
+          <img class="icon" src="img/clutch.svg" alt="">
+        </a>
       </div>
 
       <!-- BREADCRUMBS  * -->
@@ -41,7 +47,7 @@
       </div>
 
       <!-- PROJECT HERO SECTION  * -->
-      <div class="section prj-hero">
+      <div class="section prj-hero nav-section">
 
         <div class="container">
           <div class="row justify-content-center">
@@ -103,7 +109,7 @@
       </div>
 
       <!-- PROJECT FEATURES * -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-11">
@@ -202,7 +208,7 @@
       </div>
 
       <!-- DEVICE SCREEN * -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-11">
@@ -304,7 +310,7 @@
       </div>
 
       <!-- SOLUTIONS * -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container-fluid">
           <div class="title-with-text">
             <div class="title h2 w-100 animate-item fadeInUp">
@@ -380,7 +386,7 @@
       </div>
 
       <!-- Tech used * -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-11">
@@ -425,7 +431,7 @@
       </div>
 
       <!-- Client testimonial -->
-      <div class="section">
+      <div class="section nav-section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-11">

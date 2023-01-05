@@ -432,7 +432,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const navigation = document.querySelector('.page-nav');
 
   if (navigation) {
-    console.log('123')
+    //console.log('123')
 
     let num = 0;
     document.querySelectorAll('.nav-section').forEach(item => {
