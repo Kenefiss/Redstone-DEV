@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12 col-xxl-8 offset-xxl-2">
         <div class="brief-content animate-item fadeInUp">
-          <div class="title h2">Do you have an interesting project?Let's make it a reality</div>
+          <div class="title h2">Do you have an interesting project? Let's make it a reality</div>
           <div class="round-btn-wrap">
             <a class="round-btn-listener" href="documents/REDSTONEBriefMarketing-CorporateEng.doc" download></a>
             <div class="round-btn">
