@@ -3,11 +3,11 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Bobox detail</title>
+  <title>REDSTONE :: Opti Meas detail</title>
 
 </head>
 
-<body style="--accent-clr: #EC5D36;">
+<body style="--accent-clr: #F28E00;">
   <div id="loader-wrapper"></div>
   <div id="content-block">
     <?php include 'inc/_header.php';?>
@@ -16,13 +16,6 @@
 
       <!-- PAGE NAV -->
       <div class="page-nav">
-      </div>
-
-      <!-- PROJECT ICONS -->
-      <div class="project-icons">
-        <a class="clutch" href="https://clutch.co/profile/redstone?page=1#summary" target="_blank" rel="nofollow">
-          <img class="icon" src="img/clutch.svg" alt="">
-        </a>
       </div>
 
       <!-- BREADCRUMBS  * -->
@@ -40,7 +33,7 @@
               </a>
             </li>
             <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <span itemprop="title">Bobox</span>
+              <span itemprop="title">Opti Meas</span>
             </li>
           </ul>
         </div>
@@ -55,10 +48,10 @@
               <div class="prj-hero-info">
                 <div class="tags">
                   <span class="tag">marketing</span>
-                  <span class="tag">construction</span>
+                  <span class="tag">technology</span>
                 </div>
-                <h1 class="h1 title">Bobox</h1>
-                <a class="hero-link" href="https://bobox.cz/en/" target="_blank" rel="nofollow">
+                <h1 class="h1 title">Opti Meas</h1>
+                <a class="hero-link" href="https://opticloud.io/" target="_blank" rel="nofollow">
                   <b>Check the project now</b>
                   <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M20.2077 0H14.4828C14.0457 0 13.6914 0.354293 13.6914 0.791479C13.6914 1.22862 14.0457 1.58292 14.4828 1.58292H19.4162V6.51632C19.4162 6.95346 19.7705 7.30775 20.2077 7.30775C20.6448 7.30775 20.9992 6.95346 20.9992 6.51632V0.791479C20.9992 0.354293 20.6449 0 20.2077 0Z" />
@@ -73,9 +66,9 @@
 
         <div class="prj-hero-img">
           <picture>
-            <source srcset="img/prj-detail/06/hero-img.webp" type="image/webp">
-            <source srcset="img/prj-detail/06/hero-img.png" type="image/png">
-            <img src="img/prj-detail/06/hero-img.png" alt="" loading="lazy">
+            <source srcset="img/prj-detail/07/hero-img.webp" type="image/webp">
+            <source srcset="img/prj-detail/07/hero-img.png" type="image/png">
+            <img src="img/prj-detail/07/hero-img.png" alt="" loading="lazy">
           </picture>
         </div>
 
@@ -86,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      We received a request from the <b>BOBOX</b> company to develop a platform with many functions. We fruitfully collaborated with clients at the stages of discussing the design and functionality of the site. Our team provided the client with design options and agreed on further stages of development in record time. The result of our work with the client was a multifunctional site with a concise but stylish design.
+                      The company <b>Opti Meas</b> turned to our specialists with the need to develop a bright, concise design for its marketing website. This website combines stylish and bright colors, dynamic animations and the necessary functionality to promote products to the market. Cooperation with customers brought the team experience in developing a new product.
                     </div>
                   </div>
                 </div>
@@ -123,26 +116,6 @@
                 <div class="col-lg-3 col-md-4 col-6">
                   <div class="ft-item">
                     <div class="ft-item-icon">
-                      <img src="img/features/ft-icon-22.svg" alt="" loading="lazy">
-                    </div>
-                    <div class="ft-item-title">
-                      Apartment search
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6">
-                  <div class="ft-item">
-                    <div class="ft-item-icon">
-                      <img src="img/features/ft-icon-23.svg" alt="" loading="lazy">
-                    </div>
-                    <div class="ft-item-title">
-                      Construction progress
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6">
-                  <div class="ft-item">
-                    <div class="ft-item-icon">
                       <img src="img/features/ft-icon-1.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
@@ -153,17 +126,27 @@
                 <div class="col-lg-3 col-md-4 col-6">
                   <div class="ft-item">
                     <div class="ft-item-icon">
-                      <img src="img/features/ft-icon-24.svg" alt="" loading="lazy">
+                      <img src="img/features/ft-icon-28.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Parking lots
+                      Services
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
                   <div class="ft-item">
                     <div class="ft-item-icon">
-                      <img src="img/features/ft-icon-25.svg" alt="" loading="lazy">
+                      <img src="img/features/ft-icon-29.svg" alt="" loading="lazy">
+                    </div>
+                    <div class="ft-item-title">
+                      Products
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-6">
+                  <div class="ft-item">
+                    <div class="ft-item-icon">
+                      <img src="img/features/ft-icon-5.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
                       Multilingual
@@ -173,20 +156,30 @@
                 <div class="col-lg-3 col-md-4 col-6">
                   <div class="ft-item">
                     <div class="ft-item-icon">
-                      <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
+                      <img src="img/features/ft-icon-30.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Effect on page scrolling
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
                   <div class="ft-item">
                     <div class="ft-item-icon">
-                      <img src="img/features/ft-icon-26.svg" alt="" loading="lazy">
+                      <img src="img/features/ft-icon-17.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Commercial areas
+                      Transition between pages
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-6">
+                  <div class="ft-item">
+                    <div class="ft-item-icon">
+                      <img src="img/features/ft-icon-18.svg" alt="" loading="lazy">
+                    </div>
+                    <div class="ft-item-title">
+                      Animated appearance of images
                     </div>
                   </div>
                 </div>
@@ -226,9 +219,9 @@
                       <div class="device-phone">
                         <div class="device-screen">
                           <picture>
-                            <source srcset="img/prj-detail/06/screen-img-1.webp" type="image/webp">
-                            <source srcset="img/prj-detail/06/screen-img-1.jpg" type="image/jpg">
-                            <img src="img/prj-detail/06/screen-img-1.jpg" alt="">
+                            <source srcset="img/prj-detail/07/screen-img-1.webp" type="image/webp">
+                            <source srcset="img/prj-detail/07/screen-img-1.jpg" type="image/jpg">
+                            <img src="img/prj-detail/07/screen-img-1.jpg" alt="">
                           </picture>
                         </div>
                       </div>
@@ -237,9 +230,9 @@
                       <div class="device-phone">
                         <div class="device-screen">
                           <picture>
-                            <source srcset="img/prj-detail/06/screen-img-2.webp" type="image/webp">
-                            <source srcset="img/prj-detail/06/screen-img-2.jpg" type="image/jpg">
-                            <img src="img/prj-detail/06/screen-img-2.jpg" alt="">
+                            <source srcset="img/prj-detail/07/screen-img-2.webp" type="image/webp">
+                            <source srcset="img/prj-detail/07/screen-img-2.jpg" type="image/jpg">
+                            <img src="img/prj-detail/07/screen-img-2.jpg" alt="">
                           </picture>
                         </div>
                       </div>
@@ -248,9 +241,9 @@
                       <div class="device-phone">
                         <div class="device-screen">
                           <picture>
-                            <source srcset="img/prj-detail/06/screen-img-3.webp" type="image/webp">
-                            <source srcset="img/prj-detail/06/screen-img-3.jpg" type="image/jpg">
-                            <img src="img/prj-detail/06/screen-img-3.jpg" alt="">
+                            <source srcset="img/prj-detail/07/screen-img-3.webp" type="image/webp">
+                            <source srcset="img/prj-detail/07/screen-img-3.jpg" type="image/jpg">
+                            <img src="img/prj-detail/07/screen-img-3.jpg" alt="">
                           </picture>
                         </div>
                       </div>
@@ -259,9 +252,9 @@
                       <div class="device-phone">
                         <div class="device-screen">
                           <picture>
-                            <source srcset="img/prj-detail/06/screen-img-4.webp" type="image/webp">
-                            <source srcset="img/prj-detail/06/screen-img-4.jpg" type="image/jpg">
-                            <img src="img/prj-detail/06/screen-img-4.jpg" alt="">
+                            <source srcset="img/prj-detail/07/screen-img-4.webp" type="image/webp">
+                            <source srcset="img/prj-detail/07/screen-img-4.jpg" type="image/jpg">
+                            <img src="img/prj-detail/07/screen-img-4.jpg" alt="">
                           </picture>
                         </div>
                       </div>
@@ -270,9 +263,9 @@
                       <div class="device-phone">
                         <div class="device-screen">
                           <picture>
-                            <source srcset="img/prj-detail/06/screen-img-5.webp" type="image/webp">
-                            <source srcset="img/prj-detail/06/screen-img-5.jpg" type="image/jpg">
-                            <img src="img/prj-detail/06/screen-img-5.jpg" alt="">
+                            <source srcset="img/prj-detail/07/screen-img-5.webp" type="image/webp">
+                            <source srcset="img/prj-detail/07/screen-img-5.jpg" type="image/jpg">
+                            <img src="img/prj-detail/07/screen-img-5.jpg" alt="">
                           </picture>
                         </div>
                       </div>
@@ -281,9 +274,9 @@
                       <div class="device-phone">
                         <div class="device-screen">
                           <picture>
-                            <source srcset="img/prj-detail/06/screen-img-6.webp" type="image/webp">
-                            <source srcset="img/prj-detail/06/screen-img-6.jpg" type="image/jpg">
-                            <img src="img/prj-detail/06/screen-img-6.jpg" alt="">
+                            <source srcset="img/prj-detail/07/screen-img-6.webp" type="image/webp">
+                            <source srcset="img/prj-detail/07/screen-img-6.jpg" type="image/jpg">
+                            <img src="img/prj-detail/07/screen-img-6.jpg" alt="">
                           </picture>
                         </div>
                       </div>
@@ -292,9 +285,9 @@
                       <div class="device-phone">
                         <div class="device-screen">
                           <picture>
-                            <source srcset="img/prj-detail/06/screen-img-7.webp" type="image/webp">
-                            <source srcset="img/prj-detail/06/screen-img-7.jpg" type="image/jpg">
-                            <img src="img/prj-detail/06/screen-img-7.jpg" alt="">
+                            <source srcset="img/prj-detail/07/screen-img-7.webp" type="image/webp">
+                            <source srcset="img/prj-detail/07/screen-img-7.jpg" type="image/jpg">
+                            <img src="img/prj-detail/07/screen-img-7.jpg" alt="">
                           </picture>
                         </div>
                       </div>
@@ -321,9 +314,9 @@
             <div class="col-12 d-none d-sm-block animate-item fadeInUp anime-1">
               <div class="solution-img solution-bg">
                 <picture>
-                  <source srcset="img/prj-detail/06/sol-img-1.webp" type="image/webp">
-                  <source srcset="img/prj-detail/06/sol-img-1.png" type="image/png">
-                  <img src="img/prj-detail/06/sol-img-1.png" alt="" loading="lazy">
+                  <source srcset="img/prj-detail/07/sol-img-1.webp" type="image/webp">
+                  <source srcset="img/prj-detail/07/sol-img-1.png" type="image/png">
+                  <img src="img/prj-detail/07/sol-img-1.png" alt="" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -332,18 +325,18 @@
                 <div class="col-sm-6 col-md-12 animate-item fadeInUp">
                   <div class="solution-img">
                     <picture>
-                      <source srcset="img/prj-detail/06/sol-img-2.webp" type="image/webp">
-                      <source srcset="img/prj-detail/06/sol-img-2.png" type="image/png">
-                      <img src="img/prj-detail/06/sol-img-2.png" alt="" loading="lazy">
+                      <source srcset="img/prj-detail/07/sol-img-2.webp" type="image/webp">
+                      <source srcset="img/prj-detail/07/sol-img-2.png" type="image/png">
+                      <img src="img/prj-detail/07/sol-img-2.png" alt="" loading="lazy">
                     </picture>
                   </div>
                 </div>
                 <div class="col-sm-6 col-md-12 animate-item fadeInUp">
                   <div class="solution-img">
                     <picture>
-                      <source srcset="img/prj-detail/06/sol-img-4.webp" type="image/webp">
-                      <source srcset="img/prj-detail/06/sol-img-4.png" type="image/png">
-                      <img src="img/prj-detail/06/sol-img-4.png" alt="" loading="lazy">
+                      <source srcset="img/prj-detail/07/sol-img-4.webp" type="image/webp">
+                      <source srcset="img/prj-detail/07/sol-img-4.png" type="image/png">
+                      <img src="img/prj-detail/07/sol-img-4.png" alt="" loading="lazy">
                     </picture>
                   </div>
                 </div>
@@ -354,27 +347,27 @@
                 <div class="col-12 animate-item fadeInUp anime-1">
                   <div class="solution-img">
                     <picture>
-                      <source srcset="img/prj-detail/06/sol-img-3.webp" type="image/webp">
-                      <source srcset="img/prj-detail/06/sol-img-3.png" type="image/png">
-                      <img src="img/prj-detail/06/sol-img-3.png" alt="" loading="lazy">
+                      <source srcset="img/prj-detail/07/sol-img-3.webp" type="image/webp">
+                      <source srcset="img/prj-detail/07/sol-img-3.png" type="image/png">
+                      <img src="img/prj-detail/07/sol-img-3.png" alt="" loading="lazy">
                     </picture>
                   </div>
                 </div>
                 <div class="col-sm-6 animate-item fadeInUp anime-1">
                   <div class="solution-img">
                     <picture>
-                      <source srcset="img/prj-detail/06/sol-img-5.webp" type="image/webp">
-                      <source srcset="img/prj-detail/06/sol-img-5.png" type="image/png">
-                      <img src="img/prj-detail/06/sol-img-5.png" alt="" loading="lazy">
+                      <source srcset="img/prj-detail/07/sol-img-5.webp" type="image/webp">
+                      <source srcset="img/prj-detail/07/sol-img-5.png" type="image/png">
+                      <img src="img/prj-detail/07/sol-img-5.png" alt="" loading="lazy">
                     </picture>
                   </div>
                 </div>
                 <div class="col-sm-6 animate-item fadeInUp anime-2">
                   <div class="solution-img">
                     <picture>
-                      <source srcset="img/prj-detail/06/sol-img-6.webp" type="image/webp">
-                      <source srcset="img/prj-detail/06/sol-img-6.png" type="image/png">
-                      <img src="img/prj-detail/06/sol-img-6.png" alt="" loading="lazy">
+                      <source srcset="img/prj-detail/07/sol-img-6.webp" type="image/webp">
+                      <source srcset="img/prj-detail/07/sol-img-6.png" type="image/png">
+                      <img src="img/prj-detail/07/sol-img-6.png" alt="" loading="lazy">
                     </picture>
                   </div>
                 </div>
