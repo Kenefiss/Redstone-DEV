@@ -348,6 +348,33 @@
   }
 }
 
+.device-phone.type2{
+  padding: 0;
+  border: none;
+}
+
+.device-phone.type2:before,.device-phone.type2:after{
+  content: none;
+}
+
+.device-phone.type2 .device-screen{
+  padding-top: 177%;
+  border-radius: 30px;
+}
+
+.device-phone.type3{
+  padding: 0;
+  border: none;
+}
+
+.device-phone.type3:before,.device-phone.type3:after{
+  content: none;
+}
+
+.device-phone.type3 .device-screen{
+  padding-top: 134%;
+  border-radius: 20px;
+}
 
 /*--------------------*/
 /* - SOLUTION         */
