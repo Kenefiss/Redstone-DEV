@@ -147,7 +147,7 @@
       </div>
 
       <!-- SEO -->
-      <?php include 'inc/_seo.php'; ?>
+      <?php include 'inc/sections/_seo.php'; ?>
 
     </main>
 
