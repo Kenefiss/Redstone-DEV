@@ -3,8 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
-  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
+  <title>Mobile App development & design Belfast | Custom solution</title>
+  <meta name="description" content="App development - be in every client's phone, comfortable design and style are guaranteed. Redstone placed in Belfast">
+  <meta name="keywords" content="application, app, mobile, development, belfast, software, custom">
 </head>
 
 <body>

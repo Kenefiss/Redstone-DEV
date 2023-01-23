@@ -3,8 +3,10 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
-  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
+  <title> Web App development   Contact  Redstone software from Belfast</title>
+  <meta name="description" content="Get in touch with a web development company in Belfast, we will raise your indicators 
+and increase your profit | Norther Ireland | Certified company">
+  <meta name="keywords" content="software, webcompany, belfast, contact">
 </head>
 
 <body>
@@ -113,7 +115,8 @@
           <div class="row justify-content-center">
             <div class="col-xl-11">
               <div class="map-block animate-item fadeInUp">
-                <img src="img/map-block-img.png" alt="" loading="lazy">
+                <div class="map" id="map" data-lat="54.452449" data-lng="-6.336870" data-zoom="15" data-xs-zoom="15" data-cluster-img="img/marker.png"></div>
+                <a class="marker" data-rel="map" data-lat="54.452449" data-lng="-6.336870" data-image="img/marker.png" data-string="<h6>Lurgan, 4 Ferndale Co Armagh BT66 8LQ</h6>"></a>
               </div>
             </div>
           </div>
@@ -129,6 +132,11 @@
 
   <?php include 'inc/_popups.php';?>
   <?php include 'inc/_bottom.php';?>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDp4p_pivxKOkBVZv6KAmt9JduX-Crat-w&v=3&amp;language=en"></script>
+  <script src="js/infobox.js"></script>
+  <script src="js/map.js"></script>
+
 </body>
 
 </html>

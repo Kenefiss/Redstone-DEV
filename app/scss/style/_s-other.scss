@@ -367,12 +367,13 @@
 .map-block {
   display: block;
   position: relative;
-  padding-top: 34%;
+  padding-top: 44%;
   min-height: 260px;
   max-width: 1610px;
   margin-inline: auto;
+  background-color: #E5E5E5;
 
-  * {
+  .map{
     position: absolute;
     top: 0;
     left: 0;
@@ -381,6 +382,10 @@
     height: 100%;
   }
 }
+
+.info-box{background-color: #000; box-shadow: 0 1px 5px rgba(0,0,0,.15); text-align: center; padding:0;}
+.infoBox > img{width:10px;}
+.info-box h6{color: #fff; font-size: 14px; line-height: 22px; margin-bottom: 5px;padding:10px 15px;}
 
 @media(min-width:1200px) {
   .address table td a:hover {
@@ -446,5 +451,8 @@
   .address table td:first-child {
     width: 70px;
     min-width: 70px;
+  }
+  .map-block {
+    padding-top: 80%;
   }
 }

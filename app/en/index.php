@@ -3,8 +3,10 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
-  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
+  <title>Custom CRM, Design, App & Web development in Belfast | REDSTONE software Ireland</title>
+  <meta name="description" content="REDSTONE - software company in Belfast offering web & app develompent, web design, MVP versions and 
+custom CRM system">
+  <meta name="keywords" content="web development, design, app, mvp, cms, crm, company belfast, dublin, london, REDSTONE">
 </head>
 
 <body>
@@ -34,9 +36,16 @@
             </div>
             <div class="col-xl-5 order-1 order-xl-2">
               <div class="banner-num">
-                <div id="num" class="num">
+                <!-- <div id="num" class="num">
                   <div id="text">16</div>
                   <div id="graphics" data-color="#b0b0b0"></div>
+                </div> -->
+                <div class="svg-wrapper type2">
+                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
+                      <tspan class="text-bold">16</tspan>
+                    </text>
+                  </svg>
                 </div>
               </div>
               <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
@@ -290,7 +299,7 @@
 
   <?php include 'inc/_popups.php';?>
   <?php include 'inc/_bottom.php';?>
-  <script defer src="js/app.graphics.js"></script>
+  
 </body>
 
 </html>

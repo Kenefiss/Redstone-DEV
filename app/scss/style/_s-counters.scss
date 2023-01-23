@@ -57,7 +57,7 @@
   font-size: 150px;
 }
 
-.svg-wrapper .text-bold {
+.svg-wrapper:not(.type2) .text-bold {
   fill: #303030;
 }
 

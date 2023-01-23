@@ -3,8 +3,10 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
-  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
+  <title>eCommerce web development & design Belfast</title>
+  <meta name="description" content="eCommerce is a tool for pumping your business online. Take a look at our projects and you 
+will fall in love with them.">
+  <meta name="keywords" content="eCommerce, web, development, belfast, design">
 </head>
 
 <body>
