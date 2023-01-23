@@ -19,11 +19,11 @@
           <ul class="breadcrumbs">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
               <a href="index.php" itemprop="url">
-                <span itemprop="title">Головна</span>
+                <span itemprop="title">Home</span>
               </a>
             </li>
             <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <span itemprop="title">Блог</span>
+              <span itemprop="title">Blog</span>
             </li>
           </ul>
         </div>
@@ -35,13 +35,13 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title page-title h2">Блог</div>
+                <div class="title page-title h2">Blog</div>
               </div>
               <div class="sort-wrapp js-sort-nav">
-                <div class="sort-btn d-xl-none">Всі</div>
+                <div class="sort-btn d-xl-none">All</div>
                 <nav class="sort-nav">
                   <ul>
-                    <li><a class="active">Всі</a></li>
+                    <li><a class="active">All</a></li>
                     <li><a href="#">Корисні поради</a></li>
                     <li><a href="#">Новини</a></li>
                     <li><a href="#">Майстер-класи</a></li>
