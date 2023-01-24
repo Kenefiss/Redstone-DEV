@@ -115,8 +115,26 @@ and increase your profit | Norther Ireland | Certified company">
           <div class="row justify-content-center">
             <div class="col-xl-11">
               <div class="map-block animate-item fadeInUp">
-                <div class="map" id="map" data-lat="54.452449" data-lng="-6.336870" data-zoom="15" data-xs-zoom="15" data-cluster-img="img/marker.png"></div>
-                <a class="marker" data-rel="map" data-lat="54.452449" data-lng="-6.336870" data-image="img/marker.png" data-string="<h6>Lurgan, 4 Ferndale Co Armagh BT66 8LQ</h6>"></a>
+                <div class="map" id="map" data-lat="54.45237" data-lng="-6.33684" data-zoom="15" data-xs-zoom="15"></div>
+                <a class="marker" data-rel="map" data-lat="54.45237" data-lng="-6.33684" data-image="img/point-map.svg" 
+                data-string='<div class="address">
+                      <h5>United Kingdom</h5>
+                      <table>
+                        <tbody><tr>
+                          <td>Address:</td>
+                          <td><a href="https://goo.gl/maps/6JEchaCUh4aAeoKq8" target="_blank" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
+                              <span itemprop="addressLocality">Lurgan</span>, <span itemprop="streetAddress">4 Ferndale Co Armagh BT66 8LQ</span></a></td>
+                        </tr>
+                        <tr>
+                          <td>Phone:</td>
+                          <td><a href="tel:+447493872709">+447493872709</a></td>
+                        </tr>
+                        <tr>
+                          <td>Email:</td>
+                          <td><a href="mailto:office@redstone.software">office@redstone.software</a></td>
+                        </tr>
+                      </tbody></table>
+                    </div>'></a>
               </div>
             </div>
           </div>
