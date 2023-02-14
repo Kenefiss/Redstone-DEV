@@ -31,7 +31,7 @@
                 </div>
               </div>
               <div class="page-404-inner-left">
-                <a class="btn btn-primary" href="index.php">
+                <a class="btn btn-primary" href="/">
                   <b>Main page</b>
                 </a>
               </div>

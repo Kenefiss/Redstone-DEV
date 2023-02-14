@@ -18,12 +18,12 @@
         <div class="container-fluid">
           <ul class="breadcrumbs">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="index.php" itemprop="url">
+              <a href="/" itemprop="url">
                 <span itemprop="title">Головна</span>
               </a>
             </li>
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="blog.php" itemprop="url">
+              <a href="blog" itemprop="url">
                 <span itemprop="title">Блог</span>
               </a>
             </li>

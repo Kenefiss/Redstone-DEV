@@ -6,17 +6,17 @@
 
   <div class="footer-left">
     <div class="footer-left-top">
-      <a class="footer-logo" href="index.php">
+      <a class="footer-logo" href="/">
         <img src="img/logo-en-white.svg" alt="" loading="lazy">
       </a>
       <div class="footer-links">
         <ul>
-          <li><a href="awards.php">Awards</a></li>
-          <li><a href="about.php">About</a></li>
-          <li><a href="portfolio.php">Case Studies</a></li>
-          <li><a href="review.php">Reviews</a></li>
-          <li><a href="blog.php">Blog</a></li>
-          <li><a href="contact.php">Contacts</a></li>
+          <li><a href="awards">Awards</a></li>
+          <li><a href="about">About</a></li>
+          <li><a href="portfolio">Case Studies</a></li>
+          <li><a href="review">Reviews</a></li>
+          <li><a href="blog">Blog</a></li>
+          <li><a href="contact">Contacts</a></li>
         </ul>
       </div>
     </div>

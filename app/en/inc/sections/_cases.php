@@ -149,7 +149,7 @@
       </div>
     </div>
     <div class="text-center animate-item fadeInUp">
-      <a class="btn btn-primary" href="portfolio.php"><b>view all cases</b></a>
+      <a class="btn btn-primary" href="portfolio"><b>view all cases</b></a>
     </div>
   </div>
   <div class="spacer-xl"></div>

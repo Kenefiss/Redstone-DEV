@@ -3,7 +3,7 @@
     <div class="container-fluid">
     <div class="header-wrap-inner">
       <div class="header-wrap-left">
-        <a class="header-logo" href="index.php">
+        <a class="header-logo" href="/">
           <img src="img/logo-en.svg" alt="" loading="lazy">
           <img src="img/logo-en-white.svg" alt="" loading="lazy">
         </a>
@@ -14,10 +14,10 @@
       </div>
       <nav class="header-wrap-center">
         <ul>
-          <li><a href="portfolio.php">Case Studies</a></li>
-          <li><a href="app.php">АРР</a></li>
-          <li><a href="blog.php">Blog</a></li>
-          <li><a href="contact.php" class="hash">Contacts</a></li>
+          <li><a href="portfolio">Case Studies</a></li>
+          <li><a href="app">АРР</a></li>
+          <li><a href="blog">Blog</a></li>
+          <li><a href="contact" class="hash">Contacts</a></li>
         </ul>
       </nav>
       <div class="header-wrap-right">
@@ -28,7 +28,7 @@
           </svg>
           <b>+447493872709</b>
         </a>
-        <a class="btn d-none d-lg-block hash" href="index.php#contact">
+        <a class="btn d-none d-lg-block hash" href="/#contact">
           <b>Ask a question</b>
         </a>
       </div>
@@ -42,25 +42,25 @@
                 <li><a href="pl/">PL</a></li>
                 <li><a href="ru/">РУС</a></li>
               </ul>
-              <a class="btn h-btn d-lg-none hash" href="index.php#contact">
+              <a class="btn h-btn d-lg-none hash" href="/#contact">
                 <b>Ask a question</b>
               </a>
               <nav class="header-mega-menu" style="--items: 4;">
                 <ul>
-                  <li><a href="app.php">АРР</a></li>
-                  <li><a href="awards.php">Awards</a></li>
-                  <li><a href="blog.php">Blog</a></li>
+                  <li><a href="app.">АРР</a></li>
+                  <li><a href="awards">Awards</a></li>
+                  <li><a href="blog">Blog</a></li>
                   <li class="has-submenu">
                     <b>Case Studies</b>
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 3;">
-                        <li><a href="car-dealers.php">Car Dealers</a></li>
-                        <li><a href="e-commerce.php">E - Commerce</a></li>
-                        <li><a href="mvp.php">MVP</a></li>
-                        <li><a href="website.php">Website</a></li>
-                        <li><a href="web.php">Web Solutions</a></li>
-                        <li><a href="branding.php">Branding</a></li>
+                        <li><a href="car-dealers">Car Dealers</a></li>
+                        <li><a href="e-commerce">E - Commerce</a></li>
+                        <li><a href="mvp">MVP</a></li>
+                        <li><a href="website">Website</a></li>
+                        <li><a href="web">Web Solutions</a></li>
+                        <li><a href="branding">Branding</a></li>
                       </ul>
                     </div>
                   </li>
@@ -84,9 +84,9 @@
 
 
                   
-                  <li><a href="review.php" class="hash">Reviews</a></li>
-                  <li><a href="about.php" class="hash">About</a></li>
-                  <li class="menu-close"><a href="contact.php">Contacts</a></li>
+                  <li><a href="review" class="hash">Reviews</a></li>
+                  <li><a href="about" class="hash">About</a></li>
+                  <li class="menu-close"><a href="contact">Contacts</a></li>
                 </ul>
               </nav>
               <div class="social">

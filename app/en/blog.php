@@ -18,7 +18,7 @@
         <div class="container-fluid">
           <ul class="breadcrumbs">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="index.php" itemprop="url">
+              <a href="/" itemprop="url">
                 <span itemprop="title">Home</span>
               </a>
             </li>
@@ -56,7 +56,7 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail-two.php">
+                <a href="blog-detail-two">
                   <picture>
                     <source srcset="img/news-item1.webp" type="image/webp">
                     <source srcset="img/news-item1.jpg" type="image/jpeg">
@@ -66,12 +66,12 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail-two.php">Чотири нагороди для наші роботи в the Awwwards</a>
+                <a href="blog-detail-two">Чотири нагороди для наші роботи в the Awwwards</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail-two.php">
+                <a href="blog-detail-two">
                   <picture>
                     <source srcset="img/news-item2.webp" type="image/webp">
                     <source srcset="img/news-item2.jpg" type="image/jpeg">
@@ -81,12 +81,12 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail-two.php">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
+                <a href="blog-detail-two">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail-two.php">
+                <a href="blog-detail-two">
                   <picture>
                     <source srcset="img/news-item3.webp" type="image/webp">
                     <source srcset="img/news-item3.jpg" type="image/jpeg">
@@ -96,12 +96,12 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail-two.php">Чотири нагороди для наші роботи в the Awwwards</a>
+                <a href="blog-detail-two">Чотири нагороди для наші роботи в the Awwwards</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail-two.php">
+                <a href="blog-detail-two">
                   <picture>
                     <source srcset="img/news-item4.webp" type="image/webp">
                     <source srcset="img/news-item4.jpg" type="image/jpeg">
@@ -111,7 +111,7 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail-two.php">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
+                <a href="blog-detail-two">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
               </div>
             </div>
           </div>

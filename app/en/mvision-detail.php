@@ -30,12 +30,12 @@
         <div class="container-fluid">
           <ul class="breadcrumbs relative">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="index.php" itemprop="url">
+              <a href="/" itemprop="url">
                 <span itemprop="title">Home</span>
               </a>
             </li>
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="portfolio.php" itemprop="url">
+              <a href="portfolio" itemprop="url">
                 <span itemprop="title">Case Studies</span>
               </a>
             </li>

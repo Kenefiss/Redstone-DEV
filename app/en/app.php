@@ -20,7 +20,7 @@
         <div class="container-fluid">
           <ul class="breadcrumbs">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="index.php" itemprop="url">
+              <a href="/" itemprop="url">
                 <span itemprop="title">Home</span>
               </a>
             </li>
@@ -43,14 +43,14 @@
                 <div class="sort-btn d-xl-none">All</div>
                 <nav class="sort-nav">
                   <ul>
-                    <li><a data-filter="*" href="portfolio.php">All</a></li>
-                    <li><a data-filter="._web" href="web.php ">Web Solutions</a></li>
-                    <li><a data-filter="._app" href="app.php" class="active">APP</a></li>
-                    <li><a data-filter="._mvp" href="mvp.php">MVP</a></li>
-                    <li><a data-filter="._e-сommerce" href="e-commerce.php">E - Commerce</a></li>
-                    <li><a data-filter="._car-dealers" href="car-dealers.php">Car Dealers</a></li>
-                    <li><a data-filter="._branding" href="branding.php">Branding</a></li>
-                    <li><a data-filter="._website" href="website.php">Website</a></li>
+                    <li><a data-filter="*" href="portfolio">All</a></li>
+                    <li><a data-filter="._web" href="web">Web Solutions</a></li>
+                    <li><a data-filter="._app" href="app" class="active">APP</a></li>
+                    <li><a data-filter="._mvp" href="mvp">MVP</a></li>
+                    <li><a data-filter="._e-сommerce" href="e-commerce">E - Commerce</a></li>
+                    <li><a data-filter="._car-dealers" href="car-dealers">Car Dealers</a></li>
+                    <li><a data-filter="._branding" href="branding">Branding</a></li>
+                    <li><a data-filter="._website" href="website">Website</a></li>
                   </ul>
                 </nav>
               </div>

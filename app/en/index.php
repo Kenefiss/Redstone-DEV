@@ -22,7 +22,7 @@ custom CRM system">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
                 <div class="title h1">WEB Solutions <b>.</b> App <b>.</b> MVP <b>.</b><br> Making the difficult simple</div>
-                <a href="portfolio.php" class="btn btn-primary">
+                <a href="portfolio" class="btn btn-primary">
                   <b>Our projects</b>
                 </a>
                 <div class="logo-group">
@@ -30,7 +30,7 @@ custom CRM system">
                   <a href="https://www.awwwards.com/REDSTONE/" target="_blank" rel="nofollow"><img src="img/green-awwwards.svg" width="110" height="18" loading="lazy" alt=""></a>
                   <a href="https://www.bestcss.in/user/detail/DAandCO-6864" target="_blank" rel="nofollow"><img src="img/best-css.svg" width="80" height="16" loading="lazy" alt=""></a>
                   <a href="https://www.csslight.com/website/23929/MVISION-Study-Resort" target="_blank" rel="nofollow"><img src="img/csslight.svg" width="82" height="40" loading="lazy" alt=""></a>
-                  <a href="awards.php"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
+                  <a href="awards"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
             </div>
@@ -74,7 +74,7 @@ custom CRM system">
           </div>
           <div class="row categories animate-item fadeInUp delay-1">
             <div class="col-sm-6 col-md-4 category">
-              <a href="web.php" class="category-entry">
+              <a href="web" class="category-entry">
                 <span class="category-title">WEB Solution</span>
                 <div class="category-img">
                   <div class="category-img-box">
@@ -91,7 +91,7 @@ custom CRM system">
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="app.php" class="category-entry">
+              <a href="app" class="category-entry">
                 <span class="category-title">APP</span>
                 <div class="category-img">
                   <div class="category-img-box">
@@ -108,7 +108,7 @@ custom CRM system">
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="mvp.php" class="category-entry">
+              <a href="mvp" class="category-entry">
                 <span class="category-title">MVP</span>
                 <div class="category-img">
                   <div class="category-img-box">
@@ -125,7 +125,7 @@ custom CRM system">
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="e-commerce.php" class="category-entry">
+              <a href="e-commerce" class="category-entry">
                 <span class="category-title">E - Commerce</span>
                 <div class="category-img">
                   <div class="category-img-box">
@@ -142,7 +142,7 @@ custom CRM system">
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="car-dealers.php" class="category-entry">
+              <a href="car-dealers" class="category-entry">
                 <span class="category-title">Car Dealers</span>
                 <div class="category-img">
                   <div class="category-img-box">
@@ -159,7 +159,7 @@ custom CRM system">
               </a>
             </div>
             <div class="col-sm-6 col-md-4 category">
-              <a href="branding.php" class="category-entry">
+              <a href="branding" class="category-entry">
                 <span class="category-title">Branding</span>
                 <div class="category-img">
                   <div class="category-img-box">
@@ -177,7 +177,7 @@ custom CRM system">
             </div>
           </div>
           <div class="text-center animate-item fadeInUp">
-            <a class="btn btn-primary" href="portfolio.php">
+            <a class="btn btn-primary" href="portfolio">
               <b>View all projects</b>
             </a>
           </div>

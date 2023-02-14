@@ -21,7 +21,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
         <div class="container-fluid">
           <ul class="breadcrumbs">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="index.php" itemprop="url">
+              <a href="/" itemprop="url">
                 <span itemprop="title">Home</span>
               </a>
             </li>
