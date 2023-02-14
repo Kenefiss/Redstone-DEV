@@ -15,8 +15,8 @@
       <nav class="header-wrap-center">
         <ul>
           <li><a href="portfolio.php">Case Studies</a></li>
-          <li><a href="app.php
-          ">АРР</a></li>
+          <li><a href="app.php">АРР</a></li>
+          <li><a href="blog.php">Blog</a></li>
           <li><a href="contact.php" class="hash">Contacts</a></li>
         </ul>
       </nav>
@@ -45,10 +45,11 @@
               <a class="btn h-btn d-lg-none hash" href="index.php#contact">
                 <b>Ask a question</b>
               </a>
-              <nav class="header-mega-menu" style="--items: 3;">
+              <nav class="header-mega-menu" style="--items: 4;">
                 <ul>
                   <li><a href="app.php">АРР</a></li>
                   <li><a href="awards.php">Awards</a></li>
+                  <li><a href="blog.php">Blog</a></li>
                   <li class="has-submenu">
                     <b>Case Studies</b>
                     <div class="submenu">
@@ -59,6 +60,7 @@
                         <li><a href="mvp.php">MVP</a></li>
                         <li><a href="website.php">Website</a></li>
                         <li><a href="web.php">Web Solutions</a></li>
+                        <li><a href="branding.php">Branding</a></li>
                       </ul>
                     </div>
                   </li>
@@ -81,10 +83,7 @@
 
 
 
-                  <!-- hide on phase 1 -->
-                  <!-- <li><a href="#">Blog</a></li> -->
-                  <!-- hide on phase 1 -->
-
+                  
                   <li><a href="review.php" class="hash">Reviews</a></li>
                   <li><a href="about.php" class="hash">About</a></li>
                   <li class="menu-close"><a href="contact.php">Contacts</a></li>

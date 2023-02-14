@@ -841,6 +841,11 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
+  //focus email input
+  if (document.querySelector('#email')) {
+    const inputEmail = document.querySelector('#email');
+    inputEmail.focus();
+  }
 
 
   //*=====================

@@ -174,7 +174,13 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
 
 @media (min-width: 2000px) {
   .container {
-    max-width: 1920px;
+    max-width: 88%;
+  }
+}
+
+@media (max-width: 1750px) {
+  :root {
+    --h-1: 70px;
   }
 }
 
@@ -195,6 +201,9 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
 
   main>.section.sec-breadcrumbs:first-child {
     margin-top: 0;
+  }
+  :root {
+    --h-1: 64px;
   }
 
 }
@@ -241,6 +250,9 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
 @media (max-width: 1440px) {
   .container-fluid {
     padding-inline: 30px;
+  }
+  :root {
+    --h-1: 54px;
   }
 }
 
@@ -300,7 +312,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
 
 @media (max-width: 767px) {
   :root {
-    --h-1: 32px;
+    --h-1: 30px;
     --h-2: 24px;
     --h-3: 22px;
   }

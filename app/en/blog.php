@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="uk">
+<html lang="en">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -37,7 +37,9 @@
               <div class="title-with-text">
                 <div class="title page-title h2">Blog</div>
               </div>
-              <div class="sort-wrapp js-sort-nav">
+
+              <!-- hide on phase 1 -->
+              <!-- <div class="sort-wrapp js-sort-nav">
                 <div class="sort-btn d-xl-none">All</div>
                 <nav class="sort-nav">
                   <ul>
@@ -47,13 +49,14 @@
                     <li><a href="#">Майстер-класи</a></li>
                   </ul>
                 </nav>
-              </div>
+              </div> -->
+
             </div>
           </div>
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail.php">
+                <a href="blog-detail-two.php">
                   <picture>
                     <source srcset="img/news-item1.webp" type="image/webp">
                     <source srcset="img/news-item1.jpg" type="image/jpeg">
@@ -63,12 +66,12 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail.php">Чотири нагороди для наші роботи в the Awwwards</a>
+                <a href="blog-detail-two.php">Чотири нагороди для наші роботи в the Awwwards</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail.php">
+                <a href="blog-detail-two.php">
                   <picture>
                     <source srcset="img/news-item2.webp" type="image/webp">
                     <source srcset="img/news-item2.jpg" type="image/jpeg">
@@ -78,12 +81,12 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail.php">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
+                <a href="blog-detail-two.php">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail.php">
+                <a href="blog-detail-two.php">
                   <picture>
                     <source srcset="img/news-item3.webp" type="image/webp">
                     <source srcset="img/news-item3.jpg" type="image/jpeg">
@@ -93,12 +96,12 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail.php">Чотири нагороди для наші роботи в the Awwwards</a>
+                <a href="blog-detail-two.php">Чотири нагороди для наші роботи в the Awwwards</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail.php">
+                <a href="blog-detail-two.php">
                   <picture>
                     <source srcset="img/news-item4.webp" type="image/webp">
                     <source srcset="img/news-item4.jpg" type="image/jpeg">
@@ -108,37 +111,7 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail.php">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
-              </div>
-            </div>
-            <div class="col-md-6 news-item">
-              <div class="news-img">
-                <a href="blog-detail.php">
-                  <picture>
-                    <source srcset="img/news-item5.webp" type="image/webp">
-                    <source srcset="img/news-item5.jpg" type="image/jpeg">
-                    <img src="img/news-item5.jpg" alt="">
-                  </picture>
-                  <span class="date">23.07.2020</span>
-                </a>
-              </div>
-              <div class="news-title title h5">
-                <a href="blog-detail.php">Чотири нагороди для наші роботи в the Awwwards</a>
-              </div>
-            </div>
-            <div class="col-md-6 news-item">
-              <div class="news-img">
-                <a href="blog-detail.php">
-                  <picture>
-                    <source srcset="img/news-item6.webp" type="image/webp">
-                    <source srcset="img/news-item6.jpg" type="image/jpeg">
-                    <img src="img/news-item6.jpg" alt="">
-                  </picture>
-                  <span class="date">20.07.2020</span>
-                </a>
-              </div>
-              <div class="news-title title h5">
-                <a href="blog-detail.php">Як ми зробили редизайн нашого веб-сайту</a>
+                <a href="blog-detail-two.php">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
               </div>
             </div>
           </div>

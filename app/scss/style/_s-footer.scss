@@ -322,7 +322,7 @@ footer {
   }
 
   .contact-info-list {
-    font-size: var(--h-6);
+    font-size: calc(var(--h-6) - 2px);
   }
 
   .social {
@@ -343,6 +343,13 @@ footer {
 @media (max-width: 1440px) {
   footer {
     min-height: 460px;
+  }
+  .contact-info-list {
+    font-size: calc(var(--h-6) - 3px);
+  }
+  .contact-info-title {
+    min-width: 90px;
+    max-width: 90px;
   }
 }
 
@@ -441,6 +448,9 @@ footer {
     font-size: 16px;
     margin-bottom: 5px;
     margin-right: 10px;
+  }
+  .contact-info-list {
+    font-size: calc(var(--h-6) - 2px);
   }
 }
 

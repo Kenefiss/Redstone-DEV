@@ -15,6 +15,7 @@
           <li><a href="about.php">About</a></li>
           <li><a href="portfolio.php">Case Studies</a></li>
           <li><a href="review.php">Reviews</a></li>
+          <li><a href="blog.php">Blog</a></li>
           <li><a href="contact.php">Contacts</a></li>
         </ul>
       </div>

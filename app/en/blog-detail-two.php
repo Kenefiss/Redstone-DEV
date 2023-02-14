@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="uk">
+<html lang="en">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -19,12 +19,12 @@
           <ul class="breadcrumbs type2">
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
               <a href="index.php" itemprop="url">
-                <span itemprop="title">Головна</span>
+                <span itemprop="title">Home</span>
               </a>
             </li>
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
               <a href="blog.php" itemprop="url">
-                <span itemprop="title">Блог</span>
+                <span itemprop="title">Blog</span>
               </a>
             </li>
             <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
