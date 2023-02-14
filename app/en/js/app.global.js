@@ -733,7 +733,7 @@ document.addEventListener("DOMContentLoaded", function() {
         return false;
       }
 
-      _functions.postAjax('ContactForm.php', _functions.getFormValue(form), function(data) {
+      _functions.postAjax('ContactForm', _functions.getFormValue(form), function(data) {
         form.reset();
         _functions.openPopup('.popup-content[data-rel="1"]');
         return false;
