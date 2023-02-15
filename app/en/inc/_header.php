@@ -47,7 +47,7 @@
               </a>
               <nav class="header-mega-menu" style="--items: 4;">
                 <ul>
-                  <li><a href="app.">АРР</a></li>
+                  <li><a href="app">АРР</a></li>
                   <li><a href="awards">Awards</a></li>
                   <li><a href="blog">Blog</a></li>
                   <li class="has-submenu">

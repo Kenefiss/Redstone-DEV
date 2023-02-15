@@ -151,7 +151,7 @@ and increase your profit | Norther Ireland | Certified company">
   <?php include 'inc/_popups.php';?>
   <?php include 'inc/_bottom.php';?>
 
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDp4p_pivxKOkBVZv6KAmt9JduX-Crat-w&v=3&amp;language=en"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOmjBT0e4aih28ddm_w2xmIY0z1K1ZaoQ&v=3&amp;language=en"></script>
   <script src="js/infobox.js"></script>
   <script src="js/map.js"></script>
 

@@ -49,7 +49,22 @@ document.addEventListener("DOMContentLoaded", function() {
     document.body.classList.add('loaded');
   }, 500);
 
-
+  //active link
+  let activeLink = window.location.pathname.split('/');
+  document.querySelectorAll('.header-wrap-center li a').forEach(item => {
+    if(activeLink[1] == item.getAttribute("href")){
+      item.classList.add('active');
+    }else{
+      item.classList.remove('active');
+    }
+  });
+  document.querySelectorAll('.header-mega-menu li a').forEach(item => {
+    if(activeLink[1] == item.getAttribute("href")){
+      item.classList.add('active');
+    }else{
+      item.classList.remove('active');
+    }
+  });
 
 
   //*=====================================
@@ -92,6 +107,21 @@ document.addEventListener("DOMContentLoaded", function() {
       headerInformer.classList.add("hide");
     } else {
       headerInformer.classList.remove("hide");
+    }
+
+    //focus in email input
+    if (document.querySelector('#email')){
+      if (!!window.IntersectionObserver) {
+        let email = document.querySelector('#email');
+        let observer = new IntersectionObserver((entries, observer) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting){
+              entry.target.focus();
+            }
+          });
+        }, { threshold: 1 });
+        observer.observe(email);
+      }
     }
 
   };
@@ -839,12 +869,6 @@ document.addEventListener("DOMContentLoaded", function() {
         await _functions.loadSrc(".video video", "./video/video-1.mp4");
       } catch (err) {} finally {}
     });
-  }
-
-  //focus email input
-  if (document.querySelector('#email')) {
-    const inputEmail = document.querySelector('#email');
-    inputEmail.focus();
   }
 
 
