@@ -143,22 +143,6 @@
                 </div>
                 <div class="col-md-6 col-lg-4 col-xl-3">
                   <div class="award-item">
-                    <div class="award-title">Love & Dress - Awwwards mobile excellence</div>
-                    <div class="award-subtitle">SiMobile Excellence according to the version AWWWARDS</div>
-                    <div class="award-img">
-                      <a href="https://www.awwwards.com/sites/love-dress/mobile-excellence-report" rel="nofollow" target="_blank">
-                        <span class="review-btn"><i class="review-icon"></i></span>
-                        <picture>
-                          <source srcset="img/awards/award-img-2.webp" type="image/webp">
-                          <source srcset="img/awards/award-img-2.jpg" type="image/jpeg">
-                          <img src="img/awards/award-img-2.jpg" alt="">
-                        </picture>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3">
-                  <div class="award-item">
                     <div class="award-title">M.vision Clinic</div>
                     <div class="award-subtitle">AHonorable Mention according to the version AWWWARDS</div>
                     <div class="award-img">

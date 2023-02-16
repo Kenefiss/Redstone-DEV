@@ -41,7 +41,7 @@ Our advantages: quality and comfort!">
                 <div class="title page-title h2">Explore our cases</div>
               </div>
               <div class="sort-wrapp">
-                <div class="sort-btn d-xl-none">All</div>
+                <div class="sort-btn d-xl-none">Website</div>
                 <nav class="sort-nav">
                   <ul>
                     <li><a data-filter="*" href="portfolio">All</a></li>

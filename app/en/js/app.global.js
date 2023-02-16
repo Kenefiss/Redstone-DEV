@@ -65,7 +65,13 @@ document.addEventListener("DOMContentLoaded", function() {
       item.classList.remove('active');
     }
   });
-
+  document.querySelectorAll('.footer-links li a').forEach(item => {
+    if(activeLink[1] == item.getAttribute("href")){
+      item.classList.add('active');
+    }else{
+      item.classList.remove('active');
+    }
+  });
 
   //*=====================================
   //* 02 FUNCTIONS CALC & SCROLL, RESIZE =
