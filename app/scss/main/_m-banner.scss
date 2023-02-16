@@ -188,6 +188,9 @@
     justify-content: center;
     margin-bottom: 30px;
   }
+  .banner-num .svg-wrapper.type2{
+    stroke: transparent;
+  }
   .banner-num .svg-wrapper.type2 .text-bold{
     fill: #f8f8f8;
   }
@@ -211,6 +214,7 @@
 
 @media (max-width: 575px) {
   .full-height {
+    height: auto;
     padding: 20px 0 0;
   }
 
