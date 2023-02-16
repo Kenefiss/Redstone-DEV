@@ -191,6 +191,10 @@
   .banner-num .svg-wrapper.type2 .text-bold{
     fill: #f8f8f8;
   }
+  .banner-num .svg-wrapper.type2 text{
+    stroke-dasharray: 0;
+    stroke-dashoffset: 0;
+  }
 }
 
 @media(max-width: 991px) {

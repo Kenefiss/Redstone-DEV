@@ -65,12 +65,13 @@ footer {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  margin: auto -15px;
-  width: 96%;
+  margin: auto 0;
+  width: 100%;
 
   >* {
     width: calc(50% - 30px);
     margin: 40px 15px;
+    margin-left: 0;
   }
 }
 
