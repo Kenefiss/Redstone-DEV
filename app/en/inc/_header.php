@@ -161,11 +161,7 @@
     <div class="header-informer text text-sm">
         <img src="img/informer-img.svg" alt="" loading="lazy">
         <b>We stand with Ukraine.</b>
-
-        <!-- hide on phase 1 -->
-        <!-- <a href="#">VIEW our projects</a> -->
-        <!-- hide on phase 1 -->
-
+        <a href="portfolio">VIEW our projects</a>
         <div class="btn-close"></div>
       </div>
     </div>

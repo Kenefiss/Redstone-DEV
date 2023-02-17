@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: 404</title>
+  <title>REDSTONE SOFTWARE - 404</title>
 
 </head>
 
