@@ -5,13 +5,20 @@
 .news-img{position: relative;padding-bottom: 64.4%;margin-bottom: 15px;overflow: hidden;}
 .news-img img{position: absolute;left:0;top:0;height: 100%;object-fit: cover;}
 .news-img a{display: block;}
-.news-item .date{position: absolute;bottom:20px;left:20px;font-size: 16px;font-weight: 400;line-height: 1;color:var(--clr-white);}
+.news-img:before{content:"";position: absolute;top:0;left: 0;width:100%;height:100%;pointer-events:none;background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 100%);z-index:1;}
+.news-item .date{position: absolute;bottom:20px;left:20px;font-size: 16px;font-weight: 400;line-height: 1;color:var(--clr-white);z-index:2;}
 .news-title{overflow: hidden;text-overflow: ellipsis; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;font-weight: 500;}
 .news-title a{display: inline-block;vertical-align: top;}
+.project-banner-img{position: relative;margin-right: 50px;}
+.project-banner-img:before{content:"";position: absolute;top:0;left: 0;width:100%;height:100%;pointer-events:none;background: linear-gradient(90deg, rgba(0, 0, 0, 0.6) 0.8%, rgba(0, 0, 0, 0) 65%);z-index:1;}
+.project-banner-img img{width:100%;vertical-align: top;}
+.simple-page img{width:100%;}
 /*media*/
-@media(min-width:1200px){
+@media(min-width:1541px){
   .news-wrapp{margin-left:-40px;margin-right:-40px;}
   .news-wrapp .news-item{padding-left:40px;padding-right:40px;}
+}
+@media(min-width:1200px){
   .news-img img{transition: var(--transition-2);}
   .news-img a:hover img{transform: scale(1.1);}
   .news-title{font-size:28px;}
@@ -20,9 +27,18 @@
 @media(max-width:1839px){
   .news-item:nth-child(n+3){margin-top: 40px;}
 }
+@media(max-width:1540px){
+  .project-banner-img{margin-right:30px;}
+}
 @media(max-width:1199px){
   .news-img{margin-bottom: 5px;}
+  .project-banner-img{margin-right:0;}
+  .project-banner-img:before{content: none;}
+  .project-detail-info{margin-top:40px;text-align: center;}
 }
 @media(max-width:767px){
   .news-item:nth-child(n+2){margin-top: 30px;}
+  .project-detail-info{margin-top:20px;}
+  .news-item .date{left: 15px;bottom:10px;}
+  .simple-page.text .swiper-entry img{margin:0;}
 }

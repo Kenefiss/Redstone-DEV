@@ -4,6 +4,9 @@
 <head>
   <?php include 'inc/_top.php';?>
   <title>REDSTONE :: Blog</title>
+  <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
+CRM systems that are convenient for users and our customers. Top offers in Belfast">
+  <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
 </head>
 
 <body>
@@ -56,62 +59,62 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="blog-detail-two">
-                  <picture>
-                    <source srcset="img/news-item1.webp" type="image/webp">
-                    <source srcset="img/news-item1.jpg" type="image/jpeg">
-                    <img src="img/news-item1.jpg" alt="">
-                  </picture>
-                  <span class="date">18.09.2020</span>
-                </a>
-              </div>
-              <div class="news-title title h5">
-                <a href="blog-detail-two">Чотири нагороди для наші роботи в the Awwwards</a>
-              </div>
-            </div>
-            <div class="col-md-6 news-item">
-              <div class="news-img">
-                <a href="blog-detail-two">
-                  <picture>
-                    <source srcset="img/news-item2.webp" type="image/webp">
-                    <source srcset="img/news-item2.jpg" type="image/jpeg">
-                    <img src="img/news-item2.jpg" alt="">
-                  </picture>
-                  <span class="date">10.09.2020</span>
-                </a>
-              </div>
-              <div class="news-title title h5">
-                <a href="blog-detail-two">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
-              </div>
-            </div>
-            <div class="col-md-6 news-item">
-              <div class="news-img">
-                <a href="blog-detail-two">
-                  <picture>
-                    <source srcset="img/news-item3.webp" type="image/webp">
-                    <source srcset="img/news-item3.jpg" type="image/jpeg">
-                    <img src="img/news-item3.jpg" alt="">
-                  </picture>
-                  <span class="date">21.08.2020</span>
-                </a>
-              </div>
-              <div class="news-title title h5">
-                <a href="blog-detail-two">Чотири нагороди для наші роботи в the Awwwards</a>
-              </div>
-            </div>
-            <div class="col-md-6 news-item">
-              <div class="news-img">
-                <a href="blog-detail-two">
+                <a href="website-integration-with-crm">
                   <picture>
                     <source srcset="img/news-item4.webp" type="image/webp">
                     <source srcset="img/news-item4.jpg" type="image/jpeg">
                     <img src="img/news-item4.jpg" alt="">
                   </picture>
-                  <span class="date">01.08.2020</span>
+                  <span class="date">15.02.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="blog-detail-two">Безкоштовний майстер-клас «Запуск прибуткового інтернет магазину»</a>
+                <a href="website-integration-with-crm">Website integration with CRM</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="website-optimisation">
+                  <picture>
+                    <source srcset="img/news-item3.webp" type="image/webp">
+                    <source srcset="img/news-item3.jpg" type="image/jpeg">
+                    <img src="img/news-item3.jpg" alt="">
+                  </picture>
+                  <span class="date">08.02.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="website-optimisation">Website optimisation</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="popular-hosting-services-and-domains">
+                  <picture>
+                    <source srcset="img/news-item2.webp" type="image/webp">
+                    <source srcset="img/news-item2.jpg" type="image/jpeg">
+                    <img src="img/news-item2.jpg" alt="">
+                  </picture>
+                  <span class="date">01.02.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="popular-hosting-services-and-domains">Popular hosting services and domains</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="web-design-trends-in-2023">
+                  <picture>
+                    <source srcset="img/trends1.webp" type="image/webp">
+                    <source srcset="img/trends1.jpg" type="image/jpeg">
+                    <img src="img/trends1.jpg" alt="design trends">
+                  </picture>
+                  <span class="date">25.01.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="web-design-trends-in-2023">Web design trends in 2023</a>
               </div>
             </div>
           </div>

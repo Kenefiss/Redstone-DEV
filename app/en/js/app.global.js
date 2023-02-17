@@ -878,6 +878,13 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
 
+  // browser navigation buttons
+  window.addEventListener("popstate", function (event){
+    document.querySelector('html').classList.remove('overflow-menu');
+    document.querySelector('header').classList.remove('open-menu');
+  });
+  
+
   //*=====================
   //* 10 Recaptcha       =
   //*=====================
