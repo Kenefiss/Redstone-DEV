@@ -231,10 +231,10 @@ export const img = () => {
         },
         [
           imageminJPG({
-            loops: 3,
-            min: 70,
-            max: 85,
-            quality: "medium",
+            loops: 2,
+            min: 90,
+            max: 100,
+            quality: "high",
           }),
           imageminPNG({
             speed: 1,
