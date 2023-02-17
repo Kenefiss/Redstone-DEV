@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Website optimisation</title>
+  <title>REDSTONE SOFTWARE - Website optimisation</title>
   <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
 CRM systems that are convenient for users and our customers. Top offers in Belfast">
   <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
@@ -44,9 +44,9 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             <div class="col-xl-8">
               <div class="project-banner-img">
                 <picture>
-                  <source srcset="img/simple-img-3.webp" type="image/webp">
-                  <source srcset="img/isimple-img-3.jpg" type="image/jpg">
-                  <img src="img/simple-img-3.jpg" alt="">
+                  <source srcset="img/optimisation1.webp" type="image/webp">
+                  <source srcset="img/optimisation1.jpg" type="image/jpg">
+                  <img src="img/optimisation1.jpg" alt="optimisation">
                 </picture>
               </div>
             </div>
@@ -61,7 +61,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
           </div>
         </div>
-        <div class="spacer-xl"></div>
+        <div class="spacer-md"></div>
       </div>
 
       <!-- BLOG -->
@@ -74,17 +74,41 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
                 <p>Page speed is a critical factor in website optimisation, as it affects the user experience and can impact search engine rankings. You can improve page speed by optimising images, compressing files, and using a content delivery network (CDN).</p>
                 <h5>Mobile Optimisation</h5>
                 <p>With more and more people using mobile devices to access the web, ensuring your website is optimised for mobile is essential. Mobile optimisation includes having a responsive design that adjusts to different screen sizes and ensuring that your site loads quickly on mobile devices.</p>
-                <img src='img/simple-img-1.jpg' alt=''>
+                <div class="swiper-entry">
+                  <div class="swiper-container" data-options='{"slidesPerView": 1, "effect":"fade", "autoHeight": true, "loop":true, "lazy": true }'>
+                    <div class="swiper-wrapper">
+                      <div class="swiper-slide">
+                        <div class="slide-img">
+                          <picture>
+                            <source srcset="img/optimisation2.webp" type="image/webp">
+                            <source srcset="img/optimisation2.jpg" type="image/jpg">
+                            <img src="img/optimisation2.jpg" alt="" loading="lazy">
+                          </picture>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="slide-img">
+                          <picture>
+                            <source srcset="img/optimisation3.webp" type="image/webp">
+                            <source srcset="img/optimisation3.jpg" type="image/jpg">
+                            <img src="img/optimisation3.jpg" alt="" loading="lazy">
+                          </picture>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-pagination swiper-pagination-relative"></div>
+                  </div>
+                </div>
                 <h5>Content Optimisation</h5>
                 <p>Content is king for website optimisation, and creating high-quality, engaging content optimised for search engines is essential. Content optimisation includes using keywords, creating meta descriptions, and including alt tags for images.</p>
                 <h5>Search Engine Optimisation (SEO)</h5>
                 <p>SEO is optimising your website to rank higher in search engine results pages (SERPs). This optimisation includes using keywords, creating high-quality content, and building quality backlinks.</p>
-                <img src='img/simple-img-1.jpg' alt=''>
+                <img src='img/optimisation4.jpg' alt='search engine'>
                 <h5>User Experience (UX)</h5>
                 <p>UX is a user's overall experience when interacting with your website. This includes factors such as ease of use, navigation, and accessibility. By optimising the UX of your website, you can improve engagement and conversions.</p>
                 <h5>Analytics</h5>
                 <p>Analytics is vital to website optimisation, as they help you understand how visitors interact with your site. This includes tracking metrics such as page views, bounce rate, and conversion rate and using this data to make informed decisions about optimisation</p>
-                <img src='img/simple-img-1.jpg' alt=''>
+                <img src='img/optimisation5.jpg' alt='Analytics'>
                 <h5>Testing and Optimisation</h5>
                 <p>Finally, website optimisation is an ongoing process that involves regularly testing and making changes to improve performance. This may include A/B testing to determine the best design, surveys to get user feedback, and analysing analytics to see what's working.</p>
                 <p>In conclusion, website optimisation is critical to running a successful website. By focusing on factors such as page speed, mobile optimisation, content, SEO, UX, analytics, and testing, you can create a website that performs well, engages your audience, and drives conversions. Whether you're a small business, a large corporation or just someone who wants to establish a personal online presence, optimising your website can pay big dividends in the long run.</p>

@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Popular hosting services and domains</title>
+  <title>REDSTONE SOFTWARE - Popular hosting services and domains</title>
   <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
 CRM systems that are convenient for users and our customers. Top offers in Belfast">
   <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
@@ -44,9 +44,9 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             <div class="col-xl-8">
               <div class="project-banner-img">
                 <picture>
-                  <source srcset="img/simple-img-3.webp" type="image/webp">
-                  <source srcset="img/isimple-img-3.jpg" type="image/jpg">
-                  <img src="img/simple-img-3.jpg" alt="">
+                  <source srcset="img/hosting1.webp" type="image/webp">
+                  <source srcset="img/hosting1.jpg" type="image/jpg">
+                  <img src="img/hosting1.jpg" alt="hosting services">
                 </picture>
               </div>
             </div>
@@ -61,7 +61,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
           </div>
         </div>
-        <div class="spacer-xl"></div>
+        <div class="spacer-md"></div>
       </div>
 
       <!-- BLOG -->
@@ -78,8 +78,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
                   <li><b>Dedicated Hosting.</b> As the name suggests, dedicated hosting provides a dedicated server for your website. Service makes it an excellent option for large, high-traffic websites that require maximum control over resources and security.</li>
                   <li><b>Cloud Hosting.</b> Cloud hosting provides a scalable and flexible solution for websites, allowing you to increase or decrease the resources you use as needed. Service makes it a great option for websites that experience seasonal spikes in traffic.</li>
                 </ul>
-                <img src='img/simple-img-1.jpg' alt=''>
-
+                <img src='img/hosting2.jpg' alt='hosting'>
                 <h5>Domains</h5>
                 <p>A domain name is an address people use to find your website online. Some popular options include:</p>
                 <ul>
@@ -88,7 +87,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
                   <li><b>.net</b> This TLD was initially intended for network providers but is now used by many websites, including tech and software companies.</li>
                   <li><b>.info</b> This TLD is intended to provide information and is often used by news websites and informational resources. Country-Specific TLDs: In addition to generic TLDs, there are also country-specific TLDs, such as .uk for the United Kingdom and .au for Australia. These TLDs help establish a local presence for your website and make it easier for people in your target market to find you.</li>
                 </ul>
-                <img src='img/simple-img-1.jpg' alt=''>
+                <img src='img/hosting3.jpg' alt='domains'>
                 <p>In conclusion, choosing an exemplary hosting service and domain name is essential when setting up a website. Many options are available to meet your needs, whether you're a small business, a large corporation, or someone who wants to establish a personal online presence. By considering resources, security, and brand identity, you can find the exemplary hosting service and domain name to help your website succeed.</p>
               </div>
             </div>

@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Web design trends in 2023</title>
+  <title>REDSTONE SOFTWARE - Web design trends in 2023</title>
   <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
 CRM systems that are convenient for users and our customers. Top offers in Belfast">
   <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
@@ -61,7 +61,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
           </div>
         </div>
-        <div class="spacer-xl"></div>
+        <div class="spacer-md"></div>
       </div>
 
       <!-- BLOG -->

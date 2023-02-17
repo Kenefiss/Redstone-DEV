@@ -61,9 +61,9 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
               <div class="news-img">
                 <a href="website-integration-with-crm">
                   <picture>
-                    <source srcset="img/news-item4.webp" type="image/webp">
-                    <source srcset="img/news-item4.jpg" type="image/jpeg">
-                    <img src="img/news-item4.jpg" alt="">
+                    <source srcset="img/integration1.webp" type="image/webp">
+                    <source srcset="img/integration1.jpg" type="image/jpeg">
+                    <img src="img/integration1.jpg" alt="integration">
                   </picture>
                   <span class="date">15.02.2023</span>
                 </a>
@@ -76,9 +76,9 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
               <div class="news-img">
                 <a href="website-optimisation">
                   <picture>
-                    <source srcset="img/news-item3.webp" type="image/webp">
-                    <source srcset="img/news-item3.jpg" type="image/jpeg">
-                    <img src="img/news-item3.jpg" alt="">
+                    <source srcset="img/optimisation1.webp" type="image/webp">
+                    <source srcset="img/optimisation1.jpg" type="image/jpeg">
+                    <img src="img/optimisation1.jpg" alt="">
                   </picture>
                   <span class="date">08.02.2023</span>
                 </a>
@@ -91,9 +91,9 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
               <div class="news-img">
                 <a href="popular-hosting-services-and-domains">
                   <picture>
-                    <source srcset="img/news-item2.webp" type="image/webp">
-                    <source srcset="img/news-item2.jpg" type="image/jpeg">
-                    <img src="img/news-item2.jpg" alt="">
+                    <source srcset="img/hosting1.webp" type="image/webp">
+                    <source srcset="img/hosting1.jpg" type="image/jpeg">
+                    <img src="img/hosting1.jpg" alt="">
                   </picture>
                   <span class="date">01.02.2023</span>
                 </a>

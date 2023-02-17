@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Website integration with CRM</title>
+  <title>REDSTONE SOFTWARE - Website integration with CRM</title>
   <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
 CRM systems that are convenient for users and our customers. Top offers in Belfast">
   <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
@@ -44,9 +44,9 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             <div class="col-xl-8">
               <div class="project-banner-img">
                 <picture>
-                  <source srcset="img/simple-img-3.webp" type="image/webp">
-                  <source srcset="img/isimple-img-3.jpg" type="image/jpg">
-                  <img src="img/simple-img-3.jpg" alt="">
+                  <source srcset="img/integration1.webp" type="image/webp">
+                  <source srcset="img/integration1.jpg" type="image/jpg">
+                  <img src="img/integration1.jpg" alt="integration">
                 </picture>
               </div>
             </div>
@@ -61,7 +61,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
           </div>
         </div>
-        <div class="spacer-xl"></div>
+        <div class="spacer-md"></div>
       </div>
 
       <!-- BLOG -->
@@ -81,36 +81,27 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
                       <div class="swiper-slide">
                         <div class="slide-img">
                           <picture>
-                            <source srcset="img/simple-img-2.webp" type="image/webp">
-                            <source srcset="img/simple-img-2.jpg" type="image/jpg">
-                            <img src="img/simple-img-2.jpg" alt="" loading="lazy">
+                            <source srcset="img/integration2.webp" type="image/webp">
+                            <source srcset="img/integration2.jpg" type="image/jpg">
+                            <img src="img/integration2.jpg" alt="" loading="lazy">
                           </picture>
                         </div>
                       </div>
                       <div class="swiper-slide">
                         <div class="slide-img">
                           <picture>
-                            <source srcset="img/simple-img-3.webp" type="image/webp">
-                            <source srcset="img/simple-img-3.jpg" type="image/jpg">
-                            <img src="img/simple-img-3.jpg" alt="" loading="lazy">
+                            <source srcset="img/integration3.webp" type="image/webp">
+                            <source srcset="img/integration3.jpg" type="image/jpg">
+                            <img src="img/integration3.jpg" alt="" loading="lazy">
                           </picture>
                         </div>
                       </div>
                       <div class="swiper-slide">
                         <div class="slide-img">
                           <picture>
-                            <source srcset="img/simple-img-1.webp" type="image/webp">
-                            <source srcset="img/simple-img-1.jpg" type="image/jpg">
-                            <img src="img/simple-img-1.jpg" alt="" loading="lazy">
-                          </picture>
-                        </div>
-                      </div>
-                      <div class="swiper-slide">
-                        <div class="slide-img">
-                          <picture>
-                            <source srcset="img/simple-img-3.webp" type="image/webp">
-                            <source srcset="img/simple-img-3.jpg" type="image/jpg">
-                            <img src="img/simple-img-3.jpg" alt="" loading="lazy">
+                            <source srcset="img/integration4.webp" type="image/webp">
+                            <source srcset="img/integration4.jpg" type="image/jpg">
+                            <img src="img/integration4.jpg" alt="" loading="lazy">
                           </picture>
                         </div>
                       </div>
