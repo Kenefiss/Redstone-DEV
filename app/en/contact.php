@@ -19,14 +19,16 @@ and increase your profit | Norther Ireland | Certified company">
       <!-- BREADCRUMBS -->
       <div class="section sec-breadcrumbs">
         <div class="container-fluid">
-          <ul class="breadcrumbs">
-            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="/" itemprop="url">
-                <span itemprop="title">Home</span>
+          <ul class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a href="/" itemprop="item">
+                <span itemprop="name">Home</span>
               </a>
+              <meta itemprop="position" content="1" />
             </li>
-            <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <span itemprop="title">Contacts</span>
+            <li class="active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <span itemprop="name">Contacts</span>
+              <meta itemprop="position" content="2" />
             </li>
           </ul>
         </div>

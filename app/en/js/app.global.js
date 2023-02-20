@@ -50,23 +50,36 @@ document.addEventListener("DOMContentLoaded", function() {
   }, 500);
 
   //active link
+  let innerPage = '';
+  if(document.querySelector('body').hasAttribute("data-page")){
+    innerPage = document.querySelector('body').getAttribute("data-page");
+  }
+
   let activeLink = window.location.pathname.split('/');
   document.querySelectorAll('.header-wrap-center li a').forEach(item => {
-    if(activeLink[1] == item.getAttribute("href")){
+    if( (activeLink[1] == item.getAttribute("href")) || (item.getAttribute("href") == innerPage) ){
       item.classList.add('active');
     }else{
       item.classList.remove('active');
     }
+
+    //remove class active with APP
+    if(item.getAttribute("href") == 'app'){
+      item.classList.remove('active');
+    }
+
   });
+
   document.querySelectorAll('.header-mega-menu li a').forEach(item => {
-    if(activeLink[1] == item.getAttribute("href")){
+    if( (activeLink[1] == item.getAttribute("href")) || (item.getAttribute("href") == innerPage) ){
       item.classList.add('active');
     }else{
       item.classList.remove('active');
     }
   });
+
   document.querySelectorAll('.footer-links li a').forEach(item => {
-    if(activeLink[1] == item.getAttribute("href")){
+    if( (activeLink[1] == item.getAttribute("href")) || (item.getAttribute("href") == innerPage) ){
       item.classList.add('active');
     }else{
       item.classList.remove('active');
@@ -123,6 +136,7 @@ document.addEventListener("DOMContentLoaded", function() {
           entries.forEach(entry => {
             if (entry.isIntersecting){
               entry.target.focus();
+              document.querySelector('#email').closest('.input-field-wrapper').classList.add('invalid');
             }
           });
         }, { threshold: 1 });

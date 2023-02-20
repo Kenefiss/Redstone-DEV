@@ -9,7 +9,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
   <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
 </head>
 
-<body>
+<body data-page="blog">
   <div id="loader-wrapper"></div>
   <div id="content-block">
     <?php include 'inc/_header.php';?>
@@ -19,19 +19,22 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
       <!-- BREADCRUMBS -->
       <div class="section sec-breadcrumbs">
         <div class="container-fluid">
-          <ul class="breadcrumbs type2">
-            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="/" itemprop="url">
-                <span itemprop="title">Home</span>
+          <ul class="breadcrumbs type2" itemscope itemtype="https://schema.org/BreadcrumbList">
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a href="/" itemprop="item">
+                <span itemprop="name">Home</span>
               </a>
+              <meta itemprop="position" content="1" />
             </li>
-            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="blog" itemprop="url">
-                <span itemprop="title">Blog</span>
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a href="blog" itemprop="item">
+                <span itemprop="name">Blog</span>
               </a>
+              <meta itemprop="position" content="2" />
             </li>
-            <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <span itemprop="title">Web design trends in 2023</span>
+            <li class="active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <span itemprop="name">Web design trends in 2023</span>
+              <meta itemprop="position" content="3" />
             </li>
           </ul>
         </div>

@@ -118,6 +118,8 @@
   height: 100%;
   padding: 30px;
   border: 1px solid #E8E8E8;
+  display: flex;
+  flex-direction: column;
 }
 
 .reviews-slider.type2 .review-info {
@@ -155,6 +157,9 @@
   margin-top: 30px;
   padding-top: 30px;
   border-top: 1px solid #E8E8E8;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .reviews-slider.type2 .review-content .rating {
@@ -172,13 +177,14 @@
 .reviews-slider.type2 .review-content .text:not(.review-price-block) {
   color: var(--clr-plc);
   min-height: 56px;
+  margin-bottom: 20px;
 }
 
 .reviews-slider.type2 .review-price-block {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 20px;
+  margin-top: auto;
   line-height: 1;
 }
 
@@ -402,10 +408,6 @@
   .reviews-slider.type2 .review-content {
     margin-top: 15px;
     padding-top: 15px;
-  }
-
-  .reviews-slider.type2 .review-price-block {
-    margin-top: 15px;
   }
 
   .reviews-slider.type2 .review-content .text:not(.review-price-block) {
