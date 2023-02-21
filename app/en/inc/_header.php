@@ -160,8 +160,7 @@
     </div>
     <div class="header-informer text text-sm">
         <img src="img/informer-img.svg" alt="" loading="lazy">
-        <b>We stand with Ukraine.</b>
-        <a href="portfolio">VIEW our projects</a>
+        <a href="ukraine">We stand with Ukraine.</a>
         <div class="btn-close"></div>
       </div>
     </div>

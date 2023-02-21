@@ -347,6 +347,12 @@
   .general-rating {
     justify-content: center;
   }
+  .reviews-slider.type2 .review-block{
+    padding: 15px;
+  }
+  .reviews-slider.type2 .review-info{
+    min-height:88px;
+  }
 }
 
 @media(max-width:991px) {
@@ -382,6 +388,10 @@
     padding: 0;
   }
 
+  .reviews-slider.type2 .review-info {
+    min-height: auto;
+  }
+
   .reviews-slider.type2 .review-content .text:not(.review-price-block) {
     min-height: 56px;
   }
@@ -399,10 +409,6 @@
 
   .reviews-slider.type2 .review-block {
     padding: 15px;
-  }
-
-  .reviews-slider.type2 .review-info {
-    min-height: auto;
   }
 
   .reviews-slider.type2 .review-content {

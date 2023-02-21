@@ -63,24 +63,8 @@ header {
       max-width: 35px;
     }
 
-    b {
-      margin-right: 25px;
-      font-weight: 300;
-    }
-
     a {
-      display: inline-block !important;
-      text-transform: uppercase;
-      color: var(--clr-red) !important;
-      font-weight: 600 !important;
-      font-size: 14px;
-      line-height: 1em;
-      margin-top: 2px;
-      letter-spacing: 0.12em;
-      margin-top: 4px;
-      background: linear-gradient(to top, #ffd700 60%, #0A489D 50%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
+      font-weight: 300!important;
     }
   }
 
