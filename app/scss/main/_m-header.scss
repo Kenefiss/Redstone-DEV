@@ -23,7 +23,9 @@ header {
     box-shadow: 0 5px 10px rgba(0, 0, 0, .02);
   }
 }
-
+.not-informer .header-informer{
+  display: none;
+}
 .header-informer {
   position: fixed;
   bottom: 0;

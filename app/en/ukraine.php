@@ -7,7 +7,7 @@
   <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
 </head>
 
-<body>
+<body class="not-informer">
   <div id="loader-wrapper"></div>
   <div id="content-block">
     <?php include 'inc/_header.php';?>
@@ -19,7 +19,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12">
-              <div class="title-with-text">
+              <div class="title-with-text full-width">
                 <div class="title page-title h2">We stand with UKRAINE</div>
               </div>
             </div>
