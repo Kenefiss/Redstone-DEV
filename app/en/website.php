@@ -67,7 +67,33 @@ Our advantages: quality and comfort!">
       </div>
 
       <!-- SEO -->
-      <?php include 'inc/sections/_seo-2.php'; ?>
+      <div class="section fs-2">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-5 offset-xl-1">
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <div class="simple-page text text-sm animate-item fadeInUp delay-2">
+                <p>In today's digital age, having a website for your business is no longer just an option - it's a necessity. Your website is often the first interaction a potential customer has with your brand, and it can make or break their decision to do business with you. That's why it's essential to have a professional and user-friendly website that represents your brand in the best possible light.</p>
+                <p>A <b>website</b> serves as a 24/7 online presence for your business, providing valuable information about your products and services to potential customers at any time of day. It also allows you to showcase your brand's unique selling points and differentiate yourself from your competitors.</p>
+                <p>In addition to being a powerful marketing tool, a website also helps to establish credibility and legitimacy for your business. Customers are more likely to trust and engage with a business that has a professional website than one that doesn't. It shows that you're invested in your business and willing to put in the effort to make a positive impression on your customers.</p>
+                <p>A website also provides an opportunity to collect valuable data on your customers and their behavior. By analyzing website traffic, you can gain insights into what your customers are looking for and make informed decisions about your business strategy.</p>
+                <p>Finally, a website can help you expand your reach beyond your local community. With the rise of e-commerce, having a website allows you to sell your products and services to customers all over the world.</p>
+                <p>In short, having a <b>website</b> for your business is essential in today's digital landscape. It's a powerful marketing tool, establishes credibility, provides valuable data, and allows you to expand your reach beyond your local community. So if you don't already have a website, it's time to invest in one!</p>
+              </div>
+              <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
+            </div>
+            <div class="col-xl-5 d-none d-xl-block">
+              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
+                <div class="video">
+                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
+                </div>
+              </div>
+            </div>
+          </div>
+          </div>
+          <div class="spacer-xl"></div>
+        </div>
+      </div>
 
     </main>
 

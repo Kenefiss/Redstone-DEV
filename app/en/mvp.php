@@ -66,7 +66,33 @@
       </div>
 
       <!-- SEO -->
-      <?php include 'inc/sections/_seo-2.php'; ?>
+      <div class="section fs-2">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-5 offset-xl-1">
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <div class="simple-page text text-sm animate-item fadeInUp delay-2">
+                <p>Are you planning to launch a new web product or service? Developing a Minimum Viable Product (MVP) before going live with your customers can be the key to success.</p>
+                <p>An <b>MVP</b> is a stripped-down version of your product that contains only the essential features needed to solve a specific problem for your customers. It allows you to test your product idea in the market quickly and cost-effectively, and get feedback from real users to improve it.</p>
+                <p>By developing an MVP, you can identify potential issues and validate assumptions about your product, such as its market fit, user needs, and product-market fit. You can also save time and money by avoiding costly mistakes and building features that may not be necessary or relevant to your users.</p>
+                <p>Moreover, an MVP can help you attract early adopters and investors, who are interested in supporting innovative ideas and seeing them grow. They can provide you with valuable insights, feedback, and resources that can help you refine your product and scale it up in the future.</p>
+                <p>At our company, we understand the importance of developing an MVP before launching a web product or service. We have a team of experienced developers, designers, and product managers who can help you build a high-quality MVP that meets your business goals and user needs. Whether you are a startup or an established business, we can help you develop an MVP that sets you up for success.</p>
+                <p>Contact us today to learn more about our <b>MVP</b> development services and how we can help you launch your product faster and more efficiently.</p>
+              </div>
+              <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
+            </div>
+            <div class="col-xl-5 d-none d-xl-block">
+              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
+                <div class="video">
+                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
+                </div>
+              </div>
+            </div>
+          </div>
+          </div>
+          <div class="spacer-xl"></div>
+        </div>
+      </div>
 
     </main>
 

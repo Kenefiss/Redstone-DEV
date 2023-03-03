@@ -67,7 +67,31 @@ will fall in love with them.">
       </div>
 
       <!-- SEO -->
-      <?php include 'inc/sections/_seo-2.php'; ?>
+      <div class="section fs-2">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-5 offset-xl-1">
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <div class="simple-page text text-sm animate-item fadeInUp delay-2">
+                <p>E-commerce integration has become a vital aspect of modern businesses. With the increasing popularity of online shopping, having a robust e-commerce platform can help your business attract more customers, generate more sales, and improve your bottom line.</p> <p>At its core, <b>e-commerce</b> integration involves connecting your online store with other essential systems and services such as payment gateways, inventory management systems, shipping providers, and accounting software. This integration ensures that your e-commerce operations run seamlessly and efficiently.</p>
+                <p>By integrating your e-commerce platform with various systems, you can streamline your business processes and eliminate manual data entry. This means you can spend more time on critical tasks such as marketing, customer service, and product development. E-commerce integration also enables you to gain valuable insights into customer behavior, which can help you make data-driven decisions that will grow your business.</p>
+                <p>At REDSTONE], we understand the importance of e-commerce integration in modern businesses. That's why we offer comprehensive e-commerce solutions that are tailored to your unique business needs. Our team of experts will work closely with you to design an e-commerce platform that integrates with your existing systems and delivers a seamless shopping experience for your customers.</p>
+                <p>Whether you're just starting with e-commerce or looking to optimize your existing online store, REDSTONE has the expertise and resources to help you achieve your goals. Contact us today to learn more about our <b>e-commerce</b> integration solutions and take your online business to the next level.</p>
+              </div>
+              <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
+            </div>
+            <div class="col-xl-5 d-none d-xl-block">
+              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
+                <div class="video">
+                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
+                </div>
+              </div>
+            </div>
+          </div>
+          </div>
+          <div class="spacer-xl"></div>
+        </div>
+      </div>
 
     </main>
 

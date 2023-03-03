@@ -91,6 +91,29 @@
       </div>
     </div>
   </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://topusaawards.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-34.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-34.png" type="image/png">
+          <img src="img/portfolio/p-img-34.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://topusaawards.com/" target="_blank" rel="nofollow">TOP USA awards</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We created a landing page for a famous awarding agency in US.
+      </div>
+    </div>
+  </div>
   <div class="col-12 col-md-6 col-lg-4 _web">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
@@ -684,16 +707,15 @@
           <img class="icon" src="img/nda.svg" alt>
           <div class="text">This project has a Non-Disclosure Agreement.</div>
         </div>
-        <img src="img/portfolio/p-img-29.svg" alt="" loading="lazy">
+        <img src="img/portfolio/p-img-30.svg" loading="lazy" alt="">
       </div>
-      <div class="case-title title h5">Soundsence</div>
+      <div class="case-title title h5">Cohflow</div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>
-        <span>#aws</span>
       </div>
       <div class="case-desc text">
-        Music license portal for leading music agency in North America
+        We developed a telecom portal for high-rated IT services company that working exclusively with enterprise customers.
       </div>
     </div>
   </div>
@@ -704,15 +726,16 @@
           <img class="icon" src="img/nda.svg" alt>
           <div class="text">This project has a Non-Disclosure Agreement.</div>
         </div>
-        <img src="img/portfolio/p-img-30.svg" loading="lazy" alt="">
+        <img src="img/portfolio/p-img-29.svg" alt="" loading="lazy">
       </div>
-      <div class="case-title title h5">Cohflow</div>
+      <div class="case-title title h5">Soundsence</div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>
+        <span>#aws</span>
       </div>
       <div class="case-desc text">
-        We developed a telecom portal for high-rated IT services company that working exclusively with enterprise customers.
+        Music license portal for leading music agency in North America
       </div>
     </div>
   </div>
@@ -784,6 +807,27 @@
       </div>
     </div>
   </div>
+  <div class="col-12 col-md-6 col-lg-4 _web">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">This project has a Non-Disclosure Agreement.</div>
+        </div>
+        <img src="img/portfolio/p-img-32.svg" loading="lazy" alt="">
+      </div>
+      <div class="case-title title h5">Clip-Clop</div>
+      <div class="case-tags">
+        <span>#jQuery</span>
+        <span>#PHP</span>
+        <span>#HTML5</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        A social network for horse owners.
+      </div>
+    </div>
+  </div>
   <div class="col-12 col-md-6 col-lg-4 _app">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img">
@@ -804,27 +848,6 @@
       </div>
       <div class="case-desc text">
         This mobile app gives installers quick and accurate advice on sizing Upipe tubing on the job.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _web">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img">
-        <div class="top-info nda">
-          <img class="icon" src="img/nda.svg" alt>
-          <div class="text">This project has a Non-Disclosure Agreement.</div>
-        </div>
-        <img src="img/portfolio/p-img-32.svg" loading="lazy" alt="">
-      </div>
-      <div class="case-title title h5">Clip-Clop</div>
-      <div class="case-tags">
-        <span>#jQuery</span>
-        <span>#PHP</span>
-        <span>#HTML5</span>
-        <span>#CSS3</span>
-      </div>
-      <div class="case-desc text">
-        A social network for horse owners.
       </div>
     </div>
   </div>

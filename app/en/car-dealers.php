@@ -65,7 +65,32 @@
       </div>
 
       <!-- SEO -->
-      <?php include 'inc/sections/_seo-2.php'; ?>
+      <div class="section fs-2">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-5 offset-xl-1">
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <div class="simple-page text text-sm animate-item fadeInUp delay-2">
+                <p>Are you a <b>car dealer</b> looking for ways to boost your online presence and attract more customers? Look no further than our web solutions for car dealers.</p>
+                <p>Our team of experienced web developers and SEO experts understands the unique challenges and opportunities that car dealers face in the online marketplace. That's why we offer a range of customizable solutions to meet your specific needs and goals. Our services include website design and development, search engine optimization (SEO), social media marketing, and online advertising.</p>
+                <p>We can help you create a visually stunning and user-friendly website that showcases your inventory and services, as well as drive targeted traffic to your site through strategic SEO and advertising campaigns.</p>
+                <p>With our web solutions, you can also improve your customer engagement and retention through effective email marketing and CRM integration. Our team can help you develop targeted email campaigns and integrate your customer data into a centralized CRM platform for more personalized and effective communication.</p>
+                <p>Don't let your online presence hold you back from reaching your full potential as a <b>car dealer</b>. Contact us today to learn more about our web solutions and how we can help you achieve your goals.</p>
+              </div>
+              <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
+            </div>
+            <div class="col-xl-5 d-none d-xl-block">
+              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
+                <div class="video">
+                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
+                </div>
+              </div>
+            </div>
+          </div>
+          </div>
+          <div class="spacer-xl"></div>
+        </div>
+      </div>
 
     </main>
 
