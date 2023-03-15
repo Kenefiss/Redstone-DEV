@@ -214,6 +214,29 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
+        <a class="full-link" href="https://sonnydickson.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-37.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-37.png" type="image/png">
+          <img src="img/portfolio/p-img-37.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://sonnydickson.com/" target="_blank" rel="nofollow">Sonny Dickson</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        Our team developed a newsletter platform.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
         <a class="top-info clutch" href="https://clutch.co/profile/redstone?page=1#review-1982687" target="_blank" rel="nofollow">
           <img class="icon" src="img/clutch.svg" alt>
           <div class="text">This project has verified testimonial on Clutch.</div>
@@ -281,6 +304,29 @@
       </div>
       <div class="case-desc text">
         We created a landing page for the investment management company
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://origin-team.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-35.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-35.png" type="image/png">
+          <img src="img/portfolio/p-img-35.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://origin-team.com/" target="_blank" rel="nofollow">Origin Team</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We developed a marketing website for a top-rated design development company
       </div>
     </div>
   </div>
@@ -478,6 +524,29 @@
       </div>
       <div class="case-desc text">
         Finhub is a worldwide online platform that was created to communicate with potential investors with promising projects in one trading arena.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="http://designbynickelloh.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-36.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-36.png" type="image/png">
+          <img src="img/portfolio/p-img-36.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="http://designbynickelloh.com/" target="_blank" rel="nofollow">Nikelloh</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We created a marketing website for an interior design agency in UAE.
       </div>
     </div>
   </div>

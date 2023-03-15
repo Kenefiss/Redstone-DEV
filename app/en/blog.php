@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="benefits-of-headless-cms-for-web-development">
+                  <picture>
+                    <source srcset="img/headless-cms1.webp" type="image/webp">
+                    <source srcset="img/headless-cms1.jpg" type="image/jpeg">
+                    <img src="img/headless-cms1.jpg" alt="headless-cms1">
+                  </picture>
+                  <span class="date">13.03.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="benefits-of-headless-cms-for-web-development">Benefits of Headless CMS for Web Development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="benefits-of-custom-web-development">
+                  <picture>
+                    <source srcset="img/benefit-custom1.webp" type="image/webp">
+                    <source srcset="img/benefit-custom1.jpg" type="image/jpeg">
+                    <img src="img/benefit-custom1.jpg" alt="benefit-custom1">
+                  </picture>
+                  <span class="date">08.03.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="benefits-of-custom-web-development">Benefits of Custom Web Development vs. Off-the-Shelf Solutions</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-impact-of-color-on-website-design-and-user-experience">
+                  <picture>
+                    <source srcset="img/impact-color1.webp" type="image/webp">
+                    <source srcset="img/impact-color1.jpg" type="image/jpeg">
+                    <img src="img/impact-color1.jpg" alt="impact-color1">
+                  </picture>
+                  <span class="date">06.03.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-impact-of-color-on-website-design-and-user-experience">The Impact of Color on Website Design and User Experience</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="how-to-secure-your-website-from-hackers-and-cyber-attacks">
+                  <picture>
+                    <source srcset="img/hackers1.webp" type="image/webp">
+                    <source srcset="img/hackers1.jpg" type="image/jpeg">
+                    <img src="img/hackers1.jpg" alt="hackers1">
+                  </picture>
+                  <span class="date">01.03.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-secure-your-website-from-hackers-and-cyber-attacks">How to Secure Your Website from Hackers and Cyber Attacks</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="website-integration-with-crm">
                   <picture>
                     <source srcset="img/integration1.webp" type="image/webp">
