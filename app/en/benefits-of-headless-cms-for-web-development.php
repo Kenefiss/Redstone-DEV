@@ -86,14 +86,14 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
                   <li><b>Cost-Effective</b> Headless CMS can be cost-effective, as businesses only need to develop one back-end system that can be used across multiple front-end applications. This can help businesses save on development costs and streamline their content management processes.</li>
                 </ol>
                 <img src='img/headless-cms3.jpg' alt='headless-cms3'>
-                <p>Conclusion In conclusion, headless CMS offers a range of benefits for web development, including flexibility, agility, customizable user experiences, scalability, multi-channel delivery, increased security, and cost-effectiveness. As businesses continue to focus on delivering digital content across multiple channels, headless CMS is becoming an increasingly popular choice for managing and delivering content efficiently and effectively.</p>
+                <p>In conclusion, headless CMS offers a range of benefits for web development, including flexibility, agility, customizable user experiences, scalability, multi-channel delivery, increased security, and cost-effectiveness. As businesses continue to focus on delivering digital content across multiple channels, headless CMS is becoming an increasingly popular choice for managing and delivering content efficiently and effectively.</p>
               </div>
             </div>
           </div>
         </div>
         <div class="spacer-xl"></div>
       </div>
-
+      
     </main>
 
     <?php include 'inc/_footer.php';?>
