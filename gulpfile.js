@@ -278,14 +278,14 @@ export const imgEn = () => {
 }
 
 export const imgPl = () => {
-  return gulp.src('images/**/*.{png,jpg,svg}')
-    .pipe(newer('app/img/'))
+  return gulp.src('images-pl/**/*.{png,jpg,svg}')
+    .pipe(newer('app/pl/img/'))
     .pipe(webp({
       quality: 100
     }))
-    .pipe(gulp.dest('app/img/'))
-    .pipe(gulp.src('images/**/*.{png,jpg,svg}'))
-    .pipe(newer('app/img/'))
+    .pipe(gulp.dest('app/pl/img/'))
+    .pipe(gulp.src('images-pl/**/*.{png,jpg,svg}'))
+    .pipe(newer('app/pl/img/'))
     .pipe(
       imagemin({
           progressive: true,
@@ -306,7 +306,7 @@ export const imgPl = () => {
           }),
         ])
     )
-    .pipe(gulp.dest('app/img/'))
+    .pipe(gulp.dest('app/pl/img/'))
 }
 
 export const imgRu = () => {

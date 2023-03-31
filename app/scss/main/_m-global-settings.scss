@@ -6,7 +6,7 @@
   --ff-2: 'SF UI Display', sans-serif;
 
 
-  --h-1: 80px;
+  --h-1: 70px;
   --h-2: 50px;
   --h-3: 46px;
   --h-4: 38px;
@@ -180,7 +180,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
 
 @media (max-width: 1750px) {
   :root {
-    --h-1: 70px;
+    --h-1: 64px;
   }
 }
 
@@ -203,14 +203,14 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     margin-top: 0;
   }
   :root {
-    --h-1: 64px;
+    --h-1: 60px;
   }
 
 }
 
 @media (max-width: 1560px) {
   :root {
-    --h-1: 60px;
+    --h-1: 54px;
     --h-2: 42px;
     --h-3: 34px;
     --h-4: 30px;
