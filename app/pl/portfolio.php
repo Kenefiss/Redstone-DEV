@@ -50,7 +50,7 @@
                     <li><a data-filter="._app" href="app">Aplikacja</a></li>
                     <li><a data-filter="._mvp" href="mvp">MVP</a></li>
                     <li><a data-filter="._e-сommerce" href="e-commerce">E - Commerce</a></li>
-                    <li><a data-filter="._car-dealers" href="car-dealers">przedawcy samochodów</a></li>
+                    <li><a data-filter="._car-dealers" href="car-dealers">Sprzedawcy samochodów</a></li>
                     <li><a data-filter="._branding" href="branding">Branding</a></li>
                     <li><a data-filter="._website" href="website">Strona internetowa</a></li>
                   </ul>
