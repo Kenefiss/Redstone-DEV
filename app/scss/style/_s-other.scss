@@ -79,6 +79,10 @@
   margin-right: 50px;
 }
 
+:lang(pl) .sort-nav li:not(:last-child) {
+  margin-right: 25px;
+}
+
 .sort-nav a {
   color: var(--clr-black);
 }

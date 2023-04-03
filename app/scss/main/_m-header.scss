@@ -756,6 +756,9 @@ header {
   .header-wrap-right{
     z-index: 4;
   }
+  :lang(pl).header-wrap-right{
+    margin-left: 20px;
+  }
   .header-menu-right {
     margin-top: auto;
 

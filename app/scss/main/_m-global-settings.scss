@@ -6,7 +6,7 @@
   --ff-2: 'SF UI Display', sans-serif;
 
 
-  --h-1: 70px;
+  --h-1: 80px;
   --h-2: 50px;
   --h-3: 46px;
   --h-4: 38px;
@@ -37,6 +37,10 @@
 
   --transition-1: 0.3s;
   --transition-2: 0.6s;
+}
+
+:lang(pl):root{
+  --h-1: 70px;
 }
 
 html {
@@ -203,19 +207,24 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     margin-top: 0;
   }
   :root {
+    --h-1: 64px;
+  }
+  :lang(pl):root{
     --h-1: 60px;
   }
-
 }
 
 @media (max-width: 1560px) {
   :root {
-    --h-1: 54px;
+    --h-1: 60px;
     --h-2: 42px;
     --h-3: 34px;
     --h-4: 30px;
     --h-5: 22px;
     --h-6: 19px;
+  }
+  :lang(pl):root {
+    --h-1: 54px;
   }
 
   .container-fluid {
@@ -254,6 +263,9 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   :root {
     --h-1: 54px;
   }
+  :lang(pl):root {
+    --h-1: 50px;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -262,6 +274,10 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     --h-2: 24px;
     --h-3: 24px;
     --h-4: 30px;
+  }
+
+  :lang(pl):root{
+    --h-1: 32px;
   }
 
   #content-block {
