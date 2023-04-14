@@ -35,8 +35,8 @@
         <div class="contact-info">
           <div class="contact-info-title">Phone: </div>
           <div class="contact-info-list">
-            <a href="tel:+447493872709">
-              <b itemprop="telephone">+447493872709</b>
+            <a href="tel:+12027735786">
+              <b itemprop="telephone">+12027735786</b>
             </a>
           </div>
         </div>

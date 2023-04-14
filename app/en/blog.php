@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="e-commerce-website-development">
+                  <picture>
+                    <source srcset="img/e-commerce-website-development.webp" type="image/webp">
+                    <source srcset="img/e-commerce-website-development.jpg" type="image/jpeg">
+                    <img src="img/e-commerce-website-development.jpg" alt="e-commerce-website-development">
+                  </picture>
+                  <span class="date">13.04.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="e-commerce-website-development">E-commerce website development: best practices for creating successful online stores</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="accessibility-in-web-design">
+                  <picture>
+                    <source srcset="img/accessibility-in-web-design.webp" type="image/webp">
+                    <source srcset="img/accessibility-in-web-design.jpg" type="image/jpeg">
+                    <img src="img/accessibility-in-web-design.jpg" alt="accessibility-in-web-design">
+                  </picture>
+                  <span class="date">10.04.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="accessibility-in-web-design">Accessibility in web design: how to design websites accessible to people with disabilities</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="content-management-systems">
+                  <picture>
+                    <source srcset="img/content-management-systems.webp" type="image/webp">
+                    <source srcset="img/content-management-systems.jpg" type="image/jpeg">
+                    <img src="img/content-management-systems.jpg" alt="content-management-systems">
+                  </picture>
+                  <span class="date">07.04.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="content-management-systems">Content Management Systems (CMS): a comparison of popular CMSs such as WordPress, Drupal, and Joomla</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="web-development-frameworks">
+                  <picture>
+                    <source srcset="img/development-frameworks.webp" type="image/webp">
+                    <source srcset="img/development-frameworks.jpg" type="image/jpeg">
+                    <img src="img/development-frameworks.jpg" alt="development-frameworks">
+                  </picture>
+                  <span class="date">03.04.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="web-development-frameworks">Web development frameworks: a comparison of popular frameworks such as React, Angular, and Vue.js</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="benefits-of-headless-cms-for-web-development">
                   <picture>
                     <source srcset="img/headless-cms1.webp" type="image/webp">
