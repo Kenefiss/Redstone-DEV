@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12">
         <div class="title-with-text no-align">
-          <div class="title h2 animate-item fadeInUp">Poznaj nasze przypadki</div>
+          <div class="title h2 animate-item fadeInUp">Poznaj nasze studia przypadków</div>
         </div>
       </div>
       <div class="swiper-entry cases-slider animate-item fadeInUp">
@@ -28,7 +28,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Stworzyliśmy stronę marketingową dla ogólnoświatowego Funduszu Kapitałowego Finhub.
+                  Finhub to ogólnoświatowa platforma internetowa, która powstała w celu komunikacji potencjalnych inwestorów z obiecującymi projektami na jednej arenie handlowej.
                 </div>
               </div>
             </div>
@@ -74,7 +74,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Stworzyliśmy landing page dla znanej agencji nagradzającej w USA.
+                  Stworzyliśmy landing page dla znanej agencji przyznającej nagrody w USA.
                 </div>
               </div>
             </div>
@@ -120,7 +120,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Opracowaliśmy stronę marketingową dla najwyżej ocenianej firmy zajmującej się projektowaniem
+                  Stworzyliśmy stronę marketingową dla renomowanej firmy projektowej.
                 </div>
               </div>
             </div>
@@ -143,7 +143,7 @@
                   <span>#CSS3</span>
                 </div>
                 <div class="case-desc text">
-                  Stworzyliśmy serwis marketingowy dla polskiej firmy produkującej monety kolekcjonerskie.
+                  Stworzyliśmy stronę marketingową dla polskiej firmy zajmującej się produkcją monet kolekcjonerskich
                 </div>
               </div>
             </div>

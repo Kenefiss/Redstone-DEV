@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12">
         <div class="title-with-text no-align animate-item fadeInUp">
-          <div class="title h2">Opinie klientów</div>
+          <div class="title h2">Referencje</div>
           <a href="https://clutch.co/profile/redstone?page=1#reviews" target="_blank" rel="nofollow" class="general-rating">
             <div class="icon"><img src="img/general_rating-icon.svg" loading="lazy" alt=""></div>
             <div class="content">
@@ -14,7 +14,7 @@
                 <img src="img/start-icon.svg" loading="lazy" alt="">
                 <img src="img/start-icon.svg" loading="lazy" alt="">
               </div>
-              <div class="general-review">24 recenzje</div>
+              <div class="general-review">26 recenzje</div>
             </div>
           </a>
           <a class="btn-link" href="https://clutch.co/profile/redstone?page=1#reviews" target="_blank" rel="nofollow">
@@ -46,7 +46,7 @@
                       <img src="img/start-icon.svg" loading="lazy" alt="">
                     </div>
                     <div class="text">
-                      <p>REDSTONE dostarczyło nową stronę internetową, która pomogła klientowi łatwiej dotrzeć do jego bazy klientów B2B. Zespół ściśle współpracował z klientem i miał tygodniowe cele.</p>
+                      <p>Ich elastyczność pozwoliła nam na modyfikację niektórych decyzji w czasie realizacji zamówienia.</p>
                     </div>
                     <div class="review-price-block text">
                       <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Zweryfikowano</div>
@@ -72,7 +72,7 @@
                       <img src="img/start-icon.svg" loading="lazy" alt="">
                     </div>
                     <div class="text">
-                      <p>„Byłem pod wrażeniem szybkiego czasu realizacji REDSTONE”.</p>
+                      <p>Byłem pod wrażeniem szybkiego czasu realizacji zlecenia przez firmę REDSTONE.</p>
                     </div>
                     <div class="review-price-block text">
                       <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Zweryfikowano</div>
@@ -98,7 +98,7 @@
                       <img src="img/start-icon.svg" loading="lazy" alt="">
                     </div>
                     <div class="text">
-                      <p>„Ich zdolność przystosowania się do zmian popytu i procesów oraz dostarczania rozwiązań była znakomita!”</p>
+                      <p>Ich zdolność do dostosowania się do wymagań, zmiany procesu oraz do dostarczania rozwiązania była wybitna!</p>
                     </div>
                     <div class="review-price-block text">
                       <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Zweryfikowano</div>

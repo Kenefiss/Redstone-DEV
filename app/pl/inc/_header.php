@@ -14,10 +14,10 @@
       </div>
       <nav class="header-wrap-center">
         <ul>
-          <li><a href="portfolio">Studium przypadky</a></li>
-          <li><a href="app">Aplicacja</a></li>
+          <li><a href="portfolio">Studia przypadków</a></li>
+          <li><a href="app">App</a></li>
           <li><a href="blog">Blog</a></li>
-          <li><a href="contact" class="hash">Łączność</a></li>
+          <li><a href="contact" class="hash">Kontakt</a></li>
         </ul>
       </nav>
       <div class="header-wrap-right">
@@ -43,15 +43,15 @@
                 <li><a href="ru/">РУС</a></li>
               </ul>
               <a class="btn h-btn d-lg-none hash" href="/#contact">
-                <b>Zadać pytanie</b>
+                <b>Zadaj pytanie</b>
               </a>
               <nav class="header-mega-menu" style="--items: 4;">
                 <ul>
-                  <li><a href="app">Aplicacja</a></li>
+                  <li><a href="app">App</a></li>
                   <li><a href="awards">Nagrody</a></li>
                   <li><a href="blog">Blog</a></li>
                   <li class="has-submenu">
-                    <b>Studium przypadky</b>
+                    <b>Studia przypadków</b>
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 3;">
@@ -84,9 +84,9 @@
 
 
                   
-                  <li><a href="review" class="hash">Opinie</a></li>
+                  <li><a href="review" class="hash">Recenzje</a></li>
                   <li><a href="about" class="hash">O nas</a></li>
-                  <li class="menu-close"><a href="contact">Łączność</a></li>
+                  <li class="menu-close"><a href="contact">Kontakt</a></li>
                 </ul>
               </nav>
               <div class="social">

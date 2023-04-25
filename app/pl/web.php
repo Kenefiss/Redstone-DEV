@@ -47,7 +47,7 @@
                   <ul>
                     <li><a data-filter="*" href="portfolio">Wszystko</a></li>
                     <li><a data-filter="._web" href="web" class="active">Rozwiązania internetowe</a></li>
-                    <li><a data-filter="._app" href="app">Aplikacja</a></li>
+                    <li><a data-filter="._app" href="app">APP</a></li>
                     <li><a data-filter="._mvp" href="mvp">MVP</a></li>
                     <li><a data-filter="._e-сommerce" href="e-commerce">E - Commerce</a></li>
                     <li><a data-filter="._car-dealers" href="car-dealers">Sprzedawcy samochodów</a></li>

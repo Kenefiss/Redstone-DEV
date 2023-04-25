@@ -20,7 +20,7 @@
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
-                <div class="title h1">Rozwiązania internetowe <b>.</b> Aplikacja <b>.</b> MVP <b>.</b><br> Sprawiamy, że skomplikowane staje się proste</div>
+                <div class="title h1">Rozwiązania WEB <b>.</b> APP <b>.</b> MVP <b>.</b><br> Czyniąc trudne łatwym</div>
                 <a href="portfolio" class="btn btn-primary">
                   <b>Nasze projecty</b>
                 </a>
@@ -47,7 +47,7 @@
                   </svg>
                 </div>
               </div>
-              <div class="sub-title text-center"><span class="d-xl-none">16</span> OD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
+              <div class="sub-title text-center"><span class="d-xl-none">16</span> OOD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
@@ -66,8 +66,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Skuteczne i wydajne rozwiązania internetowe i mobilne z zanurzeniem w Twojej firmie</div>
-                <div class="text animate-item fadeInUp delay-1">Znamy punkty bólu w Twojej niszy! Nasz arsenał zawiera wszystkie narzędzia do ich rozwiązania: analizę, branding, tworzenie stron internetowych, tworzenie aplikacji i wsparcie techniczne.</div>
+                <div class="title h2 animate-item fadeInUp">Skuteczne i wydajne rozwiązania internetowe i mobilne z zagłębieniem się w Twój biznes</div>
+                <div class="text animate-item fadeInUp delay-1">Znamy punkty bólu w Twojej niszy! W naszym arsenale mamy wszystkie narzędzia do ich rozwiązania: analizę, branding, tworzenie stron internetowych, tworzenie aplikacji i wsparcie techniczne.</div>
               </div>
             </div>
           </div>
@@ -91,7 +91,7 @@
             </div>
             <div class="col-sm-6 col-md-4 category">
               <a href="app" class="category-entry">
-                <span class="category-title">Aplicacja</span>
+                <span class="category-title">APP</span>
                 <div class="category-img">
                   <div class="category-img-box">
                     <picture>
@@ -177,7 +177,7 @@
           </div>
           <div class="text-center animate-item fadeInUp">
             <a class="btn btn-primary" href="portfolio">
-              <b>Zobacz wszystkie projekty</b>
+              <b>WSZYSTKIE PROJEKTY</b>
             </a>
           </div>
         </div>
@@ -190,7 +190,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Dajemy więcej niż oczekujesz, ponieważ szukamy rozwiązań, które działają w 100%</div>
+                <div class="title h2 animate-item fadeInUp">Dajemy więcej niż oczekujesz, bo szukamy rozwiązań, które działają w 100%</div>
                 <div class="text animate-item fadeInUp delay-1">Skoncentruj swoje wysiłki na tym, co robisz najlepiej. Wszystko, co jest związane z cyfryzacją biznesu, zostaw firmie <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 50 specjalistów, aby zapewnić Ci pełny cykl serwisowy.</div>
               </div>
             </div>
@@ -251,31 +251,31 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Uczyńmy razem lepszy świat!</div>
+                <div class="title h2 animate-item fadeInUp">Razem uczyńmy świat lepszym!</div>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="col-xl-5 offset-xl-7">
               <div class="ml-80 animate-item fadeInUp delay-1">
-                <div class="title h5 fw-500 d-none d-xl-block">Opowiedz nam o swoim pomyśle, a my zaproponujemy rozwiązanie. Zostaw zgłoszenie i zaczynamy!</div>
+                <div class="title h5 fw-500 d-none d-xl-block">Opowiedz nam o swoim pomyśle, a my zaproponujemy rozwiązanie. Zostaw zgłoszenie, a my zaczniemy!</div>
                 <form method="post" class="ContactForm" id="ContactForm">
                   <input type="hidden" name="g-recaptcha-response" value="">
                   <div class="form-block">
                     <div class="input-field-wrapper w-50">
-                      <input class="input" placeholder="Imię i nazwisko" type="text" name="name">
+                      <input class="input" placeholder="Imię" type="text" name="name">
                     </div>
                     <div class="input-field-wrapper w-50">
-                      <input class="input" placeholder="Twój numer telefonu" type="tel" name="phone">
+                      <input class="input" placeholder="Numer telefonu" type="tel" name="phone">
                     </div>
                     <div class="input-field-wrapper">
-                      <input class="input" placeholder="*Twój adres e-mail" type="email" name="email" id="email" required>
+                      <input class="input" placeholder="*E-mail" type="email" name="email" id="email" required>
                     </div>
                     <div class="input-field-wrapper">
-                      <textarea class="input" placeholder="Krótko opisz swój projekt" name="mess"></textarea>
+                      <textarea class="input" placeholder="Krótki opis Twojego projektu" name="mess"></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">
-                      <b>Prześlij</b>
+                      <b>Wyślij</b>
                     </button>
                   </div>
                 </form>

@@ -186,6 +186,9 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   :root {
     --h-1: 64px;
   }
+  :lang(pl):root{
+    --h-1: 64px;
+  }
 }
 
 @media(max-width:1639px) {
@@ -210,7 +213,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     --h-1: 64px;
   }
   :lang(pl):root{
-    --h-1: 60px;
+    --h-1: 58px;
   }
 }
 
@@ -331,6 +334,9 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     --h-1: 30px;
     --h-2: 24px;
     --h-3: 22px;
+  }
+  :lang(pl):root{
+    --h-1: 28px;
   }
 
   .spacer-xl {

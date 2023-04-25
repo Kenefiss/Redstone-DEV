@@ -5,7 +5,7 @@
         <div class="title-with-text">
           <div class="title h2 color-white animate-item fadeInUp">REDSTONE w liczbach</div>
           <div class="text color-2 animate-item fadeInUp delay-1">
-            Zadania z gwiazdką to nasz profil. Rozwiązując je wielokrotnie otrzymywaliśmy nagrody w Wielkiej Brytanii i na całym świecie. Zespół <span>REDSTONE</span> jest zawsze gotowy na nowe wyzwania.
+          Zadania z gwiazdką to nasz profil. Realizując je, wielokrotnie otrzymywaliśmy nagrody w Wielkiej Brytanii i na całym świecie. Zespół <span>REDSTONE</span> jest zawsze gotowy na nowe wyzwania.
           </div>
         </div>
       </div>
@@ -26,7 +26,7 @@
               </text>
             </svg>
           </div>
-          <small>projektów</small>
+          <small>projekty</small>
         </div>
       </div>
       <div class="col-6 col-lg-4 counter">
@@ -62,7 +62,7 @@
               </text>
             </svg>
           </div>
-          <small>stron</small>
+          <small>strony</small>
         </div>
       </div>
       <div class="col-6 col-lg-4 counter">
@@ -80,7 +80,7 @@
               </text>
             </svg>
           </div>
-          <small>nagród</small>
+          <small>nagrody</small>
         </div>
       </div>
       <div class="col-6 col-lg-4 counter">
@@ -110,7 +110,7 @@
               </text>
             </svg>
           </div>
-          <small>zadowolonych klientów</small>
+          <small>zadowoleni klienci</small>
         </div>
       </div>
     </div>

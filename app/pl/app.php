@@ -42,12 +42,12 @@
                 <div class="title page-title h2">Poznaj nasze przypadki</div>
               </div>
               <div class="sort-wrapp">
-                <div class="sort-btn d-xl-none">Aplikacja</div>
+                <div class="sort-btn d-xl-none">APP</div>
                 <nav class="sort-nav">
                   <ul>
                     <li><a data-filter="*" href="portfolio">Wszystko</a></li>
                     <li><a data-filter="._web" href="web">Rozwiązania internetowe</a></li>
-                    <li><a data-filter="._app" href="app" class="active">Aplikacja</a></li>
+                    <li><a data-filter="._app" href="app" class="active">APP</a></li>
                     <li><a data-filter="._mvp" href="mvp">MVP</a></li>
                     <li><a data-filter="._e-сommerce" href="e-commerce">E - Commerce</a></li>
                     <li><a data-filter="._car-dealers" href="car-dealers">Sprzedawcy samochodów</a></li>

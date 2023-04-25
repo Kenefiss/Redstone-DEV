@@ -46,7 +46,7 @@
                 </div>
                 <div class="col-lg-6">
                   <div class="text animate-item fadeInUp delay-1">
-                  Odkryj wielokrotnie nagradzane studio internetowe w Wielkiej Brytanii. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, tworzenia stron internetowych, brandingu, marketingu cyfrowego i e-commerce. Jesteśmy zainspirowani do pracy na rzecz naszych klientów.
+                    Odkryj wielokrotnie nagradzane studio internetowe w Zjednoczonym Królestwie. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, projektowania stron internetowych, brandingu, marketingu cyfrowego i e-commerce. Jesteśmy inspirowani do pracy dla dobra naszych klientów.
                   </div>
                 </div>
               </div>
@@ -67,7 +67,7 @@
                           <td><a href="tel:+48793113458">+48793113458</a></td>
                         </tr>
                         <tr>
-                          <td>Email:</td>
+                          <td>E-mail:</td>
                           <td><a href="mailto:office@redstone.software">office@redstone.software</a></td>
                         </tr>
                       </table>
@@ -94,7 +94,7 @@
                         <textarea class="input" placeholder="Krótko opisz swój projekt" name="mess"></textarea>
                       </div>
                       <button type="submit" class="btn btn-primary">
-                        <b>Prześlij</b>
+                        <b>Zadaj pytanie</b>
                       </button>
                     </div>
                   </form>

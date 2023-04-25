@@ -19,7 +19,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        Opracowaliśmy zamknięty system CRM dla ekskluzywnego dealera samochodów.
+        Stworzyliśmy zamknięty system CRM dla producenta samochodów luksusowych.
       </div>
     </div>
   </div>
@@ -43,7 +43,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        Stworzyliśmy zamknięty system CRM dla producenta samochodów luksusowych.
+        Opracowaliśmy zamknięty system CRM dla ekskluzywnego dealera samochodów.
       </div>
     </div>
   </div>
@@ -66,7 +66,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Stworzyliśmy landing page dla znanej agencji nagradzającej w USA.
+        Stworzyliśmy landing page dla znanej agencji przyznającej nagrody w USA.
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@
         <span>#Wordpress</span>
       </div>
       <div class="case-desc text">
-        Pracowaliśmy nad rozwiązaniami dla znanych, kreatywnych, zwinnych zespołów data-driven w Wielkiej Brytanii
+        Pracowaliśmy nad rozwiązaniami dla słynnych data-driven creative agile zespołów w Wielkiej Brytanii.
       </div>
     </div>
   </div>
@@ -116,7 +116,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Stworzyliśmy stronę docelową dla słynnej platformy do zamawiania jedzenia online w Wielkiej Brytanii.
+        Stworzyliśmy landing page dla znanej platformy do zamawiania jedzenia online w Wielkiej Brytanii.
       </div>
     </div>
   </div>
@@ -166,7 +166,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Opracowaliśmy stronę marketingową dla najwyżej ocenianej firmy zajmującej się projektowaniem
+        Stworzyliśmy stronę marketingową dla renomowanej firmy projektowej.
       </div>
     </div>
   </div>
@@ -377,7 +377,7 @@
         <span>#WordPress</span>
       </div>
       <div class="case-desc text">
-        Pracowaliśmy nad aplikacją mobilną dla firmy dostarczającej jedzenie w Wielkiej Brytanii.
+        Pracowaliśmy nad aplikacją mobilną dla firmy zajmującej się dostarczaniem jedzenia w Wielkiej Brytanii.
       </div>
     </div>
   </div>
@@ -400,7 +400,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Stworzyliśmy serwis marketingowy dla polskiej firmy produkującej monety kolekcjonerskie.
+        Stworzyliśmy stronę marketingową dla polskiej firmy zajmującej się produkcją monet kolekcjonerskich
       </div>
     </div>
   </div>
@@ -423,7 +423,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Stworzyliśmy stronę marketingową dla najwyżej ocenianej firmy programistycznej
+        Stworzyliśmy stronę marketingową dla renomowanej firmy zajmującej się tworzeniem oprogramowania
       </div>
     </div>
   </div>
@@ -446,7 +446,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Stworzyliśmy serwis marketingowy dla firmy zajmującej się produkcją monet kolekcjonerskich w Polsce.
+        Stworzyliśmy stronę marketingową dla firmy zajmującej się produkcją monet kolekcjonerskich w Polsce.
       </div>
     </div>
   </div>
@@ -469,7 +469,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Stworzyliśmy stronę marketingową dla ogólnoświatowego Funduszu Kapitałowego Finhub.
+        Finhub to ogólnoświatowa platforma internetowa, która powstała w celu komunikacji potencjalnych inwestorów z obiecującymi projektami na jednej arenie handlowej.
       </div>
     </div>
   </div>
@@ -492,7 +492,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Finhub to ogólnoświatowa platforma internetowa, która została stworzona, aby komunikować się z potencjalnymi inwestorami z obiecującymi projektami na jednej arenie handlowej.
+        Stworzyliśmy stronę marketingową dla światowego funduszu kapitałowego Finhub.
       </div>
     </div>
   </div>
@@ -530,7 +530,7 @@
         <span>#branding</span>
       </div>
       <div class="case-desc text">
-        Zaprojektowaliśmy branding dla ogólnoświatowej finansowej platformy online.
+        Zaprojektowaliśmy branding dla światowej finansowej platformy internetowej.
       </div>
     </div>
   </div>

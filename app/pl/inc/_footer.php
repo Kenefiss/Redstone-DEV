@@ -13,10 +13,10 @@
         <ul>
           <li><a href="awards">Nagrody</a></li>
           <li><a href="about">O nas</a></li>
-          <li><a href="portfolio">Studium Przypadky</a></li>
-          <li><a href="review">Opinie</a></li>
+          <li><a href="portfolio">Studia przypadków</a></li>
+          <li><a href="review">Recenzje</a></li>
           <li><a href="blog">Blog</a></li>
-          <li><a href="contact"> Łączność</a></li>
+          <li><a href="contact">Kontakt</a></li>
         </ul>
       </div>
     </div>
@@ -121,7 +121,7 @@
     </div>
     <div class="footer-right-bottom">
       <div class="d-none d-lg-block">
-        Masz ciekawy projekt? Uczyńmy to rzeczywistością
+        Masz ciekawy projekt? Urzeczywistnijmy go
       </div>
       <a href="documents/BRIEF_STRONA_MARKETINGOWA.docx" download class="btn btn-secondary">
         <b>Wypełnij brief</b>
