@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="uk">
+<html lang="en">
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Web Site</title>
+  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
+  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
 </head>
 
 <body>
@@ -16,14 +17,16 @@
       <!-- BREADCRUMBS -->
       <div class="section sec-breadcrumbs">
         <div class="container-fluid">
-          <ul class="breadcrumbs">
-            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <a href="index.php" itemprop="url">
-                <span itemprop="title">Головна</span>
+          <ul class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a href="/" itemprop="item">
+                <span itemprop="name">Home</span>
               </a>
+              <meta itemprop="position" content="1" />
             </li>
-            <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <span itemprop="title">Створення сайтів</span>
+            <li class="active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <span itemprop="name">Services</span>
+              <meta itemprop="position" content="2" />
             </li>
           </ul>
         </div>
@@ -215,7 +218,7 @@
                   <div class="title h4">Finhub</div>
                   <div class="project-sub-title text upper">Фінансова компанія</div>
                   <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#!" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -234,7 +237,7 @@
                   <div class="title h4">4 Your health</div>
                   <div class="project-sub-title text upper">система для дієтологів</div>
                   <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#!" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -253,7 +256,7 @@
                   <div class="title h4">INSPE</div>
                   <div class="project-sub-title text upper">система для стоматологія</div>
                   <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#!" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -288,71 +291,71 @@
               <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 1, "autoHeight": true, "breakpoints": {"1199": {"slidesPerView": 4, "spaceBetween": 50},"991": {"slidesPerView": 3, "spaceBetween": 40},"575": {"slidesPerView": 2, "spaceBetween": 40}}}'>
                 <div class="swiper-wrapper">
                   <div class="swiper-slide award-item">
-                    <div class="award-title">Love & Dress</div>
-                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-title">Base1</div>
+                    <div class="award-subtitle">Base1 - AWWWARDS HONORS</div>
                     <div class="award-img">
-                      <a href="#">
+                      <a href="https://www.awwwards.com/sites/base1-1" rel="nofollow" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="img/award-1.webp" type="image/webp">
-                          <source srcset="img/award-1.jpg" type="image/jpeg">
-                          <img src="img/award-1.jpg" alt="">
+                          <source srcset="img/awards/award-img-19.webp" type="image/webp">
+                          <source srcset="img/awards/award-img-19.png" type="image/png">
+                          <img src="img/awards/award-img-19.png" alt="">
                         </picture>
                       </a>
                     </div>
                   </div>
                   <div class="swiper-slide award-item">
-                    <div class="award-title">Love & Dress</div>
-                    <div class="award-subtitle">AWWWARDS MOBILE EXCELLENCE</div>
+                    <div class="award-title">REDSTONE CSS RELL</div>
+                    <div class="award-subtitle">REDSTONE - Featured of the day</div>
                     <div class="award-img">
-                      <a href="#">
+                      <a href="https://www.cssreel.com/website/redstone" rel="nofollow" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="img/award-2.webp" type="image/webp">
-                          <source srcset="img/award-2.jpg" type="image/jpeg">
-                          <img src="img/award-2.jpg" alt="">
+                          <source srcset="img/awards/award-img-8.webp" type="image/webp">
+                          <source srcset="img/awards/award-img-8.png" type="image/png">
+                          <img src="img/awards/award-img-8.png" alt="">
                         </picture>
                       </a>
                     </div>
                   </div>
                   <div class="swiper-slide award-item">
-                    <div class="award-title">M.vision Clinic</div>
-                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-title">Bilo</div>
+                    <div class="award-subtitle">Bilo - AWWWARDS HONORS</div>
                     <div class="award-img">
-                      <a href="#">
+                      <a href="https://www.awwwards.com/sites/bilo" rel="nofollow" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="img/award-1.webp" type="image/webp">
-                          <source srcset="img/award-1.jpg" type="image/jpeg">
-                          <img src="img/award-1.jpg" alt="">
+                          <source srcset="img/awards/award-img-10.webp" type="image/webp">
+                          <source srcset="img/awards/award-img-10.png" type="image/png">
+                          <img src="img/awards/award-img-10.png" alt="">
                         </picture>
                       </a>
                     </div>
                   </div>
                   <div class="swiper-slide award-item">
-                    <div class="award-title">Love & Dress</div>
-                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-title">REDSTONE</div>
+                    <div class="award-subtitle">REDSTONE - AWWWARDS HONORS</div>
                     <div class="award-img">
-                      <a href="#">
+                      <a href="https://www.awwwards.com/REDSTONE/" rel="nofollow" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="img/award-1.webp" type="image/webp">
-                          <source srcset="img/award-1.jpg" type="image/jpeg">
-                          <img src="img/award-1.jpg" alt="">
+                          <source srcset="img/awards/award-img-9.webp" type="image/webp">
+                          <source srcset="img/awards/award-img-9.png" type="image/png">
+                          <img src="img/awards/award-img-9.png" alt="">
                         </picture>
                       </a>
                     </div>
                   </div>
                   <div class="swiper-slide award-item">
-                    <div class="award-title">Love & Dress</div>
-                    <div class="award-subtitle">AWWWARDS Honors</div>
+                    <div class="award-title">Love & Dress - Awwwards mobile excellence</div>
+                    <div class="award-subtitle">Excellence according to the version AWWWARDS</div>
                     <div class="award-img">
-                      <a href="#">
+                      <a href="https://www.awwwards.com/sites/love-dress/mobile-excellence-report" rel="nofollow" target="_blank">
                         <span class="review-btn"><i class="review-icon"></i></span>
                         <picture>
-                          <source srcset="img/award-3.webp" type="image/webp">
-                          <source srcset="img/award-3.jpg" type="image/jpeg">
-                          <img src="img/award-3.jpg" alt="">
+                          <source srcset="img/awards/award-img-2.webp" type="image/webp">
+                          <source srcset="img/awards/award-img-2.jpg" type="image/jpeg">
+                          <img src="img/awards/award-img-2.jpg" alt="">
                         </picture>
                       </a>
                     </div>
@@ -376,30 +379,33 @@
               </div>
             </div>
           </div>
-          <div class="row animate-item fadeInUp delay-1">
-            <div class="swiper-entry clients-slider size2">
-              <div class="swiper-container" data-options='{"spaceBetween": 15, "slidesPerView": 4, "autoHeight": true, "slidesPerGroup":4, "breakpoints": {"991": {"slidesPerView": 6},"575": {"slidesPerView": 5}}}'>
-                <div class="swiper-wrapper clients justify-content-xl-center">
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-10.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-11.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-15.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-6.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-7.png" loading="lazy" alt=""></div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="client-img"><img src="img/tech-8.png" loading="lazy" alt=""></div>
-                  </div>
+          <div class="row animate-item fadeInUp delay-2">
+            <div class="clients-slider size2">
+              <div class="clients">
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech/tech-img-1.svg" loading="lazy" alt=""></div>
                 </div>
-                <div class="swiper-pagination swiper-pagination-relative"></div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech/tech-img-2.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech/tech-img-3.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech/tech-img-4.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech/tech-img-5.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech/tech-img-6.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech/tech-img-7.svg" loading="lazy" alt=""></div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="client-img"><img src="img/tech/tech-img-8.svg" loading="lazy" alt=""></div>
+                </div>
               </div>
             </div>
           </div>
@@ -408,10 +414,10 @@
       </div>
 
       <!-- BRIEF -->
-      <?php include 'inc/_brief.php'; ?>
+      <?php include 'inc/sections/_brief.php'; ?>
 
       <!-- SEO -->
-      <?php include 'inc/_seo.php'; ?>
+      <?php include 'inc//sections/_seo.php'; ?>
 
     </main>
 

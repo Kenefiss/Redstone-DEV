@@ -14,7 +14,7 @@
                 <img src="img/start-icon.svg" loading="lazy" alt="">
                 <img src="img/start-icon.svg" loading="lazy" alt="">
               </div>
-              <div class="general-review">23 reviews</div>
+              <div class="general-review">26 reviews</div>
             </div>
           </a>
           <a class="btn-link" href="https://clutch.co/profile/redstone?page=1#reviews" target="_blank" rel="nofollow">
