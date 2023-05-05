@@ -36,11 +36,10 @@
         <div class="header-menu-left">
           <div class="container-fluid">
             <div class="header-menu-left-inner">
-              <ul class="header-lang d-none">
-                <li><a href="">УКР</a></li>
-                <li><a href="en/" class="current">ENG</a></li>
-                <li><a href="pl/">PL</a></li>
-                <li><a href="ru/">РУС</a></li>
+              <ul class="header-lang">
+                <li><a href="https://redstone.media/">УКР</a></li>
+                <li><a href="/" class="current">ENG</a></li>
+                <li><a href="https://redstonesoft.pl/">PL</a></li>
               </ul>
               <a class="btn h-btn d-lg-none hash" href="/#contact">
                 <b>Ask a question</b>

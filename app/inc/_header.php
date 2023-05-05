@@ -37,10 +37,9 @@
             <div class="container-fluid">
               <div class="header-menu-left-inner">
                 <ul class="header-lang">
-                  <li><a href="../" class="current">УКР</a></li>
-                  <li><a href="en/index.php">ENG</a></li>
-                  <li><a href="pl/index.php">PL</a></li>
-                  <li><a href="ru/index.php">РУС</a></li>
+                  <li><a href="/" class="current">УКР</a></li>
+                  <li><a href="https://redstone.software/">ENG</a></li>
+                  <li><a href="https://redstonesoft.pl/">PL</a></li>
                 </ul>
                 <a class="btn h-btn d-lg-none" href="#contact">
                   <b>Задати запитання</b>

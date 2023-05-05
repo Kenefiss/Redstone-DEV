@@ -313,6 +313,7 @@ header {
 
     &.current {
       color: var(--clr-red);
+      pointer-events: none;
     }
   }
 }
