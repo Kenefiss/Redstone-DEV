@@ -52,7 +52,7 @@
                     <source srcset="img/headless-cms1.jpg" type="image/jpeg">
                     <img src="img/headless-cms1.jpg" alt="headless-cms1">
                   </picture>
-                  <span class="date">13.03.2023</span>
+                  <span class="date">05.05.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
@@ -67,7 +67,7 @@
                     <source srcset="img/benefit-custom1.jpg" type="image/jpeg">
                     <img src="img/benefit-custom1.jpg" alt="benefit-custom1">
                   </picture>
-                  <span class="date">08.03.2023</span>
+                  <span class="date">04.05.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
