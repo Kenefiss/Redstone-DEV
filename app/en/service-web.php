@@ -10,7 +10,7 @@
 <body>
   <div id="loader-wrapper"></div>
   <div id="content-block">
-    <?php include 'inc/_header.php';?>
+    <?php include 'inc/_header.php';?> 
 
     <main>
 
