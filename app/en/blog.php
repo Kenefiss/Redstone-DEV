@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="the-rise-of-progressive-web-apps">
+                  <picture>
+                    <source srcset="img/the-rise-of-progressive-web-apps.webp" type="image/webp">
+                    <source srcset="img/the-rise-of-progressive-web-apps.jpg" type="image/jpeg">
+                    <img src="img/the-rise-of-progressive-web-apps.jpg" alt="the-rise-of-progressive-web-apps">
+                  </picture>
+                  <span class="date">11.05.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-rise-of-progressive-web-apps">The Rise of Progressive Web Apps (PWAs): Bridging the Gap between Web and Mobile Experiences</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-benefits-of-using-content-delivery-network">
+                  <picture>
+                    <source srcset="img/the-benefits-of-using-content-delivery-network.webp" type="image/webp">
+                    <source srcset="img/the-benefits-of-using-content-delivery-network.jpg" type="image/jpeg">
+                    <img src="img/the-benefits-of-using-content-delivery-network.jpg" alt="the-benefits-of-using-content-delivery-network">
+                  </picture>
+                  <span class="date">08.05.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-benefits-of-using-content-delivery-network">The Benefits of Using a Content Delivery Network (CDN): Optimizing Web Performance and User Experience</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="best-practices-for-database">
+                  <picture>
+                    <source srcset="img/best-practices-for-database.webp" type="image/webp">
+                    <source srcset="img/best-practices-for-database.jpg" type="image/jpeg">
+                    <img src="img/best-practices-for-database.jpg" alt="best-practices-for-database">
+                  </picture>
+                  <span class="date">03.05.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="best-practices-for-database">Best Practices for Database Design in Web Applications: Ensuring Efficiency and Scalability</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="streamlining-workflow">
+                  <picture>
+                    <source srcset="img/streamlining-workflow.webp" type="image/webp">
+                    <source srcset="img/streamlining-workflow.jpg" type="image/jpeg">
+                    <img src="img/streamlining-workflow.jpg" alt="streamlining-workflow">
+                  </picture>
+                  <span class="date">01.05.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="streamlining-workflow">Essential Tools for Web Developers: Streamlining Workflow and Boosting Productivity</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="e-commerce-website-development">
                   <picture>
                     <source srcset="img/e-commerce-website-development.webp" type="image/webp">
