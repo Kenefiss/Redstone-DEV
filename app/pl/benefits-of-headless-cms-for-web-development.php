@@ -55,7 +55,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
             <div class="col-xl-4 align-self-center">
               <div class="project-detail-info">
-                <div class="blog-date">05.05.2023</div>
+                <div class="blog-date">05.04.2023</div>
                 <h1 class="title h2 name-project">Korzyści z Headless CMS do tworzenia stron internetowych</h1>
                 <div class="text desc">
                   <p>Ponieważ popyt na treści cyfrowe stale rośnie, firmy szukają nowych sposobów wydajniejszego zarządzania i dostarczania swoich treści. Jednym z rozwiązań, które zyskuje na popularności w ostatnich latach, jest wykorzystanie bezgłowego CMS do tworzenia stron internetowych. W tym artykule zbadamy zalety bezgłowego CMS do tworzenia stron internetowych.</p>

@@ -73,7 +73,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row justify-content-center">
             <div class="col-12 col-xl-10 col-xxl-8 col--2k-contacts">
               <div class="simple-page text">
-                <h5>Understanding Progressive Web Apps (Word Count: 600)</h5>
+                <h5>Understanding Progressive Web Apps</h5>
                 <p>To grasp the significance of PWAs, it is crucial to understand their core characteristics. PWAs are web applications that leverage modern web technologies to deliver an app-like experience to users. They are designed to be responsive, reliable, and engaging, providing a native app-like feel while accessible via a web browser.</p>
                 <h5>Enhanced User Experience</h5>
                 <p>PWAs offer an exceptional user experience by providing fast, smooth, and responsive interactions. They utilise techniques such as caching, pre-fetching, and lazy loading to ensure quick and seamless navigation, reducing page load times and eliminating the need for constant network connectivity. PWAs also deliver a native-like look and feel, with features like full-screen mode, push notifications, and home screen installation.</p>

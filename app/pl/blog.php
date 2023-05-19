@@ -46,13 +46,73 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="exploring-the-benefits-of-serverless">
+                  <picture>
+                    <source srcset="img/exploring-the-benefits-of-serverless.webp" type="image/webp">
+                    <source srcset="img/exploring-the-benefits-of-serverless.jpg" type="image/jpeg">
+                    <img src="img/exploring-the-benefits-of-serverless.jpg" alt="exploring-the-benefits-of-serverless">
+                  </picture>
+                  <span class="date">11.05.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="exploring-the-benefits-of-serverless">Eksploracja korzyści architektury serverless w aplikacjach internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="tips-for-effective-debugging">
+                  <picture>
+                    <source srcset="img/tips-for-effective-debugging.webp" type="image/webp">
+                    <source srcset="img/tips-for-effective-debugging.jpg" type="image/jpeg">
+                    <img src="img/tips-for-effective-debugging.jpg" alt="tips-for-effective-debugging">
+                  </picture>
+                  <span class="date">08.05.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="tips-for-effective-debugging">Porady dotyczące skutecznego debugowania w tworzeniu stron internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="tips-for-writing-clean">
+                  <picture>
+                    <source srcset="img/tips-for-writing-clean.webp" type="image/webp">
+                    <source srcset="img/tips-for-writing-clean.jpg" type="image/jpeg">
+                    <img src="img/tips-for-writing-clean.jpg" alt="tips-for-writing-clean">
+                  </picture>
+                  <span class="date">03.05.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="tips-for-writing-clean">Porady dotyczące pisania czystego i łatwo utrzymywalnego kodu</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="server-side-rendering-comparison">
+                  <picture>
+                    <source srcset="img/server-side-rendering-comparison.webp" type="image/webp">
+                    <source srcset="img/server-side-rendering-comparison.jpg" type="image/jpeg">
+                    <img src="img/server-side-rendering-comparison.jpg" alt="server-side-rendering-comparison">
+                  </picture>
+                  <span class="date">01.05.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="server-side-rendering-comparison">Porównanie renderowania po stronie serwera (SSR) i renderowania po stronie klienta (CSR): Rozważania i zastosowania</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="benefits-of-headless-cms-for-web-development">
                   <picture>
                     <source srcset="img/headless-cms1.webp" type="image/webp">
                     <source srcset="img/headless-cms1.jpg" type="image/jpeg">
                     <img src="img/headless-cms1.jpg" alt="headless-cms1">
                   </picture>
-                  <span class="date">05.05.2023</span>
+                  <span class="date">05.04.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
@@ -67,7 +127,7 @@
                     <source srcset="img/benefit-custom1.jpg" type="image/jpeg">
                     <img src="img/benefit-custom1.jpg" alt="benefit-custom1">
                   </picture>
-                  <span class="date">04.05.2023</span>
+                  <span class="date">04.04.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
