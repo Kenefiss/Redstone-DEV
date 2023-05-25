@@ -42,12 +42,12 @@
                 <div class="svg-wrapper type2">
                   <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
                     <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">16</tspan>
+                      <tspan class="text-bold">17</tspan>
                     </text>
                   </svg>
                 </div>
               </div>
-              <div class="sub-title text-center"><span class="d-xl-none">16</span> OOD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
+              <div class="sub-title text-center"><span class="d-xl-none">17</span> OOD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
@@ -191,7 +191,7 @@
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Dajemy więcej niż oczekujesz, bo szukamy rozwiązań, które działają w 100%</div>
-                <div class="text animate-item fadeInUp delay-1">Skoncentruj swoje wysiłki na tym, co robisz najlepiej. Wszystko, co jest związane z cyfryzacją biznesu, zostaw firmie <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 50 specjalistów, aby zapewnić Ci pełny cykl serwisowy.</div>
+                <div class="text animate-item fadeInUp delay-1">Skoncentruj swoje wysiłki na tym, co robisz najlepiej. Wszystko, co jest związane z cyfryzacją biznesu, zostaw firmie <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalistów, aby zapewnić Ci pełny cykl serwisowy.</div>
               </div>
             </div>
           </div>

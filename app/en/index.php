@@ -43,12 +43,12 @@ custom CRM system">
                 <div class="svg-wrapper type2">
                   <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
                     <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">16</tspan>
+                      <tspan class="text-bold">17</tspan>
                     </text>
                   </svg>
                 </div>
               </div>
-              <div class="sub-title text-center"><span class="d-xl-none">16</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
+              <div class="sub-title text-center"><span class="d-xl-none">17</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
@@ -192,7 +192,7 @@ custom CRM system">
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">We give more than you expect because we look for solutions that work 100%</div>
-                <div class="text animate-item fadeInUp delay-1">Focus your efforts on what you do best. Leave everything related to business digitization to <span>REDSTONE</span>. More than 50 specialists work in the <span>REDSTONE</span> team to provide you with a full cycle service.</div>
+                <div class="text animate-item fadeInUp delay-1">Focus your efforts on what you do best. Leave everything related to business digitization to <span>REDSTONE</span>. More than 60 specialists work in the <span>REDSTONE</span> team to provide you with a full cycle service.</div>
               </div>
             </div>
           </div>

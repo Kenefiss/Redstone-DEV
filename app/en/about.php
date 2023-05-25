@@ -117,7 +117,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">We give more than you expect because we look for solutions that work 100%</div>
-                <div class="text animate-item fadeInUp delay-1">Focus your efforts on what you do best. Leave everything related to business digitization to <span>REDSTONE</span>. More than 50 specialists work in the <span>REDSTONE</span> team to provide you with a full cycle service.</div>
+                <div class="text animate-item fadeInUp delay-1">Focus your efforts on what you do best. Leave everything related to business digitization to <span>REDSTONE</span>. More than 60 specialists work in the <span>REDSTONE</span> team to provide you with a full cycle service.</div>
               </div>
             </div>
           </div>

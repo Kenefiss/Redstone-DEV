@@ -43,7 +43,7 @@
                   Dajemy więcej niż oczekujesz, bo szukamy rozwiązań, które działają w 100%
                 </div>
                 <div class="text">
-                  Skup swoje wysiłki na tym, co robisz najlepiej. Wszystko co związane z digitalizacją biznesu pozostaw <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 50 specjalistów, aby zapewnić Ci pełen cykl usług.
+                  Skup swoje wysiłki na tym, co robisz najlepiej. Wszystko co związane z digitalizacją biznesu pozostaw <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalistów, aby zapewnić Ci pełen cykl usług.
                 </div>
               </div>
               <div class="video-block review-img">
