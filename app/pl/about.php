@@ -39,12 +39,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2">
-                  Dajemy więcej niż oczekujesz, bo szukamy rozwiązań, które działają w 100%
-                </div>
-                <div class="text">
-                  Skup swoje wysiłki na tym, co robisz najlepiej. Wszystko co związane z digitalizacją biznesu pozostaw <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalistów, aby zapewnić Ci pełen cykl usług.
-                </div>
+                <div class="title h2">Dajemy więcej niż oczekujesz, bo tworzymy rozwiązania, które są ponadprzeciętne Dajemy więcej niż 100% Twoich oczekiwań</div>
+                <div class="text">Skup swoje wysiłki na tym, co robisz najlepiej. Wszystko co związane z digitalizacją biznesu pozostaw <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalsitów, aby zapewnić Tobie najlepsze wsparcie w rozwoju biznesu.</div>
               </div>
               <div class="video-block review-img">
                 <picture>

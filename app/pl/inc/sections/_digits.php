@@ -4,9 +4,7 @@
       <div class="col-12">
         <div class="title-with-text">
           <div class="title h2 color-white animate-item fadeInUp">REDSTONE w liczbach</div>
-          <div class="text color-2 animate-item fadeInUp delay-1">
-          Zadania z gwiazdką to nasz profil. Realizując je, wielokrotnie otrzymywaliśmy nagrody w Wielkiej Brytanii i na całym świecie. Zespół <span>REDSTONE</span> jest zawsze gotowy na nowe wyzwania.
-          </div>
+          <div class="text color-2 animate-item fadeInUp delay-1">Dostarczamy praktycznych rozwiązań w celu usunięcia problemów, takich jak ulepszenie funkcji produktu czy usługi, usprawnienie obsługi klienta ale i też oferujemy spersonalizowane rozwiązania według Twoich oczekiwań.</div>
         </div>
       </div>
     </div>

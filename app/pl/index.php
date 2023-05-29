@@ -20,7 +20,7 @@
           <div class="row align-items-lg-center">
             <div class="col-xl-7 order-2 order-xl-1">
               <div class="banner-content">
-                <div class="title h1">Rozwiązania WEB <b>.</b> APP <b>.</b> MVP <b>.</b><br> Czyniąc trudne łatwym</div>
+                <div class="title h1">Rozwiązania WEB <b>.</b> APP <b>.</b> MVP <b>.</b><br> Wewnętrzne strony internetowe</div>
                 <a href="portfolio" class="btn btn-primary">
                   <b>Nasze projecty</b>
                 </a>
@@ -47,7 +47,7 @@
                   </svg>
                 </div>
               </div>
-              <div class="sub-title text-center"><span class="d-xl-none">17</span> OOD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
+              <div class="sub-title text-center"><span class="d-xl-none">17</span> OD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
@@ -66,8 +66,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Skuteczne i wydajne rozwiązania internetowe i mobilne z zagłębieniem się w Twój biznes</div>
-                <div class="text animate-item fadeInUp delay-1">Znamy punkty bólu w Twojej niszy! W naszym arsenale mamy wszystkie narzędzia do ich rozwiązania: analizę, branding, tworzenie stron internetowych, tworzenie aplikacji i wsparcie techniczne.</div>
+                <div class="title h2 animate-item fadeInUp">Skuteczne i wydajne rozwiązania internetowe i mobilne dla Twojego biznesu</div>
+                <div class="text animate-item fadeInUp delay-1">Dostarczamy praktycznych rozwiązań w celu usunięcia problemów, takich jak ulepszenie funkcji produktu czy usługi, usprawnienie obsługi klienta ale i też oferujemy spersonalizowane rozwiązania według Twoich oczekiwań.</div>
               </div>
             </div>
           </div>
@@ -190,8 +190,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Dajemy więcej niż oczekujesz, bo szukamy rozwiązań, które działają w 100%</div>
-                <div class="text animate-item fadeInUp delay-1">Skoncentruj swoje wysiłki na tym, co robisz najlepiej. Wszystko, co jest związane z cyfryzacją biznesu, zostaw firmie <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalistów, aby zapewnić Ci pełny cykl serwisowy.</div>
+                <div class="title h2 animate-item fadeInUp">Dajemy więcej niż oczekujesz, bo tworzymy rozwiązania, które są ponadprzeciętne Dajemy więcej niż 100% Twoich oczekiwań</div>
+                <div class="text animate-item fadeInUp delay-1">Skoncentruj swoje wysiłki na tym, co robisz najlepiej. Wszystko, co jest związane z cyfryzacją biznesu, zostaw firmie <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalsitów, aby zapewnić Tobie najlepsze wsparcie w rozwoju biznesu.</div>
               </div>
             </div>
           </div>

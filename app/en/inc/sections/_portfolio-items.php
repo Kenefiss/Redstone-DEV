@@ -1,4 +1,78 @@
 <div class="row cases-row cases-isotope">
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">This project has a Non-Disclosure Agreement.</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/case-3.webp" type="image/webp">
+          <source srcset="img/portfolio/case-3.png" type="image/png">
+          <img src="img/portfolio/case-3.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Mercedes-Benz</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        We developed a closed CRM system for exclusive cars dealer.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-28.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-28.png" type="image/png">
+          <img src="img/portfolio/p-img-28.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We created a landing page for famous online food-ordering platform in United Kingdom.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="top-info clutch" href="https://clutch.co/profile/redstone?project_cost=&review_type=&service_provided=&sort_by=date_DESC#review-2035942" target="_blank" rel="nofollow">
+          <img class="icon" src="img/clutch.svg" alt>
+          <div class="text">This project has verified testimonial on Clutch.</div>
+        </a>
+        <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-3.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-3.png" type="image/png">
+          <img src="img/portfolio/p-img-3.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base1</a></div>
+      <div class="case-tags">
+        <span>#Webpack</span>
+        <span>#GSAP</span>
+        <span>#canvas</span>
+        <span>#WebGL</span>
+        <span>#Wordpress</span>
+      </div>
+      <div class="case-desc text">
+        We worked on solutions for famous data-driven creative agile teams in United Kingdom
+      </div>
+    </div>
+  </div>
   <div class="col-12 col-md-6 col-lg-4 _e-сommerce">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
@@ -44,50 +118,23 @@
       </div>
     </div>
   </div>
-  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img">
-        <div class="top-info nda">
-          <img class="icon" src="img/nda.svg" alt>
-          <div class="text">This project has a Non-Disclosure Agreement.</div>
-        </div>
-        <picture>
-          <source srcset="img/portfolio/case-3.webp" type="image/webp">
-          <source srcset="img/portfolio/case-3.png" type="image/png">
-          <img src="img/portfolio/case-3.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5">Mercedes-Benz</div>
-      <div class="case-tags">
-        <span>#Angular</span>
-        <span>#Node JS</span>
-        <span>#aws</span>
-      </div>
-      <div class="case-desc text">
-        We developed a closed CRM system for exclusive cars dealer.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _website">
+  <div class="col-12 col-md-6 col-lg-4 _car-dealers">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://galicia.com.ua/en/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="https://fiatlineafresca.com/" target="_blank" rel="nofollow"></a>
         <picture>
-          <source srcset="img/portfolio/p-img-2.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-2.png" type="image/png">
-          <img src="img/portfolio/p-img-2.png" alt="" loading="lazy">
+          <source srcset="img/portfolio/p-img-4.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-4.png" type="image/png">
+          <img src="img/portfolio/p-img-4.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://galicia.com.ua/en/" target="_blank" rel="nofollow">Galicia</a></div>
+      <div class="case-title title h5"><a href="https://fiatlineafresca.com/" target="_blank" rel="nofollow">Fiat Linea Fresca</a></div>
       <div class="case-tags">
-        <span>#WordPress</span>
+        <span>#Wordpress</span>
         <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We developed a marketing website for the most famous producer of natural juices.
+        Website for Fiat car models configuration. Users can choose different options for car configuration from exclusive color to wide range of wheels types.
       </div>
     </div>
   </div>
@@ -114,44 +161,17 @@
       </div>
     </div>
   </div>
-  <div class="col-12 col-md-6 col-lg-4 _web">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="top-info clutch" href="https://clutch.co/profile/redstone?project_cost=&review_type=&service_provided=&sort_by=date_DESC#review-2035942" target="_blank" rel="nofollow">
-          <img class="icon" src="img/clutch.svg" alt>
-          <div class="text">This project has verified testimonial on Clutch.</div>
-        </a>
-        <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-3.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-3.png" type="image/png">
-          <img src="img/portfolio/p-img-3.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base1</a></div>
-      <div class="case-tags">
-        <span>#Webpack</span>
-        <span>#GSAP</span>
-        <span>#canvas</span>
-        <span>#WebGL</span>
-        <span>#Wordpress</span>
-      </div>
-      <div class="case-desc text">
-        We worked on solutions for famous data-driven creative agile teams in United Kingdom
-      </div>
-    </div>
-  </div>
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="https://galicia.com.ua/en/" target="_blank" rel="nofollow"></a>
         <picture>
-          <source srcset="img/portfolio/p-img-28.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-28.png" type="image/png">
-          <img src="img/portfolio/p-img-28.png" alt="" loading="lazy">
+          <source srcset="img/portfolio/p-img-2.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-2.png" type="image/png">
+          <img src="img/portfolio/p-img-2.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+      <div class="case-title title h5"><a href="https://galicia.com.ua/en/" target="_blank" rel="nofollow">Galicia</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -160,27 +180,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a landing page for famous online food-ordering platform in United Kingdom.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _car-dealers">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="full-link" href="https://fiatlineafresca.com/" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-4.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-4.png" type="image/png">
-          <img src="img/portfolio/p-img-4.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://fiatlineafresca.com/" target="_blank" rel="nofollow">Fiat Linea Fresca</a></div>
-      <div class="case-tags">
-        <span>#Wordpress</span>
-        <span>#Javascript</span>
-      </div>
-      <div class="case-desc text">
-        Website for Fiat car models configuration. Users can choose different options for car configuration from exclusive color to wide range of wheels types.
+        We developed a marketing website for the most famous producer of natural juices.
       </div>
     </div>
   </div>

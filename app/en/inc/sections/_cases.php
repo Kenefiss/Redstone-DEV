@@ -11,47 +11,6 @@
           <div class="swiper-wrapper cases">
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
-                <div class="case-img contain-link">
-                  <a class="full-link" href="https://shop-ua.blum.com/" target="_blank" rel="nofollow"></a>
-                  <picture>
-                    <source srcset="img/portfolio/p-img-1.webp" type="image/webp">
-                    <source srcset="img/portfolio/p-img-1.png" type="image/png">
-                    <img src="img/portfolio/p-img-1.png" alt="" loading="lazy">
-                  </picture>
-                </div>
-                <div class="case-title title h5"><a href="https://shop-ua.blum.com/" target="_blank" rel="nofollow">Blum</a></div>
-                <div class="case-tags">
-                  <span>#Angular</span>
-                  <span>#Node js</span>
-                  <span>#aws</span>
-                </div>
-                <div class="case-desc text">We created a marketing website with online store functionality for the second most famous fasteners manufacturer in the world.</div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="case-item animate-item fadeInUp delay-1">
-                <div class="case-img">
-                  <div class="top-info nda">
-                    <img class="icon" src="img/nda.svg" alt>
-                    <div class="text">This project has a Non-Disclosure Agreement.</div>
-                  </div>
-                  <picture>
-                    <source srcset="img/portfolio/case-2.webp" type="image/webp">
-                    <source srcset="img/portfolio/case-2.png" type="image/png">
-                    <img src="img/portfolio/case-2.png" alt="" loading="lazy">
-                  </picture>
-                </div>
-                <div class="case-title title h5">Porsche</div>
-                <div class="case-tags">
-                  <span>#Angular</span>
-                  <span>#Node js</span>
-                  <span>#aws</span>
-                </div>
-                <div class="case-desc text">We created a closed CRM system for luxury cars manufacturer.</div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img">
                   <div class="top-info nda">
                     <img class="icon" src="img/nda.svg" alt>
@@ -123,6 +82,47 @@
                   <span>#Wordpress</span>
                 </div>
                 <div class="case-desc text">We worked on solutions for famous data-driven creative agile teams in United Kingdom</div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="case-item animate-item fadeInUp delay-1">
+                <div class="case-img contain-link">
+                  <a class="full-link" href="https://shop-ua.blum.com/" target="_blank" rel="nofollow"></a>
+                  <picture>
+                    <source srcset="img/portfolio/p-img-1.webp" type="image/webp">
+                    <source srcset="img/portfolio/p-img-1.png" type="image/png">
+                    <img src="img/portfolio/p-img-1.png" alt="" loading="lazy">
+                  </picture>
+                </div>
+                <div class="case-title title h5"><a href="https://shop-ua.blum.com/" target="_blank" rel="nofollow">Blum</a></div>
+                <div class="case-tags">
+                  <span>#Angular</span>
+                  <span>#Node js</span>
+                  <span>#aws</span>
+                </div>
+                <div class="case-desc text">We created a marketing website with online store functionality for the second most famous fasteners manufacturer in the world.</div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="case-item animate-item fadeInUp delay-1">
+                <div class="case-img">
+                  <div class="top-info nda">
+                    <img class="icon" src="img/nda.svg" alt>
+                    <div class="text">This project has a Non-Disclosure Agreement.</div>
+                  </div>
+                  <picture>
+                    <source srcset="img/portfolio/case-2.webp" type="image/webp">
+                    <source srcset="img/portfolio/case-2.png" type="image/png">
+                    <img src="img/portfolio/case-2.png" alt="" loading="lazy">
+                  </picture>
+                </div>
+                <div class="case-title title h5">Porsche</div>
+                <div class="case-tags">
+                  <span>#Angular</span>
+                  <span>#Node js</span>
+                  <span>#aws</span>
+                </div>
+                <div class="case-desc text">We created a closed CRM system for luxury cars manufacturer.</div>
               </div>
             </div>
             <div class="swiper-slide">

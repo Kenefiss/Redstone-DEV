@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12">
         <div class="title-with-text no-align">
-          <div class="title h2 animate-item fadeInUp">Poznaj nasze studia przypadków</div>
+          <div class="title h2 animate-item fadeInUp">Projekty które zrealizowaliśmy</div>
         </div>
       </div>
       <div class="swiper-entry cases-slider animate-item fadeInUp">

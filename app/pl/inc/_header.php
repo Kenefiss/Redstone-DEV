@@ -14,7 +14,7 @@
       </div>
       <nav class="header-wrap-center">
         <ul>
-          <li><a href="portfolio">Studia przypadków</a></li>
+          <li><a href="portfolio">Portfolio</a></li>
           <li><a href="app">App</a></li>
           <li><a href="blog">Blog</a></li>
           <li><a href="contact" class="hash">Kontakt</a></li>
@@ -50,7 +50,7 @@
                   <li><a href="awards">Nagrody</a></li>
                   <li><a href="blog">Blog</a></li>
                   <li class="has-submenu">
-                    <b>Studia przypadków</b>
+                    <b>Portfolio</b>
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 3;">

@@ -40,7 +40,7 @@
 }
 
 :lang(pl):root{
-  --h-1: 70px;
+  --h-1: 68px;
 }
 
 html {
@@ -187,7 +187,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     --h-1: 64px;
   }
   :lang(pl):root{
-    --h-1: 64px;
+    --h-1: 60px;
   }
 }
 
@@ -213,7 +213,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     --h-1: 64px;
   }
   :lang(pl):root{
-    --h-1: 58px;
+    --h-1: 54px;
   }
 }
 
@@ -268,6 +268,12 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   }
   :lang(pl):root {
     --h-1: 50px;
+  }
+}
+
+@media (max-width: 1300px) {
+  :lang(pl):root {
+    --h-1: 46px;
   }
 }
 
@@ -336,7 +342,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     --h-3: 22px;
   }
   :lang(pl):root{
-    --h-1: 28px;
+    --h-1: 26px;
   }
 
   .spacer-xl {

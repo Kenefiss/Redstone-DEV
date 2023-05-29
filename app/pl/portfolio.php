@@ -39,7 +39,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title page-title h2">Studia przypadków</div>
+                <div class="title page-title h2">Portfolio</div>
               </div>
               <div class="sort-wrapp">
                 <div class="sort-btn d-xl-none">Wszystko</div>
