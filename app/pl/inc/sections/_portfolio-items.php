@@ -1,25 +1,93 @@
 <div class="row cases-row cases-isotope">
-  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+  <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
-      <div class="case-img">
-        <div class="top-info nda">
-          <img class="icon" src="img/nda.svg" alt>
-          <div class="text">Ten projekt ma umowę o zachowaniu poufności</div>
-        </div>
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://maketake.pl/" target="_blank" rel="nofollow"></a>
         <picture>
-          <source srcset="img/portfolio/case-2.webp" type="image/webp">
-          <source srcset="img/portfolio/case-2.png" type="image/png">
-          <img src="img/portfolio/case-2.png" alt="" loading="lazy">
+          <source srcset="img/portfolio/p-img-44.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-44.png" type="image/png">
+          <img src="img/portfolio/p-img-44.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5">Porsche</div>
+      <div class="case-title title h5"><a href="https://maketake.pl/" target="_blank" rel="nofollow">Make Take</a></div>
       <div class="case-tags">
-        <span>#Angular</span>
-        <span>#Node JS</span>
-        <span>#aws</span>
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Stworzyliśmy zamknięty system CRM dla producenta samochodów luksusowych.
+        Stworzyliśmy platformę internetową do zamawiania jedzenia online w Polsce.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://pijanawisnia.pl/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-52.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-52.png" type="image/png">
+          <img src="img/portfolio/p-img-52.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://pijanawisnia.pl/" target="_blank" rel="nofollow">Pijana Wiśna</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        Nasz zespół stworzył stronę marketingową dla znanej ukraińskiej firmy.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://carpathianmint.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-10.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-10.png" type="image/png">
+          <img src="img/portfolio/p-img-10.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://carpathianmint.com/" target="_blank" rel="nofollow">Carpathian Mint</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        Stworzyliśmy stronę marketingową dla polskiej firmy zajmującej się produkcją monet kolekcjonerskich
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://mint21.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-12.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-12.png" type="image/png">
+          <img src="img/portfolio/p-img-12.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://mint21.com/" target="_blank" rel="nofollow">Mint 21</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        Stworzyliśmy stronę marketingową dla firmy zajmującej się produkcją monet kolekcjonerskich w Polsce.
       </div>
     </div>
   </div>
@@ -67,6 +135,149 @@
       </div>
       <div class="case-desc text">
         Stworzyliśmy landing page dla znanej agencji przyznającej nagrody w USA.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">Ten projekt ma umowę o zachowaniu poufności</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/case-2.webp" type="image/webp">
+          <source srcset="img/portfolio/case-2.png" type="image/png">
+          <img src="img/portfolio/case-2.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Porsche</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        Stworzyliśmy zamknięty system CRM dla producenta samochodów luksusowych.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://uampower.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-47.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-47.png" type="image/png">
+          <img src="img/portfolio/p-img-47.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://uampower.com/" target="_blank" rel="nofollow">UAM Power</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        Stworzyliśmy marketingowy serwis internetowy dla najwyżej ocenianej firmy zajmującej się rozwiązaniami dla energetyki.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">Ten projekt ma umowę o zachowaniu poufności</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-48.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-48.png" type="image/png">
+          <img src="img/portfolio/p-img-48.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Land Rover</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        Stworzyliśmy zamknięty system CRM dla znanego producenta samochodów.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">Ten projekt ma umowę o zachowaniu poufności</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-49.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-49.png" type="image/png">
+          <img src="img/portfolio/p-img-49.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Volvo</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        Nasz zespół zaprojektował ekskluzywny system CRM dostosowany do potrzeb znanego producenta samochodów.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">Ten projekt ma umowę o zachowaniu poufności</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-50.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-50.png" type="image/png">
+          <img src="img/portfolio/p-img-50.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Jaguar</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        Podjęto budowę zamkniętego systemu CRM na potrzeby renomowanego producenta samochodów.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">Ten projekt ma umowę o zachowaniu poufności</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-51.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-51.png" type="image/png">
+          <img src="img/portfolio/p-img-51.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Renault</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        Specjalistyczny system CRM powstał na wyłączność dla renomowanego producenta samochodów.
       </div>
     </div>
   </div>
@@ -310,28 +521,6 @@
   </div>
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
-      <div class="case-img">
-        <picture>
-          <source srcset="img/portfolio/p-img-44.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-44.png" type="image/png">
-          <img src="img/portfolio/p-img-44.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="#" target="_blank" rel="nofollow">MaKeTake</a></div>
-      <div class="case-tags">
-        <span>#WordPress</span>
-        <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
-      </div>
-      <div class="case-desc text">
-        Stworzyliśmy platformę internetową do zamawiania jedzenia online w Polsce.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _website">
-    <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
         <a class="full-link" href="https://khmilstore.com/" target="_blank" rel="nofollow"></a>
         <picture>
@@ -384,29 +573,6 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://carpathianmint.com/" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-10.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-10.png" type="image/png">
-          <img src="img/portfolio/p-img-10.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://carpathianmint.com/" target="_blank" rel="nofollow">Carpathian Mint</a></div>
-      <div class="case-tags">
-        <span>#WordPress</span>
-        <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
-      </div>
-      <div class="case-desc text">
-        Stworzyliśmy stronę marketingową dla polskiej firmy zajmującej się produkcją monet kolekcjonerskich
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _website">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
         <a class="full-link" href="https://proffiz.com/" target="_blank" rel="nofollow"></a>
         <picture>
           <source srcset="img/portfolio/p-img-11.webp" type="image/webp">
@@ -424,29 +590,6 @@
       </div>
       <div class="case-desc text">
         Stworzyliśmy stronę marketingową dla renomowanej firmy zajmującej się tworzeniem oprogramowania
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _website">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="full-link" href="https://mint21.com/" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-12.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-12.png" type="image/png">
-          <img src="img/portfolio/p-img-12.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://mint21.com/" target="_blank" rel="nofollow">Mint 21</a></div>
-      <div class="case-tags">
-        <span>#WordPress</span>
-        <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
-      </div>
-      <div class="case-desc text">
-        Stworzyliśmy stronę marketingową dla firmy zajmującej się produkcją monet kolekcjonerskich w Polsce.
       </div>
     </div>
   </div>

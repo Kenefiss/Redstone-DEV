@@ -190,7 +190,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Dajemy więcej niż oczekujesz, bo tworzymy rozwiązania, które są ponadprzeciętne Dajemy więcej niż 100% Twoich oczekiwań</div>
+                <div class="title h2 animate-item fadeInUp">Dajemy więcej niż 100% Twoich oczekiwań</div>
                 <div class="text animate-item fadeInUp delay-1">Skoncentruj swoje wysiłki na tym, co robisz najlepiej. Wszystko, co jest związane z cyfryzacją biznesu, zostaw firmie <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalsitów, aby zapewnić Tobie najlepsze wsparcie w rozwoju biznesu.</div>
               </div>
             </div>

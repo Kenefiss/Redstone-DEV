@@ -23,26 +23,31 @@
       </div>
     </div>
   </div>
-  <div class="col-12 col-md-6 col-lg-4 _website">
+  <div class="col-12 col-md-6 col-lg-4 _app">
     <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+      <div class="case-img contain-btn">
+        <div class="app-stores">
+          <a href="https://apps.apple.com/ua/app/myresto-app/id1643866018?l=uk" target="_blank" rel="nofollow">
+            <img src="img/app-store.png" loading="lazy" alt="">
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=my.resto.app&pli=1" target="_blank" rel="nofollow">
+            <img src="img/google-play.png" loading="lazy" alt="">
+          </a>
+        </div>
         <picture>
-          <source srcset="img/portfolio/p-img-28.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-28.png" type="image/png">
-          <img src="img/portfolio/p-img-28.png" alt="" loading="lazy">
+          <source srcset="img/portfolio/p-img-9.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-9.png" type="image/png">
+          <img src="img/portfolio/p-img-9.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+      <div class="case-title title h5">MyResto App</div>
       <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Ionic</span>
         <span>#WordPress</span>
-        <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a landing page for famous online food-ordering platform in United Kingdom.
+        We worked on a mobile app for the food delivery service in United Kingdom.
       </div>
     </div>
   </div>
@@ -141,6 +146,125 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
+        <a class="full-link" href="https://uampower.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-38.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-38.png" type="image/png">
+          <img src="img/portfolio/p-img-38.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://uampower.com/" target="_blank" rel="nofollow">UAM Power</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We developed a marketing website for a top-rated power solutions company.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">This project has a Non-Disclosure Agreement.</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-39.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-39.png" type="image/png">
+          <img src="img/portfolio/p-img-39.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Land Rover</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        We created a closed CRM system for famous cars producer.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">This project has a Non-Disclosure Agreement.</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-40.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-40.png" type="image/png">
+          <img src="img/portfolio/p-img-40.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Volvo</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        Our team designed an exclusive CRM system tailored to the needs of a well-known car producer.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">This project has a Non-Disclosure Agreement.</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-41.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-41.png" type="image/png">
+          <img src="img/portfolio/p-img-41.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Jaguar</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        The development of a closed CRM system was undertaken to cater to the needs of a renowned car producer.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">This project has a Non-Disclosure Agreement.</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-42.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-42.png" type="image/png">
+          <img src="img/portfolio/p-img-42.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Renault</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        A specialized CRM system was crafted exclusively for a distinguished car manufacturer.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
         <a class="full-link" href="https://topusaawards.com/" target="_blank" rel="nofollow"></a>
         <picture>
           <source srcset="img/portfolio/p-img-34.webp" type="image/webp">
@@ -158,6 +282,29 @@
       </div>
       <div class="case-desc text">
         We created a landing page for a famous awarding agency in US.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-28.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-28.png" type="image/png">
+          <img src="img/portfolio/p-img-28.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We created a landing page for famous online food-ordering platform in United Kingdom.
       </div>
     </div>
   </div>
@@ -327,34 +474,6 @@
       </div>
       <div class="case-desc text">
         We developed a marketing website for a top-rated design development company
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _app">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-btn">
-        <div class="app-stores">
-          <a href="https://apps.apple.com/ua/app/myresto-app/id1643866018?l=uk" target="_blank" rel="nofollow">
-            <img src="img/app-store.png" loading="lazy" alt="">
-          </a>
-          <a href="https://play.google.com/store/apps/details?id=my.resto.app&pli=1" target="_blank" rel="nofollow">
-            <img src="img/google-play.png" loading="lazy" alt="">
-          </a>
-        </div>
-        <picture>
-          <source srcset="img/portfolio/p-img-9.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-9.png" type="image/png">
-          <img src="img/portfolio/p-img-9.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5">MyResto App</div>
-      <div class="case-tags">
-        <span>#Angular</span>
-        <span>#Ionic</span>
-        <span>#WordPress</span>
-      </div>
-      <div class="case-desc text">
-        We worked on a mobile app for the food delivery service in United Kingdom.
       </div>
     </div>
   </div>
