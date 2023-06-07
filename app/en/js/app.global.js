@@ -20,6 +20,23 @@
 
 "use strict";
 
+function delegate_event(
+  eventType,
+  ancestorElement,
+  targetElementSelector,
+  listenerFunction
+) {
+  ancestorElement.addEventListener(eventType, function (event) {
+    if (
+      event.target &&
+      event.target.matches &&
+      event.target.matches(targetElementSelector)
+    ) {
+      listenerFunction(event);
+    }
+  });
+}
+
 let _functions = {},
   winW, winH, winScr, isTouchScreen, isAndroid, isIPhone, is_Mac, is_IE, is_Chrome;
 
@@ -947,5 +964,29 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // _recaptcha.execute_on_homepage();
 
+
+  //*=====================
+  //* 11 accordion =
+  //*=====================
+  _functions.initAcc = function (elem, title, option) {
+    let elementList = document.querySelector(elem).children;
+
+    delegate_event('click', document, title, (e) => {
+      let content = e.target.nextElementSibling;
+      content.style.setProperty('--content-h', content.scrollHeight + 'px');
+
+      if (!e.target.parentElement.classList.contains('active')) {
+        if (option == true) {
+          Array.prototype.forEach.call(elementList, function (e) {
+            e.classList.remove('active');
+          });
+        }
+        e.target.parentElement.classList.add('active');
+      } else {
+        e.target.parentElement.classList.remove('active');
+      }
+    });
+  }
+  _functions.initAcc('.accordion', '.accordion-title', true);
 
 });

@@ -175,3 +175,22 @@
     </div>
   </div>
 </footer>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GSJC4T8FTK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GSJC4T8FTK');
+</script>
+
+<script type='text/javascript'>
+  window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'b2859c18e2926244368b966db4d3c3346155aaf6', { region: 'eu' });
+</script>

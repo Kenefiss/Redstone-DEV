@@ -1,0 +1,29 @@
+/*--------------------*/
+/* - FAQ              */
+/*--------------------*/
+.accordion{position: relative;z-index: 1;}
+.accordion .accordion-item{border-bottom:1px solid #EAEAEA;}
+.accordion-title{position: relative;font-size:26px;line-height:1.4;font-weight:400;color:var(--clr-title);padding:30px 50px 25px 0;cursor: pointer;-webkit-transition:0.3s;transition:0.3s;}
+.accordion-title:before,.accordion-title:after{content: "";position: absolute;right:0;top:45px;width:26px;height:2px;-webkit-transition:0.3s;transition:0.3s;background: var(--clr-title);will-change: transform;}
+.accordion-title:after{right:12px;top:33px;width:2px;height:26px;}
+.accordion-inner{display: none;padding:0 50px 25px 0;}
+.accordion-item.active .accordion-inner{display: block;}
+.accordion-item.active .accordion-title{color:var(--clr-red);}
+.accordion-item.active .accordion-title:before{background: var(--clr-red);}
+.accordion-item.active .accordion-title:after{opacity:0;}
+/*media*/
+@media(min-width:1200px){
+  .accordion-title:hover{color:var(--clr-red);}
+}
+@media(max-width:1560px){
+  .accordion-title{font-size:24px;padding:25px 50px 20px 0;}
+  .accordion-inner{padding:0 50px 20px 0;}
+  .accordion-title:before{top:40px;}
+  .accordion-title:after{top:28px;}
+}
+@media(max-width:767px){
+  .accordion-title{font-size:18px;line-height:1.2;padding:20px 40px 17px 0;}
+  .accordion-inner{padding:0 40px 17px 0;}
+  .accordion-title:before{top:30px;width:20px;}
+  .accordion-title:after{top:21px;right:9px;height:20px;}
+}

@@ -290,6 +290,9 @@ custom CRM system">
       <!-- SEO  * -->
       <?php include 'inc/sections/_seo-2.php'; ?>
 
+      <!-- FAQ -->
+      <?php include 'inc/sections/_faq.php'; ?>
+
     </main>
 
     <?php include 'inc/_footer.php';?>

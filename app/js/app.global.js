@@ -50,8 +50,6 @@ document.addEventListener("DOMContentLoaded", function() {
   }, 500);
 
 
-
-
   //*=====================================
   //* 02 FUNCTIONS CALC & SCROLL, RESIZE =
   //*=====================================
@@ -774,6 +772,5 @@ document.addEventListener("DOMContentLoaded", function() {
       } catch (err) {} finally {}
     });
   }
-
 
 });
