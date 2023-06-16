@@ -46,6 +46,66 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="introduction-to-responsive-email-design">
+                  <picture>
+                    <source srcset="img/introduction-to-responsive-email-design.webp" type="image/webp">
+                    <source srcset="img/introduction-to-responsive-email-design.jpg" type="image/jpeg">
+                    <img src="img/introduction-to-responsive-email-design.jpg" alt="introduction-to-responsive-email-design">
+                  </picture>
+                  <span class="date">15.06.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="introduction-to-responsive-email-design">Wprowadzenie do responsywnego projektowania emaili</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-impact-of-voice-assistants-on-the-development-of-websites-and-applications">
+                  <picture>
+                    <source srcset="img/the-impact-of-voice-assistants-on-the-development-of-websites-and-applications.webp" type="image/webp">
+                    <source srcset="img/the-impact-of-voice-assistants-on-the-development-of-websites-and-applications.jpg" type="image/jpeg">
+                    <img src="img/the-impact-of-voice-assistants-on-the-development-of-websites-and-applications.jpg" alt="the-impact-of-voice-assistants-on-the-development-of-websites-and-applications">
+                  </picture>
+                  <span class="date">09.06.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-impact-of-voice-assistants-on-the-development-of-websites-and-applications">Wpływ asystentów głosowych na rozwój stron internetowych i aplikacji</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="impact-of-augmented-reality-on-e-commerce">
+                  <picture>
+                    <source srcset="img/impact-of-augmented-reality-on-e-commerce.webp" type="image/webp">
+                    <source srcset="img/impact-of-augmented-reality-on-e-commerce.jpg" type="image/jpeg">
+                    <img src="img/impact-of-augmented-reality-on-e-commerce.jpg" alt="impact-of-augmented-reality-on-e-commerce">
+                  </picture>
+                  <span class="date">05.06.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="impact-of-augmented-reality-on-e-commerce">Wpływ rzeczywistości rozszerzonej na e-commerce</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="building-applications-for-various-platforms-using-flutter">
+                  <picture>
+                    <source srcset="img/building-applications-for-various-platforms-using-flutter.webp" type="image/webp">
+                    <source srcset="img/building-applications-for-various-platforms-using-flutter.jpg" type="image/jpeg">
+                    <img src="img/building-applications-for-various-platforms-using-flutter.jpg" alt="building-applications-for-various-platforms-using-flutter">
+                  </picture>
+                  <span class="date">01.06.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="building-applications-for-various-platforms-using-flutter">Budowanie aplikacji na różne platformy za pomocą Fluttera</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="exploring-the-benefits-of-serverless">
                   <picture>
                     <source srcset="img/exploring-the-benefits-of-serverless.webp" type="image/webp">

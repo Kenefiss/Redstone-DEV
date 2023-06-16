@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="tips-for-effective-mobile-app-testing">
+                  <picture>
+                    <source srcset="img/tips-for-effective-mobile-app-testing.webp" type="image/webp">
+                    <source srcset="img/tips-for-effective-mobile-app-testing.jpg" type="image/jpeg">
+                    <img src="img/tips-for-effective-mobile-app-testing.jpg" alt="tips-for-effective-mobile-app-testing">
+                  </picture>
+                  <span class="date">15.06.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="tips-for-effective-mobile-app-testing">Tips for Effective Mobile App Testing</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="best-practices-for-ui-ux-design-in-mobile-apps">
+                  <picture>
+                    <source srcset="img/best-practices-for-ui-ux-design-in-mobile-apps.webp" type="image/webp">
+                    <source srcset="img/best-practices-for-ui-ux-design-in-mobile-apps.jpg" type="image/jpeg">
+                    <img src="img/best-practices-for-ui-ux-design-in-mobile-apps.jpg" alt="best-practices-for-ui-ux-design-in-mobile-apps">
+                  </picture>
+                  <span class="date">09.06.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="best-practices-for-ui-ux-design-in-mobile-apps">Best Practices for UI/UX Design in Mobile Apps</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="importance-of-seo-friendly-web-development">
+                  <picture>
+                    <source srcset="img/importance-of-seo-friendly-web-development.webp" type="image/webp">
+                    <source srcset="img/importance-of-seo-friendly-web-development.jpg" type="image/jpeg">
+                    <img src="img/importance-of-seo-friendly-web-development.jpg" alt="importance-of-seo-friendly-web-development">
+                  </picture>
+                  <span class="date">05.06.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="importance-of-seo-friendly-web-development">Importance of SEO-Friendly Web Development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-impact-of-chatbots-on-customer-experience">
+                  <picture>
+                    <source srcset="img/the-impact-of-chatbots-on-customer-experience.webp" type="image/webp">
+                    <source srcset="img/the-impact-of-chatbots-on-customer-experience.jpg" type="image/jpeg">
+                    <img src="img/the-impact-of-chatbots-on-customer-experience.jpg" alt="the-impact-of-chatbots-on-customer-experience">
+                  </picture>
+                  <span class="date">01.06.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-impact-of-chatbots-on-customer-experience">The Impact of Chatbots on Customer Experience</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="the-rise-of-progressive-web-apps">
                   <picture>
                     <source srcset="img/the-rise-of-progressive-web-apps.webp" type="image/webp">
