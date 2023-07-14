@@ -46,6 +46,67 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="basic-techniques-to-prevent-cross-site-scripting-attacks">
+                  <picture>
+                    <source srcset="img/basic-techniques-to-prevent-cross-site-scripting-attacks.webp" type="image/webp">
+                    <source srcset="img/basic-techniques-to-prevent-cross-site-scripting-attacks.jpg" type="image/jpeg">
+                    <img src="img/basic-techniques-to-prevent-cross-site-scripting-attacks.jpg" alt="basic-techniques-to-prevent-cross-site-scripting-attacks">
+                  </picture>
+                  <span class="date">14.07.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="basic-techniques-to-prevent-cross-site-scripting-attacks">Podstawowe techniki zapobiegania atakom Cross-Site Scripting (XSS)</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="implementation-of-payment-solutions-in-online-stores">
+                  <picture>
+                    <source srcset="img/implementation-of-payment-solutions-in-online-stores.webp" type="image/webp">
+                    <source srcset="img/implementation-of-payment-solutions-in-online-stores.jpg" type="image/jpeg">
+                    <img src="img/implementation-of-payment-solutions-in-online-stores.jpg" alt="implementation-of-payment-solutions-in-online-stores">
+                  </picture>
+                  <span class="date">10.07.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="implementation-of-payment-solutions-in-online-stores">Implementacja rozwiązań płatności w sklepach internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="introduction-to-serverless-database-solutions">
+                  <picture>
+                    <source srcset="img/introduction-to-serverless-database-solutions.webp" type="image/webp">
+                    <source srcset="img/introduction-to-serverless-database-solutions.jpg" type="image/jpeg">
+                    <img src="img/introduction-to-serverless-database-solutions.jpg" alt="introduction-to-serverless-database-solutions">
+                  </picture>
+                  <span class="date">07.07.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="introduction-to-serverless-database-solutions">Wprowadzenie do rozwiązań baz danych bezserwerowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="basic-web-application-performance-testing-strategies">
+                  <picture>
+                    <source srcset="img/basic-web-application-performance-testing-strategies.webp" type="image/webp">
+                    <source srcset="img/basic-web-application-performance-testing-strategies.jpg" type="image/jpeg">
+                    <img src="img/basic-web-application-performance-testing-strategies.jpg" alt="basic-web-application-performance-testing-strategies">
+                  </picture>
+                  <span class="date">03.07.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="basic-web-application-performance-testing-strategies">Podstawowe strategie testowania wydajności aplikacji internetowych</a>
+              </div>
+            </div>
+
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="introduction-to-responsive-email-design">
                   <picture>
                     <source srcset="img/introduction-to-responsive-email-design.webp" type="image/webp">

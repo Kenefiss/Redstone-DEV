@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="working-with-single-sign-on-solutions-in-web-development">
+                  <picture>
+                    <source srcset="img/working-with-single-sign-on-solutions-in-web-development.webp" type="image/webp">
+                    <source srcset="img/working-with-single-sign-on-solutions-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/working-with-single-sign-on-solutions-in-web-development.jpg" alt="working-with-single-sign-on-solutions-in-web-development">
+                  </picture>
+                  <span class="date">13.07.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="working-with-single-sign-on-solutions-in-web-development">Working with Single Sign-On (SSO) Solutions in Web Development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="essential-techniques-for-handling-asynchronous-javascript">
+                  <picture>
+                    <source srcset="img/essential-techniques-for-handling-asynchronous-javascript.webp" type="image/webp">
+                    <source srcset="img/essential-techniques-for-handling-asynchronous-javascript.jpg" type="image/jpeg">
+                    <img src="img/essential-techniques-for-handling-asynchronous-javascript.jpg" alt="essential-techniques-for-handling-asynchronous-javascript">
+                  </picture>
+                  <span class="date">10.07.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="essential-techniques-for-handling-asynchronous-javascript">Essential Techniques for Handling Asynchronous JavaScript</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="implementing-real-time-collaborative-editing-in-web-applications">
+                  <picture>
+                    <source srcset="img/implementing-real-time-collaborative-editing-in-web-applications.webp" type="image/webp">
+                    <source srcset="img/implementing-real-time-collaborative-editing-in-web-applications.jpg" type="image/jpeg">
+                    <img src="img/implementing-real-time-collaborative-editing-in-web-applications.jpg" alt="implementing-real-time-collaborative-editing-in-web-applications">
+                  </picture>
+                  <span class="date">07.07.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="implementing-real-time-collaborative-editing-in-web-applications">Implementing Real-Time Collaborative Editing in Web Applications</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="introduction-to-web-performance-optimization-frameworks">
+                  <picture>
+                    <source srcset="img/introduction-to-web-performance-optimization-frameworks.webp" type="image/webp">
+                    <source srcset="img/introduction-to-web-performance-optimization-frameworks.jpg" type="image/jpeg">
+                    <img src="img/introduction-to-web-performance-optimization-frameworks.jpg" alt="introduction-to-web-performance-optimization-frameworks">
+                  </picture>
+                  <span class="date">03.07.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="introduction-to-web-performance-optimization-frameworks">Introduction to Web Performance Optimization Frameworks: Lighthouse and WebPagetest</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="tips-for-effective-mobile-app-testing">
                   <picture>
                     <source srcset="img/tips-for-effective-mobile-app-testing.webp" type="image/webp">
