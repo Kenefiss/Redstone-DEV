@@ -36,9 +36,9 @@
       <div class="section service-banner">
         <div class="container">
           <div class="row">
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">Створення<br> сайтів</h1>
+                <h1 class="title h1">E-commerce</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
@@ -52,57 +52,9 @@
             </div>
           </div>
         </div>
-        <div class="service-decor">web site</div>
+        <div class="service-decor">E-commerce</div>
         <div class="spacer-xl"></div>
       </div>
-
-      <!-- SERVICE BANNER BRANDING -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Брендінг</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-3.webp" type="image/webp">
-                    <source srcset="img/service-3.png" type="image/png">
-                    <img src="img/service-3.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">branding</div>
-        <div class="spacer-xl"></div>
-      </div> -->
-
-      <!-- SERVICE BANNER APP -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Послуги з проектування<br> мобільних додатків</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-2.webp" type="image/webp">
-                    <source srcset="img/service-2.png" type="image/png">
-                    <img src="img/service-2.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">mobile app</div>
-        <div class="spacer-xl"></div>
-      </div> -->
 
       <!-- OUR PROCESS AND ITS BENEFITS -->
       <div class="section">
@@ -110,7 +62,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наш процес та його переваги</div>
+                <div class="title h2 animate-item fadeInUp">Our process and its benefits</div>
               </div>
             </div>
           </div>
@@ -133,33 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Requirements Gathering</div>
+                  <div class="text">Gather detailed project requirements, including products/services, payment gateways, and shipping options.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Унікальний дизайн</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Platform Selection</div>
+                  <div class="text">Choose a suitable e-commerce platform based on project needs and scalability.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Прототипування та перевірка</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Design and Layout</div>
+                  <div class="text">Create an appealing and user-friendly layout with a focus on product showcases and seamless navigation.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Розробляємо стратегію</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Integration and Security</div>
+                  <div class="text">Integrate payment gateways and implement security measures to protect customer data.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Медіареклама</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
-                </div>
-                <div class="process-item">
-                  <div class="process-number">06</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Testing and Launch</div>
+                  <div class="text">Thoroughly test the website across devices, deploy the e-commerce service page, and monitor its performance for continuous improvement.</div>
                 </div>
               </div>
             </div>
@@ -174,25 +121,25 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Як ми працюємо</div>
+                <div class="title h2 animate-item fadeInUp"> How we work</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Робимо аудит та аналіз</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробляємо стратегію</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробка інтерфейсу</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Медіареклама</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Support</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Requirements Gathering</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Platform Selection</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Design and Layout</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Integration and Security</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Testing and Launch</span></div></div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
-                <p>Вивчаємо сайт, знаходимо всі проблемні місця і визначаємо, як їх усунути. Аналізуємо конкурентів в пошуковій видачі та іхні стратегії. Робимо аудит наявного трафіку на сайт у розрізі джерел та ефективності у пошукових системах.</p>
+                <p>We study the site, find all the problem areas and determine how to eliminate them. We analyze competitors in search results and their strategies. We conduct an audit of the available traffic to the site in terms of sources and effectiveness in search engines.</p>
               </div>
             </div>
           </div>
@@ -206,8 +153,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші проекти</div>
-                <div class="text animate-item fadeInUp delay-1">Відкрийте для нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
+                <div class="title h2 animate-item fadeInUp">Our projects</div>
+                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
               </div>
             </div>
           </div>
@@ -215,10 +162,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Finhub</div>
-                  <div class="project-sub-title text upper">Фінансова компанія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">M-vision</div>
+                  <div class="project-sub-title text upper">DEVELOPMENT COMPANY</div>
+                  <div class="text">We created an e-commerce website for for the higly-recomended company that provides dental services. We implemented a product catalog with detailed descriptions and shopping cart storage options. We provided a user-friendly checkout process and integrated secure payment methods. The result was increased sales and customer satisfaction.</div>
+                  <a href="https://mvision.pro/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -234,10 +181,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">4 Your health</div>
-                  <div class="project-sub-title text upper">система для дієтологів</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Call2bid</div>
+                  <div class="project-sub-title text upper">ONLINE STORE</div>
+                  <div class="text"> We developed an e-commerce platform for a or the company that provides services for potential buyers of cars from auctions. We designed a minimalistic and modern layout for easy product search and comparison. User reviews and quick ordering options were integrated. The outcome was improved conversions and high customer satisfaction.</div>
+                  <a href="https://call2bid.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -253,10 +200,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">INSPE</div>
-                  <div class="project-sub-title text upper">система для стоматологія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Fruchte Snack</div>
+                  <div class="project-sub-title text upper">MANUFACTURER</div>
+                  <div class="text">We designed an e-commerce website for for famous German healthy snacks manufacturer. Utilizing a bright and balanced design that reflects the natural essence of the products, we implemented easy product search based on skin type and ingredients. The result was increased orders and a positive brand image.</div>
+                  <a href="https://fruechtesnack.eu/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -280,7 +227,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші перемоги</div>
+                <div class="title h2 animate-item fadeInUp">Our victories</div>
               </div>
             </div>
           </div>
@@ -375,7 +322,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Що ми використовуємо для досягнення успіху</div>
+                <div class="title h2 animate-item fadeInUp">What we use to achieve success</div>
               </div>
             </div>
           </div>
@@ -424,47 +371,47 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Поширені запитання та відповіді</h2>
+              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">Ecommerce vs Landing page?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>Depends on the type and quantity of goods. If you have more than 10 units of goods that can be delivered to the client within a few days, you need an online store. If there are up to 10 products and there are no plans to expand the assortment, a Landing Page is suitable. If the goods are ordered, then depending on their quantity, a catalog or landing page is suitable.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">What is Ecommerce?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>These are sites, mobs. programs and online platforms that enable online transactions. Such a project can be implemented in the form of an online store, a marketplace, an online catalog with the possibility of purchase, or even a landing page aimed at selling a single product with online payment.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Чи займаєтесь брендуванням продукту?</div>
+                  <div class="accordion-title" itemprop="name">What documentation is needed for ecommerce website production?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>There are at least two mandatory documents in any legal agreement with a web studio. The first document for any commercial agreement is the Agreement specifying the duties and the period of work. The second document is a detailed Technical Task. It should describe in as much detail as possible all the details of the future site, the stages of its creation, including all functions and additional components, as well as connections and integration with third-party software. By the way, at Technical Task for development, our managers prepare for you for free!</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">Can I set up different price for retail or wholesale products?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>This is usually implemented through a discount that depends on your user account. Usually these discounts have a fixed percentage, for example 10%, or the total discount depends on the number of products purchased.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">Why we need proffesional photos for products you want to sell?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>They say that it is better to see once than to hear a hundred times. Good photography is the key to success. Good product photos help to sell. We strongly recommend taking professional photos of each product from multiple angles.</p>
                     </div>
                   </div>
                 </div>

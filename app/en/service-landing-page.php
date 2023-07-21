@@ -36,9 +36,9 @@
       <div class="section service-banner">
         <div class="container">
           <div class="row">
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">Створення<br> сайтів</h1>
+                <h1 class="title h1">Landing page</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
@@ -52,57 +52,9 @@
             </div>
           </div>
         </div>
-        <div class="service-decor">web site</div>
+        <div class="service-decor">Landing page</div>
         <div class="spacer-xl"></div>
       </div>
-
-      <!-- SERVICE BANNER BRANDING -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Брендінг</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-3.webp" type="image/webp">
-                    <source srcset="img/service-3.png" type="image/png">
-                    <img src="img/service-3.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">branding</div>
-        <div class="spacer-xl"></div>
-      </div> -->
-
-      <!-- SERVICE BANNER APP -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Послуги з проектування<br> мобільних додатків</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-2.webp" type="image/webp">
-                    <source srcset="img/service-2.png" type="image/png">
-                    <img src="img/service-2.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">mobile app</div>
-        <div class="spacer-xl"></div>
-      </div> -->
 
       <!-- OUR PROCESS AND ITS BENEFITS -->
       <div class="section">
@@ -110,7 +62,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наш процес та його переваги</div>
+                <div class="title h2 animate-item fadeInUp">Our process and its benefits</div>
               </div>
             </div>
           </div>
@@ -133,33 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Objective Definition</div>
+                  <div class="text">Clearly define the purpose and goals of the landing page, such as lead generation, service promotion, or event registration.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Унікальний дизайн</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Content and Design Creation</div>
+                  <div class="text">Develop compelling and persuasive content that showcases the service's benefits and features. Design an appealing layout with a focus on visual elements and a clear call-to-action (CTA).</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Прототипування та перевірка</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Mobile-Friendly Design</div>
+                  <div class="text">Ensure the landing page is fully responsive and optimized for seamless viewing and interaction on various devices, including smartphones and tablets.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Розробляємо стратегію</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Form Integration and Lead Capture</div>
+                  <div class="text">If applicable, incorporate lead capture forms to collect user information and generate potential leads interested in the service.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Медіареклама</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
-                </div>
-                <div class="process-item">
-                  <div class="process-number">06</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Testing and Optimization</div>
+                  <div class="text">Conduct A/B testing to compare different versions of the landing page and identify the most effective design and content. Continuously analyze performance metrics and make data-driven optimizations to improve conversion rates and achieve the desired objectives.</div>
                 </div>
               </div>
             </div>
@@ -174,25 +121,25 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Як ми працюємо</div>
+                <div class="title h2 animate-item fadeInUp">How we work</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Робимо аудит та аналіз</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробляємо стратегію</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробка інтерфейсу</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Медіареклама</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Support</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Objective Definition</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Content and Design Creation</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Mobile-Friendly Design</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Form Integration and Lead Capture</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Testing and Optimization</span></div></div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
-                <p>Вивчаємо сайт, знаходимо всі проблемні місця і визначаємо, як їх усунути. Аналізуємо конкурентів в пошуковій видачі та іхні стратегії. Робимо аудит наявного трафіку на сайт у розрізі джерел та ефективності у пошукових системах.</p>
+                <p>We study the site, find all the problem areas and determine how to eliminate them. We analyze competitors in search results and their strategies. We conduct an audit of the available traffic to the site in terms of sources and effectiveness in search engines.</p>
               </div>
             </div>
           </div>
@@ -206,8 +153,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші проекти</div>
-                <div class="text animate-item fadeInUp delay-1">Відкрийте для нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
+                <div class="title h2 animate-item fadeInUp">Our projects</div>
+                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
               </div>
             </div>
           </div>
@@ -215,10 +162,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Finhub</div>
-                  <div class="project-sub-title text upper">Фінансова компанія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">TOP USA AWARDS</div>
+                  <div class="project-sub-title text upper">EVENT AGENCY</div>
+                  <div class="text">We created a landing page for a top-ranked event agency in US. We offered a creative design that reflected the agencie's ambiance and enticed visitors to book appointments. The result was an increase in bookings during the holiday season.</div>
+                  <a href="https://topusaawards.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -234,10 +181,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">4 Your health</div>
-                  <div class="project-sub-title text upper">система для дієтологів</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Peeklogic</div>
+                  <div class="project-sub-title text upper">IT COMPANY</div>
+                  <div class="text">We designed a landing page for an online programming course with a promotional offer of "Free 7-Day Access." We optimized the content for SEO and added creative graphics. The outcome was an increase in course registrations and the enrollment of new students.</div>
+                  <a href="https://www.peeklogic.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -253,10 +200,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">INSPE</div>
-                  <div class="project-sub-title text upper">система для стоматологія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Mint 21</div>
+                  <div class="project-sub-title text upper">ONLINE STORE</div>
+                  <div class="text">We developed a landing page to promote a new collection of remarkable coins. The page featured a bright and attractive design, customer testimonials, and a focus on product safety. The result was increased sales of the new coins and an expanded customer base.</div>
+                  <a href="https://mint21.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -280,7 +227,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші перемоги</div>
+                <div class="title h2 animate-item fadeInUp">Our victories</div>
               </div>
             </div>
           </div>
@@ -375,7 +322,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Що ми використовуємо для досягнення успіху</div>
+                <div class="title h2 animate-item fadeInUp">What we use to achieve success</div>
               </div>
             </div>
           </div>
@@ -424,47 +371,47 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Поширені запитання та відповіді</h2>
+              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">What is the price for Landing page development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>The budget for the development of the Landing page is determined by several stages of work. First of all, this is market analysis, construction of the page structure, content creation. Then the stage of UI / UX design, and the stage of programming. You can see calculation examples in our "cost calculator".</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">Terms for Landing page production?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>The terms depend on the design level and the number of screens (sense blocks) on the page. On average, it takes from 2 to 5 weeks to create a high-quality and stylish Landing page. You can see examples of terms calculation in our "cost calculator".</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Чи займаєтесь брендуванням продукту?</div>
+                  <div class="accordion-title" itemprop="name">Do we have templates?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>We create a unique site design that fully reflects the features of the promoted product and its advantages.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">What is Landing page?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>The main differences between a landing page and any other site are very simple: Aimed at the fastest possible conversion, Dedicated to one product or service. If the visitor attraction channels use paid traffic and are not suitable for long-term SEO promotion.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">What benefits Landing page has?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>Focus on call-to-action, loading speed, orderliness, works well on different devices resulting in high conversion.</p>
                     </div>
                   </div>
                 </div>

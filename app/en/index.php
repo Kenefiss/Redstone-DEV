@@ -295,12 +295,12 @@ custom CRM system">
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Поширені запитання та відповіді</h2>
+              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Яка вартість розробки сайту?</div>
+                  <div class="accordion-title" itemprop="name">What is the price for development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
                       <p>The cost of developing a website depends on many factors. First of all, it depends on the chosen type of design and its complexity, CMS, page volume, the amount of content that needs to be developed and placed, the site's functionality, the number of necessary services and widgets that need to be connected or developed, and many other factors. To calculate the cost of development, fill out an application on our website or call us.</p>
@@ -308,7 +308,7 @@ custom CRM system">
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які терміни розробки веб сайту?</div>
+                  <div class="accordion-title" itemprop="name">What terms do we offer?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
                       <p>The average website development time is 25 to 70 business days. The development term depends on the type of site, design and required functionality, the volume of the site (number of pages), as well as the time to agree on materials and design with the customer.</p>
@@ -316,26 +316,18 @@ custom CRM system">
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Чи займаєтесь ви просуванням сайту?</div>
+                  <div class="accordion-title" itemprop="name">What we are offering for website promotion?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Ми можемо доопрацювати ваш сайт під поточні потреби, покращити дизайн, швидкість завантаження, розширити функціонал та інші фактори, що впливають на конверсію сайту. Детальніше про доопрацювання та редизайну сайту ви можете ознайомитися тут </p>
+                      <p>We can finalize your site for current needs, improve design, loading speed, expand functionality and other factors affecting site conversion. You can find out more about the finalization and redesign of the site here.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Скільки коштує замовити розробку сайту?</div>
+                  <div class="accordion-title" itemprop="name">How you estimate the cost?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
                       <p>The cost of the site is always calculated individually. Many different factors external and internal to your business dictate a unique set of success factors. Our experts evaluate them and make development recommendations with the exact cost of all stages of work. Requesting such a calculation is very simple, just fill out the form above.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Чи займаєтесь ви просуванням сайту?</div>
-                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                    <div class="text" itemprop="text">
-                      <p>We are not just engaged in promotion, we are able to promote and secure your site in the TOP of all search engines. Clients who have used our site promotion services are leaders in search engines.</p>
                     </div>
                   </div>
                 </div>

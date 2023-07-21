@@ -36,9 +36,9 @@
       <div class="section service-banner">
         <div class="container">
           <div class="row">
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">Створення<br> сайтів</h1>
+                <h1 class="title h1">SEO</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
@@ -52,57 +52,9 @@
             </div>
           </div>
         </div>
-        <div class="service-decor">web site</div>
+        <div class="service-decor">SEO</div>
         <div class="spacer-xl"></div>
       </div>
-
-      <!-- SERVICE BANNER BRANDING -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Брендінг</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-3.webp" type="image/webp">
-                    <source srcset="img/service-3.png" type="image/png">
-                    <img src="img/service-3.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">branding</div>
-        <div class="spacer-xl"></div>
-      </div> -->
-
-      <!-- SERVICE BANNER APP -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Послуги з проектування<br> мобільних додатків</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-2.webp" type="image/webp">
-                    <source srcset="img/service-2.png" type="image/png">
-                    <img src="img/service-2.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">mobile app</div>
-        <div class="spacer-xl"></div>
-      </div> -->
 
       <!-- OUR PROCESS AND ITS BENEFITS -->
       <div class="section">
@@ -110,7 +62,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наш процес та його переваги</div>
+                <div class="title h2 animate-item fadeInUp">Our process and its benefits</div>
               </div>
             </div>
           </div>
@@ -133,33 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Keyword Optimization</div>
+                  <div class="text">Conduct thorough keyword research and optimize the service page content with relevant and high-value keywords to improve its visibility in search results.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Унікальний дизайн</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Quality Content</div>
+                  <div class="text">Provide valuable and user-focused content that addresses users' needs, showcases the benefits of the services, and encourages engagement.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Прототипування та перевірка</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">On-Page Elements</div>
+                  <div class="text">Optimize meta tags, headers, URLs, and image alt text to align with target keywords and improve the page's search engine relevance.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Розробляємо стратегію</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Mobile-Friendliness</div>
+                  <div class="text">Ensure the service page is mobile-friendly and responsive to offer a seamless user experience on all devices.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Медіареклама</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
-                </div>
-                <div class="process-item">
-                  <div class="process-number">06</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Monitoring and Updates</div>
+                  <div class="text">Regularly monitor the page's performance using analytics tools, and make data-driven updates to enhance its visibility and user engagement over time.</div>
                 </div>
               </div>
             </div>
@@ -174,25 +121,25 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Як ми працюємо</div>
+                <div class="title h2 animate-item fadeInUp">How we work</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Робимо аудит та аналіз</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробляємо стратегію</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробка інтерфейсу</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Медіареклама</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Support</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Keyword Optimization</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Quality Content</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>On-Page Elements</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Mobile-Friendliness</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Monitoring and Updates</span></div></div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
-                <p>Вивчаємо сайт, знаходимо всі проблемні місця і визначаємо, як їх усунути. Аналізуємо конкурентів в пошуковій видачі та іхні стратегії. Робимо аудит наявного трафіку на сайт у розрізі джерел та ефективності у пошукових системах.</p>
+                <p>We study the site, find all the problem areas and determine how to eliminate them. We analyze competitors in search results and their strategies. We conduct an audit of the available traffic to the site in terms of sources and effectiveness in search engines.</p>
               </div>
             </div>
           </div>
@@ -206,8 +153,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші проекти</div>
-                <div class="text animate-item fadeInUp delay-1">Відкрийте для нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
+                <div class="title h2 animate-item fadeInUp">Our projects</div>
+                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
               </div>
             </div>
           </div>
@@ -215,10 +162,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Finhub</div>
-                  <div class="project-sub-title text upper">Фінансова компанія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Carpathian Mint</div>
+                  <div class="project-sub-title text upper">ONLINE STORE</div>
+                  <div class="text">We worked on SEO optimization for an online store. After conducting an audit, we researched relevant keywords and optimized meta tags, headings, and content to improve search engine rankings. The result was increased organic traffic and higher conversions.</div>
+                  <a href="https://carpathianmint.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -234,10 +181,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">4 Your health</div>
-                  <div class="project-sub-title text upper">система для дієтологів</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Origin team</div>
+                  <div class="project-sub-title text upper">CREATIVE COMPANY</div>
+                  <div class="text">We developed an SEO strategy for  design agency. By selecting appropriate keywords, optimizing content, and implementing local SEO tactics, we enhanced the company's visibility to the target audience. The outcome was a rise in travel inquiries and bookings.</div>
+                  <a href="https://origin-team.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -253,10 +200,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">INSPE</div>
-                  <div class="project-sub-title text upper">система для стоматологія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Profizz</div>
+                  <div class="project-sub-title text upper">SOFTWARE COMPANY</div>
+                  <div class="text">We performed an SEO audit and optimized the website for an IT consulting company. Focusing on authoritative content and building high-quality backlinks, we strengthened the website's positions in search engines. The result was increased traffic, higher search engine rankings, and improved website performance.</div>
+                  <a href="https://proffiz.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -280,7 +227,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші перемоги</div>
+                <div class="title h2 animate-item fadeInUp">Our victories</div>
               </div>
             </div>
           </div>
@@ -375,7 +322,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Що ми використовуємо для досягнення успіху</div>
+                <div class="title h2 animate-item fadeInUp">What we use to achieve success</div>
               </div>
             </div>
           </div>
@@ -424,47 +371,39 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Поширені запитання та відповіді</h2>
+              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">What is SEO?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>SEO is deciphered as search optimization, it is aimed at organic (natural) attraction of traffic to the site through the ranking of search results without paying for traffic through advertising. It is important to develop a strong SEO strategy because the main source of traffic to the site is search.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">Terms of SEO optimization?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>SEO requires constant attention and is definitely not a one-time thing. It's important to understand that SEO is a long-term investment and can eventually become your biggest traffic driver if you give it the time it deserves. Your SEO strategy takes time, planning, and tweaking to achieve and maintain search rankings, ROI, and overall traffic growth.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Чи займаєтесь брендуванням продукту?</div>
+                  <div class="accordion-title" itemprop="name">Does site speed affect search engine ranking?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>Your site speed and load time affect your overall search engine ranking. In fact, site speed is one of the main ranking factors in Google search. Therefore, if you want to increase the overall ranking of the site in the search engines, you need to increase the overall speed of the site.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">What is indexing and scanning?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
-                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                    <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>Indexing and crawling are the two main processes that a site must go through in order to appear in Google. First, Google crawls the site to discover all the pages within it and their content. Google then processes all this data, and upon successful completion, the site will be indexed and available in Google search.</p>
                     </div>
                   </div>
                 </div>

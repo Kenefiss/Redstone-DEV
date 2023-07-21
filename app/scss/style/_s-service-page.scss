@@ -1,13 +1,9 @@
 /*--------------------*/
 /* - SERVICES PAGE       */
 /*--------------------*/
-.service-banner .banner-content {
-  margin-top: 50px;
-}
-
 .service-decor {
   position: absolute;
-  left: -10%;
+  left: 1%;
   bottom: 15%;
   font-size: 220px;
   font-weight: 600;
@@ -28,12 +24,6 @@
 @media(max-width:1199px) {
   .service-banner .title br {
     display: none;
-  }
-}
-
-@media(max-width:991px) {
-  .service-banner .banner-content {
-    margin-top: 0;
   }
 }
 

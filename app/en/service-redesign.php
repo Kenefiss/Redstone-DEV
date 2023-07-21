@@ -36,9 +36,9 @@
       <div class="section service-banner">
         <div class="container">
           <div class="row">
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">Створення<br> сайтів</h1>
+                <h1 class="title h1">Redesign</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
@@ -52,57 +52,9 @@
             </div>
           </div>
         </div>
-        <div class="service-decor">web site</div>
+        <div class="service-decor">Redesign</div>
         <div class="spacer-xl"></div>
       </div>
-
-      <!-- SERVICE BANNER BRANDING -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Брендінг</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-3.webp" type="image/webp">
-                    <source srcset="img/service-3.png" type="image/png">
-                    <img src="img/service-3.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">branding</div>
-        <div class="spacer-xl"></div>
-      </div> -->
-
-      <!-- SERVICE BANNER APP -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Послуги з проектування<br> мобільних додатків</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-2.webp" type="image/webp">
-                    <source srcset="img/service-2.png" type="image/png">
-                    <img src="img/service-2.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">mobile app</div>
-        <div class="spacer-xl"></div>
-      </div> -->
 
       <!-- OUR PROCESS AND ITS BENEFITS -->
       <div class="section">
@@ -110,7 +62,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наш процес та його переваги</div>
+                <div class="title h2 animate-item fadeInUp">Our process and its benefits</div>
               </div>
             </div>
           </div>
@@ -133,33 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Research and Analysis</div>
+                  <div class="text">Conduct research on the current service page, user behavior, and competitor websites. Analyze user feedback and pain points to identify areas that need improvement.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Унікальний дизайн</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Wireframing and Prototyping</div>
+                  <div class="text">Create wireframes and interactive prototypes to visualize the layout and functionality of the new service page. Iterate on the design to ensure a seamless user experience.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Прототипування та перевірка</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Visual Design</div>
+                  <div class="text">Develop the visual design for the service page. Choose an appealing and consistent design language that aligns with the overall branding of the website.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Розробляємо стратегію</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Quality Assurance</div>
+                  <div class="text">Thoroughly test the redesigned service page across different browsers and devices to catch any bugs or issues.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Медіареклама</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
-                </div>
-                <div class="process-item">
-                  <div class="process-number">06</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Launch and Monitoring</div>
+                  <div class="text">Deploy the redesigned service page and closely monitor its performance and user engagement. Make further adjustments based on user feedback and data analytics.</div>
                 </div>
               </div>
             </div>
@@ -174,25 +121,25 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Як ми працюємо</div>
+                <div class="title h2 animate-item fadeInUp">How we work</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Робимо аудит та аналіз</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробляємо стратегію</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробка інтерфейсу</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Медіареклама</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Support</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Research and Analysis</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Wireframing and Prototyping</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Visual Design</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Quality Assurance</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Launch and Monitoring</span></div></div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
-                <p>Вивчаємо сайт, знаходимо всі проблемні місця і визначаємо, як їх усунути. Аналізуємо конкурентів в пошуковій видачі та іхні стратегії. Робимо аудит наявного трафіку на сайт у розрізі джерел та ефективності у пошукових системах.</p>
+                <p>We study the site, find all the problem areas and determine how to eliminate them. We analyze competitors in search results and their strategies. We conduct an audit of the available traffic to the site in terms of sources and effectiveness in search engines.</p>
               </div>
             </div>
           </div>
@@ -206,8 +153,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші проекти</div>
-                <div class="text animate-item fadeInUp delay-1">Відкрийте для нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
+                <div class="title h2 animate-item fadeInUp">Our projects</div>
+                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
               </div>
             </div>
           </div>
@@ -215,10 +162,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Finhub</div>
-                  <div class="project-sub-title text upper">Фінансова компанія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Nikelloh</div>
+                  <div class="project-sub-title text upper">DESIGN COMPANY</div>
+                  <div class="text">Our team worked on the redesign of an online store. After studying user behavior, we developed an updated website structure and increased the visibility of promotions and discounts. Users enjoyed a more intuitive and convenient shopping experience, leading to increased conversion rates and customer satisfaction.</div>
+                  <a href="http://designbynickelloh.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -234,10 +181,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">4 Your health</div>
-                  <div class="project-sub-title text upper">система для дієтологів</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Opti meas</div>
+                  <div class="project-sub-title text upper">STARTUP</div>
+                  <div class="text">We took on the redesign of a website for a tech startup offering innovative energy efficiency solutions in construction. After conducting an audit, we refreshed the design, focusing on simplicity and clarity of information. The new website improved the product perception and attracted more interested customers and investors.</div>
+                  <a href="https://opticloud.io/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -253,10 +200,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">INSPE</div>
-                  <div class="project-sub-title text upper">система для стоматологія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">Mvision</div>
+                  <div class="project-sub-title text upper">DENTAL CLINIC</div>
+                  <div class="text">We carried out a website redesign for a private medical clinic. The changes included design updates and information architecture improvements to enhance patient navigation. Additionally, procedure and service pages were optimized to emphasize clinical outcomes. This redesign resulted in increased online appointments and improved overall user experience with the clinic.</div>
+                  <a href="https://mvision.pro/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -280,7 +227,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші перемоги</div>
+                <div class="title h2 animate-item fadeInUp">Our victories</div>
               </div>
             </div>
           </div>
@@ -375,7 +322,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Що ми використовуємо для досягнення успіху</div>
+                <div class="title h2 animate-item fadeInUp">What we use to achieve success</div>
               </div>
             </div>
           </div>
@@ -424,47 +371,47 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Поширені запитання та відповіді</h2>
+              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">What is redesign?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>If you understand that the design of your site is outdated and no longer fulfills its tasks, it is necessary to update it in accordance with modern requirements, both in terms of ease of use and stylish design.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">What is the process of redesign?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>The process begins with the development of page prototypes, then adaptive design layouts are developed based on them. We then upload a copy of the current site to a test server and implement the updates according to the approved layouts. In this way, the current site will not be affected in any way, users will not observe the process of implementing updates, but will see the final result.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Чи займаєтесь брендуванням продукту?</div>
+                  <div class="accordion-title" itemprop="name">Why do website redesign?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>Since design trends change every few years, a website that is two or three years old can appear outdated compared to a competitor that has a site that follows the latest design trends.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">How fast you can redesign the website?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>On average, 1-4 months. There are several factors that can affect the timeline of a website redesign project, for example, writing and providing content for a new site is a common problem for clients and often leads to project delays.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">How often website need to be redesigned?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>A redesign project is a big undertaking for the business and the entire team, so most companies do a complete site redesign every 3-5 years. It also depends on what's going on in your business and your industry.</p>
                     </div>
                   </div>
                 </div>

@@ -63,9 +63,7 @@
                       </ul>
                     </div>
                   </li>
-
-                  <!-- hide on phase 1 -->
-                  <!-- <li class="has-submenu">
+                  <li class="has-submenu">
                     <b>Services</b>
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
@@ -77,12 +75,7 @@
                         <li><a href="service-seo">SEO</a></li>
                       </ul>
                     </div>
-                  </li> -->
-                  <!-- hide on phase 1 -->
-
-
-
-                  
+                  </li>
                   <li><a href="review" class="hash">Reviews</a></li>
                   <li><a href="about" class="hash">About</a></li>
                   <li class="menu-close"><a href="contact">Contacts</a></li>

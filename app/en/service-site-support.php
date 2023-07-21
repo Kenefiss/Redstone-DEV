@@ -36,9 +36,9 @@
       <div class="section service-banner">
         <div class="container">
           <div class="row">
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">Створення<br> сайтів</h1>
+                <h1 class="title h1">Website support</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
@@ -52,57 +52,9 @@
             </div>
           </div>
         </div>
-        <div class="service-decor">web site</div>
+        <div class="service-decor">Website support</div>
         <div class="spacer-xl"></div>
       </div>
-
-      <!-- SERVICE BANNER BRANDING -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Брендінг</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-3.webp" type="image/webp">
-                    <source srcset="img/service-3.png" type="image/png">
-                    <img src="img/service-3.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">branding</div>
-        <div class="spacer-xl"></div>
-      </div> -->
-
-      <!-- SERVICE BANNER APP -->
-      <!-- <div class="section service-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6">
-              <div class="banner-content">
-                <h1 class="title h1">Послуги з проектування<br> мобільних додатків</h1>
-              </div>
-            </div>
-            <div class="col-12 col-lg-6">
-              <div class="service-img text-center">
-                <picture>
-                    <source srcset="img/service-2.webp" type="image/webp">
-                    <source srcset="img/service-2.png" type="image/png">
-                    <img src="img/service-2.png" alt="">
-                  </picture>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="service-decor">mobile app</div>
-        <div class="spacer-xl"></div>
-      </div> -->
 
       <!-- OUR PROCESS AND ITS BENEFITS -->
       <div class="section">
@@ -110,7 +62,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наш процес та його переваги</div>
+                <div class="title h2 animate-item fadeInUp">Our process and its benefits</div>
               </div>
             </div>
           </div>
@@ -133,33 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Receiving the Request</div>
+                  <div class="text">The process begins when the support team receives the request for assistance or support from the website user or client. This can be through various channels like email, contact forms, phone calls, or live chat.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Унікальний дизайн</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Gathering Information</div>
+                  <div class="text">The support team gathers all relevant information related to the request, including the user's account details, website URL, and a detailed description of the problem or query.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Прототипування та перевірка</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Troubleshooting and Analysis</div>
+                  <div class="text">In this phase, the support team analyzes the issue to identify the root cause. They may perform various troubleshooting steps, review logs, and use diagnostic tools to pinpoint the problem.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Розробляємо стратегію</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Testing and Verification</div>
+                  <div class="text">Once a resolution is implemented, the support team tests the solution to ensure it effectively addresses the issue. They verify that the website is functioning as expected and that the problem is resolved.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Медіареклама</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
-                </div>
-                <div class="process-item">
-                  <div class="process-number">06</div>
-                  <div class="title h5">Аналіз конкурентів</div>
-                  <div class="text">Ми вибираємо прямих і непрямих конкурентів та вивчаємо їх веб-сайтів. Це допомагає нам знаходити нові можливості</div>
+                  <div class="title h5">Closure and Feedback</div>
+                  <div class="text">After confirming the resolution, the support team closes the request and seeks feedback from the user about their support experience. User feedback is valuable for continuous improvement of the support services.</div>
                 </div>
               </div>
             </div>
@@ -174,25 +121,25 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Як ми працюємо</div>
+                <div class="title h2 animate-item fadeInUp">How we work</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Робимо аудит та аналіз</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробляємо стратегію</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Розробка інтерфейсу</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Медіареклама</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Support</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Receiving the Request</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Gathering Information</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Troubleshooting and Analysis</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Testing and Verification</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Closure and Feedback</span></div></div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
-                <p>Вивчаємо сайт, знаходимо всі проблемні місця і визначаємо, як їх усунути. Аналізуємо конкурентів в пошуковій видачі та іхні стратегії. Робимо аудит наявного трафіку на сайт у розрізі джерел та ефективності у пошукових системах.</p>
+                <p>We study the site, find all the problem areas and determine how to eliminate them. We analyze competitors in search results and their strategies. We conduct an audit of the available traffic to the site in terms of sources and effectiveness in search engines.</p>
               </div>
             </div>
           </div>
@@ -206,8 +153,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші проекти</div>
-                <div class="text animate-item fadeInUp delay-1">Відкрийте для нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
+                <div class="title h2 animate-item fadeInUp">Our projects</div>
+                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
               </div>
             </div>
           </div>
@@ -215,10 +162,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Finhub</div>
-                  <div class="project-sub-title text upper">Фінансова компанія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">BLUM</div>
+                  <div class="project-sub-title text upper">MANUFACTURER</div>
+                  <div class="text">We provide technical support for an online marketplace that sells a variety of products. Our team is available 24/7 to answer queries and resolve user issues. The result is a seamless website operation and satisfied customers.</div>
+                  <a href="https://shop-ua.blum.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -234,10 +181,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">4 Your health</div>
-                  <div class="project-sub-title text upper">система для дієтологів</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">PROFIZZ</div>
+                  <div class="project-sub-title text upper">SOFTWARE COMPANY</div>
+                  <div class="text">We offer technical support for a SaaS platform that provides project management tools. Our team provides prompt assistance to users, resolves technical queries, and helps them tailor the platform to their specific business needs. The outcome is happy users and improved productivity.</div>
+                  <a href="https://proffiz.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -253,10 +200,10 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">INSPE</div>
-                  <div class="project-sub-title text upper">система для стоматологія</div>
-                  <div class="text">Відкрийте для себе - нагородна вебстудія в Україні. Наша українська команда використовує передові веб-дизайни, веб-розробки, брендинг, цифровий маркетинг, електронну комерцію</div>
-                  <a href="#" class="btn btn-primary">ПЕРЕГЛЯНУТИ РОБОТУ</a>
+                  <div class="title h4">BASE1</div>
+                  <div class="project-sub-title text upper">CONSULTING</div>
+                  <div class="text">We deliver technical support for an educational portal offering online courses and learning materials. Our team promptly addresses student inquiries and assists educators in deploying new features. The result is increased portal popularity and enhanced learning experiences.</div>
+                  <a href="https://baseone.uk/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -280,7 +227,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Наші перемоги</div>
+                <div class="title h2 animate-item fadeInUp">Our victories</div>
               </div>
             </div>
           </div>
@@ -375,7 +322,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Що ми використовуємо для досягнення успіху</div>
+                <div class="title h2 animate-item fadeInUp">What we use to achieve success</div>
               </div>
             </div>
           </div>
@@ -424,47 +371,48 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Поширені запитання та відповіді</h2>
+              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">What services does your support service provide?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>Our support service offers a wide range of services related to maintaining and optimizing your website. We provide technical support, website issue resolution, software updates, data backups, and much more.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">How can I contact your support service?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>There are several ways to reach our support service. You can use the contact form on our website, send an email to our support team, or give us a call. All contact details can be found on the "Contact Us" page.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Чи займаєтесь брендуванням продукту?</div>
+                  <div class="accordion-title" itemprop="name">Is support available 24/7?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>Yes, our support service is available 24/7, 7 days a week. We understand the importance of uninterrupted operation of your website, so we are always ready to answer your questions and assist with any issues that may arise.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Які технології ви використовуєте при створенні лендінгу?</div>
+                  <div class="accordion-title" itemprop="name">Can I request support on a one-time basis without a subscription?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>Yes, we offer the option to request one-time technical support if you need assistance with a specific question or issue. However, subscribing to our support package may be more cost-effective for regular customers, as it provides access to regular updates and discounts on services.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Як замовити сайт-візитку?</div>
+                  <div class="accordion-title" itemprop="name">What payment methods do you accept?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Наша веб студія створює чудові анімаційні сайти з застосуванням сучасних web технологій та новаторських ідей талановитих фахівців. Ми здатні втілити в реальність будь-який задум у відповідності з індивідуальними побажаннями та потребами кожного окремого клієнта, надати кваліфіковану консультацію, користні поради стосовно розробки того, чи іншого ресурсу</p>
+                      <p>We accept various payment methods, including credit cards, PayPal, and bank transfers. During the service ordering process, you'll be able to choose a convenient payment method for you.</p>
+                      <p>These are just some examples of questions and answers for the FAQ section on your support website. Depending on your business and services, you can add more specific questions and answers related to your website and offerings.</p>
                     </div>
                   </div>
                 </div>
