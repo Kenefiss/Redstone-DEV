@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://redstone.software/</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/logo-en.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/logo-en-white.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/informer-img.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clutchco.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/green-awwwards.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/best-css.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/csslight.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/other.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/category/category-img-7.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/category/category-img-3.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/category/category-img-8.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/category/category-img-2.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/category/category-img-9.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/category/category-img-10.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/tech/tech-img-1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/tech/tech-img-2.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/tech/tech-img-3.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/tech/tech-img-4.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/tech/tech-img-5.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/tech/tech-img-6.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/tech/tech-img-7.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/tech/tech-img-8.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/general_rating-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/start-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/reviews/review-cl-3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/verified-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/price-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/reviews/review-cl-2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/reviews/review-cl-1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/nda.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/case-2.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/case-3.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/app-store.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/google-play.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-9.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clutch.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-3.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-4.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/map.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/signature.svg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/portfolio</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-2.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-34.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-28.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awwards.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-5.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-37.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-6.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-7.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-8.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-35.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-10.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-11.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-12.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-13.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-14.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-15.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-16.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-36.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-17.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-18.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-19.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-20.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-21.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-22.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-25.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-26.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-27.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-30.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-29.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/case-26.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/case-28.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-31.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-32.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/case-30.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-24.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/portfolio/p-img-23.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/app</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/blog</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/the-rise-of-progressive-web-apps.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/the-benefits-of-using-content-delivery-network.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/best-practices-for-database.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/streamlining-workflow.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/e-commerce-website-development.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/accessibility-in-web-design.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/content-management-systems.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/development-frameworks.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/headless-cms1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/benefit-custom1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/impact-color1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/hackers1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/integration1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/optimisation1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/hosting1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/trends1.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/contact</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/sr-img.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/awards</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-19.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-8.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-10.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-9.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/awards/award-img-11.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-12.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-13.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-14.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-15.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-16.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-17.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-18.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-5.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-6.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/awards/award-img-7.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/car-dealers</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/e-commerce</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/mvp</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/website</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/web</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/branding</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/review</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-2.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-3.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-4.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-5.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-22.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-6.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-7.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/clients/client-8.svg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/about</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/video-preview.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/ukraine</loc>
+	<lastmod>2023-05-29T10:40:17+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/ukraine-1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/ukraine-2.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/ukraine-3.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/ukraine-4.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/ukraine-5.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/ukraine-6.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/the-rise-of-progressive-web-apps</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/the-benefits-of-using-content-delivery-network</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/best-practices-for-database</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/streamlining-workflow</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/e-commerce-website-development</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/accessibility-in-web-design</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/content-management-systems</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/web-development-frameworks</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redstone.software/benefits-of-headless-cms-for-web-development</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/headless-cms2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/headless-cms3.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/benefits-of-custom-web-development</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/benefit-custom2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/benefit-custom3.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/the-impact-of-color-on-website-design-and-user-experience</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/impact-color2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/impact-color3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/impact-color4.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/how-to-secure-your-website-from-hackers-and-cyber-attacks</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/hackers2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/hackers3.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/website-integration-with-crm</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/integration2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/integration3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/integration4.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/website-optimisation</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/optimisation2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/optimisation3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/optimisation4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/optimisation5.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/popular-hosting-services-and-domains</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/hosting2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/hosting3.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://redstone.software/web-design-trends-in-2023</loc>
+	<lastmod>2023-05-29T10:40:20+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://redstone.software/img/trends2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/trends3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/trends4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/trends5.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/trends6.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://redstone.software/img/trends7.jpg</image:loc>
+	</image:image>
+</url>
+</urlset>

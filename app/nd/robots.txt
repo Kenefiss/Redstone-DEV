@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /documents
+Disallow: /inc
+
+
+Sitemap: https://redstone.software/sitemap.xml
+Sitemap: https://redstone.software/sitemapimages_software.xml

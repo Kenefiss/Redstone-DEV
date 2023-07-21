@@ -70,11 +70,11 @@
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 3;">
-                        <li><a href="#">Site support</a></li>
-                        <li><a href="#">Landing page</a></li>
-                        <li><a href="#">Online Store</a></li>
-                        <li><a href="#">Redesign</a></li>
-                        <li><a href="#">SEO</a></li>
+                        <li><a href="service-site-support">Site support</a></li>
+                        <li><a href="service-landing-page">Landing page</a></li>
+                        <li><a href="service-online-store">Online Store</a></li>
+                        <li><a href="service-redesign">Redesign</a></li>
+                        <li><a href="service-seo">SEO</a></li>
                       </ul>
                     </div>
                   </li> -->
