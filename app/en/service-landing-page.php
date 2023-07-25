@@ -44,9 +44,9 @@
             <div class="col-12 col-lg-6">
               <div class="service-img text-center">
                 <picture>
-                    <source srcset="img/service-1.webp" type="image/webp">
-                    <source srcset="img/service-1.png" type="image/png">
-                    <img src="img/service-1.png" alt="">
+                    <source srcset="img/service-landing.webp" type="image/webp">
+                    <source srcset="img/service-landing.png" type="image/png">
+                    <img src="img/service-landing.png" alt="">
                   </picture>
               </div>
             </div>
@@ -70,14 +70,14 @@
             <div class="col-12 col-xl-6 d-none d-xl-block">
               <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
-                  <source srcset="img/service-img-1.webp" type="image/webp">
-                  <source srcset="img/service-img-1.png" type="image/png">
-                  <img src="img/service-img-1.png" alt="">
+                  <source srcset="img/landing-process-1.webp" type="image/webp">
+                  <source srcset="img/landing-process-1.png" type="image/png">
+                  <img src="img/landing-process-1.png" alt="">
                 </picture>
                 <picture>
-                  <source srcset="img/service-img-2.webp" type="image/webp">
-                  <source srcset="img/service-img-2.png" type="image/png">
-                  <img src="img/service-img-2.png" alt="">
+                  <source srcset="img/landing-process-2.webp" type="image/webp">
+                  <source srcset="img/landing-process-2.png" type="image/png">
+                  <img src="img/landing-process-2.png" alt="">
                 </picture>
               </div>
             </div>
@@ -171,9 +171,9 @@
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-1.webp" type="image/webp">
-                    <source srcset="img/project-1.jpg" type="image/jpeg">
-                    <img src="img/project-1.jpg" alt="">
+                    <source srcset="img/project-top.webp" type="image/webp">
+                    <source srcset="img/project-top.jpg" type="image/jpeg">
+                    <img src="img/project-top.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -190,9 +190,9 @@
               <div class="col-12 col-lg-7 order-1">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-2.webp" type="image/webp">
-                    <source srcset="img/project-2.jpg" type="image/jpeg">
-                    <img src="img/project-2.jpg" alt="">
+                    <source srcset="img/project-peeklogic.webp" type="image/webp">
+                    <source srcset="img/project-peeklogic.jpg" type="image/jpeg">
+                    <img src="img/project-peeklogic.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -209,9 +209,9 @@
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-3.webp" type="image/webp">
-                    <source srcset="img/project-3.jpg" type="image/jpeg">
-                    <img src="img/project-3.jpg" alt="">
+                    <source srcset="img/project-mint.webp" type="image/webp">
+                    <source srcset="img/project-mint.jpg" type="image/jpeg">
+                    <img src="img/project-mint.jpg" alt="">
                   </picture>
                 </div>
               </div>

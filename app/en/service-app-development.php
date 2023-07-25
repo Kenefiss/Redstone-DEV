@@ -38,21 +38,21 @@
           <div class="row">
             <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">E-commerce</h1>
+                <h1 class="title h1">Application development</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
               <div class="service-img text-center">
                 <picture>
-                    <source srcset="img/service-store.webp" type="image/webp">
-                    <source srcset="img/service-store.png" type="image/png">
-                    <img src="img/service-store.png" alt="">
+                    <source srcset="img/service-app-dev.webp" type="image/webp">
+                    <source srcset="img/service-app-dev.png" type="image/png">
+                    <img src="img/service-app-dev.png" alt="">
                   </picture>
               </div>
             </div>
           </div>
         </div>
-        <div class="service-decor">E-commerce</div>
+        <div class="service-decor">Application</div>
         <div class="spacer-xl"></div>
       </div>
 
@@ -70,14 +70,14 @@
             <div class="col-12 col-xl-6 d-none d-xl-block">
               <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
-                  <source srcset="img/store-process-1.webp" type="image/webp">
-                  <source srcset="img/store-process-1.png" type="image/png">
-                  <img src="img/store-process-1.png" alt="">
+                  <source srcset="img/app-process-1.webp" type="image/webp">
+                  <source srcset="img/app-process-1.png" type="image/png">
+                  <img src="img/app-process-1.png" alt="">
                 </picture>
                 <picture>
-                  <source srcset="img/store-process-2.webp" type="image/webp">
-                  <source srcset="img/store-process-2.png" type="image/png">
-                  <img src="img/sstore-process-2.png" alt="">
+                  <source srcset="img/app-process-2.webp" type="image/webp">
+                  <source srcset="img/app-process-2.png" type="image/png">
+                  <img src="img/app-process-2.png" alt="">
                 </picture>
               </div>
             </div>
@@ -85,28 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Requirements Gathering</div>
-                  <div class="text">Gather detailed project requirements, including products/services, payment gateways, and shipping options.</div>
+                  <div class="title h5">Requirements Gathering and Analysis</div>
+                  <div class="text">In this crucial phase, the development team collaborates with stakeholders to gather detailed requirements for the application. They analyze and define the scope and objectives of the project, ensuring a clear understanding of what the application needs to achieve. By prioritizing features and functionalities based on user needs, the team sets a solid foundation for the development process.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Platform Selection</div>
-                  <div class="text">Choose a suitable e-commerce platform based on project needs and scalability.</div>
+                  <div class="title h5">Design and Prototyping</div>
+                  <div class="text">During this stage, the development team translates the gathered requirements into visual representations. They create wireframes and mockups to visualize the application's layout and user interface, allowing stakeholders to get a feel for the final product. By developing interactive prototypes, the team can conduct user testing and gather valuable feedback, which helps refine the design before moving on to the actual development.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Design and Layout</div>
-                  <div class="text">Create an appealing and user-friendly layout with a focus on product showcases and seamless navigation.</div>
+                  <div class="title h5">Development and Testing</div>
+                  <div class="text">With the design approved, the development team starts building the application. They implement the front-end and back-end functionalities according to the specifications. Rigorous testing is an integral part of this phase to identify and address any bugs or issues. This ensures that the application functions smoothly, providing a seamless user experience.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Integration and Security</div>
-                  <div class="text">Integrate payment gateways and implement security measures to protect customer data.</div>
+                  <div class="title h5">Deployment and Release</div>
+                  <div class="text">Once the application development and testing are complete, it's time for deployment. The team launches the application on the chosen platform or app store, making it available to users. They carefully manage the release process to ensure a smooth launch and handle any potential issues that may arise during this critical stage.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Testing and Launch</div>
-                  <div class="text">Thoroughly test the website across devices, deploy the e-commerce service page, and monitor its performance for continuous improvement.</div>
+                  <div class="title h5">Maintenance and Updates</div>
+                  <div class="text">The work doesn't end with the application launch. The development team provides ongoing support, monitoring the application's performance and user feedback. They proactively optimize the application's performance, security, and stability. Continuous improvement is crucial, and based on user feedback and evolving requirements, the team releases updates with new features and enhancements to keep the application relevant and competitive in the ever-changing market.</div>
                 </div>
               </div>
             </div>
@@ -121,18 +121,18 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp"> How we work</div>
+                <div class="title h2 animate-item fadeInUp">How we work</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Requirements Gathering</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Platform Selection</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Design and Layout</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Integration and Security</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Testing and Launch</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Requirements Gathering and Analysis</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Design and Prototyping</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Development and Testing</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Deployment and Release</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Maintenance and Updates</span></div></div>
               </div>
             </div>
           </div>
@@ -162,18 +162,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">M-vision</div>
-                  <div class="project-sub-title text upper">DEVELOPMENT COMPANY</div>
-                  <div class="text">We created an e-commerce website for for the higly-recomended company that provides dental services. We implemented a product catalog with detailed descriptions and shopping cart storage options. We provided a user-friendly checkout process and integrated secure payment methods. The result was increased sales and customer satisfaction.</div>
-                  <a href="https://mvision.pro/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">MyResto App</div>
+                  <div class="project-sub-title text upper">FOOD DELIVERY</div>
+                  <div class="text">The dev team collaborated on developing a food delivery app using agile methodology. They focused on user feedback, security, and seamless functionality, resulting in a successful launch and a delightful experience for food enthusiasts.</div>
+                  <a href="https://apps.apple.com/ua/app/myresto-app/id1643866018?l=uk" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-mvision.webp" type="image/webp">
-                    <source srcset="img/project-mvision.jpg" type="image/jpeg">
-                    <img src="img/project-mvision.jpg" alt="">
+                    <source srcset="img/project-myresto.webp" type="image/webp">
+                    <source srcset="img/project-myresto.jpg" type="image/jpeg">
+                    <img src="img/project-myresto.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -181,18 +181,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">Call2bid</div>
-                  <div class="project-sub-title text upper">ONLINE STORE</div>
-                  <div class="text"> We developed an e-commerce platform for a or the company that provides services for potential buyers of cars from auctions. We designed a minimalistic and modern layout for easy product search and comparison. User reviews and quick ordering options were integrated. The outcome was improved conversions and high customer satisfaction.</div>
-                  <a href="https://call2bid.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">UNITY App</div>
+                  <div class="project-sub-title text upper">TRAVELING</div>
+                  <div class="text">The dev team collaborated on a travel app, emphasizing thorough research, user feedback, and agile methodologies. They developed an intuitive and visually appealing interface, integrated various travel services, and conducted rigorous testing to ensure a seamless and enjoyable travel experience for users. The successful launch of the app made it a valuable tool for travelers worldwide.</div>
+                  <a href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-call2bid.webp" type="image/webp">
-                    <source srcset="img/project-call2bid.jpg" type="image/jpeg">
-                    <img src="img/project-call2bid.jpg" alt="">
+                    <source srcset="img/project-unity.webp" type="image/webp">
+                    <source srcset="img/project-unity.jpg" type="image/jpeg">
+                    <img src="img/project-unity.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -200,18 +200,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Fruchte Snack</div>
-                  <div class="project-sub-title text upper">MANUFACTURER</div>
-                  <div class="text">We designed an e-commerce website for for famous German healthy snacks manufacturer. Utilizing a bright and balanced design that reflects the natural essence of the products, we implemented easy product search based on skin type and ingredients. The result was increased orders and a positive brand image.</div>
-                  <a href="https://fruechtesnack.eu/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">Robert App</div>
+                  <div class="project-sub-title text upper">FOOD DELIVERY</div>
+                  <div class="text">The dev team collaboratively developed a food delivery app, prioritizing market analysis and user preferences. They utilized agile methodologies and divided tasks based on expertise, resulting in an intuitive interface and secure data handling. The successful launch provided users with a seamless and efficient food delivery experience.</div>
+                  <a href="https://apps.apple.com/app/id1550737219" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-snack.webp" type="image/webp">
-                    <source srcset="img/project-snack.jpg" type="image/jpeg">
-                    <img src="img/project-snack.jpg" alt="">
+                    <source srcset="img/project-robert.webp" type="image/webp">
+                    <source srcset="img/project-robert.jpg" type="image/jpeg">
+                    <img src="img/project-robert.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -376,42 +376,42 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Ecommerce vs Landing page?</div>
+                  <div class="accordion-title" itemprop="name">How long does it typically take to develop a website?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Depends on the type and quantity of goods. If you have more than 10 units of goods that can be delivered to the client within a few days, you need an online store. If there are up to 10 products and there are no plans to expand the assortment, a Landing Page is suitable. If the goods are ordered, then depending on their quantity, a catalog or landing page is suitable.</p>
+                      <p>The application development process involves several key stages, including requirements gathering, design and prototyping, development and testing, deployment, and ongoing maintenance. Our team follows a systematic approach to ensure a successful and efficient development journey for your application.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What is Ecommerce?</div>
+                  <div class="accordion-title" itemprop="name">How long does it take to develop a custom application?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>These are sites, mobs. programs and online platforms that enable online transactions. Such a project can be implemented in the form of an online store, a marketplace, an online catalog with the possibility of purchase, or even a landing page aimed at selling a single product with online payment.</p>
+                      <p>The timeline for application development depends on the complexity and scope of the project. Simple applications may take a few weeks, while more intricate or large-scale projects may require several months. During the initial consultation, we will provide you with a detailed timeline based on your specific requirements.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What documentation is needed for ecommerce website production?</div>
+                  <div class="accordion-title" itemprop="name">Do you provide support after the application is launched?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>There are at least two mandatory documents in any legal agreement with a web studio. The first document for any commercial agreement is the Agreement specifying the duties and the period of work. The second document is a detailed Technical Task. It should describe in as much detail as possible all the details of the future site, the stages of its creation, including all functions and additional components, as well as connections and integration with third-party software. By the way, at Technical Task for development, our managers prepare for you for free!</p>
+                      <p>Yes, we offer post-launch support and maintenance services for your application. Our team will be available to address any issues, perform updates, and ensure the application remains secure and optimized for continued performance.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Can I set up different price for retail or wholesale products?</div>
+                  <div class="accordion-title" itemprop="name">Can you help with integrating the application with other systems?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>This is usually implemented through a discount that depends on your user account. Usually these discounts have a fixed percentage, for example 10%, or the total discount depends on the number of products purchased.</p>
+                      <p>Absolutely! We have expertise in integrating applications with various third-party systems and APIs. Whether it's integrating with payment gateways, CRM platforms, or other software, our team ensures seamless data exchange and interoperability.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Why we need proffesional photos for products you want to sell?</div>
+                  <div class="accordion-title" itemprop="name">Do you develop applications for both Android and iOS platforms?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>They say that it is better to see once than to hear a hundred times. Good photography is the key to success. Good product photos help to sell. We strongly recommend taking professional photos of each product from multiple angles.</p>
+                      <p>Yes, we provide cross-platform application development, which means we can develop applications that work on both Android and iOS devices. By utilizing technologies like React Native or Flutter, we ensure a cost-effective solution with consistent user experiences across different platforms.</p>
                     </div>
                   </div>
                 </div>

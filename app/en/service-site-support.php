@@ -44,15 +44,15 @@
             <div class="col-12 col-lg-6">
               <div class="service-img text-center">
                 <picture>
-                    <source srcset="img/service-1.webp" type="image/webp">
-                    <source srcset="img/service-1.png" type="image/png">
-                    <img src="img/service-1.png" alt="">
+                    <source srcset="img/service-support.webp" type="image/webp">
+                    <source srcset="img/service-support.png" type="image/png">
+                    <img src="img/service-support.png" alt="">
                   </picture>
               </div>
             </div>
           </div>
         </div>
-        <div class="service-decor">Website support</div>
+        <div class="service-decor">Support</div>
         <div class="spacer-xl"></div>
       </div>
 
@@ -70,14 +70,14 @@
             <div class="col-12 col-xl-6 d-none d-xl-block">
               <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
-                  <source srcset="img/service-img-1.webp" type="image/webp">
-                  <source srcset="img/service-img-1.png" type="image/png">
-                  <img src="img/service-img-1.png" alt="">
+                  <source srcset="img/support-proces-1.webp" type="image/webp">
+                  <source srcset="img/support-proces-1.png" type="image/png">
+                  <img src="img/support-proces-1.png" alt="">
                 </picture>
                 <picture>
-                  <source srcset="img/service-img-2.webp" type="image/webp">
-                  <source srcset="img/service-img-2.png" type="image/png">
-                  <img src="img/service-img-2.png" alt="">
+                  <source srcset="img/support-proces-2.webp" type="image/webp">
+                  <source srcset="img/support-proces-2.png" type="image/png">
+                  <img src="img/support-proces-2.png" alt="">
                 </picture>
               </div>
             </div>
@@ -171,9 +171,9 @@
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-1.webp" type="image/webp">
-                    <source srcset="img/project-1.jpg" type="image/jpeg">
-                    <img src="img/project-1.jpg" alt="">
+                    <source srcset="img/project-blum.webp" type="image/webp">
+                    <source srcset="img/project-blum.jpg" type="image/jpeg">
+                    <img src="img/project-blum.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -181,18 +181,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">PROFIZZ</div>
-                  <div class="project-sub-title text upper">SOFTWARE COMPANY</div>
-                  <div class="text">We offer technical support for a SaaS platform that provides project management tools. Our team provides prompt assistance to users, resolves technical queries, and helps them tailor the platform to their specific business needs. The outcome is happy users and improved productivity.</div>
-                  <a href="https://proffiz.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">BASE1</div>
+                  <div class="project-sub-title text upper">CONSULTING</div>
+                  <div class="text">We deliver technical support for an educational portal offering online courses and learning materials. Our team promptly addresses student inquiries and assists educators in deploying new features. The result is increased portal popularity and enhanced learning experiences.</div>
+                  <a href="https://baseone.uk/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-2.webp" type="image/webp">
-                    <source srcset="img/project-2.jpg" type="image/jpeg">
-                    <img src="img/project-2.jpg" alt="">
+                    <source srcset="img/project-base.webp" type="image/webp">
+                    <source srcset="img/project-base.jpg" type="image/jpeg">
+                    <img src="img/project-base.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -200,18 +200,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">BASE1</div>
-                  <div class="project-sub-title text upper">CONSULTING</div>
-                  <div class="text">We deliver technical support for an educational portal offering online courses and learning materials. Our team promptly addresses student inquiries and assists educators in deploying new features. The result is increased portal popularity and enhanced learning experiences.</div>
-                  <a href="https://baseone.uk/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">PROFIZZ</div>
+                  <div class="project-sub-title text upper">SOFTWARE COMPANY</div>
+                  <div class="text">We offer technical support for a SaaS platform that provides project management tools. Our team provides prompt assistance to users, resolves technical queries, and helps them tailor the platform to their specific business needs. The outcome is happy users and improved productivity.</div>
+                  <a href="https://proffiz.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-3.webp" type="image/webp">
-                    <source srcset="img/project-3.jpg" type="image/jpeg">
-                    <img src="img/project-3.jpg" alt="">
+                    <source srcset="img/project-profizz.webp" type="image/webp">
+                    <source srcset="img/project-profizz.jpg" type="image/jpeg">
+                    <img src="img/project-profizz.jpg" alt="">
                   </picture>
                 </div>
               </div>

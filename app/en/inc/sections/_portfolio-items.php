@@ -1077,4 +1077,23 @@
       </div>
     </div>
   </div>
+  <div class="col-12 col-md-6 col-lg-4 _branding">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://www.behance.net/gallery/143000943/SOFIA-MEDICA-Brand-identity" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-44.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-44.png" type="image/png">
+          <img src="img/portfolio/p-img-44.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://www.behance.net/gallery/143000943/SOFIA-MEDICA-Brand-identity" target="_blank" rel="nofollow">SOFIA MEDICAL</a></div>
+      <div class="case-tags">
+        <span>#branding</span>
+      </div>
+      <div class="case-desc text">
+        We designed branding for the famous cosmetics brand.
+      </div>
+    </div>
+  </div>
 </div>

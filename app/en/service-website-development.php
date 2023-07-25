@@ -38,21 +38,21 @@
           <div class="row">
             <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">E-commerce</h1>
+                <h1 class="title h1">Website development</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
               <div class="service-img text-center">
                 <picture>
-                    <source srcset="img/service-store.webp" type="image/webp">
-                    <source srcset="img/service-store.png" type="image/png">
-                    <img src="img/service-store.png" alt="">
+                    <source srcset="img/service-website.webp" type="image/webp">
+                    <source srcset="img/service-website.png" type="image/png">
+                    <img src="img/service-website.png" alt="">
                   </picture>
               </div>
             </div>
           </div>
         </div>
-        <div class="service-decor">E-commerce</div>
+        <div class="service-decor">Website</div>
         <div class="spacer-xl"></div>
       </div>
 
@@ -70,14 +70,14 @@
             <div class="col-12 col-xl-6 d-none d-xl-block">
               <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
-                  <source srcset="img/store-process-1.webp" type="image/webp">
-                  <source srcset="img/store-process-1.png" type="image/png">
-                  <img src="img/store-process-1.png" alt="">
+                  <source srcset="img/website-process-1.webp" type="image/webp">
+                  <source srcset="img/website-process-1.png" type="image/png">
+                  <img src="img/website-process-1.png" alt="">
                 </picture>
                 <picture>
-                  <source srcset="img/store-process-2.webp" type="image/webp">
-                  <source srcset="img/store-process-2.png" type="image/png">
-                  <img src="img/sstore-process-2.png" alt="">
+                  <source srcset="img/website-process-2.webp" type="image/webp">
+                  <source srcset="img/website-process-2.png" type="image/png">
+                  <img src="img/website-process-2.png" alt="">
                 </picture>
               </div>
             </div>
@@ -85,28 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Requirements Gathering</div>
-                  <div class="text">Gather detailed project requirements, including products/services, payment gateways, and shipping options.</div>
+                  <div class="title h5">Project Planning</div>
+                  <div class="text">We define scope, objectives, and timelines. Gather requirements and conduct market research.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Platform Selection</div>
-                  <div class="text">Choose a suitable e-commerce platform based on project needs and scalability.</div>
+                  <div class="title h5">Design and Development</div>
+                  <div class="text">Designers create wireframes, design visuals, and then develop ers work on the front-end and back-end of the website.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Design and Layout</div>
-                  <div class="text">Create an appealing and user-friendly layout with a focus on product showcases and seamless navigation.</div>
+                  <div class="title h5">Content Integration</div>
+                  <div class="text">Team populate the website with relevant content and media assets.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Integration and Security</div>
-                  <div class="text">Integrate payment gateways and implement security measures to protect customer data.</div>
+                  <div class="title h5">Testing and Optimization</div>
+                  <div class="text">QA performs functionality testing, SEO optimization, and ensure performance and security.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Testing and Launch</div>
-                  <div class="text">Thoroughly test the website across devices, deploy the e-commerce service page, and monitor its performance for continuous improvement.</div>
+                  <div class="title h5">Deployment and Maintenance</div>
+                  <div class="text">We launch the website, monitor analytics, and provide ongoing support and updates.</div>
                 </div>
               </div>
             </div>
@@ -121,18 +121,18 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp"> How we work</div>
+                <div class="title h2 animate-item fadeInUp">How we work</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Requirements Gathering</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Platform Selection</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Design and Layout</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Integration and Security</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Testing and Launch</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Project Planning</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Design and Development</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Content Integration</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Testing and Optimization</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Deployment and Maintenance</span></div></div>
               </div>
             </div>
           </div>
@@ -162,18 +162,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">M-vision</div>
-                  <div class="project-sub-title text upper">DEVELOPMENT COMPANY</div>
-                  <div class="text">We created an e-commerce website for for the higly-recomended company that provides dental services. We implemented a product catalog with detailed descriptions and shopping cart storage options. We provided a user-friendly checkout process and integrated secure payment methods. The result was increased sales and customer satisfaction.</div>
-                  <a href="https://mvision.pro/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">FINHUB</div>
+                  <div class="project-sub-title text upper">FINANCIAL COMPANY</div>
+                  <div class="text">We continued to enhance the website for our esteemed financial company client, FINHUB. Our dedicated team persisted in refining the platform, leveraging competitor analysis insights to stay ahead in the financial market. From the initial development stages to consistent maintenance efforts, we have diligently strived to provide FINHUB with an exceptional product. Our focus on delivering excellence ensures that FINHUB can offer its customers a seamless and top-tier experience for all their financial needs.</div>
+                  <a href="https://finhubfund.co.uk/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-mvision.webp" type="image/webp">
-                    <source srcset="img/project-mvision.jpg" type="image/jpeg">
-                    <img src="img/project-mvision.jpg" alt="">
+                    <source srcset="img/project-finhub.webp" type="image/webp">
+                    <source srcset="img/project-finhub.jpg" type="image/jpeg">
+                    <img src="img/project-finhub.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -181,18 +181,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">Call2bid</div>
-                  <div class="project-sub-title text upper">ONLINE STORE</div>
-                  <div class="text"> We developed an e-commerce platform for a or the company that provides services for potential buyers of cars from auctions. We designed a minimalistic and modern layout for easy product search and comparison. User reviews and quick ordering options were integrated. The outcome was improved conversions and high customer satisfaction.</div>
-                  <a href="https://call2bid.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">UAM Power</div>
+                  <div class="project-sub-title text upper">POWER SOLUTIONS</div>
+                  <div class="text">Our team crafted a dynamic website for a leading power solutions company, ensuring their online presence aligns with their industry reputation. Rigorous competitor analysis drove our development process, guaranteeing that the website stands out amidst the competition. We dedicated ourselves to creating an exceptional product, incorporating features and functionalities that cater to the specific needs of the power solutions sector. With ongoing maintenance, we ensure the website remains cutting-edge and serves as an effective platform to showcase the company's expertise and services in the power industry.</div>
+                  <a href="https://uampower.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-call2bid.webp" type="image/webp">
-                    <source srcset="img/project-call2bid.jpg" type="image/jpeg">
-                    <img src="img/project-call2bid.jpg" alt="">
+                    <source srcset="img/project-power.webp" type="image/webp">
+                    <source srcset="img/project-power.jpg" type="image/jpeg">
+                    <img src="img/project-power.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -200,18 +200,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Fruchte Snack</div>
+                  <div class="title h4">Studio glass</div>
                   <div class="project-sub-title text upper">MANUFACTURER</div>
-                  <div class="text">We designed an e-commerce website for for famous German healthy snacks manufacturer. Utilizing a bright and balanced design that reflects the natural essence of the products, we implemented easy product search based on skin type and ingredients. The result was increased orders and a positive brand image.</div>
-                  <a href="https://fruechtesnack.eu/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="text">We developed a captivating website for a prominent glass manufacturer, leveraging our expertise in design and development. Meticulous competitor analysis guided our creative process, resulting in a visually stunning and user-friendly website that outshines competitors in the glass manufacturing sector. Our commitment to excellence drove us to create an impactful product, showcasing the manufacturer's range of glass products and services with precision and style. Through continuous maintenance and updates, we ensure the website remains a reliable resource for customers, providing insights into the manufacturer's craftsmanship and quality offerings.</div>
+                  <a href="https://studioglass.ua/en/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-snack.webp" type="image/webp">
-                    <source srcset="img/project-snack.jpg" type="image/jpeg">
-                    <img src="img/project-snack.jpg" alt="">
+                    <source srcset="img/project-glass.webp" type="image/webp">
+                    <source srcset="img/project-glass.jpg" type="image/jpeg">
+                    <img src="img/project-glass.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -376,42 +376,42 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Ecommerce vs Landing page?</div>
+                  <div class="accordion-title" itemprop="name">How long does it typically take to develop a website?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Depends on the type and quantity of goods. If you have more than 10 units of goods that can be delivered to the client within a few days, you need an online store. If there are up to 10 products and there are no plans to expand the assortment, a Landing Page is suitable. If the goods are ordered, then depending on their quantity, a catalog or landing page is suitable.</p>
+                      <p>The timeline for website development varies based on the complexity and requirements of the project. A simple brochure-style website may take a few weeks, while more complex websites with custom functionalities could take several months. Our team will provide a detailed timeline during the project scoping phase.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What is Ecommerce?</div>
+                  <div class="accordion-title" itemprop="name">What platforms and technologies do you use for website development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>These are sites, mobs. programs and online platforms that enable online transactions. Such a project can be implemented in the form of an online store, a marketplace, an online catalog with the possibility of purchase, or even a landing page aimed at selling a single product with online payment.</p>
+                      <p>We are proficient in a wide range of technologies and platforms, including HTML, CSS, JavaScript, PHP, Python, WordPress, and more. Our team selects the most suitable tools and technologies based on your specific needs and preferences to ensure a high-quality and functional website.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What documentation is needed for ecommerce website production?</div>
+                  <div class="accordion-title" itemprop="name">Can you help with website design as well as development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>There are at least two mandatory documents in any legal agreement with a web studio. The first document for any commercial agreement is the Agreement specifying the duties and the period of work. The second document is a detailed Technical Task. It should describe in as much detail as possible all the details of the future site, the stages of its creation, including all functions and additional components, as well as connections and integration with third-party software. By the way, at Technical Task for development, our managers prepare for you for free!</p>
+                      <p>Yes, absolutely! Our services cover both website design and development. We have a talented team of designers who can create captivating and user-friendly website designs, ensuring a seamless and engaging user experience.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Can I set up different price for retail or wholesale products?</div>
+                  <div class="accordion-title" itemprop="name">Do you provide website maintenance and support after the launch?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>This is usually implemented through a discount that depends on your user account. Usually these discounts have a fixed percentage, for example 10%, or the total discount depends on the number of products purchased.</p>
+                      <p>Yes, we offer ongoing website maintenance and support services to ensure your website remains up-to-date, secure, and performs optimally. Our maintenance plans cover regular updates, security checks, and technical support to address any issues that may arise.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Why we need proffesional photos for products you want to sell?</div>
+                  <div class="accordion-title" itemprop="name">Will my website be mobile-friendly and responsive?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>They say that it is better to see once than to hear a hundred times. Good photography is the key to success. Good product photos help to sell. We strongly recommend taking professional photos of each product from multiple angles.</p>
+                      <p>Yes, all websites we develop are mobile-friendly and responsive. We prioritize creating websites that adapt to different screen sizes and devices, ensuring an optimal user experience for visitors on smartphones, tablets, and desktop computers. Mobile responsiveness is crucial for improving user engagement and search engine rankings.</p>
                     </div>
                   </div>
                 </div>

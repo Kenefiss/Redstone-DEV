@@ -38,21 +38,21 @@
           <div class="row">
             <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">E-commerce</h1>
+                <h1 class="title h1">Branding and design</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
               <div class="service-img text-center">
                 <picture>
-                    <source srcset="img/service-store.webp" type="image/webp">
-                    <source srcset="img/service-store.png" type="image/png">
-                    <img src="img/service-store.png" alt="">
+                    <source srcset="img/service-branding.webp" type="image/webp">
+                    <source srcset="img/service-branding.png" type="image/png">
+                    <img src="img/service-branding.png" alt="">
                   </picture>
               </div>
             </div>
           </div>
         </div>
-        <div class="service-decor">E-commerce</div>
+        <div class="service-decor">Branding</div>
         <div class="spacer-xl"></div>
       </div>
 
@@ -70,14 +70,14 @@
             <div class="col-12 col-xl-6 d-none d-xl-block">
               <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
-                  <source srcset="img/store-process-1.webp" type="image/webp">
-                  <source srcset="img/store-process-1.png" type="image/png">
-                  <img src="img/store-process-1.png" alt="">
+                  <source srcset="img/branding-process-1.webp" type="image/webp">
+                  <source srcset="img/branding-process-1.png" type="image/png">
+                  <img src="img/branding-process-1.png" alt="">
                 </picture>
                 <picture>
-                  <source srcset="img/store-process-2.webp" type="image/webp">
-                  <source srcset="img/store-process-2.png" type="image/png">
-                  <img src="img/sstore-process-2.png" alt="">
+                  <source srcset="img/branding-process-2.webp" type="image/webp">
+                  <source srcset="img/branding-process-2.png" type="image/png">
+                  <img src="img/branding-process-2.png" alt="">
                 </picture>
               </div>
             </div>
@@ -85,28 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Requirements Gathering</div>
-                  <div class="text">Gather detailed project requirements, including products/services, payment gateways, and shipping options.</div>
+                  <div class="title h5">Brand Discovery and Research</div>
+                  <div class="text">In this initial phase, the design team conducts in-depth research to understand the client's brand, its values, target audience, and market positioning. They analyze competitors and industry trends to gather insights and inspiration. This research lays the foundation for the design strategy and ensures that the subsequent branding efforts are aligned with the client's goals.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Platform Selection</div>
-                  <div class="text">Choose a suitable e-commerce platform based on project needs and scalability.</div>
+                  <div class="title h5">Brand Identity Design</div>
+                  <div class="text">This process involves creating the visual elements that represent the brand's identity. The design team works on crafting the logo, color palette, typography, and other visual assets. The goal is to establish a cohesive and memorable brand identity that reflects the brand's personality and resonates with the target audience.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Design and Layout</div>
-                  <div class="text">Create an appealing and user-friendly layout with a focus on product showcases and seamless navigation.</div>
+                  <div class="title h5">Brand Collateral Creation</div>
+                  <div class="text">Brand collateral refers to various materials that reinforce the brand's identity across different touchpoints. This process includes designing business cards, letterheads, brochures, packaging, and other promotional materials. The design team ensures consistency in the brand's visual elements, maintaining a unified look and feel across all collateral..</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Integration and Security</div>
-                  <div class="text">Integrate payment gateways and implement security measures to protect customer data.</div>
+                  <div class="title h5">Brand Guidelines Development</div>
+                  <div class="text">Brand guidelines serve as a comprehensive document that outlines how the brand should be presented consistently across all channels. This process involves creating guidelines for logo usage, color specifications, typography rules, image styles, and tone of voice. These guidelines help maintain brand consistency and ensure that anyone representing the brand does so accurately.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Testing and Launch</div>
-                  <div class="text">Thoroughly test the website across devices, deploy the e-commerce service page, and monitor its performance for continuous improvement.</div>
+                  <div class="title h5">Brand Implementation and Monitoring</div>
+                  <div class="text">Once the branding assets and guidelines are ready, the design team supports the client in implementing the new brand across various platforms and mediums. They oversee the rollout of the brand in marketing campaigns, website design, social media, and more. Additionally, the team monitors the brand's reception and feedback to make adjustments as needed, ensuring that the brand's visual identity continues to resonate with the audience over time.</div>
                 </div>
               </div>
             </div>
@@ -121,18 +121,18 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp"> How we work</div>
+                <div class="title h2 animate-item fadeInUp">How we work</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Requirements Gathering</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Platform Selection</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Design and Layout</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Integration and Security</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Testing and Launch</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Brand Discovery and Research</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Brand Identity Design</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Brand Collateral Creation</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Brand Guidelines Development</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Brand Implementation and Monitoring</span></div></div>
               </div>
             </div>
           </div>
@@ -162,18 +162,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">M-vision</div>
-                  <div class="project-sub-title text upper">DEVELOPMENT COMPANY</div>
-                  <div class="text">We created an e-commerce website for for the higly-recomended company that provides dental services. We implemented a product catalog with detailed descriptions and shopping cart storage options. We provided a user-friendly checkout process and integrated secure payment methods. The result was increased sales and customer satisfaction.</div>
-                  <a href="https://mvision.pro/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">Book and Buy</div>
+                  <div class="project-sub-title text upper">REAL ESTATE</div>
+                  <div class="text">Our design team embarked on a captivating branding journey for a prestigious Real Estate Agency, captivating the market with their unique charm. In-depth competitor analysis inspired our design decisions, ensuring the agency's brand stands tall amidst other real estate players. From logo creation to brand collateral, we meticulously crafted a captivating brand identity that conveys the agency's expertise and commitment to exceptional service. With ongoing brand support and refinement, we ensure the Real Estate Agency continues to make a lasting impression on potential buyers and sellers, establishing trust and credibility in the competitive real estate market.</div>
+                  <a href="https://www.behance.net/gallery/130179893/Book-Buy-Hadria-Brand-identity" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-mvision.webp" type="image/webp">
-                    <source srcset="img/project-mvision.jpg" type="image/jpeg">
-                    <img src="img/project-mvision.jpg" alt="">
+                    <source srcset="img/project-book.webp" type="image/webp">
+                    <source srcset="img/project-book.jpg" type="image/jpeg">
+                    <img src="img/project-book.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -181,18 +181,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">Call2bid</div>
-                  <div class="project-sub-title text upper">ONLINE STORE</div>
-                  <div class="text"> We developed an e-commerce platform for a or the company that provides services for potential buyers of cars from auctions. We designed a minimalistic and modern layout for easy product search and comparison. User reviews and quick ordering options were integrated. The outcome was improved conversions and high customer satisfaction.</div>
-                  <a href="https://call2bid.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">SOFIA MEDICAL</div>
+                  <div class="project-sub-title text upper">COSMETICS</div>
+                  <div class="text">We delved into the world of finance to create a sophisticated branding package for a reputable cosmetics company. Intensive competitor analysis laid the groundwork for our design approach, ensuring the brand exudes professionalism and trustworthiness. From logo conceptualization to corporate stationery, we meticulously crafted a timeless and refined brand identity that embodies the company's  expertise. With ongoing brand support and adaptation, we maintain a consistent image for the cosmetics company, leaving a lasting impression on clients and reinforcing their confidence in the company's beauty services.</div>
+                  <a href="https://www.behance.net/gallery/143000943/SOFIA-MEDICA-Brand-identity" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-call2bid.webp" type="image/webp">
-                    <source srcset="img/project-call2bid.jpg" type="image/jpeg">
-                    <img src="img/project-call2bid.jpg" alt="">
+                    <source srcset="img/project-sofia.webp" type="image/webp">
+                    <source srcset="img/project-sofia.jpg" type="image/jpeg">
+                    <img src="img/project-sofia.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -201,17 +201,17 @@
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
                   <div class="title h4">Fruchte Snack</div>
-                  <div class="project-sub-title text upper">MANUFACTURER</div>
-                  <div class="text">We designed an e-commerce website for for famous German healthy snacks manufacturer. Utilizing a bright and balanced design that reflects the natural essence of the products, we implemented easy product search based on skin type and ingredients. The result was increased orders and a positive brand image.</div>
-                  <a href="https://fruechtesnack.eu/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="project-sub-title text upper">FOOD</div>
+                  <div class="text">Our team embarked on an exciting branding journey for a renowned Food Snacks Manufacturer Company, infusing their brand with flavorsome creativity. Comprehensive competitor analysis played a key role in shaping our design strategy, ensuring the brand stands out in the crowded snack industry. From logo design to packaging and labeling, we meticulously crafted a visually appetizing brand identity that resonates with consumers. With ongoing brand maintenance and creative adaptations, we ensure the brand remains fresh and appealing, enticing customers to savor the delightful offerings of the food snacks manufacturer.</div>
+                  <a href="https://www.behance.net/gallery/130060879/Fruit-Snack-Brand-identity-website" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-snack.webp" type="image/webp">
-                    <source srcset="img/project-snack.jpg" type="image/jpeg">
-                    <img src="img/project-snack.jpg" alt="">
+                    <source srcset="img/project-fruit.webp" type="image/webp">
+                    <source srcset="img/project-fruit.jpg" type="image/jpeg">
+                    <img src="img/project-fruit.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -376,42 +376,42 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Ecommerce vs Landing page?</div>
+                  <div class="accordion-title" itemprop="name">What services do you offer under design and branding?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Depends on the type and quantity of goods. If you have more than 10 units of goods that can be delivered to the client within a few days, you need an online store. If there are up to 10 products and there are no plans to expand the assortment, a Landing Page is suitable. If the goods are ordered, then depending on their quantity, a catalog or landing page is suitable.</p>
+                      <p>We offer a comprehensive range of design and branding services, including logo design, brand identity development, graphic design for marketing materials, packaging design, website design, and more. Our team is equipped to cater to all your design and branding needs.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What is Ecommerce?</div>
+                  <div class="accordion-title" itemprop="name">How long does the design and branding process typically take?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>These are sites, mobs. programs and online platforms that enable online transactions. Such a project can be implemented in the form of an online store, a marketplace, an online catalog with the possibility of purchase, or even a landing page aimed at selling a single product with online payment.</p>
+                      <p>The timeline for design and branding projects can vary based on the scope and complexity. Simple projects like logo design may take a few days, while more extensive branding initiatives may require several weeks. During our initial consultation, we'll provide a clear timeframe tailored to your specific project.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What documentation is needed for ecommerce website production?</div>
+                  <div class="accordion-title" itemprop="name">Can you help revamp an existing brand identity?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>There are at least two mandatory documents in any legal agreement with a web studio. The first document for any commercial agreement is the Agreement specifying the duties and the period of work. The second document is a detailed Technical Task. It should describe in as much detail as possible all the details of the future site, the stages of its creation, including all functions and additional components, as well as connections and integration with third-party software. By the way, at Technical Task for development, our managers prepare for you for free!</p>
+                      <p>Yes, we can certainly help revamp an existing brand identity. Whether you need a complete rebranding or want to refresh your current branding elements, our team can work with you to create a fresh and impactful design that aligns with your brand's vision and goals.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Can I set up different price for retail or wholesale products?</div>
+                  <div class="accordion-title" itemprop="name">Do you provide printing services for marketing materials?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>This is usually implemented through a discount that depends on your user account. Usually these discounts have a fixed percentage, for example 10%, or the total discount depends on the number of products purchased.</p>
+                      <p> While we specialize in design and branding, we don't handle printing in-house. However, we can recommend trusted printing partners or work closely with your chosen printer to ensure that the final printed materials meet our design specifications and quality standards.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Why we need proffesional photos for products you want to sell?</div>
+                  <div class="accordion-title" itemprop="name">How do you ensure that the branding aligns with our business values?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>They say that it is better to see once than to hear a hundred times. Good photography is the key to success. Good product photos help to sell. We strongly recommend taking professional photos of each product from multiple angles.</p>
+                      <p>Understanding your business values is at the core of our branding process. Our team conducts in-depth research and collaborates closely with you to grasp your brand's unique essence. We ensure that the design and branding elements reflect your business values, positioning your brand effectively in the market and resonating with your target audience.</p>
                     </div>
                   </div>
                 </div>
