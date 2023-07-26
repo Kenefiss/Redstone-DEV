@@ -34,7 +34,6 @@ header {
   height: var(--h-info-height);
   text-align: center;
   padding-block: 8px;
-  transition: transform var(--transition-1);
 
   &.hide-informer,
   &.hide {
