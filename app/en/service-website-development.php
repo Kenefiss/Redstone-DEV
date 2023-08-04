@@ -379,7 +379,7 @@
                   <div class="accordion-title" itemprop="name">How long does it typically take to develop a website?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The timeline for website development varies based on the complexity and requirements of the project. A simple brochure-style website may take a few weeks, while more complex websites with custom functionalities could take several months. Our team will provide a detailed timeline during the project scoping phase.</p>
+                      <p>The timeline for website development varies based on the complexity and requirements of the project. A simple website like a landing page or simple marketing may take a few weeks, while more complex websites with custom functionalities could take several months. Our team will provide a detailed timeline during the project scoping phase.</p>
                     </div>
                   </div>
                 </div>
@@ -387,7 +387,7 @@
                   <div class="accordion-title" itemprop="name">What platforms and technologies do you use for website development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>We are proficient in a wide range of technologies and platforms, including HTML, CSS, JavaScript, PHP, Python, WordPress, and more. Our team selects the most suitable tools and technologies based on your specific needs and preferences to ensure a high-quality and functional website.</p>
+                      <p>We are proficient in a wide range of technologies and platforms, including HTML, CSS, JavaScript, PHP, Python, WordPress, Nod.js, Angular, React, and more. Our team selects the most suitable tools and technologies based on your specific needs, preferences, and budget to ensure a high-quality and functional solution.</p>
                     </div>
                   </div>
                 </div>
@@ -400,18 +400,18 @@
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Do you provide website maintenance and support after the launch?</div>
-                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                    <div class="text" itemprop="text">
-                      <p>Yes, we offer ongoing website maintenance and support services to ensure your website remains up-to-date, secure, and performs optimally. Our maintenance plans cover regular updates, security checks, and technical support to address any issues that may arise.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                   <div class="accordion-title" itemprop="name">Will my website be mobile-friendly and responsive?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
                       <p>Yes, all websites we develop are mobile-friendly and responsive. We prioritize creating websites that adapt to different screen sizes and devices, ensuring an optimal user experience for visitors on smartphones, tablets, and desktop computers. Mobile responsiveness is crucial for improving user engagement and search engine rankings.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name"> Do you provide website maintenance and support after the launch?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Yes, we offer ongoing website maintenance and support services to ensure your website remains up-to-date, secure, and performs optimally. Our maintenance plans cover regular updates, security checks, and technical support to address any issues that may arise.</p>
                     </div>
                   </div>
                 </div>

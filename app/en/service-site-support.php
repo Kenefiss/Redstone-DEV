@@ -387,7 +387,7 @@
                   <div class="accordion-title" itemprop="name">How can I contact your support service?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>There are several ways to reach our support service. You can use the contact form on our website, send an email to our support team, or give us a call. All contact details can be found on the "Contact Us" page.</p>
+                      <p>A personal manager is assigned to each project supported by us. You can communicate with the personal manager in the following ways: 1. via email; 2. project chat; 3. The customer is added to our CRM system. If you are not at our service, you can use the feedback form on our website or call us.</p>
                     </div>
                   </div>
                 </div>
@@ -395,7 +395,7 @@
                   <div class="accordion-title" itemprop="name">Is support available 24/7?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, our support service is available 24/7, 7 days a week. We understand the importance of uninterrupted operation of your website, so we are always ready to answer your questions and assist with any issues that may arise.</p>
+                      <p>Unfortunately, our technical support is not available 24/7. If you have such a request, we can agree on individual service with you and discuss all key needs in more detail.</p>
                     </div>
                   </div>
                 </div>
@@ -412,7 +412,6 @@
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
                       <p>We accept various payment methods, including credit cards, PayPal, and bank transfers. During the service ordering process, you'll be able to choose a convenient payment method for you.</p>
-                      <p>These are just some examples of questions and answers for the FAQ section on your support website. Depending on your business and services, you can add more specific questions and answers related to your website and offerings.</p>
                     </div>
                   </div>
                 </div>

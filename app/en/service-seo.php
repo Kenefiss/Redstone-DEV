@@ -407,6 +407,30 @@
                     </div>
                   </div>
                 </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Is SEO promotion considered advertising?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>SEO promotion is not traditional advertising in the sense of paid promotions like online ads. SEO (Search Engine Optimization) aims to improve a website's visibility in organic search results, making it more likely to be found by users searching for relevant keywords. While it's not paid advertising, SEO is a strategic marketing approach to attract organic traffic and increase the website's online presence.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">What is technical SEO?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Technical SEO refers to the process of optimizing the technical aspects of a website to improve its search engine visibility and crawlability. It involves various technical optimizations, such as website speed optimization, ensuring mobile responsiveness, optimizing meta tags, managing sitemaps, handling duplicate content, and addressing other factors that impact search engine rankings and user experience.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">What SEO options do you provide when developing your websites?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>When developing our websites, we offer comprehensive SEO options to ensure your website is search engine friendly and has the best chance of ranking well in search results. Our SEO options may include keyword research and analysis, on-page SEO optimization (meta tags, content optimization, etc.), technical SEO improvements, responsive design for mobile-friendliness, website speed optimization, and integration with web analytics tools. We also focus on creating a website structure that is easy for search engines to crawl and index efficiently. Our goal is to help your website gain organic traffic and better visibility in search engines.</p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

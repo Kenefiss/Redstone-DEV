@@ -376,42 +376,42 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What is redesign?</div>
+                  <div class="accordion-title" itemprop="name">Why do I need a redesign?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>If you understand that the design of your site is outdated and no longer fulfills its tasks, it is necessary to update it in accordance with modern requirements, both in terms of ease of use and stylish design.</p>
+                      <p>Redesigning a website is essential to keep it up-to-date with modern design trends, user expectations, and technology advancements. Over time, websites can become visually outdated and may not provide the best user experience. A redesign can breathe new life into your website, improve its functionality, and enhance its appeal to your target audience.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What is the process of redesign?</div>
+                  <div class="accordion-title" itemprop="name">What is the difference between a redesign and a completely new design?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The process begins with the development of page prototypes, then adaptive design layouts are developed based on them. We then upload a copy of the current site to a test server and implement the updates according to the approved layouts. In this way, the current site will not be affected in any way, users will not observe the process of implementing updates, but will see the final result.</p>
+                      <p>A redesign involves making significant updates and improvements to an existing website while retaining its core structure and content. It focuses on enhancing the user interface, user experience, and visual appearance. In contrast, creating a completely new design means building an entirely new website from scratch. This process allows for the development of an entirely new structure and user experience distinct from the current solution. With a new design, there are no limitations, but it requires the corresponding development of a new project.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Why do website redesign?</div>
+                  <div class="accordion-title" itemprop="name">Do I need to create a new website during a redesign?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Since design trends change every few years, a website that is two or three years old can appear outdated compared to a competitor that has a site that follows the latest design trends.</p>
+                      <p>The need for a new website often depends on the extent of the redesign and the underlying technology of your current website. If there aren't significant changes in the structure and functionalities, a new website development is often not required. In such cases, a redesign can be implemented directly on top of the existing website, updating its design and functionality. However, if the technology or codebase of the current website is outdated, a new website development might be recommended to achieve better performance and long-term sustainability.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How fast you can redesign the website?</div>
+                  <div class="accordion-title" itemprop="name">My website is functioning well. Why do I need a redesign?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>On average, 1-4 months. There are several factors that can affect the timeline of a website redesign project, for example, writing and providing content for a new site is a common problem for clients and often leads to project delays.</p>
+                      <p>While your website may be functional, there are several reasons to consider a redesign. The digital landscape is constantly evolving, and user expectations change over time. A redesign can improve the overall user experience, make the website more visually appealing, optimize it for mobile devices, and enhance its SEO performance. Additionally, a fresh design can help reposition your brand and better align it with your current business goals.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How often website need to be redesigned?</div>
+                  <div class="accordion-title" itemprop="name">How does the redesign process work?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>A redesign project is a big undertaking for the business and the entire team, so most companies do a complete site redesign every 3-5 years. It also depends on what's going on in your business and your industry.</p>
+                      <p>The redesign process typically involves several steps. First, we conduct a thorough analysis of your current website, its strengths, weaknesses, and performance. Next, we gather your requirements and discuss your goals for the redesign. Then, we create wireframes and design mockups to visualize the new website's layout and appearance. Once the design is approved, we proceed with development and testing. After the new website is fully developed and tested, we launch it and provide ongoing support as needed. The process may vary based on the complexity of the project and specific requirements.</p>
                     </div>
                   </div>
                 </div>

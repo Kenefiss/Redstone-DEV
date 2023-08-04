@@ -52,7 +52,7 @@
             </div>
           </div>
         </div>
-        <div class="service-decor">Landing page</div>
+        <div class="service-decor">Landing</div>
         <div class="spacer-xl"></div>
       </div>
 
@@ -376,10 +376,10 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What is the price for Landing page development?</div>
+                  <div class="accordion-title" itemprop="name">what is the price for Landing page development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The budget for the development of the Landing page is determined by several stages of work. First of all, this is market analysis, construction of the page structure, content creation. Then the stage of UI / UX design, and the stage of programming. You can see calculation examples in our "cost calculator".</p>
+                      <p>The cost of each project is calculated individually based on business needs. The cost is affected by many different factors: the system on which the project will be developed, the complexity of the design, the presence of special effects and animations, functional features, synchronization with third-party services, and more. During the discussion of the project, we learn all the important points and offer different options in terms of cost and implementation time.</p>
                     </div>
                   </div>
                 </div>
@@ -387,7 +387,7 @@
                   <div class="accordion-title" itemprop="name">Terms for Landing page production?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The terms depend on the design level and the number of screens (sense blocks) on the page. On average, it takes from 2 to 5 weeks to create a high-quality and stylish Landing page. You can see examples of terms calculation in our "cost calculator".</p>
+                      <p>The term of implementation depends on the number of blocks, the complexity of the design and functional features. The average development time takes 2-5 weeks and is discussed with each customer individually.</p>
                     </div>
                   </div>
                 </div>
@@ -403,7 +403,8 @@
                   <div class="accordion-title" itemprop="name">What is Landing page?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The main differences between a landing page and any other site are very simple: Aimed at the fastest possible conversion, Dedicated to one product or service. If the visitor attraction channels use paid traffic and are not suitable for long-term SEO promotion.</p>
+                      <p>The main differences between a landing page and any other site are very simple:  Landing page is a one-page website without separate sections where a user can learn more about the company, services, benefits, catalog, etc. All the information is displayed on one page in separate sections. Such sections can range from 6 to 12 or sometimes even more (about us, services, benefits, features of work, portfolio, projects, testimonials, certificates, partners, contacts, etc.). The user does not need to navigate to different pages, so they receive all the necessary information about you and your services in the shortest possible time and in a concise manner.</p>
+                      <p>When compared to a full-fledged website, a one-page website has all the necessary information compactly presented on one single page. A full-fledged website, on the other hand, has multiple pages, each dedicated to a specific topic or section. For instance, a full-fledged website might have separate pages for 'About Us', 'Services', 'Portfolio', 'Contacts', and so on. It allows for more detailed information and can offer more complex functionalities, but may require more time and effort from the user to navigate and find all the needed information.</p>
                     </div>
                   </div>
                 </div>
@@ -411,7 +412,25 @@
                   <div class="accordion-title" itemprop="name">What benefits Landing page has?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Focus on call-to-action, loading speed, orderliness, works well on different devices resulting in high conversion.</p>
+                      <p>The advantages of developing a landing page are as follows:</p>
+                      <ol>
+                        <li>Development speed - 2-5 weeks, and sometimes it can be 1 week.</li>
+                        <li>Cost savings due to the development of only one page.</li>
+                        <li>No extra pages and no need to come up with information for each of them.</li>
+                        <li>Quick checking of ideas in promotion and receiving information from users.</li>
+                        <li>Placement of targeted information without unnecessary clicks.</li>
+                        <li>Ideal for product promotion or service promotion.</li>
+                      </ol>
+                      <p>The disadvantages of landing are the following:</p>
+                      <ol>
+                        <li>Difficulty in SEO promotion due to the lack of dedicated pages with specialized information.</li>
+                        <li>All information is only on one page. If you have a lot of other information, you will have to sacrifice it or make a full-fledged website.</li>
+                        <li>Difficulty in scaling - it is difficult to turn a landing page from a single page into a multi-page site. It usually means creating a new project.</li>
+                        <li>If your competitors have full-fledged sites, unfortunately, by developing one landing page you will not be able to overtake them in search engine results.</li>
+                        <li>It is not suitable for companies that want to make a catalog of goods or a large portfolio of projects or services - detailed pages are needed.</li>
+                        <li>If you need a creative landing page, sometimes the cost and implementation time are not inferior to the development of a full-fledged multi-page project.</li>
+                        <li>If the landing page is complex with a large number of blocks and graphics, it can take a long time to load and you may lose positions in the search results.</li>
+                      </ol>
                     </div>
                   </div>
                 </div>

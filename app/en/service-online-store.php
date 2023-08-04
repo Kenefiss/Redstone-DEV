@@ -376,42 +376,53 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Ecommerce vs Landing page?</div>
+                  <div class="accordion-title" itemprop="name">What platform do you use for e-commerce development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Depends on the type and quantity of goods. If you have more than 10 units of goods that can be delivered to the client within a few days, you need an online store. If there are up to 10 products and there are no plans to expand the assortment, a Landing Page is suitable. If the goods are ordered, then depending on their quantity, a catalog or landing page is suitable.</p>
+                      <p>We develop e-commerce websites on various platforms, including WordPress,Shopify, and custom-built solutions, depending on the specific requirements of the project. We also have our own CMS system based on Nod.js + Angular technologies for complex high-load projects with more than 100,000 products.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What is Ecommerce?</div>
+                  <div class="accordion-title" itemprop="name">What's the difference between developing on WordPress and using a WordPress template?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>These are sites, mobs. programs and online platforms that enable online transactions. Such a project can be implemented in the form of an online store, a marketplace, an online catalog with the possibility of purchase, or even a landing page aimed at selling a single product with online payment.</p>
+                      <p>Developing on WordPress involves creating a custom website from scratch, tailored to the client's unique needs and design preferences. When we develop a project from scratch on WordPress, we use it as a clean platform without unnecessary plugins and hard-coded solutions. This approach allows us to create a project that is maximally oriented towards the client's business and provides a flexible solution for scaling.</p>
+                      <p>On the other hand, using a WordPress template involves starting with a pre-designed theme and customizing it to some extent. Using a template can save time on design and module programming, but it can compromise productivity and scalability capabilities. Templates are a good option when you need to quickly launch a project or if you don't have specific scalability requirements.</p>
+                      <p>Custom development offers more flexibility and control over the website's features and design, whereas a template may limit these factors but is faster to implement. Both methods have their pros and cons, and the best choice depends on the specific needs and goals of your project.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What documentation is needed for ecommerce website production?</div>
+                  <div class="accordion-title" itemprop="name">What's the difference between developing on WordPress and using a custom-built system?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>There are at least two mandatory documents in any legal agreement with a web studio. The first document for any commercial agreement is the Agreement specifying the duties and the period of work. The second document is a detailed Technical Task. It should describe in as much detail as possible all the details of the future site, the stages of its creation, including all functions and additional components, as well as connections and integration with third-party software. By the way, at Technical Task for development, our managers prepare for you for free!</p>
+                      <p>Developing on WordPress means utilizing an existing content management system (CMS) with a broad array of plugins and themes. This approach provides a rapid and cost-efficient solution. In contrast, a custom-built system is designed to cater to the specific requirements of the client, offering greater control, scalability, and uniqueness. However, it might necessitate more development time and resources.</p>
+                      <p>The choice of the system invariably arises from an analysis of the client's needs. If a WordPress solution meets all current and future business requirements, there's no need to opt for a more costly and complicated individual solution.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Can I set up different price for retail or wholesale products?</div>
+                  <div class="accordion-title" itemprop="name">Is WordPress suitable for a large inventory of products?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>This is usually implemented through a discount that depends on your user account. Usually these discounts have a fixed percentage, for example 10%, or the total discount depends on the number of products purchased.</p>
+                      <p>With the correct approach to design and optimization, a WordPress website can handle a large number of products very efficiently. Even with a catalog of 100,000 products or sometimes even more, the website can perform quickly and smoothly. This performance can be further enhanced by using efficient e-commerce plugins and robust hosting services.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Why we need proffesional photos for products you want to sell?</div>
+                  <div class="accordion-title" itemprop="name">What factors influence the cost of e-commerce development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>They say that it is better to see once than to hear a hundred times. Good photography is the key to success. Good product photos help to sell. We strongly recommend taking professional photos of each product from multiple angles.</p>
+                      <p>The cost of e-commerce development depends on various factors, including the complexity of the website's features, the number of products, design requirements, integration with third-party services (payment gateways, shipping providers, etc.), and the level of customization needed.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Is it necessary to provide a technical specification document?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Having a detailed technical specification document is highly beneficial for the development process. It helps us understand your requirements precisely, plan the project effectively, and ensure the final product meets your expectations. Clear specifications reduce the risk of miscommunication and speed up the development process. However, if you don't have one, we can work together to gather the necessary information and create one during the initial discussions.</p>
                     </div>
                   </div>
                 </div>

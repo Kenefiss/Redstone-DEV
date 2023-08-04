@@ -86,12 +86,12 @@
                 <div class="process-item">
                   <div class="process-number">01</div>
                   <div class="title h5">Requirements Gathering and Analysis</div>
-                  <div class="text">In this crucial phase, the development team collaborates with stakeholders to gather detailed requirements for the application. They analyze and define the scope and objectives of the project, ensuring a clear understanding of what the application needs to achieve. By prioritizing features and functionalities based on user needs, the team sets a solid foundation for the development process.</div>
+                  <div class="text">In this crucial phase, the development team collaborates with stakeholders to gather detailed requirements for the application. They analyze and define the scope and objectives of the project, ensuring a clear understanding of what the application needs to achieve.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
                   <div class="title h5">Design and Prototyping</div>
-                  <div class="text">During this stage, the development team translates the gathered requirements into visual representations. They create wireframes and mockups to visualize the application's layout and user interface, allowing stakeholders to get a feel for the final product. By developing interactive prototypes, the team can conduct user testing and gather valuable feedback, which helps refine the design before moving on to the actual development.</div>
+                  <div class="text">During this stage, the development team translates the gathered requirements into visual representations. They create wireframes and mockups to visualize the application's layout and user interface, allowing stakeholders to get a feel for the final product.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
@@ -106,7 +106,7 @@
                 <div class="process-item">
                   <div class="process-number">05</div>
                   <div class="title h5">Maintenance and Updates</div>
-                  <div class="text">The work doesn't end with the application launch. The development team provides ongoing support, monitoring the application's performance and user feedback. They proactively optimize the application's performance, security, and stability. Continuous improvement is crucial, and based on user feedback and evolving requirements, the team releases updates with new features and enhancements to keep the application relevant and competitive in the ever-changing market.</div>
+                  <div class="text">The work doesn't end with the application launch. The development team provides ongoing support, monitoring the application's performance and user feedback. They proactively optimize the application's performance, security, and stability.</div>
                 </div>
               </div>
             </div>
@@ -376,18 +376,11 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How long does it typically take to develop a website?</div>
-                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                    <div class="text" itemprop="text">
-                      <p>The application development process involves several key stages, including requirements gathering, design and prototyping, development and testing, deployment, and ongoing maintenance. Our team follows a systematic approach to ensure a successful and efficient development journey for your application.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                   <div class="accordion-title" itemprop="name">How long does it take to develop a custom application?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The timeline for application development depends on the complexity and scope of the project. Simple applications may take a few weeks, while more intricate or large-scale projects may require several months. During the initial consultation, we will provide you with a detailed timeline based on your specific requirements.</p>
+                      <p>The process of application development is an intricate journey that involves several fundamental stages. These include requirements gathering, design and prototyping, development and testing, deployment, and ongoing maintenance. Our team is committed to adhering to a systematic approach to ensure the efficient and successful development of your application.</p>
+                      <p>Crucially, the timeline for this process can vary depending on the complexity and scope of your project. Simpler applications may be completed in a matter of weeks, whereas larger, more complex applications may necessitate several months of development. Therefore, during our initial consultation, we aim to provide you with a comprehensive timeline that corresponds to your unique project specifications and requirements.</p>
                     </div>
                   </div>
                 </div>
@@ -403,7 +396,7 @@
                   <div class="accordion-title" itemprop="name">Can you help with integrating the application with other systems?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Absolutely! We have expertise in integrating applications with various third-party systems and APIs. Whether it's integrating with payment gateways, CRM platforms, or other software, our team ensures seamless data exchange and interoperability.</p>
+                      <p>Absolutely! We have expertise in integrating applications with various third-party systems via APIs. Whether it's integrating with payment gateways, CRM platforms, or other software, our team ensures seamless data exchange and interoperability.</p>
                     </div>
                   </div>
                 </div>
@@ -411,7 +404,7 @@
                   <div class="accordion-title" itemprop="name">Do you develop applications for both Android and iOS platforms?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, we provide cross-platform application development, which means we can develop applications that work on both Android and iOS devices. By utilizing technologies like React Native or Flutter, we ensure a cost-effective solution with consistent user experiences across different platforms.</p>
+                      <p>We provide cross-platform app development, which means we can develop apps that work on both Android and iOS devices. However, it is worth noting that the use of a hybrid solution allows you to save significant costs for development and improvement. Since it is done by one specialist on two platforms at once, it saves time and money. So,it is not necessary to have specialists for each code platform.Using technologies like Ionic or Flutter, we provide a cost-effective solution with a consistent user experience across platforms.</p>
                     </div>
                   </div>
                 </div>

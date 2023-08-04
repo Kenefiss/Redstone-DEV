@@ -86,7 +86,7 @@
                 <div class="process-item">
                   <div class="process-number">01</div>
                   <div class="title h5">Brand Discovery and Research</div>
-                  <div class="text">In this initial phase, the design team conducts in-depth research to understand the client's brand, its values, target audience, and market positioning. They analyze competitors and industry trends to gather insights and inspiration. This research lays the foundation for the design strategy and ensures that the subsequent branding efforts are aligned with the client's goals.</div>
+                  <div class="text">In this initial phase, the design team conducts in-depth research to understand the client's brand, its values, target audience, and market positioning. They analyze competitors and industry trends to gather insights and inspiration.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
@@ -96,17 +96,17 @@
                 <div class="process-item">
                   <div class="process-number">03</div>
                   <div class="title h5">Brand Collateral Creation</div>
-                  <div class="text">Brand collateral refers to various materials that reinforce the brand's identity across different touchpoints. This process includes designing business cards, letterheads, brochures, packaging, and other promotional materials. The design team ensures consistency in the brand's visual elements, maintaining a unified look and feel across all collateral..</div>
+                  <div class="text">Brand collateral refers to various materials that reinforce the brand's identity across different touchpoints. This process includes designing business cards, letterheads, brochures, packaging, and other promotional materials.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
                   <div class="title h5">Brand Guidelines Development</div>
-                  <div class="text">Brand guidelines serve as a comprehensive document that outlines how the brand should be presented consistently across all channels. This process involves creating guidelines for logo usage, color specifications, typography rules, image styles, and tone of voice. These guidelines help maintain brand consistency and ensure that anyone representing the brand does so accurately.</div>
+                  <div class="text">Brand guidelines serve as a comprehensive document that outlines how the brand should be presented consistently across all channels. This process involves creating guidelines for logo usage, color specifications, typography rules, image styles, and tone of voice.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
                   <div class="title h5">Brand Implementation and Monitoring</div>
-                  <div class="text">Once the branding assets and guidelines are ready, the design team supports the client in implementing the new brand across various platforms and mediums. They oversee the rollout of the brand in marketing campaigns, website design, social media, and more. Additionally, the team monitors the brand's reception and feedback to make adjustments as needed, ensuring that the brand's visual identity continues to resonate with the audience over time.</div>
+                  <div class="text">Once the branding assets and guidelines are ready, the design team supports the client in implementing the new brand across various platforms and mediums. They oversee the rollout of the brand in marketing campaigns, website design, social media, and more.</div>
                 </div>
               </div>
             </div>
@@ -376,42 +376,50 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What services do you offer under design and branding?</div>
+                  <div class="accordion-title" itemprop="name">Why do I need branding?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>We offer a comprehensive range of design and branding services, including logo design, brand identity development, graphic design for marketing materials, packaging design, website design, and more. Our team is equipped to cater to all your design and branding needs.</p>
+                      <p>Branding is essential for establishing a strong identity and reputation for your business. It goes beyond just having a logo; it encompasses the overall perception of your company in the minds of customers. A well-executed branding strategy helps differentiate your business from competitors, builds trust with your target audience, and fosters brand loyalty. It sets the tone for your company's messaging, design, and overall customer experience.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How long does the design and branding process typically take?</div>
+                  <div class="accordion-title" itemprop="name">If I already have a logo, do I need branding?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The timeline for design and branding projects can vary based on the scope and complexity. Simple projects like logo design may take a few days, while more extensive branding initiatives may require several weeks. During our initial consultation, we'll provide a clear timeframe tailored to your specific project.</p>
+                      <p>While having a logo is a good start, branding involves much more than just a logo. Branding includes defining your brand's values, personality, voice, and visual elements (logo, color palette, typography, etc.). It creates a cohesive and consistent identity across all touchpoints, from your website and marketing materials to customer interactions. So, if you want to establish a strong and recognizable brand, comprehensive branding beyond the logo is essential.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Can you help revamp an existing brand identity?</div>
+                  <div class="accordion-title" itemprop="name">What is a brand book (or brand guidelines)?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, we can certainly help revamp an existing brand identity. Whether you need a complete rebranding or want to refresh your current branding elements, our team can work with you to create a fresh and impactful design that aligns with your brand's vision and goals.</p>
+                      <p>A brand book, also known as brand guidelines or style guide, is a document that outlines the rules and guidelines for using your brand's visual and verbal elements. It serves as a reference for anyone involved in creating content or materials for your brand, ensuring consistency in design, tone of voice, logo usage, color schemes, typography, and other brand-related elements.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Do you provide printing services for marketing materials?</div>
+                  <div class="accordion-title" itemprop="name">What is included in branding, and what is the final outcome?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p> While we specialize in design and branding, we don't handle printing in-house. However, we can recommend trusted printing partners or work closely with your chosen printer to ensure that the final printed materials meet our design specifications and quality standards.</p>
+                      <p>Branding typically includes various elements, such as logo design, color palette selection, typography, brand voice and messaging, brand positioning, and brand guidelines. The final outcome is a cohesive and well-defined brand identity that reflects your company's values, appeals to your target audience, and sets the foundation for all your marketing and communication efforts.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How do you ensure that the branding aligns with our business values?</div>
+                  <div class="accordion-title" itemprop="name">What determines the cost and timeline of branding?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Understanding your business values is at the core of our branding process. Our team conducts in-depth research and collaborates closely with you to grasp your brand's unique essence. We ensure that the design and branding elements reflect your business values, positioning your brand effectively in the market and resonating with your target audience.</p>
+                      <p>The cost and timeline of branding depend on several factors, including the scope of work, the complexity of the project, the number of deliverables (e.g., logo, brand book, marketing materials), and the level of customization. </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">What is rebranding?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Rebranding, much like a redesign, doesn't necessarily involve radical changes to the appearance or structure of the existing design system. It is a process aimed at adapting the current solutions to the new realities and goals of the company. It involves a refresh or change of a company's brand identity to align it with these new objectives or target markets. This could include updating visual elements, messaging, and positioning to create a new perception and appeal to a different or expanded audience. Rebranding is a strategic move designed to keep the brand relevant, address any negative perceptions, or facilitate expansion into new markets.</p>
                     </div>
                   </div>
                 </div>

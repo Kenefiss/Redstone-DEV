@@ -311,7 +311,7 @@ custom CRM system">
                   <div class="accordion-title" itemprop="name">What terms do we offer?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The average website development time is 25 to 70 business days. The development term depends on the type of site, design and required functionality, the volume of the site (number of pages), as well as the time to agree on materials and design with the customer.</p>
+                      <p>The average website development time is 25 to 70 business days. The development term depends on the type of site (blog, marketing, ecommerce, corporate, wow project etc), design, required functionality, third-party integrations,  the volume of the site (number of pages), as well as the time to agree on materials and design with the customer.</p>
                     </div>
                   </div>
                 </div>
@@ -319,7 +319,7 @@ custom CRM system">
                   <div class="accordion-title" itemprop="name">What we are offering for website promotion?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>We can finalize your site for current needs, improve design, loading speed, expand functionality and other factors affecting site conversion. You can find out more about the finalization and redesign of the site here.</p>
+                      <p>During the development of the project, we ensure the correct writing of the code, compliance with all standards for the structure, the presence of micro-markups and modules that are necessary for SEO promotion, we ensure high speed indicators. We provide 2 of the 3 main elements for successful and high-quality promotion - the right structure and newness of tools, the third element is active promotion with the help of marketing tools, buying links and advertising.</p>
                     </div>
                   </div>
                 </div>
@@ -327,7 +327,7 @@ custom CRM system">
                   <div class="accordion-title" itemprop="name">How you estimate the cost?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The cost of the site is always calculated individually. Many different factors external and internal to your business dictate a unique set of success factors. Our experts evaluate them and make development recommendations with the exact cost of all stages of work. Requesting such a calculation is very simple, just fill out the form above.</p>
+                      <p>The cost of each project is calculated individually based on business needs. The cost is affected by many different factors: the system on which the project will be developed, the complexity of the design, the presence of special effects and animations, functional features, synchronization with third-party services, and more. During the discussion of the project, we learn all the important points and offer different options in terms of cost and implementation time.</p>
                     </div>
                   </div>
                 </div>
