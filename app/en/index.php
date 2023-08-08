@@ -331,6 +331,45 @@ custom CRM system">
                     </div>
                   </div>
                 </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">What services does your support service provide?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Our support service offers a wide range of services related to maintaining and optimizing your website. We provide technical support, website issue resolution, software updates, data backups, and much more.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">What is the difference between a custom solution and a ready-made solution?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>A custom solution is a bespoke software designed from scratch to cater specifically to a business's unique needs. It provides tailored features, ensures scalability to grow with the business, offers seamless integration with other specialized tools, and gives businesses full ownership and control. Conversely, a ready-made solution is a pre-designed software built for general business needs. It offers rapid deployment and standardized features suitable for many. While initially cost-effective, it may have limitations in customization, scalability, and might be used by numerous businesses, leading to shared vulnerabilities but also collective updates.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">How is the website development process conducted?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>At <b>REDSTONE</b>, we pride ourselves on our meticulous and client-focused approach to web development. Understanding that each project has its own unique requirements and challenges, we've established a tried-and-true process to ensure every step is transparent, efficient, and tailored to your needs. Our emphasis is on clear communication, a deep understanding of our client's vision, and delivering top-notch results that surpass expectations.</p>
+                      <p>Below is a comprehensive overview of our project management process from inception to deployment:</p>
+                      <ul>
+                        <li>Receipt of Brief: The project manager receives a brief from the client and conducts a detailed analysis of the requirements.</li>
+                        <li>Confirmation of Details: The manager contacts the client to clarify details if necessary and discuss any questions.</li>
+                        <li>Dedicated Manager: For each project, we assign a dedicated project manager who maintains constant communication with the client at every stage of the project. This ensures an easy and understandable process for the client.</li>
+                        <li>Planning: Based on the brief, the manager develops a project plan, defines key work stages, resources, and a timeline.</li>
+                        <li>Team Formation: Depending on the project requirements, the manager forms a team of specialists: designers, developers, testers, etc.</li>
+                        <li>Design: Designers create website mock-ups based on the brief. After design approval, the work is handed over to developers.</li>
+                        <li>Development: Developers create the site, integrate necessary systems, and ensure its functionality.</li>
+                        <li>Testing: Before deployment, the QA team tests the site to detect and fix potential errors.</li>
+                        <li>Preparation for Deployment: The manager checks if all stages are correctly completed and prepares the project for release.</li>
+                        <li>Deployment: The site is deployed on a server and becomes accessible to users.</li>
+                        <li>Feedback: After the site launch, the manager collects feedback from the client and, if necessary, plans further iterations or fixes.</li>
+                      </ul>
+                      <p>Our main goal is to provide clients with a seamless experience and a clear understanding of the project's progress, which is why continuous communication and a personal touch from our project managers are of utmost importance to us.</p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

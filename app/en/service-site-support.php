@@ -387,7 +387,13 @@
                   <div class="accordion-title" itemprop="name">How can I contact your support service?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>A personal manager is assigned to each project supported by us. You can communicate with the personal manager in the following ways: 1. via email; 2. project chat; 3. The customer is added to our CRM system. If you are not at our service, you can use the feedback form on our website or call us.</p>
+                      <p>A personal manager is assigned to each project supported by us. You can communicate with the personal manager in the following ways:</p>
+                      <ol>
+                        <li>Via email;</li>
+                        <li>Project chat;</li>
+                        <li>The customer is added to our CRM system.</li>
+                      </ol>
+                      <p>If you are not at our service, you can use the feedback form on our website or call us.</p>
                     </div>
                   </div>
                 </div>

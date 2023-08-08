@@ -411,7 +411,7 @@
                   <div class="accordion-title" itemprop="name">What determines the cost and timeline of branding?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The cost and timeline of branding depend on several factors, including the scope of work, the complexity of the project, the number of deliverables (e.g., logo, brand book, marketing materials), and the level of customization. </p>
+                      <p>The cost and timeline of branding depend on several factors, including the scope of work, the complexity of the project, the number of deliverables (e.g., logo, brand book, marketing materials), and the level of customization.</p>
                     </div>
                   </div>
                 </div>

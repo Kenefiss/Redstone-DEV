@@ -408,7 +408,7 @@
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name"> Do you provide website maintenance and support after the launch?</div>
+                  <div class="accordion-title" itemprop="name">Do you provide website maintenance and support after the launch?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
                       <p>Yes, we offer ongoing website maintenance and support services to ensure your website remains up-to-date, secure, and performs optimally. Our maintenance plans cover regular updates, security checks, and technical support to address any issues that may arise.</p>
