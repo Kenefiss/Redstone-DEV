@@ -376,7 +376,7 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">what is the price for Landing page development?</div>
+                  <div class="accordion-title" itemprop="name">What is the price for Landing page development?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
                       <p>The cost of each project is calculated individually based on business needs. The cost is affected by many different factors: the system on which the project will be developed, the complexity of the design, the presence of special effects and animations, functional features, synchronization with third-party services, and more. During the discussion of the project, we learn all the important points and offer different options in terms of cost and implementation time.</p>

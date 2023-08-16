@@ -181,7 +181,7 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">UNITY App</div>
+                  <div class="title h4">UNITI App</div>
                   <div class="project-sub-title text upper">TRAVELING</div>
                   <div class="text">The dev team collaborated on a travel app, emphasizing thorough research, user feedback, and agile methodologies. They developed an intuitive and visually appealing interface, integrated various travel services, and conducted rigorous testing to ensure a seamless and enjoyable travel experience for users. The successful launch of the app made it a valuable tool for travelers worldwide.</div>
                   <a href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>

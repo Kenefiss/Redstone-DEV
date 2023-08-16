@@ -63,26 +63,23 @@
                       </ul>
                     </div>
                   </li>
-
-                  <!-- hide on phase 1 -->
-                  <!-- <li class="has-submenu">
+                  <li class="has-submenu">
                     <b>Services</b>
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
-                      <ul style="--items: 3;">
-                        <li><a href="#">Site support</a></li>
-                        <li><a href="#">Landing page</a></li>
-                        <li><a href="#">Online Store</a></li>
-                        <li><a href="#">Redesign</a></li>
-                        <li><a href="#">SEO</a></li>
+                      <ul style="--items: 5;">
+                        <li><a href="service-website-development">Website development</a></li>
+                        <li><a href="service-app-development">APP development</a></li>
+                        <li><a href="service-site-support">Site support</a></li>
+                        <li><a href="service-landing-page">Landing page</a></li>
+                        <li><a href="service-online-store">Online Store</a></li>
+                        <li><a href="service-redesign">Redesign</a></li>
+                        <li><a href="service-seo">SEO</a></li>
+                        <li><a href="service-branding">Branding and design</a></li>
+                        <li><a href="service-crm-system">CRM system</a></li>
                       </ul>
                     </div>
-                  </li> -->
-                  <!-- hide on phase 1 -->
-
-
-
-                  
+                  </li>
                   <li><a href="review" class="hash">Recenzje</a></li>
                   <li><a href="about" class="hash">O nas</a></li>
                   <li class="menu-close"><a href="contact">Kontakt</a></li>

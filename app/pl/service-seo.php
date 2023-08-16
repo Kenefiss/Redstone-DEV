@@ -38,21 +38,21 @@
           <div class="row">
             <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">Website development</h1>
+                <h1 class="title h1">Optymalizacja wyszukiwarki</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
               <div class="service-img text-center">
                 <picture>
-                    <source srcset="img/service-website.webp" type="image/webp">
-                    <source srcset="img/service-website.png" type="image/png">
-                    <img src="img/service-website.png" alt="">
+                    <source srcset="img/service-seo.webp" type="image/webp">
+                    <source srcset="img/service-seo.png" type="image/png">
+                    <img src="img/service-seo.png" alt="">
                   </picture>
               </div>
             </div>
           </div>
         </div>
-        <div class="service-decor">Website</div>
+        <div class="service-decor">Optymalizacja</div>
         <div class="spacer-xl"></div>
       </div>
 
@@ -62,7 +62,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our process and its benefits</div>
+                <div class="title h2 animate-item fadeInUp">Nasz proces i jego korzyści</div>
               </div>
             </div>
           </div>
@@ -70,14 +70,14 @@
             <div class="col-12 col-xl-6 d-none d-xl-block">
               <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
-                  <source srcset="img/website-process-1.webp" type="image/webp">
-                  <source srcset="img/website-process-1.png" type="image/png">
-                  <img src="img/website-process-1.png" alt="">
+                  <source srcset="img/seo-process-1.webp" type="image/webp">
+                  <source srcset="img/seo-process-1.png" type="image/png">
+                  <img src="img/seo-process-1.png" alt="">
                 </picture>
                 <picture>
-                  <source srcset="img/website-process-2.webp" type="image/webp">
-                  <source srcset="img/website-process-2.png" type="image/png">
-                  <img src="img/website-process-2.png" alt="">
+                  <source srcset="img/seo-process-2.webp" type="image/webp">
+                  <source srcset="img/seo-process-2.png" type="image/png">
+                  <img src="img/seo-process-2.png" alt="">
                 </picture>
               </div>
             </div>
@@ -85,28 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Project Planning</div>
-                  <div class="text">We define scope, objectives, and timelines. Gather requirements and conduct market research.</div>
+                  <div class="title h5">Optymalizacja słów kluczowych</div>
+                  <div class="text">Przeprowadź dokładne badania słów kluczowych i zoptymalizuj zawartość strony usługi z odpowiednimi i wysokiej wartości słów kluczowych, aby poprawić jego widoczność w wynikach wyszukiwania.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Design and Development</div>
-                  <div class="text">Designers create wireframes, design visuals, and then develop ers work on the front-end and back-end of the website.</div>
+                  <div class="title h5">Treść wysokiej jakości</div>
+                  <div class="text">Zapewnij cenne i zorientowane na użytkownika treści, które zaspokajają potrzeby użytkowników, prezentuje korzyści z Usług i zachęca do zaangażowania.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Content Integration</div>
-                  <div class="text">Team populate the website with relevant content and media assets.</div>
+                  <div class="title h5">Elementy na stronie</div>
+                  <div class="text">Optymalizuj meta tagów, nagłówków, adresów URL i tekstu obrazu, aby dostosować się do docelowych słów kluczowych i poprawić znaczenie wyszukiwarki strony.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Testing and Optimization</div>
-                  <div class="text">QA performs functionality testing, SEO optimization, and ensure performance and security.</div>
+                  <div class="title h5">Przyjazna dla urządzeń mobilnych</div>
+                  <div class="text">Upewnij się, że strona serwisowa jest przyjazna dla urządzeń mobilnych i responsywna, aby oferować bezproblemowe wrażenia użytkownika na wszystkich urządzeniach.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Deployment and Maintenance</div>
-                  <div class="text">We launch the website, monitor analytics, and provide ongoing support and updates.</div>
+                  <div class="title h5">Monitorowanie i aktualizacje</div>
+                  <div class="text">Regularnie monitoruj wydajność strony za pomocą narzędzi analitycznych i dokonuj aktualizacji opartych na danych w celu zwiększenia jego widoczności i zaangażowania użytkowników w czasie.</div>
                 </div>
               </div>
             </div>
@@ -121,25 +121,25 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">How we work</div>
+                <div class="title h2 animate-item fadeInUp">Jak my pracujemy</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Project Planning</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Design and Development</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Content Integration</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Testing and Optimization</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Deployment and Maintenance</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Optymalizacja słów kluczowych</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Treść wysokiej jakości</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Elementy na stronie</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Przyjazna dla urządzeń mobilnych</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Monitorowanie i aktualizacje</span></div></div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
-                <p>We study the site, find all the problem areas and determine how to eliminate them. We analyze competitors in search results and their strategies. We conduct an audit of the available traffic to the site in terms of sources and effectiveness in search engines.</p>
+                <p>Badamy wymagania klienta, znajdujemy wszystkie obszary problemowe i określamy, jak je wyeliminować. Analizujemy konkurentów w wynikach wyszukiwania i ich strategie. Przeprowadzamy audyt dostępnego ruchu na stronie pod względem źródeł i skuteczności w wyszukiwarkach.</p>
               </div>
             </div>
           </div>
@@ -153,8 +153,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our projects</div>
-                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
+                <div class="title h2 animate-item fadeInUp">Nasze projekty</div>
+                <div class="text animate-item fadeInUp delay-1">Odkryj wielokrotnie nagradzane studio internetowe w Wielkiej Brytanii. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, tworzenia stron internetowych, brandingu, marketingu cyfrowego i handlu elektronicznego. Inspirujemy się do pracy na rzecz naszych klientów.</div>
               </div>
             </div>
           </div>
@@ -162,18 +162,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">FINHUB</div>
-                  <div class="project-sub-title text upper">FINANCIAL COMPANY</div>
-                  <div class="text">We continued to enhance the website for our esteemed financial company client, FINHUB. Our dedicated team persisted in refining the platform, leveraging competitor analysis insights to stay ahead in the financial market. From the initial development stages to consistent maintenance efforts, we have diligently strived to provide FINHUB with an exceptional product. Our focus on delivering excellence ensures that FINHUB can offer its customers a seamless and top-tier experience for all their financial needs.</div>
-                  <a href="https://finhubfund.co.uk/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">Carpathian Mint</div>
+                  <div class="project-sub-title text upper">SKLEP INTERNETOWY</div>
+                  <div class="text">Pracowaliśmy nad optymalizacją SEO dla sklepu internetowego. Po przeprowadzeniu audytu zbadaliśmy odpowiednie słowa kluczowe i zoptymalizowane meta tagi, nagłówki i treści w celu poprawy rankingów wyszukiwarek. Rezultatem był zwiększony ruch organiczny i wyższe konwersje.</div>
+                  <a href="https://carpathianmint.com/" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-finhub.webp" type="image/webp">
-                    <source srcset="img/project-finhub.jpg" type="image/jpeg">
-                    <img src="img/project-finhub.jpg" alt="">
+                    <source srcset="img/project-mint.webp" type="image/webp">
+                    <source srcset="img/project-mint.jpg" type="image/jpeg">
+                    <img src="img/project-mint.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -181,18 +181,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">UAM Power</div>
-                  <div class="project-sub-title text upper">POWER SOLUTIONS</div>
-                  <div class="text">Our team crafted a dynamic website for a leading power solutions company, ensuring their online presence aligns with their industry reputation. Rigorous competitor analysis drove our development process, guaranteeing that the website stands out amidst the competition. We dedicated ourselves to creating an exceptional product, incorporating features and functionalities that cater to the specific needs of the power solutions sector. With ongoing maintenance, we ensure the website remains cutting-edge and serves as an effective platform to showcase the company's expertise and services in the power industry.</div>
-                  <a href="https://uampower.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">Origin team</div>
+                  <div class="project-sub-title text upper">Firma kreatywna</div>
+                  <div class="text">Opracowaliśmy strategię SEO dla agencji projektowej. Wybierając odpowiednie słowa kluczowe, optymalizując treść i wdrażając lokalne taktyki SEO, zwiększyliśmy widoczność firmy dla docelowych odbiorców. Rezultatem był wzrost zapytań i rezerwacji podróży.</div>
+                  <a href="https://origin-team.com/" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-power.webp" type="image/webp">
-                    <source srcset="img/project-power.jpg" type="image/jpeg">
-                    <img src="img/project-power.jpg" alt="">
+                    <source srcset="img/project-origin.webp" type="image/webp">
+                    <source srcset="img/project-origin.jpg" type="image/jpeg">
+                    <img src="img/project-origin.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -200,18 +200,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Studio glass</div>
-                  <div class="project-sub-title text upper">MANUFACTURER</div>
-                  <div class="text">We developed a captivating website for a prominent glass manufacturer, leveraging our expertise in design and development. Meticulous competitor analysis guided our creative process, resulting in a visually stunning and user-friendly website that outshines competitors in the glass manufacturing sector. Our commitment to excellence drove us to create an impactful product, showcasing the manufacturer's range of glass products and services with precision and style. Through continuous maintenance and updates, we ensure the website remains a reliable resource for customers, providing insights into the manufacturer's craftsmanship and quality offerings.</div>
-                  <a href="https://studioglass.ua/en/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">Profizz</div>
+                  <div class="project-sub-title text upper">Firma oprogramowania</div>
+                  <div class="text">Przeprowadziliśmy audyt SEO i zoptymalizowaliśmy stronę internetową dla firmy konsultingowej IT. Koncentrując się na autorytatywnej treści i budowaniu wysokiej jakości linków zwrotnych, wzmocniliśmy pozycje witryny w wyszukiwarkach. Rezultatem był zwiększony ruch, wyższe rankingi wyszukiwarek i lepsza wydajność strony internetowej.</div>
+                  <a href="https://proffiz.com/" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-glass.webp" type="image/webp">
-                    <source srcset="img/project-glass.jpg" type="image/jpeg">
-                    <img src="img/project-glass.jpg" alt="">
+                    <source srcset="img/project-profizz.webp" type="image/webp">
+                    <source srcset="img/project-profizz.jpg" type="image/jpeg">
+                    <img src="img/project-profizz.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -227,7 +227,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our victories</div>
+                <div class="title h2 animate-item fadeInUp">Nasze zwycięstwa</div>
               </div>
             </div>
           </div>
@@ -322,7 +322,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">What we use to achieve success</div>
+                <div class="title h2 animate-item fadeInUp">Czego używamy do osiągnięcia sukcesu</div>
               </div>
             </div>
           </div>
@@ -371,47 +371,39 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
+              <h2 class="title h2 title-margin animate-item">Często zadawane pytania i odpowiedzi</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How long does it typically take to develop a website?</div>
+                  <div class="accordion-title" itemprop="name">Co to jest SEO?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The timeline for website development varies based on the complexity and requirements of the project. A simple website like a landing page or simple marketing may take a few weeks, while more complex websites with custom functionalities could take several months. Our team will provide a detailed timeline during the project scoping phase.</p>
+                      <p>SEO jest rozszyfrowane jako optymalizacja wyszukiwania, ma na celu przyciąganie ruchu ekologicznego (naturalnego) na stronie poprzez ranking wyników wyszukiwania bez płacenia za ruch za pośrednictwem reklamy. Ważne jest, aby opracować silną strategię SEO, ponieważ głównym źródłem ruchu na stronie jest wyszukiwanie.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What platforms and technologies do you use for website development?</div>
+                  <div class="accordion-title" itemprop="name">Warunki optymalizacji SEO?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>We are proficient in a wide range of technologies and platforms, including HTML, CSS, JavaScript, PHP, Python, WordPress, Node.js, Angular, React, and more. Our team selects the most suitable tools and technologies based on your specific needs, preferences, and budget to ensure a high-quality and functional solution.</p>
+                      <p>SEO wymaga stałej uwagi i zdecydowanie nie jest jednorazową rzeczą. Ważne jest, aby zrozumieć, że SEO jest inwestycją długoterminową i może ostatecznie stać się największym kierowcą ruchu, jeśli dasz jej czas, na jaki zasługuje. Twoja strategia SEO wymaga czasu, planowania i poprawy w celu osiągnięcia i utrzymania rankingu wyszukiwania, ROI i ogólnego wzrostu ruchu.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Can you help with website design as well as development?</div>
+                  <div class="accordion-title" itemprop="name">Czy prędkość witryny wpływa na ranking wyszukiwarki?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, absolutely! Our services cover both website design and development. We have a talented team of designers who can create captivating and user-friendly website designs, ensuring a seamless and engaging user experience.</p>
+                      <p>Prędkość i czas obciążenia witryny wpływają na ogólny ranking wyszukiwarki. W rzeczywistości prędkość witryny jest jednym z głównych czynników rankingowych w wyszukiwaniu Google. Dlatego jeśli chcesz zwiększyć ogólny ranking witryny w wyszukiwarkach, musisz zwiększyć ogólną prędkość witryny.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Will my website be mobile-friendly and responsive?</div>
+                  <div class="accordion-title" itemprop="name">Co to jest indeksowanie i skanowanie?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, all websites we develop are mobile-friendly and responsive. We prioritize creating websites that adapt to different screen sizes and devices, ensuring an optimal user experience for visitors on smartphones, tablets, and desktop computers. Mobile responsiveness is crucial for improving user engagement and search engine rankings.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Do you provide website maintenance and support after the launch?</div>
-                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                    <div class="text" itemprop="text">
-                      <p>Yes, we offer ongoing website maintenance and support services to ensure your website remains up-to-date, secure, and performs optimally. Our maintenance plans cover regular updates, security checks, and technical support to address any issues that may arise.</p>
+                      <p>Indeksowanie i pełzanie to dwa główne procesy, które strona musi przejść, aby pojawić się w Google. Po pierwsze, Google czołga witrynę, aby odkryć wszystkie strony w niej i ich treści. Google następnie przetwarza wszystkie te dane, a po pomyślnym zakończeniu strona będzie indeksowana i dostępna w wyszukiwarce Google.</p>
                     </div>
                   </div>
                 </div>

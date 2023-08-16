@@ -289,6 +289,54 @@
       <!-- SEO  * -->
       <?php include 'inc/sections/_seo-2.php'; ?>
 
+      <!-- FAQ -->
+      <div class="section">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-5">
+              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
+            </div>
+            <div class="col-xl-7">
+              <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Jaka jest cena rozwoju?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Koszt opracowania strony internetowej zależy od wielu czynników. Przede wszystkim zależy to od wybranego rodzaju projektowania i jego złożoności, CMS, objętości strony, ilości treści, które należy opracować i umieścić, funkcjonalność witryny, liczby niezbędnych usług i widżetów, które należy podłączyć lub rozwinięty i wiele innych czynników. Aby obliczyć koszt rozwoju, wypełnij aplikację na naszej stronie internetowej lub zadzwoń do nas.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Jakie warunki oferujemy?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Średni czas opracowywania strony internetowej wynosi od 25 do 70 dni roboczych. Termin programowania zależy od rodzaju witryny, projektowania i wymaganej funkcjonalności, objętości witryny (liczby stron), a także czasu na uzgodnienie materiałów i projektowania z klientem.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Co oferujemy promocję witryny?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Możemy sfinalizować Twoją witrynę pod kątem bieżących potrzeb, poprawić projektowanie, prędkość ładowania, rozszerzyć funkcjonalność i inne czynniki wpływające na konwersję witryny. Możesz dowiedzieć się więcej o finalizacji i przeprojektowaniu strony tutaj.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Jak oszacujesz koszt?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Koszt witryny jest zawsze obliczany indywidualnie. Wiele różnych czynników zewnętrznych i wewnętrznych dla Twojej firmy dyktuje unikalny zestaw czynników sukcesu. Nasi eksperci oceniają je i wydają zalecenia dotyczące rozwoju z dokładnym kosztem wszystkich etapów pracy. Żądanie takich obliczeń jest bardzo proste, po prostu wypełnij powyższy formularz.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="spacer-xl"></div>
+      </div>
+
     </main>
 
     <?php include 'inc/_footer.php';?>

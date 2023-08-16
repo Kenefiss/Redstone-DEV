@@ -38,21 +38,21 @@
           <div class="row">
             <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">Website development</h1>
+                <h1 class="title h1">E-commerce</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
               <div class="service-img text-center">
                 <picture>
-                    <source srcset="img/service-website.webp" type="image/webp">
-                    <source srcset="img/service-website.png" type="image/png">
-                    <img src="img/service-website.png" alt="">
+                    <source srcset="img/service-store.webp" type="image/webp">
+                    <source srcset="img/service-store.png" type="image/png">
+                    <img src="img/service-store.png" alt="">
                   </picture>
               </div>
             </div>
           </div>
         </div>
-        <div class="service-decor">Website</div>
+        <div class="service-decor">E-commerce</div>
         <div class="spacer-xl"></div>
       </div>
 
@@ -62,7 +62,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our process and its benefits</div>
+                <div class="title h2 animate-item fadeInUp">Nasz proces i jego korzyści</div>
               </div>
             </div>
           </div>
@@ -70,14 +70,14 @@
             <div class="col-12 col-xl-6 d-none d-xl-block">
               <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
-                  <source srcset="img/website-process-1.webp" type="image/webp">
-                  <source srcset="img/website-process-1.png" type="image/png">
-                  <img src="img/website-process-1.png" alt="">
+                  <source srcset="img/store-process-1.webp" type="image/webp">
+                  <source srcset="img/store-process-1.png" type="image/png">
+                  <img src="img/store-process-1.png" alt="">
                 </picture>
                 <picture>
-                  <source srcset="img/website-process-2.webp" type="image/webp">
-                  <source srcset="img/website-process-2.png" type="image/png">
-                  <img src="img/website-process-2.png" alt="">
+                  <source srcset="img/store-process-2.webp" type="image/webp">
+                  <source srcset="img/store-process-2.png" type="image/png">
+                  <img src="img/sstore-process-2.png" alt="">
                 </picture>
               </div>
             </div>
@@ -85,28 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Project Planning</div>
-                  <div class="text">We define scope, objectives, and timelines. Gather requirements and conduct market research.</div>
+                  <div class="title h5">Zebranie wymagań</div>
+                  <div class="text">Zbierz szczegółowe wymagania projektu, w tym produkty/usługi, bramy płatności i opcje wysyłki.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Design and Development</div>
-                  <div class="text">Designers create wireframes, design visuals, and then develop ers work on the front-end and back-end of the website.</div>
+                  <div class="title h5">Wybór platformy</div>
+                  <div class="text">Wybierz odpowiednią platformę e-commerce na podstawie potrzeb projektu i skalowalności.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Content Integration</div>
-                  <div class="text">Team populate the website with relevant content and media assets.</div>
+                  <div class="title h5">Projektowanie i układ</div>
+                  <div class="text">Utwórz atrakcyjny i przyjazny dla użytkownika układ, koncentrując się na prezentacji produktów i bezproblemowej nawigacji.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Testing and Optimization</div>
-                  <div class="text">QA performs functionality testing, SEO optimization, and ensure performance and security.</div>
+                  <div class="title h5">Integracja i bezpieczeństwo</div>
+                  <div class="text">Zintegruj bramy płatności i wdrożyć środki bezpieczeństwa w celu ochrony danych klientów.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Deployment and Maintenance</div>
-                  <div class="text">We launch the website, monitor analytics, and provide ongoing support and updates.</div>
+                  <div class="title h5">Testowanie i uruchomienie</div>
+                  <div class="text">Dokładnie przetestuj stronę internetową na wszystkich urządzeniach, wdrożyć stronę usługi e-commerce i monitoruj jej wydajność w celu ciągłego doskonalenia.</div>
                 </div>
               </div>
             </div>
@@ -121,25 +121,25 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">How we work</div>
+                <div class="title h2 animate-item fadeInUp">Jak my pracujemy</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Project Planning</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Design and Development</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Content Integration</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Testing and Optimization</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Deployment and Maintenance</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Zebranie wymagań</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Wybór platformy</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Projektowanie i układ</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Integracja i bezpieczeństwo</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Testowanie i uruchomienie</span></div></div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
-                <p>We study the site, find all the problem areas and determine how to eliminate them. We analyze competitors in search results and their strategies. We conduct an audit of the available traffic to the site in terms of sources and effectiveness in search engines.</p>
+                <p>Badamy wymagania klienta, znajdujemy wszystkie obszary problemowe i określamy, jak je wyeliminować. Analizujemy konkurentów w wynikach wyszukiwania i ich strategie. Przeprowadzamy audyt dostępnego ruchu na stronie pod względem źródeł i skuteczności w wyszukiwarkach.</p>
               </div>
             </div>
           </div>
@@ -153,8 +153,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our projects</div>
-                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
+                <div class="title h2 animate-item fadeInUp">Nasze projekty</div>
+                <div class="text animate-item fadeInUp delay-1">Odkryj wielokrotnie nagradzane studio internetowe w Wielkiej Brytanii. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, tworzenia stron internetowych, brandingu, marketingu cyfrowego i handlu elektronicznego. Inspirujemy się do pracy na rzecz naszych klientów.</div>
               </div>
             </div>
           </div>
@@ -162,18 +162,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">FINHUB</div>
-                  <div class="project-sub-title text upper">FINANCIAL COMPANY</div>
-                  <div class="text">We continued to enhance the website for our esteemed financial company client, FINHUB. Our dedicated team persisted in refining the platform, leveraging competitor analysis insights to stay ahead in the financial market. From the initial development stages to consistent maintenance efforts, we have diligently strived to provide FINHUB with an exceptional product. Our focus on delivering excellence ensures that FINHUB can offer its customers a seamless and top-tier experience for all their financial needs.</div>
-                  <a href="https://finhubfund.co.uk/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">M-vision</div>
+                  <div class="project-sub-title text upper">FIRMA DEWELOPERSKA</div>
+                  <div class="text">Stworzyliśmy witrynę e-commerce dla firmy Higly-Recomed, która świadczy usługi dentystyczne. Wdrożyliśmy katalog produktów ze szczegółowymi opisami i opcjami przechowywania koszyków. Zapewniliśmy przyjazny dla użytkownika proces kasy i zintegrowaliśmy bezpieczne metody płatności. Rezultatem była zwiększona sprzedaż i satysfakcja klientów.</div>
+                  <a href="https://mvision.pro/" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-finhub.webp" type="image/webp">
-                    <source srcset="img/project-finhub.jpg" type="image/jpeg">
-                    <img src="img/project-finhub.jpg" alt="">
+                    <source srcset="img/project-mvision.webp" type="image/webp">
+                    <source srcset="img/project-mvision.jpg" type="image/jpeg">
+                    <img src="img/project-mvision.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -181,18 +181,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">UAM Power</div>
-                  <div class="project-sub-title text upper">POWER SOLUTIONS</div>
-                  <div class="text">Our team crafted a dynamic website for a leading power solutions company, ensuring their online presence aligns with their industry reputation. Rigorous competitor analysis drove our development process, guaranteeing that the website stands out amidst the competition. We dedicated ourselves to creating an exceptional product, incorporating features and functionalities that cater to the specific needs of the power solutions sector. With ongoing maintenance, we ensure the website remains cutting-edge and serves as an effective platform to showcase the company's expertise and services in the power industry.</div>
-                  <a href="https://uampower.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">Call2bid</div>
+                  <div class="project-sub-title text upper">SKLEP INTERNETOWY</div>
+                  <div class="text">Opracowaliśmy platformę e-commerce dla firmy, która świadczy usługi dla potencjalnych nabywców samochodów z aukcji. Zaprojektowaliśmy minimalistyczny i nowoczesny układ dla łatwego wyszukiwania produktów i porównania. Recenzje użytkowników i szybkie opcje zamawiania zostały zintegrowane. Rezultatem były poprawa konwersji i wysoka satysfakcja klientów.</div>
+                  <a href="https://call2bid.com/" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-power.webp" type="image/webp">
-                    <source srcset="img/project-power.jpg" type="image/jpeg">
-                    <img src="img/project-power.jpg" alt="">
+                    <source srcset="img/project-call2bid.webp" type="image/webp">
+                    <source srcset="img/project-call2bid.jpg" type="image/jpeg">
+                    <img src="img/project-call2bid.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -200,18 +200,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Studio glass</div>
-                  <div class="project-sub-title text upper">MANUFACTURER</div>
-                  <div class="text">We developed a captivating website for a prominent glass manufacturer, leveraging our expertise in design and development. Meticulous competitor analysis guided our creative process, resulting in a visually stunning and user-friendly website that outshines competitors in the glass manufacturing sector. Our commitment to excellence drove us to create an impactful product, showcasing the manufacturer's range of glass products and services with precision and style. Through continuous maintenance and updates, we ensure the website remains a reliable resource for customers, providing insights into the manufacturer's craftsmanship and quality offerings.</div>
-                  <a href="https://studioglass.ua/en/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">Fruchte Snack</div>
+                  <div class="project-sub-title text upper">PRODUCENT</div>
+                  <div class="text">Zaprojektowaliśmy stronę internetową e-commerce dla słynnego niemieckiego producenta zdrowych przekąsek. Wykorzystując jasną i zrównoważoną konstrukcję, która odzwierciedla naturalną esencję produktów, wdrożyliśmy łatwe wyszukiwanie produktów w oparciu o rodzaj skóry i składniki. Rezultatem były zwiększone zamówienia i pozytywny wizerunek marki.</div>
+                  <a href="https://fruechtesnack.eu/" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-glass.webp" type="image/webp">
-                    <source srcset="img/project-glass.jpg" type="image/jpeg">
-                    <img src="img/project-glass.jpg" alt="">
+                    <source srcset="img/project-snack.webp" type="image/webp">
+                    <source srcset="img/project-snack.jpg" type="image/jpeg">
+                    <img src="img/project-snack.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -227,7 +227,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our victories</div>
+                <div class="title h2 animate-item fadeInUp">Nasze zwycięstwa</div>
               </div>
             </div>
           </div>
@@ -322,7 +322,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">What we use to achieve success</div>
+                <div class="title h2 animate-item fadeInUp">Czego używamy do osiągnięcia sukcesu</div>
               </div>
             </div>
           </div>
@@ -371,47 +371,50 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
+              <h2 class="title h2 title-margin animate-item">Często zadawane pytania i odpowiedzi</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How long does it typically take to develop a website?</div>
+                  <div class="accordion-title" itemprop="name">ECommerce vs strona docelowa?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The timeline for website development varies based on the complexity and requirements of the project. A simple website like a landing page or simple marketing may take a few weeks, while more complex websites with custom functionalities could take several months. Our team will provide a detailed timeline during the project scoping phase.</p>
+                      <p>Zależy od rodzaju i ilości towarów. Jeśli masz więcej niż 10 jednostek towarów, które można dostarczyć klientowi w ciągu kilku dni, potrzebujesz sklepu internetowego. Jeśli jest do 10 produktów i nie ma planów rozszerzenia asortymentu, strona docelowa jest odpowiednia. Jeśli towary są zamówione, w zależności od ich ilości odpowiedni jest katalog lub strona docelowa.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What platforms and technologies do you use for website development?</div>
+                  <div class="accordion-title" itemprop="name">Co to jest eCommerce?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>We are proficient in a wide range of technologies and platforms, including HTML, CSS, JavaScript, PHP, Python, WordPress, Node.js, Angular, React, and more. Our team selects the most suitable tools and technologies based on your specific needs, preferences, and budget to ensure a high-quality and functional solution.</p>
+                      <p>To są strony, moby. Programy i platformy internetowe, które umożliwiają transakcje online. Taki projekt można wdrożyć w postaci sklepu internetowego, rynku, katalogu internetowego z możliwością zakupu, a nawet strony docelowej mającą na celu sprzedaż jednego produktu z płatnością online.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Can you help with website design as well as development?</div>
+                  <div class="accordion-title" itemprop="name">Jaka dokumentacja jest potrzebna do produkcji strony internetowej eCommerce?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, absolutely! Our services cover both website design and development. We have a talented team of designers who can create captivating and user-friendly website designs, ensuring a seamless and engaging user experience.</p>
+                      <p>Istnieją co najmniej dwa obowiązkowe dokumenty w każdej umowie prawnej ze studiem internetowym.</p>
+                      <p>Pierwszym dokumentem każdej umowy komercyjnej jest umowa określająca obowiązki i okres pracy.</p>
+                      <p>Drugi dokument jest szczegółowym zadaniem technicznym. Powinien opisać jak najdokładniejsze szczegóły wszystkie szczegóły przyszłej witryny, etapy jej tworzenia, w tym wszystkie funkcje i dodatkowe komponenty, a także połączenia i integracja z oprogramowaniem stron trzecich.</p>
+                      <p>Nawiasem mówiąc, w // technicznym zadaniu rozwoju nasi menedżerowie przygotowują się do Ciebie na darmowe!</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Will my website be mobile-friendly and responsive?</div>
+                  <div class="accordion-title" itemprop="name">Czy mogę ustalić inną cenę za produkty detaliczne lub hurtowe?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, all websites we develop are mobile-friendly and responsive. We prioritize creating websites that adapt to different screen sizes and devices, ensuring an optimal user experience for visitors on smartphones, tablets, and desktop computers. Mobile responsiveness is crucial for improving user engagement and search engine rankings.</p>
+                      <p>Zazwyczaj jest to wdrażane poprzez zniżkę, która zależy od konta użytkownika. Zwykle rabaty te mają stały procent, na przykład 10%lub całkowity rabat zależy od liczby zakupionych produktów.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Do you provide website maintenance and support after the launch?</div>
+                  <div class="accordion-title" itemprop="name">Dlaczego potrzebujemy profesjonalnych zdjęć do produktów, które chcesz sprzedać?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, we offer ongoing website maintenance and support services to ensure your website remains up-to-date, secure, and performs optimally. Our maintenance plans cover regular updates, security checks, and technical support to address any issues that may arise.</p>
+                      <p>Mówią, że lepiej jest zobaczyć raz, niż słyszeć sto razy. Dobra fotografia jest kluczem do sukcesu. Dobre zdjęcia produktów pomagają sprzedać. Zdecydowanie zalecamy robienie profesjonalnych zdjęć każdego produktu z wielu stron.</p>
                     </div>
                   </div>
                 </div>

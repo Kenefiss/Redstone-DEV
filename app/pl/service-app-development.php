@@ -38,21 +38,21 @@
           <div class="row">
             <div class="col-12 col-lg-6 align-self-center">
               <div class="banner-content">
-                <h1 class="title h1">Website development</h1>
+                <h1 class="title h1">Aplikacja programowa</h1>
               </div>
             </div>
             <div class="col-12 col-lg-6">
               <div class="service-img text-center">
                 <picture>
-                    <source srcset="img/service-website.webp" type="image/webp">
-                    <source srcset="img/service-website.png" type="image/png">
-                    <img src="img/service-website.png" alt="">
+                    <source srcset="img/service-app-dev.webp" type="image/webp">
+                    <source srcset="img/service-app-dev.png" type="image/png">
+                    <img src="img/service-app-dev.png" alt="">
                   </picture>
               </div>
             </div>
           </div>
         </div>
-        <div class="service-decor">Website</div>
+        <div class="service-decor">Aplikacja</div>
         <div class="spacer-xl"></div>
       </div>
 
@@ -62,7 +62,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our process and its benefits</div>
+                <div class="title h2 animate-item fadeInUp">Nasz proces i jego korzyści</div>
               </div>
             </div>
           </div>
@@ -70,14 +70,14 @@
             <div class="col-12 col-xl-6 d-none d-xl-block">
               <div class="service-imgs animate-item fadeInUp delay-2">
                 <picture>
-                  <source srcset="img/website-process-1.webp" type="image/webp">
-                  <source srcset="img/website-process-1.png" type="image/png">
-                  <img src="img/website-process-1.png" alt="">
+                  <source srcset="img/app-process-1.webp" type="image/webp">
+                  <source srcset="img/app-process-1.png" type="image/png">
+                  <img src="img/app-process-1.png" alt="">
                 </picture>
                 <picture>
-                  <source srcset="img/website-process-2.webp" type="image/webp">
-                  <source srcset="img/website-process-2.png" type="image/png">
-                  <img src="img/website-process-2.png" alt="">
+                  <source srcset="img/app-process-2.webp" type="image/webp">
+                  <source srcset="img/app-process-2.png" type="image/png">
+                  <img src="img/app-process-2.png" alt="">
                 </picture>
               </div>
             </div>
@@ -85,28 +85,28 @@
               <div class="our-process animate-item fadeInUp delay-1">
                 <div class="process-item">
                   <div class="process-number">01</div>
-                  <div class="title h5">Project Planning</div>
-                  <div class="text">We define scope, objectives, and timelines. Gather requirements and conduct market research.</div>
+                  <div class="title h5">Zebranie i analiza wymagań</div>
+                  <div class="text">W tej kluczowej fazie zespół programistów współpracuje z zainteresowanymi stronami w celu zebrania szczegółowych wymagań dotyczących aplikacji. Analizują i definiują zakres i cele projektu, zapewniając jasne zrozumienie tego, co musi osiągnąć aplikacja. Poprzez priorytety funkcji i funkcji opartych na potrzebach użytkowników, zespół ustawia solidne podstawy procesu rozwoju.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">02</div>
-                  <div class="title h5">Design and Development</div>
-                  <div class="text">Designers create wireframes, design visuals, and then develop ers work on the front-end and back-end of the website.</div>
+                  <div class="title h5">Projektowanie i prototypowanie</div>
+                  <div class="text">Na tym etapie zespół programistów przekłada zebrane wymagania na reprezentacje wizualne. Tworzą szkielety i makiety w celu wizualizacji układu aplikacji i interfejsu użytkownika, umożliwiając interesariuszom wyczucie produktu końcowego. Opracowując interaktywne prototypy, zespół może przeprowadzić testy użytkowników i zebrać cenne informacje zwrotne, co pomaga udoskonalić projekt przed przejściem do faktycznego rozwoju.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">03</div>
-                  <div class="title h5">Content Integration</div>
-                  <div class="text">Team populate the website with relevant content and media assets.</div>
+                  <div class="title h5">Opracowywanie i testowanie</div>
+                  <div class="text">Po zatwierdzeniu projektu zespół programistów zaczyna budować aplikację. Wdrażają funkcje front-end i zaplecze zgodnie ze specyfikacjami. Rygorystyczne testy są integralną częścią tej fazy do identyfikacji i rozwiązania wszelkich błędów lub problemów. Zapewnia to, że aplikacja działa płynnie, zapewniając bezproblemowe wrażenia użytkownika.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">04</div>
-                  <div class="title h5">Testing and Optimization</div>
-                  <div class="text">QA performs functionality testing, SEO optimization, and ensure performance and security.</div>
+                  <div class="title h5">Wdrożenie i wydanie</div>
+                  <div class="text">Po zakończeniu opracowywania i testowania aplikacji nadszedł czas na wdrożenie. Zespół uruchamia aplikację na wybranej platformie lub App Store, dzięki czemu jest dostępna dla użytkowników. Dokładnie zarządzają procesem uwalniania, aby zapewnić sprawne uruchomienie i obsługują wszelkie potencjalne problemy, które mogą pojawić się na tym etapie krytycznym.</div>
                 </div>
                 <div class="process-item">
                   <div class="process-number">05</div>
-                  <div class="title h5">Deployment and Maintenance</div>
-                  <div class="text">We launch the website, monitor analytics, and provide ongoing support and updates.</div>
+                  <div class="title h5">Konserwacja i aktualizacje</div>
+                  <div class="text">Praca nie kończy się na uruchomieniu aplikacji. Zespół programistów zapewnia ciągłe wsparcie, monitorując wydajność aplikacji i opinie użytkowników. Proaktywnie optymalizują wydajność, bezpieczeństwo i stabilność aplikacji. Ciągłe doskonalenie ma kluczowe znaczenie, a na podstawie informacji zwrotnych użytkowników i ewolucji zespołu zwalnia aktualizacje o nowych funkcjach i ulepszeniach, aby aplikacja była istotna i konkurencyjna na stale zmieniającym się rynku.</div>
                 </div>
               </div>
             </div>
@@ -121,25 +121,25 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">How we work</div>
+                <div class="title h2 animate-item fadeInUp">Jak my pracujemy</div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-1">
             <div class="col-12">
               <div class="circle-wrapp">
-                <div class="circle-item"><div class="inner-content"><span>Project Planning</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Design and Development</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Content Integration</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Testing and Optimization</span></div></div>
-                <div class="circle-item"><div class="inner-content"><span>Deployment and Maintenance</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Zebranie i analiza wymagań</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Projektowanie i prototypowanie</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Opracowywanie i testowanie</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Wdrożenie i wydanie</span></div></div>
+                <div class="circle-item"><div class="inner-content"><span>Konserwacja i aktualizacje</span></div></div>
               </div>
             </div>
           </div>
           <div class="row animate-item fadeInUp delay-2">
             <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
               <div class="text text-center">
-                <p>We study the site, find all the problem areas and determine how to eliminate them. We analyze competitors in search results and their strategies. We conduct an audit of the available traffic to the site in terms of sources and effectiveness in search engines.</p>
+                <p>Badamy wymagania klienta, znajdujemy wszystkie obszary problemowe i określamy, jak je wyeliminować. Analizujemy konkurentów w wynikach wyszukiwania i ich strategie. Przeprowadzamy audyt dostępnego ruchu na stronie pod względem źródeł i skuteczności w wyszukiwarkach.</p>
               </div>
             </div>
           </div>
@@ -153,8 +153,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our projects</div>
-                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
+                <div class="title h2 animate-item fadeInUp">Nasze projekty</div>
+                <div class="text animate-item fadeInUp delay-1">Odkryj wielokrotnie nagradzane studio internetowe w Wielkiej Brytanii. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, tworzenia stron internetowych, brandingu, marketingu cyfrowego i handlu elektronicznego. Inspirujemy się do pracy na rzecz naszych klientów.</div>
               </div>
             </div>
           </div>
@@ -162,18 +162,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">FINHUB</div>
-                  <div class="project-sub-title text upper">FINANCIAL COMPANY</div>
-                  <div class="text">We continued to enhance the website for our esteemed financial company client, FINHUB. Our dedicated team persisted in refining the platform, leveraging competitor analysis insights to stay ahead in the financial market. From the initial development stages to consistent maintenance efforts, we have diligently strived to provide FINHUB with an exceptional product. Our focus on delivering excellence ensures that FINHUB can offer its customers a seamless and top-tier experience for all their financial needs.</div>
-                  <a href="https://finhubfund.co.uk/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">MyResto App</div>
+                  <div class="project-sub-title text upper">DOSTAWA JEDZENIA</div>
+                  <div class="text">Zespół Dev współpracował przy opracowywaniu aplikacji do dostarczania żywności przy użyciu Metodologii Agile. Skoncentrowali się na opinii użytkowników, bezpieczeństwie i bezproblemowej funkcjonalności, co skutkuje udanym uruchomieniem i zachwycającym doświadczeniem dla entuzjastów jedzenia.</div>
+                  <a href="https://apps.apple.com/ua/app/myresto-app/id1643866018?l=uk" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-finhub.webp" type="image/webp">
-                    <source srcset="img/project-finhub.jpg" type="image/jpeg">
-                    <img src="img/project-finhub.jpg" alt="">
+                    <source srcset="img/project-myresto.webp" type="image/webp">
+                    <source srcset="img/project-myresto.jpg" type="image/jpeg">
+                    <img src="img/project-myresto.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -181,18 +181,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
-                  <div class="title h4">UAM Power</div>
-                  <div class="project-sub-title text upper">POWER SOLUTIONS</div>
-                  <div class="text">Our team crafted a dynamic website for a leading power solutions company, ensuring their online presence aligns with their industry reputation. Rigorous competitor analysis drove our development process, guaranteeing that the website stands out amidst the competition. We dedicated ourselves to creating an exceptional product, incorporating features and functionalities that cater to the specific needs of the power solutions sector. With ongoing maintenance, we ensure the website remains cutting-edge and serves as an effective platform to showcase the company's expertise and services in the power industry.</div>
-                  <a href="https://uampower.com/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">UNITI App</div>
+                  <div class="project-sub-title text upper">PODRÓŻNY</div>
+                  <div class="text">Zespół Dev współpracował przy aplikacji podróży, podkreślając dokładne badania, informacje zwrotne od użytkowników i zwinne metodologie. Opracowali intuicyjny i atrakcyjny wizualnie interfejs, zintegrowali różne usługi podróży i przeprowadzili rygorystyczne testy, aby zapewnić bezproblemowe i przyjemne wrażenia z podróży użytkownikom. Udane uruchomienie aplikacji sprawiło, że było to cenne narzędzie dla podróżników na całym świecie.</div>
+                  <a href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-power.webp" type="image/webp">
-                    <source srcset="img/project-power.jpg" type="image/jpeg">
-                    <img src="img/project-power.jpg" alt="">
+                    <source srcset="img/project-unity.webp" type="image/webp">
+                    <source srcset="img/project-unity.jpg" type="image/jpeg">
+                    <img src="img/project-unity.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -200,18 +200,18 @@
             <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
-                  <div class="title h4">Studio glass</div>
-                  <div class="project-sub-title text upper">MANUFACTURER</div>
-                  <div class="text">We developed a captivating website for a prominent glass manufacturer, leveraging our expertise in design and development. Meticulous competitor analysis guided our creative process, resulting in a visually stunning and user-friendly website that outshines competitors in the glass manufacturing sector. Our commitment to excellence drove us to create an impactful product, showcasing the manufacturer's range of glass products and services with precision and style. Through continuous maintenance and updates, we ensure the website remains a reliable resource for customers, providing insights into the manufacturer's craftsmanship and quality offerings.</div>
-                  <a href="https://studioglass.ua/en/" class="btn btn-primary" rel="nofollow" target="_blank">Project review</a>
+                  <div class="title h4">Robert App</div>
+                  <div class="project-sub-title text upper">DOSTAWA JEDZENIA</div>
+                  <div class="text">Zespół Dev opracował aplikację dostarczania żywności, priorytetów analizy rynku i preferencji użytkowników. Wykorzystali zwinne metodologie i podzielone zadania na podstawie wiedzy specjalistycznej, co skutkuje intuicyjnym interfejsem i bezpiecznym obsługą danych. Udane uruchomienie zapewniło użytkownikom bezproblemową i wydajną dostawę żywności.</div>
+                  <a href="https://apps.apple.com/app/id1550737219" class="btn btn-primary" rel="nofollow" target="_blank">kontrola projektu</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
                 <div class="project-img">
                   <picture>
-                    <source srcset="img/project-glass.webp" type="image/webp">
-                    <source srcset="img/project-glass.jpg" type="image/jpeg">
-                    <img src="img/project-glass.jpg" alt="">
+                    <source srcset="img/project-robert.webp" type="image/webp">
+                    <source srcset="img/project-robert.jpg" type="image/jpeg">
+                    <img src="img/project-robert.jpg" alt="">
                   </picture>
                 </div>
               </div>
@@ -227,7 +227,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">Our victories</div>
+                <div class="title h2 animate-item fadeInUp">Nasze zwycięstwa</div>
               </div>
             </div>
           </div>
@@ -322,7 +322,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title h2 animate-item fadeInUp">What we use to achieve success</div>
+                <div class="title h2 animate-item fadeInUp">Czego używamy do osiągnięcia sukcesu</div>
               </div>
             </div>
           </div>
@@ -371,47 +371,47 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5">
-              <h2 class="title h2 title-margin animate-item">Frequently asked questions and answers</h2>
+              <h2 class="title h2 title-margin animate-item">Często zadawane pytania i odpowiedzi</h2>
             </div>
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How long does it typically take to develop a website?</div>
+                  <div class="accordion-title" itemprop="name">Jak długo zwykle zajmuje opracowanie strony internetowej?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The timeline for website development varies based on the complexity and requirements of the project. A simple website like a landing page or simple marketing may take a few weeks, while more complex websites with custom functionalities could take several months. Our team will provide a detailed timeline during the project scoping phase.</p>
+                      <p>Proces rozwoju aplikacji obejmuje kilka kluczowych etapów, w tym gromadzenie wymagań, projektowanie i prototypowanie, rozwój i testowanie, wdrażanie i ciągłe utrzymanie. Nasz zespół podąża za systematycznym podejściem, aby zapewnić udaną i wydajną podróż rozwojową dla Twojej aplikacji.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What platforms and technologies do you use for website development?</div>
+                  <div class="accordion-title" itemprop="name">Jak długo trwa opracowanie niestandardowej aplikacji?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>We are proficient in a wide range of technologies and platforms, including HTML, CSS, JavaScript, PHP, Python, WordPress, Node.js, Angular, React, and more. Our team selects the most suitable tools and technologies based on your specific needs, preferences, and budget to ensure a high-quality and functional solution.</p>
+                      <p>Oś czasu rozwoju aplikacji zależy od złożoności i zakresu projektu. Proste aplikacje mogą potrwać kilka tygodni, a bardziej skomplikowane lub duże projekty mogą wymagać kilku miesięcy. Podczas początkowej konsultacji zapewniamy szczegółowy harmonogram na podstawie twoich konkretnych wymagań.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Can you help with website design as well as development?</div>
+                  <div class="accordion-title" itemprop="name">Czy zapewniasz wsparcie po uruchomieniu aplikacji?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, absolutely! Our services cover both website design and development. We have a talented team of designers who can create captivating and user-friendly website designs, ensuring a seamless and engaging user experience.</p>
+                      <p>Tak, oferujemy usługi wsparcia i konserwacji po uruchomieniu dla Twojej aplikacji. Nasz zespół będzie dostępny, aby rozwiązać wszelkie problemy, wykonywać aktualizacje i zapewnić, że aplikacja pozostanie bezpieczna i zoptymalizowana pod kątem dalszej wydajności.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Will my website be mobile-friendly and responsive?</div>
+                  <div class="accordion-title" itemprop="name">Czy możesz pomóc w integracji aplikacji z innymi systemami?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, all websites we develop are mobile-friendly and responsive. We prioritize creating websites that adapt to different screen sizes and devices, ensuring an optimal user experience for visitors on smartphones, tablets, and desktop computers. Mobile responsiveness is crucial for improving user engagement and search engine rankings.</p>
+                      <p>Absolutnie! Mamy wiedzę specjalistyczną w zakresie integracji aplikacji z różnymi systemami stron trzecich i interfejsów API. Niezależnie od tego, czy jest to integracja z bramami płatniczymi, platformami CRM lub innym oprogramowaniem, nasz zespół zapewnia bezproblemową wymianę danych i interoperacyjność.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Do you provide website maintenance and support after the launch?</div>
+                  <div class="accordion-title" itemprop="name">Czy tworzysz aplikacje zarówno na platformy Androida, jak i iOS?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Yes, we offer ongoing website maintenance and support services to ensure your website remains up-to-date, secure, and performs optimally. Our maintenance plans cover regular updates, security checks, and technical support to address any issues that may arise.</p>
+                      <p>Tak, zapewniamy opracowywanie aplikacji międzyplatformowych, co oznacza, że ​​możemy opracowywać aplikacje działające zarówno na urządzeniach z Androidem, jak i na iOS. Korzystając z technologii takich jak React Native lub Fruting, zapewniamy opłacalne rozwiązanie o spójnych doświadczeniach użytkowników na różnych platformach.</p>
                     </div>
                   </div>
                 </div>

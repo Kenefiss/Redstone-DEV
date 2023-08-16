@@ -797,7 +797,7 @@
           <img src="img/portfolio/p-img-22.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5">UNITY App</div>
+      <div class="case-title title h5">UNITI App</div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>
