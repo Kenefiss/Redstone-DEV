@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="the-world-of-web-animations-enhancing-user-engagement">
+                  <picture>
+                    <source srcset="img/the-world-of-web-animations-enhancing-user-engagement.webp" type="image/webp">
+                    <source srcset="img/the-world-of-web-animations-enhancing-user-engagement.jpg" type="image/jpeg">
+                    <img src="img/the-world-of-web-animations-enhancing-user-engagement.jpg" alt="the-world-of-web-animations-enhancing-user-engagement">
+                  </picture>
+                  <span class="date">10.08.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-world-of-web-animations-enhancing-user-engagement">The World of Web Animations: Enhancing User Engagement</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="incorporating-video-content-in-web-design">
+                  <picture>
+                    <source srcset="img/incorporating-video-content-in-web-design.webp" type="image/webp">
+                    <source srcset="img/incorporating-video-content-in-web-design.jpg" type="image/jpeg">
+                    <img src="img/incorporating-video-content-in-web-design.jpg" alt="incorporating-video-content-in-web-design">
+                  </picture>
+                  <span class="date">08.08.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="incorporating-video-content-in-web-design">Incorporating Video Content in Web Design</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="website-analytics-gauging-success">
+                  <picture>
+                    <source srcset="img/website-analytics-gauging-success.webp" type="image/webp">
+                    <source srcset="img/website-analytics-gauging-success.jpg" type="image/jpeg">
+                    <img src="img/website-analytics-gauging-success.jpg" alt="website-analytics-gauging-success">
+                  </picture>
+                  <span class="date">03.08.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="website-analytics-gauging-success">Website Analytics: Gauging Success</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-role-of-artificial-intelligence-in-web-development">
+                  <picture>
+                    <source srcset="img/the-role-of-artificial-intelligence-in-web-development.webp" type="image/webp">
+                    <source srcset="img/the-role-of-artificial-intelligence-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/the-role-of-artificial-intelligence-in-web-development.jpg" alt="the-role-of-artificial-intelligence-in-web-development">
+                  </picture>
+                  <span class="date">01.08.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-role-of-artificial-intelligence-in-web-development">The Role of Artificial Intelligence in Web Development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="working-with-single-sign-on-solutions-in-web-development">
                   <picture>
                     <source srcset="img/working-with-single-sign-on-solutions-in-web-development.webp" type="image/webp">
