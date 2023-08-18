@@ -46,6 +46,66 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="the-data-retrieval-revolution">
+                  <picture>
+                    <source srcset="img/the-data-retrieval-revolution.webp" type="image/webp">
+                    <source srcset="img/the-data-retrieval-revolution.jpg" type="image/jpeg">
+                    <img src="img/the-data-retrieval-revolution.jpg" alt="the-data-retrieval-revolution">
+                  </picture>
+                  <span class="date">15.08.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-data-retrieval-revolution">Rewolucja w Pobieraniu Danych: Wprowadzenie do GraphQL</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="immersive-journeys">
+                  <picture>
+                    <source srcset="img/immersive-journeys.webp" type="image/webp">
+                    <source srcset="img/immersive-journeys.jpg" type="image/jpeg">
+                    <img src="img/immersive-journeys.jpg" alt="immersive-journeys">
+                  </picture>
+                  <span class="date">10.08.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="immersive-journeys">Immersyjne Podróże: Wpływ AR i VR na Doświadczenia Sieciowe</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="adapting-to-the-voice-revolution">
+                  <picture>
+                    <source srcset="img/adapting-to-the-voice-revolution.webp" type="image/webp">
+                    <source srcset="img/adapting-to-the-voice-revolution.jpg" type="image/jpeg">
+                    <img src="img/adapting-to-the-voice-revolution.jpg" alt="adapting-to-the-voice-revolution">
+                  </picture>
+                  <span class="date">03.08.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="adapting-to-the-voice-revolution">Adaptacja do Rewolucji Głosowej: Rozwój Stron Internetowych w Erze Wyszukiwania Głosowego</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="evolution-and-impact-of-single-party-applications">
+                  <picture>
+                    <source srcset="img/evolution-and-impact-of-single-party-applications.webp" type="image/webp">
+                    <source srcset="img/evolution-and-impact-of-single-party-applications.jpg" type="image/jpeg">
+                    <img src="img/evolution-and-impact-of-single-party-applications.jpg" alt="evolution-and-impact-of-single-party-applications">
+                  </picture>
+                  <span class="date">01.08.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="evolution-and-impact-of-single-party-applications">Ewolucja i Wpływ Aplikacji Jednostronnych (SPAs)</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="basic-techniques-to-prevent-cross-site-scripting-attacks">
                   <picture>
                     <source srcset="img/basic-techniques-to-prevent-cross-site-scripting-attacks.webp" type="image/webp">
