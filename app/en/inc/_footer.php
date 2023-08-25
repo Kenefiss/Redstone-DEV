@@ -14,6 +14,7 @@
           <li><a href="awards">Awards</a></li>
           <li><a href="about">About</a></li>
           <li><a href="portfolio">Case Studies</a></li>
+          <li><a href="service">Services</a></li>
           <li><a href="review">Reviews</a></li>
           <li><a href="blog">Blog</a></li>
           <li><a href="contact">Contacts</a></li>

@@ -392,6 +392,15 @@ h6,
   margin-left: 9%;
 }
 
+.title-with-text.size2 .title {
+  max-width: 60%;
+  flex: 1 1 60%;
+}
+
+.title-with-text.size2 .text {
+  margin-left: 4%;
+}
+
 .title-with-text .text span {
   color: var(--clr-red);
   font-weight: 400;
@@ -445,7 +454,7 @@ h6,
     margin-bottom: 40px;
   }
 
-  .title-with-text .text {
+  .title-with-text .text,.title-with-text.size2 .text {
     font-size: 18px;
     margin-left: 5%;
   }
@@ -470,11 +479,11 @@ h6,
     margin-bottom: 30px;
   }
 
-  .title-with-text .title {
+  .title-with-text .title, .title-with-text.size2 .title {
     max-width: 100%;
   }
 
-  .title-with-text .text {
+  .title-with-text .text, .title-with-text.size2 .text {
     display: none;
     padding: 0;
   }

@@ -15,6 +15,7 @@
       <nav class="header-wrap-center">
         <ul>
           <li><a href="portfolio">Case Studies</a></li>
+          <li><a href="service">Services</a></li>
           <li><a href="app">АРР</a></li>
           <li><a href="blog">Blog</a></li>
           <li><a href="contact" class="hash">Contacts</a></li>

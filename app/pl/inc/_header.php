@@ -15,6 +15,7 @@
       <nav class="header-wrap-center">
         <ul>
           <li><a href="portfolio">Portfolio</a></li>
+          <li><a href="service">Services</a></li>
           <li><a href="app">App</a></li>
           <li><a href="blog">Blog</a></li>
           <li><a href="contact" class="hash">Kontakt</a></li>

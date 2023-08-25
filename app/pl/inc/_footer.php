@@ -14,6 +14,7 @@
           <li><a href="awards">Nagrody</a></li>
           <li><a href="about">O nas</a></li>
           <li><a href="portfolio">Portfolio</a></li>
+          <li><a href="service">Services</a></li>
           <li><a href="review">Recenzje</a></li>
           <li><a href="blog">Blog</a></li>
           <li><a href="contact">Kontakt</a></li>
