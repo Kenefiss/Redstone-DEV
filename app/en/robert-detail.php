@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      The combination of minimalistic design with clear and at the same time complex functionality is the result of the work of our professionals on the <b>Robert App</b> project. We developed a great multifunctional mobile app for restaurant table booking.
+                      The <b>Robert App</b> stands as a testament to our team's commitment to excellence and innovation. In today's digital age, where customer expectations are consistently evolving, our objective was to simplify the dining reservation process while providing a visually appealing and intuitive interface. Drawing upon market insights and user feedback, our design and development teams collaborated closely, ensuring that the application was not only aesthetically pleasing but also seamlessly functional. The outcome is an app that embodies efficiency and elegance, setting a new benchmark for restaurant booking platforms. We are proud of our contribution to enhancing the user experience in the hospitality sector.
                     </div>
                   </div>
                 </div>
@@ -119,7 +119,7 @@
                       <img src="img/features/ft-icon-59.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      User offices
+                      User account
                     </div>
                   </div>
                 </div>
@@ -430,8 +430,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Charlotte Wilson</div>
+                        <div class="review-category">Director of Product Management</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -442,7 +442,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"Our project benefited immensely from the team's evident thoroughness, initiative, and creative flair."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

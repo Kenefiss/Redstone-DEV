@@ -86,7 +86,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>The Bilo</b> company approached us with the need to develop a marketing site for their products. Our team conducted a detailed peer review and provided their design vision. The website has become a bright and dynamic addition to our clients' business. The result of our cooperation with the Bilo company was well appreciated and we received several awards for the design of this project.
+                      <b>The Bilo</b> company engaged our services to create a promotional website for their product range. After an in-depth competitor analysis, our team presented a tailored design strategy. The ensuing website emerged as a vibrant and lively enhancement to Bilo's business profile. Our collaborative effort with Bilo company was recognized and honoured with multiple design accolades.
                     </div>
                   </div>
                 </div>
@@ -448,8 +448,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">John Whitmore</div>
+                        <div class="review-category">Director of Marketing</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -460,7 +460,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"We were genuinely taken aback by the team's dedication, proactiveness, and innovative approach to our project."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

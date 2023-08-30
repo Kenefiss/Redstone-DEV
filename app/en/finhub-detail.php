@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      We received a request from the <b>Finhub</b> company to develop a platform with many financial functions. We fruitfully collaborated with clients during the stages of discussing the design and functionality of the website. Our team provided the client with design options and agreed on further stages of development in record time. The result of our work with the client was a multi-functional website with a concise but stylish design
+                      <b>Finhub</b> company approached us with an imperative request to develop a robust platform brimming with diverse financial functionalities. Throughout the collaboration process, we engaged in productive discussions with the clients, meticulously deliberating over the intricate nuances of the website's design and functionality. Our team swiftly presented the client with a range of design options, promptly reaching a consensus on the subsequent stages of development. As a result of our diligent collaboration, we successfully delivered a multi-faceted website characterized by a succinct yet sophisticated design approach.
                     </div>
                   </div>
                 </div>
@@ -159,7 +159,7 @@
                       <img src="img/features/ft-icon-45.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Placement of projects
+                      Project location
                     </div>
                   </div>
                 </div>
@@ -179,7 +179,7 @@
                       <img src="img/features/ft-icon-50.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      User offices
+                      User account
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Anthony Collins</div>
+                        <div class="review-category">Director of Strategy</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"We didn't anticipate the extraordinary depth of expertise, initiative, and inventiveness the team would bring to our project."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

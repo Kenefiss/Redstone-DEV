@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      The company <b>Opti Meas</b> turned to our specialists with the need to develop a bright, concise design for its marketing website. This website combines stylish and bright colors, dynamic animations and the necessary functionality to promote products to the market. Cooperation with customers brought the team experience in developing a new product.
+                      <b>Opti Meas</b> engaged our team of specialists to create an outstanding and succinct design for their marketing website. The website exudes an elegant blend of vibrant and vivid colour schemes, dynamic animations, and requisite functionalities aimed at effectively promoting products to the target market. As a result of our collaboration with Opti Meas, our team gained valuable experience that contributed to the development of a new product.
                     </div>
                   </div>
                 </div>
@@ -159,7 +159,7 @@
                       <img src="img/features/ft-icon-30.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Effect on page scrolling
+                      Page scrolling effect
                     </div>
                   </div>
                 </div>
@@ -179,7 +179,7 @@
                       <img src="img/features/ft-icon-18.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Animated appearance of images
+                      Animation
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Mia Ward</div>
+                        <div class="review-category">Senior Account Manager</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The innovative solutions and preparedness demonstrated by the team surpassed our expectations."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      The combination of minimalistic design with clear and at the same time complex functionality is the result of the work of our professionals on the <b>StudioGlass</b> project. The team worked on the implementation of a clear and easy user flow so that it would be convenient for the client to implement new marketing strategies in the future.
+                      Our professionals masterfully merged minimalist design with intricate functionality in the StudioGlass project. The team meticulously devised a straightforward user flow, ensuring the platform remains adaptive for the client's future marketing strategy implementations. This approach not only enhances the current user experience but also positions <b>StudioGlass</b> for sustainable growth and adaptability. By anticipating future marketing needs, we've ensured that the platform remains both relevant and user-centric in the long term.
                     </div>
                   </div>
                 </div>
@@ -129,7 +129,7 @@
                       <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Projects filter
                     </div>
                   </div>
                 </div>
@@ -139,7 +139,7 @@
                       <img src="img/features/ft-icon-57.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      User offices
+                      User account
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Abigail Adams</div>
+                        <div class="review-category">VP of Operations</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"We were positively taken by the exceptional initiative, dedication, and inventive solutions the team delivered."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

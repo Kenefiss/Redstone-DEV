@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>The Blum</b> company needed a high-quality multifunctional solution to provide services to its retail and wholesale customers. During the work on this project, not only the marketing website was developed, but also the configurators of the furniture fittings and the furniture itself. We also paid attention to design and concise presentation of information. The result of our cooperation with the client was a platform with many functions and a bright and discreet design.
+                      <b>The Blum</b> company sought a sophisticated, multifunctional platform to cater to both its retail and wholesale clientele. Throughout the project's duration, we went beyond crafting a marketing website and developed configurators for both furniture fittings and the furniture pieces themselves. Design and succinct information presentation were paramount in our approach. The culmination of our partnership with Blum resulted in a multifaceted platform, characterized by its vivid yet understated design.
                     </div>
                   </div>
                 </div>
@@ -149,7 +149,7 @@
                       <img src="img/features/ft-icon-4.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Different levels of access to the site
+                      Different levels of access<br> to the site
                     </div>
                   </div>
                 </div>
@@ -179,7 +179,7 @@
                       <img src="img/features/ft-icon-7.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      IRequest moderation system
+                      Request moderation system
                     </div>
                   </div>
                 </div>
@@ -189,7 +189,7 @@
                       <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Product filtering
+                      Product filter
                     </div>
                   </div>
                 </div>
@@ -438,8 +438,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Emily Johnson</div>
+                        <div class="review-category">Chief Operating Officer</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -450,7 +450,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The level of readiness and innovation displayed by the team on our project was truly remarkable."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

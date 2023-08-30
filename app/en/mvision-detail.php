@@ -86,7 +86,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>Mvision</b> turned to our specialists with the need to develop a stylish, concise design and, in the future, the website, this page had to convey not only the owner's value but also his priorities in working with clients. Our cooperation resulted in a minimalistic and accent website, which received awards and recognition at the world level for its unique appearance.
+                      <b>Mvision</b> sought the expertise of our team in order to facilitate the creation of an elegant and succinct design, with a future plan of developing a website. The objective was to effectively communicate not only the owner's values, but also their fundamental principles in client interactions. As a result of our collaboration, we successfully crafted a minimalist and visually impactful website, garnering international acclaim and prestigious accolades for its distinction and originality.
                     </div>
                   </div>
                 </div>
@@ -126,7 +126,7 @@
                       <img src="img/features/ft-icon-46.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Portfolio of works
+                      Portfolio
                     </div>
                   </div>
                 </div>
@@ -156,7 +156,7 @@
                       <img src="img/features/ft-icon-47.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Make a route
+                      Map
                     </div>
                   </div>
                 </div>
@@ -166,7 +166,7 @@
                       <img src="img/features/ft-icon-48.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Projects filter
                     </div>
                   </div>
                 </div>
@@ -176,7 +176,7 @@
                       <img src="img/features/ft-icon-49.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Before after
+                      Before & After
                     </div>
                   </div>
                 </div>
@@ -448,8 +448,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Ethan Clark</div>
+                        <div class="review-category">Head of Operations</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -460,7 +460,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The proactive and imaginative nature of the team that attended to our needs was genuinely commendable."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

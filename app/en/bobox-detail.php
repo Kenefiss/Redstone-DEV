@@ -86,7 +86,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      We received a request from the <b>BOBOX</b> company to develop a platform with many functions. We fruitfully collaborated with clients at the stages of discussing the design and functionality of the site. Our team provided the client with design options and agreed on further stages of development in record time. The result of our work with the client was a multifunctional site with a concise but stylish design.
+                    The <b>BOBOX</b> company engaged us to construct a multifaceted platform. Throughout our collaboration, we actively liaised with the client, deliberating both design aspects and site functionality. Our team swiftly presented design alternatives and consolidated the subsequent development phases. The outcome of our partnership with BOBOX manifested as a multifunctional website, epitomizing both brevity and elegance in its design.
                     </div>
                   </div>
                 </div>
@@ -176,7 +176,7 @@
                       <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Projects filter
                     </div>
                   </div>
                 </div>
@@ -448,7 +448,7 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
+                        <div class="review-title">Michael Robinson</div>
                         <div class="review-category">Head of Sales</div>
                       </div>
                       <div class="review-content">
@@ -460,7 +460,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The preparation, originality, and enthusiasm of the team working on our task was impressive."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

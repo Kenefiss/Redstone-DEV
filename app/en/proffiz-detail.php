@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      Cooperation with this company gave us the opportunity to satisfy the client's needs in an ultra-short period of time. Specialists developed a bright and fresh design and also implemented convenient functionality for the user within a limited time frame.
+                      Collaborating with this esteemed organization enabled us to meet the client's requirements within an exceptionally tight timeframe. Our experts crafted a sophisticated and contemporary design while ensuring user-friendly functionality was integrated within the stipulated period.
                     </div>
                   </div>
                 </div>
@@ -119,7 +119,7 @@
                       <img src="img/features/ft-icon-18.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Animated appearance of images
+                      Animation
                     </div>
                   </div>
                 </div>
@@ -179,7 +179,7 @@
                       <img src="img/features/ft-icon-30.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Effect on page scrolling
+                      Page scrolling effect
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">James Turner</div>
+                        <div class="review-category">Chief Information Officer</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"We marvelled at the commendable level of resourcefulness, drive, and creativity from the team."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

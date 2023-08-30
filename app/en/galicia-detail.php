@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>Galicia</b> A marketing site is not always about minimalism and bright accents. Our team implemented a project that combined unusual design and convenient user experience. The team worked on the implementation of a clear and easy user flow so that it would be convenient for the client to implement new marketing strategies in the future.
+                      The <b>Galicia</b> team understands that a marketing site is not solely defined by minimalism and bright accents. With our recent project, we successfully merged unique design elements with a seamless user experience. Our dedicated team focused on implementing a clear and user-friendly flow, fostering convenience for clients as they navigate the site and implement future marketing strategies.
                     </div>
                   </div>
                 </div>
@@ -149,7 +149,7 @@
                       <img src="img/features/ft-icon-15.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Favorites product
+                      Favourites
                     </div>
                   </div>
                 </div>
@@ -169,7 +169,7 @@
                       <img src="img/features/ft-icon-16.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Variable goods
+                      Custom products
                     </div>
                   </div>
                 </div>
@@ -189,7 +189,7 @@
                       <img src="img/features/ft-icon-18.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Animated appearance of images
+                      Animation
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Emma Lewis</div>
+                        <div class="review-category">VP of Client Relations</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The team showcased remarkable readiness and creativity while addressing our requirements."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

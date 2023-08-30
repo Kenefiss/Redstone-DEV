@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>My Resto</b> turned to our specialists with the need to develop a stylish, concise design and clear functionality for mobile applications. Our cooperation resulted in a bright and accent app, with multi-functional food delivery possibilities.
+                      <b>My Resto</b> sought the expertise of our specialists to design and develop their mobile application, requiring an aesthetically pleasing and user-friendly interface. Through diligent collaboration, our team successfully crafted a dynamic and engaging app that offers versatile food delivery options. The end result is a comprehensive and visually stunning application that exceeds expectations.
                     </div>
                   </div>
                 </div>
@@ -129,7 +129,7 @@
                       <img src="img/features/ft-icon-59.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      User offices
+                      User account
                     </div>
                   </div>
                 </div>
@@ -159,7 +159,7 @@
                       <img src="img/features/ft-icon-61.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Make a route
+                      Map
                     </div>
                   </div>
                 </div>

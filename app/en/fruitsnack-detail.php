@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      A marketing site is not always about minimalism and bright accents. Our team implemented a project that combined unusual design and convenient user experience. The team worked on the implementation of a clear and easy user flow so that it would be convenient for the client to implement new marketing strategies in the future.
+                      When it comes to a marketing website, the notion of minimalism and bright accents may not always apply. Our team recently undertook a project that successfully incorporated a distinctive design approach with a seamless user experience. The team was dedicated to facilitating the client's ability to implement future marketing strategies with ease by spearheading a clear and efficient user flow.
                     </div>
                   </div>
                 </div>
@@ -169,7 +169,7 @@
                       <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Projects filter
                     </div>
                   </div>
                 </div>
@@ -179,7 +179,7 @@
                       <img src="img/features/ft-icon-55.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      User offices
+                      User account
                     </div>
                   </div>
                 </div>
@@ -189,7 +189,7 @@
                       <img src="img/features/ft-icon-16.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Variable goods
+                      Custom products
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Christopher Martin</div>
+                        <div class="review-category">Head of Communications</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"Our collaboration was enhanced by the team's evident dedication, proactive attitude, and fresh ideas."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

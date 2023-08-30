@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>Fiat</b> Work on this project was an important stage in the development of our client's business. When creating this website, our team not only thought about the visual part of the user experience - we also did not forget about functionality and convenience. The main feature of this project is the presence of a car customizer directly on the car catalog viewing page. Users can choose the preferable color, wheel type, or interior lining just with one click.
+                      The project undertakings constituted a pivotal milestone in the advancement of our client's business development. During the website creation process, our team placed equal emphasis on enhancing the visual aspects of user experience, while meticulously ensuring optimum functionality and convenience. A noteworthy highlight of this initiative is the seamless integration of a car customizer tool directly into the car catalogue viewing page, enabling users to effortlessly select their preferred colour, wheel type, and interior lining with a single click.
                     </div>
                   </div>
                 </div>
@@ -119,7 +119,7 @@
                       <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Projects filter
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Grace Thompson</div>
+                        <div class="review-category">Senior Project Manager</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The adeptness and ingenuity of the team that serviced our request genuinely surprised us."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

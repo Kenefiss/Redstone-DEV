@@ -86,7 +86,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>Redstone studio</b> is a subsidiary of our company. Our team has developed a bright, dynamic, creative website. Our experts paid attention not only to the appearance of the pages. They did not forget about animations and user experience of using such a dynamic website.
+                      <b>Redstone Studio</b> operates as a subsidiary under our corporate umbrella. Our dedicated team has meticulously designed a vibrant, dynamic, and innovative website. Beyond the aesthetics of the pages, our professionals have also focused on integrating animations and ensuring an optimal user experience on this dynamic platform.
                     </div>
                   </div>
                 </div>
@@ -146,7 +146,7 @@
                       <img src="img/features/ft-icon-10.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Cursor with hovers
+                      Hover pointer effect
                     </div>
                   </div>
                 </div>
@@ -156,7 +156,7 @@
                       <img src="img/features/ft-icon-11.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Portfolio of works
+                      Portfolio
                     </div>
                   </div>
                 </div>
@@ -176,7 +176,7 @@
                       <img src="img/features/ft-icon-18.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Animated appearance of images
+                      Animation
                     </div>
                   </div>
                 </div>

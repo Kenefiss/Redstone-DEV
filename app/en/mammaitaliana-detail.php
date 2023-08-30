@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      We worked on creating a mobile application for food delivery. The combination of bright design and multifunctionality in the application allowed our client to expand and update the format of his business.
+                      Our team successfully developed a cutting-edge mobile application tailored for seamless food delivery services. Through a strategic blend of eye-catching design and robust functionality, our solution empowered our clients to elevate and modernize their business operations, enabling them to expand their reach and continuously adapt to industry trends and demands. This transformative application has proven to be a pivotal asset in enhancing the overall customer experience and driving significant growth for our esteemed client.
                     </div>
                   </div>
                 </div>
@@ -129,7 +129,7 @@
                       <img src="img/features/ft-icon-66.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Delivery zone
+                      Delivery area
                     </div>
                   </div>
                 </div>
@@ -159,7 +159,7 @@
                       <img src="img/features/ft-icon-67.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Appendices to dishes
+                      Custom meal
                     </div>
                   </div>
                 </div>
@@ -430,8 +430,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Oliver Anderson</div>
+                        <div class="review-category">Senior Brand Strategist</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -442,7 +442,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The team's commitment, initiative, and creative outlook on our project were commendably high."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

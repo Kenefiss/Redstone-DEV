@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      We received a request from the <b>UNITI</b> company to develop an app for travelers. We fruitfully collaborated with clients during the stages of discussing the design and functionality of the mobile application. Our team provided the client with design options and agreed on further stages of development in record time. The result of our work with the client was a multifunctional app with a concise but stylish design.
+                      <b>UNITI</b> approached us with a vision to craft an application tailored for travellers. Throughout our collaboration, we engaged deeply in design and functionality discussions, ensuring alignment at every step. Promptly presenting the client with diverse design options, we reached a consensus on the subsequent developmental phases in an impressively swift timeframe. The culmination of our joint efforts is a versatile app that seamlessly blends utility with a refined aesthetic.
                     </div>
                   </div>
                 </div>
@@ -119,7 +119,7 @@
                       <img src="img/features/ft-icon-59.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      User offices
+                      User account
                     </div>
                   </div>
                 </div>
@@ -189,7 +189,7 @@
                       <img src="img/features/ft-icon-62.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      AudioGuide System
+                      Audioguide system
                     </div>
                   </div>
                 </div>
@@ -430,8 +430,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Liam Thompson</div>
+                        <div class="review-category">Chief Executive Officer</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -442,7 +442,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The team astounded us with their exemplary preparation, enthusiasm, and creative touch on our order."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

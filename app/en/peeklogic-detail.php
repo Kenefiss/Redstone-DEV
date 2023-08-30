@@ -86,7 +86,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      The company <b>Peeklogic</b> turned to our specialists with the need to develop a simple, concise design for its marketing website. This website combines stylish and bright colors, dynamic animations, and the necessary functionality to promote products to the market. The high-quality work of our experts allowed the client to bring his company to a new level of business.
+                      <b>Peeklogic</b> sought the expertise of our specialists to embark on the development of an elegant and succinct design for their marketing website. This sophisticated website seamlessly integrates vibrant color schemes, captivating animations, and essential functionality required to effectively promote products in the market. The remarkable efforts of our esteemed professionals have successfully propelled the client's company to new heights of business accomplishment.
                     </div>
                   </div>
                 </div>
@@ -115,7 +115,7 @@
             <div class="col-xl-11">
               <div class="title-with-text">
                 <div class="title h2 w-100 animate-item fadeInUp">
-                  Project features
+                  Projects filter
                 </div>
               </div>
 
@@ -196,7 +196,7 @@
                       <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Projects filter
                     </div>
                   </div>
                 </div>

@@ -291,6 +291,9 @@
     margin: 20px auto 15px;
   }
 }
+@media(max-width:767px) {
+  .ft-item-title br{display:none;}
+}
 
 
 /*--------------------*/

@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      The combination of minimalistic design with clear and at the same time complex functionality is the result of the work of our professionals on the <b>Call2bid</b> project. The project terms were record short, but this did not prevent our team from providing high-quality expertise and a valuable product to the client.
+                      Our team's work on the <b>Call2bid</b> project epitomizes the fusion of minimalist design and intricate yet user-friendly functionality. Despite the notably tight timeline for the project, our professionals didn't compromise on quality, delivering expert insights and a high-calibre product to the client.
                     </div>
                   </div>
                 </div>
@@ -159,7 +159,7 @@
                       <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Projects filter
                     </div>
                   </div>
                 </div>
@@ -189,7 +189,7 @@
                       <img src="img/features/ft-icon-45.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Price change depending on the region
+                      Localization
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Sophia Carter</div>
+                        <div class="review-category">VP of Product Development</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"We were immensely pleased with the team's exceptional drive, forethought, and inventive spirit during our collaboration."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

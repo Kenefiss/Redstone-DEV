@@ -86,7 +86,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>Base1</b> turned to our specialists with the need to develop a stylish, concise design and, in the future, the website, this page had to convey not only the owner's value , but also his priorities in working with clients. Our cooperation resulted in a minimalistic and accent website, which received awards and recognition at the world level for its unique appearance.
+                      <b>Base1</b> approached our team of experts with a request to craft an elegant, concise design, and subsequently, a website. This platform was intended to reflect the owner's values and highlight their client engagement priorities. The collaboration culminated in a sophisticated, distinct website with international accolades for its unparalleled aesthetics.
                     </div>
                   </div>
                 </div>
@@ -136,7 +136,7 @@
                       <img src="img/features/ft-icon-10.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Interactive communication
+                      Interaction with the user
                     </div>
                   </div>
                 </div>
@@ -156,7 +156,7 @@
                       <img src="img/features/ft-icon-11.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Portfolio of works
+                      Portfolio
                     </div>
                   </div>
                 </div>

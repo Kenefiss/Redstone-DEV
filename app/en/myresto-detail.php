@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      <b>The My Resto</b> company turned to our experts with the need to develop a website (landing page) to promote its mobile application. Having a previously developed design, our specialists gave it a new look on the landing. Our work gave the client the opportunity to further promote his product.
+                      The <b>My Resto</b> company sought the expertise of our team to create an impactful website (specifically, a landing page) to effectively promote their mobile application. Leveraging their existing design, our specialists successfully revitalized the landing page, providing the client with new and improved visuals. This enhancement empowers the client to effectively market and generate interest for their product.
                     </div>
                   </div>
                 </div>

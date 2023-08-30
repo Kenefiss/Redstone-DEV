@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      Our expertise and high-quality work of specialists in their field allowed the <b>Carpathian Mint</b> company to take its business to a new level. Stylish design, convenient functionality and quality consulting combined into an elegant and minimalistic marketing website.
+                      The collaboration with the <b>Carpathian Mint</b> company was a testament to our commitment to excellence. From the project's inception to its culmination, we maintained an unwavering focus on integrating the company's unique brand identity with innovative digital solutions. Our multidisciplinary team undertook extensive research to understand the nuances of their target audience, ensuring the final platform was not just visually appealing but also resonated with its intended users.
                     </div>
                   </div>
                 </div>
@@ -119,7 +119,7 @@
                       <img src="img/features/ft-icon-8.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Filtering projects
+                      Projects filter
                     </div>
                   </div>
                 </div>
@@ -139,7 +139,7 @@
                       <img src="img/features/ft-icon-37.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Variable goods
+                      Custom products
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">David Brown</div>
+                        <div class="review-category">Chief Technical Officer</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The prowess, forward-thinking, and creativity displayed by the team were beyond our expectations."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>

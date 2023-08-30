@@ -79,7 +79,7 @@
                 <div class="col-lg-9 col-xl-7">
                   <div class="prj-hero-info m-0">
                     <div class="prj-hero-text">
-                      Work on this project was a logical continuation of another project of this company, Finhub. <b>Finhub|Capital</b> fund is a combination of brevity, restraint, emphasis on details, and convenient functionality. The high-quality work of our experts allowed the client to bring his company to a new level of business.
+                      The current project is a natural continuation of the previous initiative with Finhub. <b>Finhub Capital</b> fund is an example of a harmonious combination of brevity, caution, meticulous attention to detail and convenient functionality. Our team of skilled professionals has achieved exceptional results, enabling the client to elevate their organization to unprecedented levels of business success.
                     </div>
                   </div>
                 </div>
@@ -159,7 +159,7 @@
                       <img src="img/features/ft-icon-45.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      Placement of projects
+                      Project location
                     </div>
                   </div>
                 </div>
@@ -179,7 +179,7 @@
                       <img src="img/features/ft-icon-50.svg" alt="" loading="lazy">
                     </div>
                     <div class="ft-item-title">
-                      User offices
+                      User account
                     </div>
                   </div>
                 </div>
@@ -441,8 +441,8 @@
                     <div class="review-block">
                       <div class="review-info">
                         <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">Tom Rogers</div>
-                        <div class="review-category">Head of Sales</div>
+                        <div class="review-title">Isabella Mitchell</div>
+                        <div class="review-category">Chief Financial Officer</div>
                       </div>
                       <div class="review-content">
                         <div class="rating">
@@ -453,7 +453,7 @@
                           <img src="img/start-icon.svg" loading="lazy" alt="">
                         </div>
                         <div class="text">
-                          <p>"We were surprised by the high level of preparation, initiative, and creativity of the team that worked on our order."</p>
+                          <p>"The team's meticulous preparation and innovative thinking for our order was a delightful surprise."</p>
                         </div>
                         <div class="review-price-block text">
                           <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>
