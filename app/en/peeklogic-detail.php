@@ -430,53 +430,8 @@
         <div class="spacer-xl"></div>
       </div>
 
-      <!-- Client testimonial -->
-      <div class="section nav-section">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-11">
-              <div class="row justify-content-center">
-                <div class="col-xl-6">
-                  <div class="title-with-text">
-                    <div class="title h2 w-100 animate-item fadeInUp">
-                      Client testimonial
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-10 col-lg-8 col-xl-6">
-                  <div class="reviews-slider type2">
-                    <div class="review-block">
-                      <a class="full-link" href="https://clutch.co/profile/redstone?page=1&amp;project_cost=&amp;review_type=&amp;service_provided=&amp;sort_by=date_DESC#review-1560968" rel="nofollow" target="_blank"></a>
-                      <div class="review-info">
-                        <div class="review-quote"><img src="img/reviews/review-cl-2.jpg" alt=""></div>
-                        <div class="review-title">Sergii Grushai</div>
-                        <div class="review-category">CEO &amp; Founder of Peeklogic Salesforce Development Company</div>
-                      </div>
-                      <div class="review-content">
-                        <div class="rating">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                        </div>
-                        <div class="text">
-                          <p>"It was a first-class service. We did not see anything that could be improved."</p>
-                        </div>
-                        <div class="review-price-block text">
-                          <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>
-                          <div class="verify-price"><img src="img/price-icon.svg" loading="lazy" alt="price icon">More than $ 30,000</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="spacer-xl"></div>
-      </div>
+      <!-- REVIEWS -->
+      <?php include 'inc/sections/_reviews-2.php'; ?>
 
       <!-- BRIEF -->
       <?php include 'inc/sections/_brief-2.php'; ?>

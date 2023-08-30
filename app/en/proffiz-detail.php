@@ -423,52 +423,8 @@
         <div class="spacer-xl"></div>
       </div>
 
-      <!-- Client testimonial -->
-      <div class="section nav-section">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-11">
-              <div class="row justify-content-center">
-                <div class="col-xl-6">
-                  <div class="title-with-text">
-                    <div class="title h2 w-100 animate-item fadeInUp">
-                      Client testimonial
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-10 col-lg-8 col-xl-6">
-                  <div class="reviews-slider type2">
-                    <div class="review-block">
-                      <div class="review-info">
-                        <div class="review-quote"><img src="img/reviews/review-cl-3.jpg" alt=""></div>
-                        <div class="review-title">James Turner</div>
-                        <div class="review-category">Chief Information Officer</div>
-                      </div>
-                      <div class="review-content">
-                        <div class="rating">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                        </div>
-                        <div class="text">
-                          <p>"We marvelled at the commendable level of resourcefulness, drive, and creativity from the team."</p>
-                        </div>
-                        <div class="review-price-block text">
-                          <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>
-                          <div class="verify-price"><img src="img/price-icon.svg" loading="lazy" alt="price icon">Less than $ 10,000</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="spacer-xl"></div>
-      </div>
+      <!-- REVIEWS -->
+      <?php include 'inc/sections/_reviews-2.php'; ?>
 
       <!-- BRIEF -->
       <?php include 'inc/sections/_brief-2.php'; ?>

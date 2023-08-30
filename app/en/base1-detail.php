@@ -430,53 +430,8 @@
         <div class="spacer-xl"></div>
       </div>
 
-      <!-- Client testimonial -->
-      <div class="section nav-section">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-11">
-              <div class="row justify-content-center">
-                <div class="col-xl-6">
-                  <div class="title-with-text">
-                    <div class="title h2 w-100 animate-item fadeInUp">
-                      Client testimonial
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-10 col-lg-8 col-xl-6">
-                  <div class="reviews-slider type2">
-                    <div class="review-block">
-                      <a class="full-link" href="https://clutch.co/profile/redstone?project_cost=&review_type=&service_provided=&sort_by=date_DESC#review-2035942" rel="nofollow" target="_blank"></a>
-                      <div class="review-info">
-                        <div class="review-quote"><img src="img/reviews/review-cl-1.jpg" alt="" loading="lazy"></div>
-                        <div class="review-title">Matthew Spuffard</div>
-                        <div class="review-category">CEO, BaseOne</div>
-                      </div>
-                      <div class="review-content">
-                        <div class="rating">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                          <img src="img/start-icon.svg" loading="lazy" alt="">
-                        </div>
-                        <div class="text">
-                          <p>"Their ability to adapt to demand and process change and provide solutions was outstanding!"</p>
-                        </div>
-                        <div class="review-price-block text">
-                          <div class="verify-review"><img src="img/verified-icon.svg" loading="lazy" alt="verified icon">Verified</div>
-                          <div class="verify-price"><img src="img/price-icon.svg" loading="lazy" alt="price icon">Less than $ 10,000</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="spacer-xl"></div>
-      </div>
+      <!-- REVIEWS -->
+      <?php include 'inc/sections/_reviews-2.php'; ?>
 
       <!-- BRIEF -->
       <?php include 'inc/sections/_brief-2.php'; ?>
