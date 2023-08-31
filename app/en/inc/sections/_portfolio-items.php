@@ -25,7 +25,7 @@
   </div>
   <div class="col-12 col-md-6 col-lg-4 _app">
     <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-btn">
+      <div class="case-img contain-btn contain-link">
         <div class="app-stores">
           <a href="https://apps.apple.com/ua/app/myresto-app/id1643866018?l=uk" target="_blank" rel="nofollow">
             <img src="img/app-store.png" loading="lazy" alt="">
@@ -34,13 +34,14 @@
             <img src="img/google-play.png" loading="lazy" alt="">
           </a>
         </div>
+        <a class="full-link" href="myrestoapp-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-9.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-9.png" type="image/png">
           <img src="img/portfolio/p-img-9.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5">MyResto App</div>
+      <div class="case-title title h5"><a href="myrestoapp-detail">MyResto App</a></div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Ionic</span>
@@ -58,14 +59,14 @@
           <img class="icon" src="img/clutch.svg" alt>
           <div class="text">This project has verified testimonial on Clutch.</div>
         </a>
-        <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="base1-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-3.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-3.png" type="image/png">
           <img src="img/portfolio/p-img-3.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base1</a></div>
+      <div class="case-title title h5"><a href="base1-detail">Base1</a></div>
       <div class="case-tags">
         <span>#Webpack</span>
         <span>#GSAP</span>
@@ -81,14 +82,14 @@
   <div class="col-12 col-md-6 col-lg-4 _e-сommerce">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://shop-ua.blum.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="blum-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-1.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-1.png" type="image/jpg">
           <img src="img/portfolio/p-img-1.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://shop-ua.blum.com/" target="_blank" rel="nofollow">Blum</a></div>
+      <div class="case-title title h5"><a href="blum-detail">Blum</a></div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>
@@ -126,14 +127,14 @@
   <div class="col-12 col-md-6 col-lg-4 _car-dealers">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://fiatlineafresca.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="fiat-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-4.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-4.png" type="image/png">
           <img src="img/portfolio/p-img-4.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://fiatlineafresca.com/" target="_blank" rel="nofollow">Fiat Linea Fresca</a></div>
+      <div class="case-title title h5"><a href="fiat-detail">Fiat Linea Fresca</a></div>
       <div class="case-tags">
         <span>#Wordpress</span>
         <span>#Javascript</span>
@@ -288,14 +289,14 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://myresto.uk/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="myresto-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-28.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-28.png" type="image/png">
           <img src="img/portfolio/p-img-28.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://myresto.uk/" target="_blank" rel="nofollow">MyResto</a></div>
+      <div class="case-title title h5"><a href="myresto-detail">MyResto</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -311,14 +312,14 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://galicia.com.ua/en/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="galicia-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-2.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-2.png" type="image/png">
           <img src="img/portfolio/p-img-2.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://galicia.com.ua/en/" target="_blank" rel="nofollow">Galicia</a></div>
+      <div class="case-title title h5"><a href="galicia-detail">Galicia</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -338,14 +339,14 @@
           <img class="icon" src="img/awwards.svg" alt>
           <div class="text">This is an awards nominee project.</div>
         </a>
-        <a class="full-link" href="https://www.bilo.ua/en/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="bilo-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-5.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-5.png" type="image/png">
           <img src="img/portfolio/p-img-5.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://www.bilo.ua/en/" target="_blank" rel="nofollow">Bilo</a></div>
+      <div class="case-title title h5"><a href="bilo-detail">Bilo</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -388,14 +389,14 @@
           <img class="icon" src="img/clutch.svg" alt>
           <div class="text">This project has verified testimonial on Clutch.</div>
         </a>
-        <a class="full-link" href="https://bobox.cz/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="bobox-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-6.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-6.png" type="image/png">
           <img src="img/portfolio/p-img-6.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://bobox.cz/" target="_blank" rel="nofollow">BoBoX</a></div>
+      <div class="case-title title h5"><a href="bobox-detail">BoBoX</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -411,14 +412,14 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://opticloud.io/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="optimeas-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-7.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-7.png" type="image/png">
           <img src="img/portfolio/p-img-7.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://opticloud.io/" target="_blank" rel="nofollow">Opti means</a></div>
+      <div class="case-title title h5"><a href="optimeas-detail">Opti meas</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -480,14 +481,14 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://carpathianmint.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="carpathianmint-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-10.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-10.png" type="image/png">
           <img src="img/portfolio/p-img-10.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://carpathianmint.com/" target="_blank" rel="nofollow">Carpathian Mint</a></div>
+      <div class="case-title title h5"><a href="carpathianmint-detail">Carpathian Mint</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -503,14 +504,14 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://proffiz.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="proffiz-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-11.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-11.png" type="image/png">
           <img src="img/portfolio/p-img-11.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://proffiz.com/" target="_blank" rel="nofollow">Profizz</a></div>
+      <div class="case-title title h5"><a href="proffiz-detail">Profizz</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -526,14 +527,14 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://mint21.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="mint21-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-12.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-12.png" type="image/png">
           <img src="img/portfolio/p-img-12.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://mint21.com/" target="_blank" rel="nofollow">Mint 21</a></div>
+      <div class="case-title title h5"><a href="mint21-detail">Mint 21</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -549,14 +550,14 @@
   <div class="col-12 col-md-6 col-lg-4 _e-сommerce">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://call2bid.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="call2bid-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-13.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-13.png" type="image/png">
           <img src="img/portfolio/p-img-13.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://call2bid.com/" target="_blank" rel="nofollow">Call2bid</a></div>
+      <div class="case-title title h5"><a href="call2bid-detail">Call2bid</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -576,14 +577,14 @@
           <img class="icon" src="img/awwards.svg" alt>
           <div class="text">This is an awards nominee project.</div>
         </a>
-        <a class="full-link" href="https://mvision.pro/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="mvision-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-14.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-14.png" type="image/png">
           <img src="img/portfolio/p-img-14.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://mvision.pro/" target="_blank" rel="nofollow">Mvision</a></div>
+      <div class="case-title title h5"><a href="mvision-detail">Mvision</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -603,14 +604,14 @@
           <img class="icon" src="img/clutch.svg" alt>
           <div class="text">This project has verified testimonial on Clutch.</div>
         </a>
-        <a class="full-link" href="https://www.peeklogic.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="peeklogic-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-15.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-15.png" type="image/png">
           <img src="img/portfolio/p-img-15.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://www.peeklogic.com/" target="_blank" rel="nofollow">Peeklogic</a></div>
+      <div class="case-title title h5"><a href="peeklogic-detail">Peeklogic</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -626,14 +627,14 @@
   <div class="col-12 col-md-6 col-lg-4 _web _mvp">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://finhubfund.co.uk/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="finhub-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-16.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-16.png" type="image/png">
           <img src="img/portfolio/p-img-16.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://finhubfund.co.uk/" target="_blank" rel="nofollow">Finhub</a></div>
+      <div class="case-title title h5"><a href="finhub-detail">Finhub</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -672,14 +673,14 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://www.finhubfund.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="finhubcapital-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-17.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-17.png" type="image/png">
           <img src="img/portfolio/p-img-17.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://www.finhubfund.com/" target="_blank" rel="nofollow">Finhub | Capital Fund</a></div>
+      <div class="case-title title h5"><a href="finhubcapital-detail">Finhub | Capital Fund</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -695,14 +696,14 @@
   <div class="col-12 col-md-6 col-lg-4 _e-сommerce">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://fruechtesnack.eu/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="fruitsnack-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-18.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-18.png" type="image/png">
           <img src="img/portfolio/p-img-18.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://fruechtesnack.eu/" target="_blank" rel="nofollow">Fruchte Snack</a></div>
+      <div class="case-title title h5"><a href="fruitsnack-detail">Fruchte Snack</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -722,14 +723,14 @@
           <img class="icon" src="img/awwards.svg" alt>
           <div class="text">This is an awards nominee project.</div>
         </a>
-        <a class="full-link" href="https://redstone.studio/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="redstonestudio-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-19.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-19.png" type="image/png">
           <img src="img/portfolio/p-img-19.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://redstone.studio/" target="_blank" rel="nofollow">Redstone.studio</a></div>
+      <div class="case-title title h5"><a href="redstonestudio-detail">Redstone.studio</a></div>
       <div class="case-tags">
         <span>#WordPress</span>
         <span>#Javascript</span>
@@ -745,14 +746,14 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://studioglass.ua/en/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="studioglass-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-20.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-20.png" type="image/png">
           <img src="img/portfolio/p-img-20.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5"><a href="https://studioglass.ua/en/" target="_blank" rel="nofollow">Studio Glass</a></div>
+      <div class="case-title title h5"><a href="studioglass-detail">Studio Glass</a></div>
       <div class="case-tags">
         <span>#Javascript</span>
         <span>#HTML5</span>
@@ -785,19 +786,20 @@
   </div>
   <div class="col-12 col-md-6 col-lg-4 _app">
     <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-btn">
+      <div class="case-img contain-btn contain-link">
         <div class="app-stores">
           <a href="https://apps.apple.com/us/app/uniti/id1407364757?l=uk&ls=1" target="_blank" rel="nofollow">
             <img src="img/app-store.png" loading="lazy" alt="">
           </a>
         </div>
+        <a class="full-link" href="uniti-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-22.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-22.png" type="image/png">
           <img src="img/portfolio/p-img-22.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5">UNITI App</div>
+      <div class="case-title title h5"><a href="uniti-detail">UNITI App</a></div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>
@@ -809,7 +811,7 @@
   </div>
   <div class="col-12 col-md-6 col-lg-4 _app">
     <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-btn">
+      <div class="case-img contain-btn contain-link">
         <div class="app-stores">
           <a href="https://apps.apple.com/app/id1550737219" target="_blank" rel="nofollow">
             <img src="img/app-store.png" loading="lazy" alt="">
@@ -818,13 +820,14 @@
             <img src="img/google-play.png" loading="lazy" alt="">
           </a>
         </div>
+        <a class="full-link" href="robert-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-25.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-25.png" type="image/png">
           <img src="img/portfolio/p-img-25.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5">Robert App</div>
+      <div class="case-title title h5"><a href="robert-detail">Robert App</a></div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>
@@ -836,7 +839,7 @@
   </div>
   <div class="col-12 col-md-6 col-lg-4 _app">
     <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-btn">
+      <div class="case-img contain-btn contain-link">
         <div class="app-stores">
           <a href="https://apps.apple.com/us/app/smaki-maki/id1543396014" target="_blank" rel="nofollow">
             <img src="img/app-store.png" loading="lazy" alt="">
@@ -845,13 +848,14 @@
             <img src="img/google-play.png" loading="lazy" alt="">
           </a>
         </div>
+        <a class="full-link" href="smakimaki-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-26.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-26.png" type="image/png">
           <img src="img/portfolio/p-img-26.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5">Smaki-Maki App</div>
+      <div class="case-title title h5"><a href="smakimaki-detail">Smaki-Maki App</a></div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>
@@ -863,7 +867,7 @@
   </div>
   <div class="col-12 col-md-6 col-lg-4 _app">
     <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-btn">
+      <div class="case-img contain-btn contain-link">
         <div class="app-stores">
           <a href="https://apps.apple.com/us/app/ma-pizza/id1596914596" target="_blank" rel="nofollow">
             <img src="img/app-store.png" loading="lazy" alt="">
@@ -872,13 +876,14 @@
             <img src="img/google-play.png" loading="lazy" alt="">
           </a>
         </div>
+        <a class="full-link" href="mammaitaliana-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-27.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-27.png" type="image/png">
           <img src="img/portfolio/p-img-27.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5">MA App</div>
+      <div class="case-title title h5"><a href="mammaitaliana-detail">MA App</a></div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>

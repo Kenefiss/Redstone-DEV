@@ -33,7 +33,7 @@
             </div>
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
-                <div class="case-img contain-btn">
+                <div class="case-img contain-btn contain-link">
                   <div class="app-stores">
                     <a href="https://apps.apple.com/ua/app/myresto-app/id1643866018?l=uk" target="_blank" rel="nofollow">
                       <img src="img/app-store.png" loading="lazy" alt="">
@@ -42,13 +42,14 @@
                       <img src="img/google-play.png" loading="lazy" alt="">
                     </a>
                   </div>
+                  <a class="full-link" href="myrestoapp-detail"></a>
                   <picture>
                     <source srcset="img/portfolio/p-img-9.webp" type="image/webp">
                     <source srcset="img/portfolio/p-img-9.png" type="image/png">
                     <img src="img/portfolio/p-img-9.png" alt="" loading="lazy">
                   </picture>
                 </div>
-                <div class="case-title title h5">MyResto App</div>
+                <div class="case-title title h5"><a href="myrestoapp-detail">MyResto App</a></div>
                 <div class="case-tags">
                   <span>#Angular</span>
                   <span>#Ionic</span>
@@ -66,14 +67,14 @@
                     <img class="icon" src="img/clutch.svg" alt>
                     <div class="text">This project has verified testimonial on Clutch.</div>
                   </a>
-                  <a class="full-link" href="https://baseone.uk/" target="_blank" rel="nofollow"></a>
+                  <a class="full-link" href="base1-detail"></a>
                   <picture>
                     <source srcset="img/portfolio/p-img-3.webp" type="image/webp">
                     <source srcset="img/portfolio/p-img-3.png" type="image/png">
                     <img src="img/portfolio/p-img-3.png" alt="" loading="lazy">
                   </picture>
                 </div>
-                <div class="case-title title h5"><a href="https://baseone.uk/" target="_blank" rel="nofollow">Base1</a></div>
+                <div class="case-title title h5"><a href="base1-detail">Base1</a></div>
                 <div class="case-tags">
                   <span>#Webpack</span>
                   <span>#GSAP</span>
@@ -87,14 +88,14 @@
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
-                  <a class="full-link" href="https://shop-ua.blum.com/" target="_blank" rel="nofollow"></a>
+                <a class="full-link" href="blum-detail"></a>
                   <picture>
                     <source srcset="img/portfolio/p-img-1.webp" type="image/webp">
                     <source srcset="img/portfolio/p-img-1.png" type="image/png">
                     <img src="img/portfolio/p-img-1.png" alt="" loading="lazy">
                   </picture>
                 </div>
-                <div class="case-title title h5"><a href="https://shop-ua.blum.com/" target="_blank" rel="nofollow">Blum</a></div>
+                <div class="case-title title h5"><a href="blum-detail">Blum</a></div>
                 <div class="case-tags">
                   <span>#Angular</span>
                   <span>#Node js</span>
@@ -128,14 +129,14 @@
             <div class="swiper-slide">
               <div class="case-item animate-item fadeInUp delay-1">
                 <div class="case-img contain-link">
-                  <a class="full-link" href="https://fiatlineafresca.com/" target="_blank" rel="nofollow"></a>
+                  <a class="full-link" href="fiat-detail"></a>
                   <picture>
                     <source srcset="img/portfolio/p-img-4.webp" type="image/webp">
                     <source srcset="img/portfolio/p-img-4.png" type="image/png">
                     <img src="img/portfolio/p-img-4.png" alt="" loading="lazy">
                   </picture>
                 </div>
-                <div class="case-title title h5"><a href="https://fiatlineafresca.com/" target="_blank" rel="nofollow">Fiat Linea Fresca</a></div>
+                <div class="case-title title h5"><a href="fiat-detail">Fiat Linea Fresca</a></div>
                 <div class="case-tags">
                   <span>#Wordpress</span>
                   <span>#Javascript</span>
