@@ -118,6 +118,29 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
+        <a class="full-link" href="https://cpgu.com.ua/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-54.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-54.png" type="image/png">
+          <img src="img/portfolio/p-img-54.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://cpgu.com.ua/" target="_blank" rel="nofollow">CPG Group</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        Współpracowaliśmy na stronie internetowej inicjatywy rolniczej o zerowym odpadach w Wielkiej Brytanii.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
         <a class="full-link" href="https://topusaawards.com/" target="_blank" rel="nofollow"></a>
         <picture>
           <source srcset="img/portfolio/p-img-34.webp" type="image/webp">
@@ -159,6 +182,29 @@
       </div>
       <div class="case-desc text">
         Stworzyliśmy zamknięty system CRM dla producenta samochodów luksusowych.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://chagaroot.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-55.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-55.png" type="image/png">
+          <img src="img/portfolio/p-img-55.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://chagaroot.com/" target="_blank" rel="nofollow">ChagaRoot</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        Opracowaliśmy platformę internetową dla usługi dostarczania sprzątania żywności w USA.
       </div>
     </div>
   </div>

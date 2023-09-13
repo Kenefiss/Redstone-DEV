@@ -281,6 +281,17 @@
                         </div>
                       </div>
                     </div>
+                    <div class="swiper-slide">
+                      <div class="device-phone type3">
+                        <div class="device-screen">
+                          <picture>
+                            <source srcset="img/prj-detail/23/screen-img-7.webp" type="image/webp">
+                            <source srcset="img/prj-detail/23/screen-img-7.jpg" type="image/jpg">
+                            <img src="img/prj-detail/23/screen-img-7.jpg" alt="">
+                          </picture>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                   <div class="swiper-pagination swiper-pagination-relative"></div>
                 </div>

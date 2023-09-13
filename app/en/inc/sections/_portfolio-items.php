@@ -124,6 +124,29 @@
       </div>
     </div>
   </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://cpgu.com.ua/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-45.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-45.png" type="image/png">
+          <img src="img/portfolio/p-img-45.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://cpgu.com.ua/" target="_blank" rel="nofollow">CPG Group</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We collaborated on a website for a zero-waste agricultural initiative in the United Kingdom.
+      </div>
+    </div>
+  </div>
   <div class="col-12 col-md-6 col-lg-4 _car-dealers">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
@@ -164,6 +187,29 @@
       </div>
       <div class="case-desc text">
         We developed a marketing website for a top-rated power solutions company.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://chagaroot.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-46.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-46.png" type="image/png">
+          <img src="img/portfolio/p-img-46.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://chagaroot.com/" target="_blank" rel="nofollow">ChagaRoot</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We developed the web platform for a food cleanse delivery service in the US.
       </div>
     </div>
   </div>
@@ -429,29 +475,6 @@
       </div>
       <div class="case-desc text">
         Our team developed a marketing website for high-rated Internet of Things platform.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _website">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="full-link" href="https://www.rmg.business/en/" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-8.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-8.png" type="image/png">
-          <img src="img/portfolio/p-img-8.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://www.rmg.business/en/" target="_blank" rel="nofollow">RMG</a></div>
-      <div class="case-tags">
-        <span>#WordPress</span>
-        <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
-      </div>
-      <div class="case-desc text">
-        We created a landing page for the investment management company
       </div>
     </div>
   </div>
