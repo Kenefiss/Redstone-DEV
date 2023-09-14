@@ -245,30 +245,6 @@
           <div class="text">This project has a Non-Disclosure Agreement.</div>
         </div>
         <picture>
-          <source srcset="img/portfolio/p-img-40.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-40.png" type="image/png">
-          <img src="img/portfolio/p-img-40.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5">Volvo</div>
-      <div class="case-tags">
-        <span>#Angular</span>
-        <span>#Node JS</span>
-        <span>#aws</span>
-      </div>
-      <div class="case-desc text">
-        Our team designed an exclusive CRM system tailored to the needs of a well-known car producer.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img">
-        <div class="top-info nda">
-          <img class="icon" src="img/nda.svg" alt>
-          <div class="text">This project has a Non-Disclosure Agreement.</div>
-        </div>
-        <picture>
           <source srcset="img/portfolio/p-img-41.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-41.png" type="image/png">
           <img src="img/portfolio/p-img-41.png" alt="" loading="lazy">
@@ -282,6 +258,30 @@
       </div>
       <div class="case-desc text">
         The development of a closed CRM system was undertaken to cater to the needs of a renowned car producer.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">This project has a Non-Disclosure Agreement.</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-40.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-40.png" type="image/png">
+          <img src="img/portfolio/p-img-40.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Volvo</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        Our team designed an exclusive CRM system tailored to the needs of a well-known car producer.
       </div>
     </div>
   </div>
