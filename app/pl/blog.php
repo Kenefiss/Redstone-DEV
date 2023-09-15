@@ -46,6 +46,66 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="discovering-the-magic-of-ajax-in-website-development">
+                  <picture>
+                    <source srcset="img/discovering-the-magic-of-ajax-in-website-development.webp" type="image/webp">
+                    <source srcset="img/discovering-the-magic-of-ajax-in-website-development.jpg" type="image/jpeg">
+                    <img src="img/discovering-the-magic-of-ajax-in-website-development.jpg" alt="discovering-the-magic-of-ajax-in-website-development">
+                  </picture>
+                  <span class="date">14.09.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="discovering-the-magic-of-ajax-in-website-development">Odkrywanie Magii AJAX w Rozwoju Stron Internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-role-of-chat-widgets-in-website-development">
+                  <picture>
+                    <source srcset="img/the-role-of-chat-widgets-in-website-development.webp" type="image/webp">
+                    <source srcset="img/the-role-of-chat-widgets-in-website-development.jpg" type="image/jpeg">
+                    <img src="img/the-role-of-chat-widgets-in-website-development.jpg" alt="the-role-of-chat-widgets-in-website-development">
+                  </picture>
+                  <span class="date">07.09.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-role-of-chat-widgets-in-website-development">Rola Widżetów Czatu w Rozwoju Stron Internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="creating-a-user-friendly-sitemap">
+                  <picture>
+                    <source srcset="img/creating-a-user-friendly-sitemap.webp" type="image/webp">
+                    <source srcset="img/creating-a-user-friendly-sitemap.jpg" type="image/jpeg">
+                    <img src="img/creating-a-user-friendly-sitemap.jpg" alt="creating-a-user-friendly-sitemap">
+                  </picture>
+                  <span class="date">05.09.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="creating-a-user-friendly-sitemap">Tworzenie Użytkownika Przyjaznej Mapy Strony</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="website-development-in-the-era-of-the-internet-of-things">
+                  <picture>
+                    <source srcset="img/website-development-in-the-era-of-the-internet-of-things.webp" type="image/webp">
+                    <source srcset="img/website-development-in-the-era-of-the-internet-of-things.jpg" type="image/jpeg">
+                    <img src="img/website-development-in-the-era-of-the-internet-of-things.jpg" alt="website-development-in-the-era-of-the-internet-of-things">
+                  </picture>
+                  <span class="date">01.09.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="website-development-in-the-era-of-the-internet-of-things">Rozwój stron internetowych w erze Internetu Rzeczy (IoT)</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="the-data-retrieval-revolution">
                   <picture>
                     <source srcset="img/the-data-retrieval-revolution.webp" type="image/webp">

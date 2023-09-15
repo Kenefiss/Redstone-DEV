@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="how-to-create-effective-web-sliders">
+                  <picture>
+                    <source srcset="img/how-to-create-effective-web-sliders.webp" type="image/webp">
+                    <source srcset="img/how-to-create-effective-web-sliders.jpg" type="image/jpeg">
+                    <img src="img/how-to-create-effective-web-sliders.jpg" alt="how-to-create-effective-web-sliders">
+                  </picture>
+                  <span class="date">14.09.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-create-effective-web-sliders">How to Create Effective Web Sliders</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="a-guide-to-neumorphism-in-web-design">
+                  <picture>
+                    <source srcset="img/a-guide-to-neumorphism-in-web-design.webp" type="image/webp">
+                    <source srcset="img/a-guide-to-neumorphism-in-web-design.jpg" type="image/jpeg">
+                    <img src="img/a-guide-to-neumorphism-in-web-design.jpg" alt="a-guide-to-neumorphism-in-web-design">
+                  </picture>
+                  <span class="date">07.09.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="a-guide-to-neumorphism-in-web-design">A Guide to Neumorphism in Web Design</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="crafting-a-seamless-e-commerce-web-experience">
+                  <picture>
+                    <source srcset="img/crafting-a-seamless-e-commerce-web-experience.webp" type="image/webp">
+                    <source srcset="img/crafting-a-seamless-e-commerce-web-experience.jpg" type="image/jpeg">
+                    <img src="img/crafting-a-seamless-e-commerce-web-experience.jpg" alt="crafting-a-seamless-e-commerce-web-experience">
+                  </picture>
+                  <span class="date">05.09.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="crafting-a-seamless-e-commerce-web-experience">Crafting a Seamless E-commerce Web Experience</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="using-ai-to-enhance-web-design">
+                  <picture>
+                    <source srcset="img/using-ai-to-enhance-web-design.webp" type="image/webp">
+                    <source srcset="img/using-ai-to-enhance-web-design.jpg" type="image/jpeg">
+                    <img src="img/using-ai-to-enhance-web-design.jpg" alt="using-ai-to-enhance-web-design">
+                  </picture>
+                  <span class="date">01.09.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="using-ai-to-enhance-web-design">Using AI to Enhance Web Design</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="the-world-of-web-animations-enhancing-user-engagement">
                   <picture>
                     <source srcset="img/the-world-of-web-animations-enhancing-user-engagement.webp" type="image/webp">
