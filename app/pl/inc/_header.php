@@ -69,15 +69,15 @@
                     <div class="submenu">
                       <button class="submenu-close" type="button"><i></i></button>
                       <ul style="--items: 5;">
-                        <li><a href="service-website-development">Website development</a></li>
-                        <li><a href="service-app-development">APP development</a></li>
-                        <li><a href="service-site-support">Site support</a></li>
-                        <li><a href="service-landing-page">Landing page</a></li>
-                        <li><a href="service-online-store">Online Store</a></li>
-                        <li><a href="service-redesign">Redesign</a></li>
-                        <li><a href="service-seo">SEO</a></li>
+                        <li><a href="service-website-development">Rozwój strony internetowej</a></li>
+                        <li><a href="service-app-development">Aplikacja programowa</a></li>
+                        <li><a href="service-site-support">Wsparcie strony internetowej</a></li>
+                        <li><a href="service-landing-page">Strona docelowa</a></li>
+                        <li><a href="service-online-store">E-commerce</a></li>
+                        <li><a href="service-redesign">Przeprojektowanie</a></li>
+                        <li><a href="service-seo">Optymalizacja wyszukiwarki</a></li>
                         <li><a href="service-branding">Branding and design</a></li>
-                        <li><a href="service-crm-system">CRM system</a></li>
+                        <li><a href="service-crm-system">System CRM</a></li>
                       </ul>
                     </div>
                   </li>
