@@ -19,7 +19,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        We developed a closed CRM system for exclusive cars dealer.
+        Wij hebben een gesloten CRM systeem ontwikkeld voor auto-dealers.
       </div>
     </div>
   </div>
@@ -47,7 +47,7 @@
         <span>#WordPress</span>
       </div>
       <div class="case-desc text">
-        We worked on a mobile app for the food delivery service in United Kingdom.
+        We hebben een mobile-app ontwikkeld voor een food-delivery dienstenbedrijf in het VK.
       </div>
     </div>
   </div>
@@ -74,7 +74,7 @@
         <span>#Wordpress</span>
       </div>
       <div class="case-desc text">
-        We worked on solutions for famous data-driven creative agile teams in United Kingdom
+        We hebben gewerkt aan oplossingen voor beroemde data-driven creative agile teams in het VK.
       </div>
     </div>
   </div>
@@ -95,7 +95,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        We created a marketing website with online store functionality for the second most famous fasteners manufacturer in the world.
+        Voor de op een na bekendste fabrikant van bevestigingsmiddelen ter wereld hebben we een marketingwebsite met online winkelfunctionaliteit gemaakt.
       </div>
     </div>
   </div>
@@ -119,7 +119,30 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        We created a closed CRM system for luxury cars manufacturer.
+        We hebben een gesloten CRM-systeem ontwikkeld voor de fabrikant van luxe auto's.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://cpgu.com.ua/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-45.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-45.png" type="image/png">
+          <img src="img/portfolio/p-img-45.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://cpgu.com.ua/" target="_blank" rel="nofollow">CPG Group</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We hebben samengewerkt aan een website voor een zero-waste landbouwinitiatief in het VK.
       </div>
     </div>
   </div>
@@ -139,7 +162,7 @@
         <span>#Javascript</span>
       </div>
       <div class="case-desc text">
-        Website for Fiat car models configuration. Users can choose different options for car configuration from exclusive color to wide range of wheels types.
+        Website voor configuratie van Fiat-automodellen. Gebruikers kunnen verschillende opties voor de autoconfiguratie kiezen, van exclusieve kleuren tot een breed scala aan wieltypen.
       </div>
     </div>
   </div>
@@ -162,7 +185,30 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We developed a marketing website for a top-rated power solutions company.
+        We hebben een marketingwebsite ontwikkeld voor een best beoordeeld bedrijf in energieoplossingen.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _website">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://chagaroot.com/" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-46.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-46.png" type="image/png">
+          <img src="img/portfolio/p-img-46.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://chagaroot.com/" target="_blank" rel="nofollow">ChagaRoot</a></div>
+      <div class="case-tags">
+        <span>#WordPress</span>
+        <span>#Javascript</span>
+        <span>#HTML5</span>
+        <span>#PHP</span>
+        <span>#CSS3</span>
+      </div>
+      <div class="case-desc text">
+        We hebben het webplatform ontwikkeld voor een bezorgservice voor voedselreiniging in de VS.
       </div>
     </div>
   </div>
@@ -186,31 +232,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        We created a closed CRM system for famous cars producer.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img">
-        <div class="top-info nda">
-          <img class="icon" src="img/nda.svg" alt>
-          <div class="text">This project has a Non-Disclosure Agreement.</div>
-        </div>
-        <picture>
-          <source srcset="img/portfolio/p-img-40.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-40.png" type="image/png">
-          <img src="img/portfolio/p-img-40.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5">Volvo</div>
-      <div class="case-tags">
-        <span>#Angular</span>
-        <span>#Node JS</span>
-        <span>#aws</span>
-      </div>
-      <div class="case-desc text">
-        Our team designed an exclusive CRM system tailored to the needs of a well-known car producer.
+        We hebben een gesloten CRM-systeem gemaakt voor een bekende autoproducent.
       </div>
     </div>
   </div>
@@ -234,7 +256,31 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        The development of a closed CRM system was undertaken to cater to the needs of a renowned car producer.
+        Om tegemoet te komen aan de behoeften van een gerenommeerde autoproducent werd een gesloten CRM-systeem ontwikkeld.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _web _mvp _car-dealers">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img">
+        <div class="top-info nda">
+          <img class="icon" src="img/nda.svg" alt>
+          <div class="text">This project has a Non-Disclosure Agreement.</div>
+        </div>
+        <picture>
+          <source srcset="img/portfolio/p-img-40.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-40.png" type="image/png">
+          <img src="img/portfolio/p-img-40.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5">Volvo</div>
+      <div class="case-tags">
+        <span>#Angular</span>
+        <span>#Node JS</span>
+        <span>#aws</span>
+      </div>
+      <div class="case-desc text">
+        Ons team ontwierp een exclusief CRM-systeem afgestemd op de behoeften van een bekende autoproducent.
       </div>
     </div>
   </div>
@@ -258,7 +304,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        A specialized CRM system was crafted exclusively for a distinguished car manufacturer.
+        Exclusief voor een vooraanstaande autofabrikant werd een gespecialiseerd CRM-systeem ontwikkeld.
       </div>
     </div>
   </div>
@@ -281,7 +327,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a landing page for a famous awarding agency in US.
+        We hebben een landingspagina gemaakt voor een beroemd prijsbureau in de VS.
       </div>
     </div>
   </div>
@@ -304,7 +350,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a landing page for famous online food-ordering platform in United Kingdom.
+        We hebben een landingspagina gemaakt voor het beroemde online platform voor eten bestellen in het Verenigd Koninkrijk.
       </div>
     </div>
   </div>
@@ -327,7 +373,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We developed a marketing website for the most famous producer of natural juices.
+        Voor de bekendste producent van natuurlijke sappen ontwikkelden wij een marketingwebsite.
       </div>
     </div>
   </div>
@@ -354,7 +400,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        This is creative and interactive marketing website for dairy products manufacturer.
+        Dit is een creatieve en interactieve marketingwebsite voor de fabrikant van zuivelproducten.
       </div>
     </div>
   </div>
@@ -377,7 +423,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Our team developed a newsletter platform.
+        Ons team ontwikkelde een nieuwsbriefplatform.
       </div>
     </div>
   </div>
@@ -404,7 +450,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a website for the leading construction company in Czech republic.
+        We hebben een website gemaakt voor een toonaangevend bouwbedrijf in Tsjechië.
       </div>
     </div>
   </div>
@@ -427,30 +473,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Our team developed a marketing website for high-rated Internet of Things platform.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _website">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="full-link" href="https://www.rmg.business/en/" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-8.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-8.png" type="image/png">
-          <img src="img/portfolio/p-img-8.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://www.rmg.business/en/" target="_blank" rel="nofollow">RMG</a></div>
-      <div class="case-tags">
-        <span>#WordPress</span>
-        <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
-      </div>
-      <div class="case-desc text">
-        We created a landing page for the investment management company
+        Ons team heeft een marketingwebsite ontwikkeld voor het hoog gewaardeerde Internet of Things-platform.
       </div>
     </div>
   </div>
@@ -473,7 +496,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We developed a marketing website for a top-rated design development company
+        We hebben een marketingwebsite ontwikkeld voor een gerenommeerd ontwerpontwikkelingsbedrijf.
       </div>
     </div>
   </div>
@@ -496,7 +519,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a marketing website for a Polish company that makes collectible coins.
+        We hebben een marketingwebsite gemaakt voor een Pools bedrijf dat verzamelmunten maakt.
       </div>
     </div>
   </div>
@@ -519,7 +542,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We developed a marketing website for top-rated software development company
+        We hebben een marketingwebsite ontwikkeld voor een van het best beoordeelde softwareontwikkelingsbedrijf.
       </div>
     </div>
   </div>
@@ -542,7 +565,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a marketing website for a company that makes collectible coins in Poland.
+        We hebben een marketingwebsite gemaakt voor een bedrijf dat verzamelmunten maakt in Polen.
       </div>
     </div>
   </div>
@@ -565,7 +588,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Our team created a marketing website with online store functionality for thr company that provides services for potential buyers of cars from auctions.
+        Ons team creëerde een marketingwebsite met online winkelfunctionaliteit voor dit bedrijf dat diensten levert aan potentiële kopers van auto's uit veilingen.
       </div>
     </div>
   </div>
@@ -592,7 +615,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Our team created a marketing website with online store functionality for the higly-recomended company that provides dental services
+        Ons team heeft een marketingwebsite met online winkelfunctionaliteit gemaakt voor het sterk aanbevolen bedrijf dat tandheelkundige diensten levert.
       </div>
     </div>
   </div>
@@ -619,7 +642,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We developed a marketing website for the leading salesforce development company in USA.
+        We hebben een marketingwebsite ontwikkeld voor het toonaangevende salesforce-ontwikkelingsbedrijf in de VS.
       </div>
     </div>
   </div>
@@ -642,7 +665,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Finhub is a worldwide online platform that was created to communicate with potential investors with promising projects in one trading arena.
+        Finhub is een wereldwijd online platform dat is opgericht om te communiceren met potentiële investeerders met veelbelovende projecten in één handelsarena.
       </div>
     </div>
   </div>
@@ -665,7 +688,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a marketing website for an interior design agency in UAE.
+        We hebben een marketingwebsite gemaakt voor een interieurontwerpbureau in de VAE.
       </div>
     </div>
   </div>
@@ -688,7 +711,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        We created a marketing website for worldwide Finhub`s Capital Fund.
+        We hebben een marketingwebsite gemaakt voor het wereldwijde Finhub`s Capital Fund.
       </div>
     </div>
   </div>
@@ -711,7 +734,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Our team developed a marketing website with online store functionality for famous German healthy snacks manufacturer.
+        Ons team ontwikkelde een marketingwebsite met online winkelfunctionaliteit voor een bekende Duitse fabrikant van gezonde snacks.
       </div>
     </div>
   </div>
@@ -738,7 +761,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        Our team developed a creative and dynamic marketing website.
+        Ons team ontwikkelde een creatieve en dynamische marketingwebsite.
       </div>
     </div>
   </div>
@@ -760,7 +783,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        We created a creative and minimalistic marketing website for the custom and exclusive mirrors factory.
+        Voor een op maat gemaakte en exclusieve spiegelfabriek creëerden we een creatieve en minimalistische marketingwebsite.
       </div>
     </div>
   </div>
@@ -779,7 +802,7 @@
         <span>#branding</span>
       </div>
       <div class="case-desc text">
-        We designed branding for real estate agency in Croatia.
+        Wij ontwierpen branding voor een makelaarskantoor in Kroatië.
       </div>
     </div>
   </div>
@@ -797,13 +820,13 @@
           <img src="img/portfolio/p-img-22.png" alt="" loading="lazy">
         </picture>
       </div>
-      <div class="case-title title h5">UNITY App</div>
+      <div class="case-title title h5">UNITI App</div>
       <div class="case-tags">
         <span>#Angular</span>
         <span>#Node JS</span>
       </div>
       <div class="case-desc text">
-        We were working on app where Tour Guide & all Tourists in the Group use the same Application for communication.
+        We werkten op dit moment aan een app waarbij de gids en alle toeristen in de groep dezelfde applicatie gebruiken voor communicatie.
       </div>
     </div>
   </div>
@@ -830,7 +853,7 @@
         <span>#Node JS</span>
       </div>
       <div class="case-desc text">
-        Robert is a virtual assistant to facilitate interaction between visitors and staff of a restaurant, cafe, bar. Use one app for all establishments served with Robert.
+        Robert is een virtuele assistent die de interactie tussen bezoekers en personeel van een restaurant, café, bar faciliteert. Gebruik één app voor alle vestigingen die met Robert worden bediend.
       </div>
     </div>
   </div>
@@ -857,7 +880,7 @@
         <span>#Node JS</span>
       </div>
       <div class="case-desc text">
-        With the Smaki-Maki application, you can order the tastiest pizza and sushi in your city!
+        Met de Smaki-Maki applicatie bestel je de lekkerste pizza en sushi van jouw stad!
       </div>
     </div>
   </div>
@@ -884,7 +907,7 @@
         <span>#Node JS</span>
       </div>
       <div class="case-desc text">
-        Using this application, users can: view the menu; learn about promotions; independently create and pay for an order (cash, card, Apple Pay, Google Pay, Privat Pay); set the time of home delivery of the order; place an order for pickup.
+        Met deze applicatie kunnen gebruikers: het menu bekijken; meer te weten komen over promoties; zelfstandig een bestelling aanmaken en betalen (contant, kaart, Apple Pay, Google Pay, Privat Pay); het tijdstip van thuisbezorging van de bestelling instellen; plaats een bestelling voor afhalen.
       </div>
     </div>
   </div>
@@ -903,7 +926,7 @@
         <span>#Node JS</span>
       </div>
       <div class="case-desc text">
-        We developed a telecom portal for high-rated IT services company that working exclusively with enterprise customers.
+        We hebben een telecomportaal ontwikkeld voor een hoog aangeschreven IT-dienstverlener die uitsluitend met zakelijke klanten werkt.
       </div>
     </div>
   </div>
@@ -923,7 +946,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        Music license portal for leading music agency in North America
+        Muzieklicentieportaal voor toonaangevend muziekbureau in Noord-Amerika.
       </div>
     </div>
   </div>
@@ -947,7 +970,7 @@
         <span>#D3.js</span>
       </div>
       <div class="case-desc text">
-        Solution for real-time equipment monitoring for famous service provider.
+        Oplossing voor realtime apparatuurmonitoring voor bekende dienstverleners.
       </div>
     </div>
   </div>
@@ -971,7 +994,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        We have created a portal for top dental service in North America.
+        We hebben een portaal gecreëerd voor de beste tandheelkundige service in Noord-Amerika.
       </div>
     </div>
   </div>
@@ -991,7 +1014,7 @@
         <span>#aws</span>
       </div>
       <div class="case-desc text">
-        Portal for the music copyrights in most famous North America music company.
+        Portaal voor de muziekauteursrechten van het beroemdste muziekbedrijf in Noord-Amerika.
       </div>
     </div>
   </div>
@@ -1012,7 +1035,7 @@
         <span>#CSS3</span>
       </div>
       <div class="case-desc text">
-        A social network for horse owners.
+        Sociaal netwerk voor paardeneigenaren.
       </div>
     </div>
   </div>
@@ -1035,7 +1058,7 @@
         <span>#Angular</span>
       </div>
       <div class="case-desc text">
-        This mobile app gives installers quick and accurate advice on sizing Upipe tubing on the job.
+        Deze mobiele app geeft installateurs snel en nauwkeurig advies over de maatvoering van Upipe-buizen tijdens de klus.
       </div>
     </div>
   </div>
@@ -1054,7 +1077,7 @@
         <span>#branding</span>
       </div>
       <div class="case-desc text">
-        We designed branding for the worldwide financial online platform.
+        Wij ontwierpen branding voor het wereldwijde financiële online platform.
       </div>
     </div>
   </div>
@@ -1073,7 +1096,26 @@
         <span>#branding</span>
       </div>
       <div class="case-desc text">
-        Our team created the branding for the German famous healthy snacks manufacturer.
+        Ons team creëerde de branding voor een Duitse beroemde fabrikant van gezonde snacks.
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-6 col-lg-4 _branding">
+    <div class="case-item animate-item fadeInUp">
+      <div class="case-img contain-link">
+        <a class="full-link" href="https://www.behance.net/gallery/143000943/SOFIA-MEDICA-Brand-identity" target="_blank" rel="nofollow"></a>
+        <picture>
+          <source srcset="img/portfolio/p-img-44.webp" type="image/webp">
+          <source srcset="img/portfolio/p-img-44.png" type="image/png">
+          <img src="img/portfolio/p-img-44.png" alt="" loading="lazy">
+        </picture>
+      </div>
+      <div class="case-title title h5"><a href="https://www.behance.net/gallery/143000943/SOFIA-MEDICA-Brand-identity" target="_blank" rel="nofollow">SOFIA MEDICAL</a></div>
+      <div class="case-tags">
+        <span>#branding</span>
+      </div>
+      <div class="case-desc text">
+        Voor het bekende cosmeticamerk ontwierpen wij branding.
       </div>
     </div>
   </div>

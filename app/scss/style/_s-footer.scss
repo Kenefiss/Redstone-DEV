@@ -106,6 +106,11 @@ footer {
   text-transform: capitalize;
 }
 
+:lang(nl):root .contact-info-title{
+  min-width: 130px;
+  max-width: 130px;
+}
+
 .contact-info-list {
   display: flex;
   flex-direction: column;
@@ -454,6 +459,12 @@ footer {
     margin-bottom: 5px;
     margin-right: 10px;
   }
+
+  :lang(nl):root .contact-info-title{
+    min-width: 110px;
+    max-width: 100%;
+  }
+
   .contact-info-list {
     font-size: calc(var(--h-6) - 2px);
   }

@@ -14,6 +14,7 @@
           <li><a href="awards">Prijzen</a></li>
           <li><a href="about">Over</a></li>
           <li><a href="portfolio">Case Studies</a></li>
+          <li><a href="service">Services</a></li>
           <li><a href="review">Reviews</a></li>
           <li><a href="blog">Blog</a></li>
           <li><a href="contact">Contacten</a></li>
@@ -24,7 +25,7 @@
       <div class="contact-item">
         <div class="contact-caption">United Kingdom</div>
         <div class="contact-info">
-          <div class="contact-info-title">Address: </div>
+          <div class="contact-info-title">Adres:</div>
           <div class="contact-info-list">
             <a href="https://goo.gl/maps/6JEchaCUh4aAeoKq8" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
               <b itemprop="addressLocality">Lurgan</b>,
@@ -33,7 +34,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Phone: </div>
+          <div class="contact-info-title">Telefoonnummer:</div>
           <div class="contact-info-list">
             <a href="tel:+447392835512">
               <b itemprop="telephone">+447392835512</b>
@@ -44,7 +45,7 @@
       <div class="contact-item">
         <div class="contact-caption">Poland</div>
         <div class="contact-info">
-          <div class="contact-info-title">Address:</div>
+          <div class="contact-info-title">Adres:</div>
           <div class="contact-info-list">
             <a href="https://goo.gl/maps/RkRvUoUEqbpJutz69" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
               <b itemprop="addressLocality">Wrocław</b>,
@@ -53,7 +54,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Phone:</div>
+          <div class="contact-info-title">Telefoonnummer:</div>
           <div class="contact-info-list">
             <a href="tel:+48793113458">
               <b itemprop="telephone">+48793113458</b>
@@ -64,7 +65,7 @@
       <div class="contact-item">
         <div class="contact-caption">Ukraine</div>
         <div class="contact-info">
-          <div class="contact-info-title">Address:</div>
+          <div class="contact-info-title">Adres:</div>
           <div class="contact-info-list">
             <a href="https://goo.gl/maps/NhepzepmWVB34hkB8" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
               <b itemprop="addressLocality">Lviv</b>,
@@ -73,7 +74,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Phone:</div>
+          <div class="contact-info-title">Telefoonnummer:</div>
           <div class="contact-info-list">
             <a href="tel:+380676075784">
               <b itemprop="telephone">+380676075784</b>
@@ -84,7 +85,7 @@
       <div class="contact-item">
         <div class="contact-caption">Ukraine</div>
         <div class="contact-info">
-          <div class="contact-info-title">Address:</div>
+          <div class="contact-info-title">Adres:</div>
           <div class="contact-info-list">
             <a href="https://goo.gl/maps/C1zc5QfV6BStHsDo8" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
               <b itemprop="addressLocality">Kyiv</b>,
@@ -93,7 +94,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Phone:</div>
+          <div class="contact-info-title">Telefoonnummer:</div>
           <div class="contact-info-list">
             <a href="tel:+380981515285">
               <b itemprop="telephone">+380981515285</b>

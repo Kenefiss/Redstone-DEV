@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -71,13 +71,13 @@ of experience | London | Dublin |Belfast">
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
-                <p>In today's fast-paced world, having a strong online presence is crucial for individuals and businesses alike. Web solutions have become an essential part of modern regular life, enabling people to connect with others, share their ideas and products, and make their mark on the digital landscape.</p>
-                <p>At our <b>web solutions</b> company, we understand the importance of staying ahead of the curve in the ever-evolving world of online technology. Our team of experts offers a comprehensive range of services to help individuals and businesses achieve their online goals, from website design and development to SEO, social media marketing, and more. We believe that every client is unique, which is why we take a customized approach to web solutions. We work closely with our clients to understand their specific needs and goals, and develop tailored plans to help them succeed in the online space.</p>
-                <p>Our cutting-edge technologies and industry-leading tools ensure that our clients stay ahead of the competition and reach their full potential. Our team stays up-to-date with the latest trends and best practices in web design, development, and marketing, so our clients can be sure that they're receiving the most effective solutions available.</p>
-                <p>We pride ourselves on providing exceptional customer support and building long-lasting relationships with our clients.</p>
-                <p>If you're looking to establish or enhance your online presence, we invite you to learn more about our <b>web solutions</b> and how we can help you achieve your goals. Contact us today to get started.</p>
+                <p>In de snelle wereld van vandaag is een sterke online aanwezigheid cruciaal voor zowel individuen als bedrijven. Weboplossingen zijn een essentieel onderdeel geworden van het moderne dagelijkse leven, waardoor mensen in contact kunnen komen met anderen, hun ideeën en producten kunnen delen en hun stempel kunnen drukken op het digitale landschap.</p>
+                <p>Bij ons bedrijf voor weboplossingen begrijpen we hoe belangrijk het is om voorop te blijven lopen in de steeds evoluerende wereld van online technologie. Ons team van experts biedt een uitgebreid scala aan diensten om individuen en bedrijven te helpen hun online doelen te bereiken, van websiteontwerp en -ontwikkeling tot SEO, socialemediamarketing en meer. Wij geloven dat elke klant uniek is en daarom hanteren wij een maatwerkaanpak voor weboplossingen. We werken nauw samen met onze klanten om hun specifieke behoeften en doelen te begrijpen en ontwikkelen op maat gemaakte plannen om hen te helpen succesvol te zijn in de online ruimte.</p>
+                <p>Onze geavanceerde technologieën en toonaangevende tools zorgen ervoor dat onze klanten de concurrentie voor blijven en hun volledige potentieel bereiken. Ons team blijft op de hoogte van de nieuwste trends en best practices op het gebied van webdesign, ontwikkeling en marketing, zodat onze klanten er zeker van kunnen zijn dat ze de meest effectieve oplossingen krijgen die beschikbaar zijn.</p>
+                <p>We zijn er trots op dat we uitzonderlijke klantenondersteuning bieden en langdurige relaties met onze klanten opbouwen.</p>
+                <p>Als u uw online aanwezigheid wilt vestigen of verbeteren, nodigen wij u uit om meer te weten te komen over onze weboplossingen en hoe wij u kunnen helpen uw doelen te bereiken. Neem vandaag nog contact met ons op om aan de slag te gaan.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>

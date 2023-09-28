@@ -28,7 +28,7 @@
                   <span>#Node js</span>
                   <span>#aws</span>
                 </div>
-                <div class="case-desc text">We developed a closed CRM system for exclusive cars dealer.</div>
+                <div class="case-desc text">Wij hebben een gesloten CRM systeem ontwikkeld voor auto-dealers.</div>
               </div>
             </div>
             <div class="swiper-slide">
@@ -55,7 +55,7 @@
                   <span>#WordPress</span>
                 </div>
                 <div class="case-desc text">
-                  We worked on a mobile app for the food delivery service in United Kingdom.
+                  We hebben een mobile-app ontwikkeld voor een food-delivery dienstenbedrijf in het VK.
                 </div>
               </div>
             </div>
@@ -81,7 +81,7 @@
                   <span>#WebGL</span>
                   <span>#Wordpress</span>
                 </div>
-                <div class="case-desc text">We worked on solutions for famous data-driven creative agile teams in United Kingdom</div>
+                <div class="case-desc text">We hebben gewerkt aan oplossingen voor beroemde data-driven creative agile teams in het VK.</div>
               </div>
             </div>
             <div class="swiper-slide">
@@ -100,7 +100,7 @@
                   <span>#Node js</span>
                   <span>#aws</span>
                 </div>
-                <div class="case-desc text">We created a marketing website with online store functionality for the second most famous fasteners manufacturer in the world.</div>
+                <div class="case-desc text">Voor de op een na bekendste fabrikant van bevestigingsmiddelen ter wereld hebben we een marketingwebsite met online winkelfunctionaliteit gemaakt.</div>
               </div>
             </div>
             <div class="swiper-slide">
@@ -122,7 +122,7 @@
                   <span>#Node js</span>
                   <span>#aws</span>
                 </div>
-                <div class="case-desc text">We created a closed CRM system for luxury cars manufacturer.</div>
+                <div class="case-desc text">We hebben een gesloten CRM-systeem ontwikkeld voor de fabrikant van luxe auto's.</div>
               </div>
             </div>
             <div class="swiper-slide">
@@ -140,7 +140,7 @@
                   <span>#Wordpress</span>
                   <span>#Javascript</span>
                 </div>
-                <div class="case-desc text">Website for Fiat car models configuration. Users can choose different options for car configuration from exclusive color to wide range of wheels types.</div>
+                <div class="case-desc text">Website voor configuratie van Fiat-automodellen. Gebruikers kunnen verschillende opties voor de autoconfiguratie kiezen, van exclusieve kleuren tot een breed scala aan wieltypen.</div>
               </div>
             </div>
           </div>

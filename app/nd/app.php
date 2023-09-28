@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -70,13 +70,13 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
-                <p>Looking to develop a mobile app for your business or personal needs? Look no further than our app development services. We offer comprehensive <b>app development</b> solutions that cater to the needs of businesses and individuals alike.</p>
-                <p>Our team of expert app developers has years of experience in developing custom apps that are tailored to the specific needs of our clients. We work closely with you to understand your requirements and develop an app that meets your expectations. We specialize in developing apps for a range of platforms, including iOS and Android, as well as hybrid apps that work seamlessly across multiple platforms.</p>
-                <p>Our developers are skilled in various programming languages and have the expertise to deliver high-quality apps that are both functional and visually appealing. We take pride in our attention to detail and ensure that each app we develop undergoes rigorous testing to ensure that it is fully functional and bug-free. Our development process is transparent, and we keep our clients informed at every stage to ensure that we are on track to meet their expectations.</p>
-                <p>Whether you are looking to develop an app for your business, or a personal app that caters to your specific needs, we have the expertise to deliver. Our app development services are affordable and cater to businesses of all sizes, from startups to large enterprises.</p>
-                <p>So why wait? Contact us today to discuss your <b>app development</b> needs, and let us help you bring your vision to life.</p>
+                <p>Wilt u een mobiele app ontwikkelen voor uw zakelijke of persoonlijke behoeften? Zoek niet verder dan onze app-ontwikkelingsdiensten. Wij bieden uitgebreide oplossingen voor app-ontwikkeling die tegemoetkomen aan de behoeften van zowel bedrijven als particulieren.</p>
+                <p>Ons team van deskundige app-ontwikkelaars heeft jarenlange ervaring met het ontwikkelen van apps op maat die zijn afgestemd op de specifieke behoeften van onze klanten. We werken nauw met u samen om uw vereisten te begrijpen en een app te ontwikkelen die aan uw verwachtingen voldoet. Wij zijn gespecialiseerd in het ontwikkelen van apps voor een reeks platforms, waaronder iOS en Android, maar ook in hybride apps die naadloos op meerdere platforms werken.</p>
+                <p>Onze ontwikkelaars beheersen verschillende programmeertalen en hebben de expertise om hoogwaardige apps te leveren die zowel functioneel als visueel aantrekkelijk zijn. We zijn trots op onze aandacht voor detail en zorgen ervoor dat elke app die we ontwikkelen strenge tests ondergaat om ervoor te zorgen dat deze volledig functioneel en vrij van bugs is. Ons ontwikkelingsproces is transparant en we houden onze klanten in elke fase op de hoogte om ervoor te zorgen dat we op koers liggen om aan hun verwachtingen te voldoen.</p>
+                <p>Of u nu een app voor uw bedrijf wilt ontwikkelen of een persoonlijke app die aan uw specifieke behoeften voldoet, wij hebben de expertise om u te voorzien. Onze app-ontwikkelingsdiensten zijn betaalbaar en geschikt voor bedrijven van elke omvang, van startups tot grote ondernemingen.</p>
+                <p>Dus waarom wachten? Neem vandaag nog contact met ons op om uw behoeften op het gebied van app-ontwikkeling te bespreken en laat ons u helpen uw visie tot leven te brengen.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>

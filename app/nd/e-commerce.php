@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -71,12 +71,13 @@ will fall in love with them.">
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
-                <p>E-commerce integration has become a vital aspect of modern businesses. With the increasing popularity of online shopping, having a robust e-commerce platform can help your business attract more customers, generate more sales, and improve your bottom line.</p> <p>At its core, <b>e-commerce</b> integration involves connecting your online store with other essential systems and services such as payment gateways, inventory management systems, shipping providers, and accounting software. This integration ensures that your e-commerce operations run seamlessly and efficiently.</p>
-                <p>By integrating your e-commerce platform with various systems, you can streamline your business processes and eliminate manual data entry. This means you can spend more time on critical tasks such as marketing, customer service, and product development. E-commerce integration also enables you to gain valuable insights into customer behavior, which can help you make data-driven decisions that will grow your business.</p>
-                <p>At REDSTONE, we understand the importance of e-commerce integration in modern businesses. That's why we offer comprehensive e-commerce solutions that are tailored to your unique business needs. Our team of experts will work closely with you to design an e-commerce platform that integrates with your existing systems and delivers a seamless shopping experience for your customers.</p>
-                <p>Whether you're just starting with e-commerce or looking to optimize your existing online store, REDSTONE has the expertise and resources to help you achieve your goals. Contact us today to learn more about our <b>e-commerce</b> integration solutions and take your online business to the next level.</p>
+                <p>E-commerce-integratie is een essentieel aspect geworden van moderne bedrijven. Met de toenemende populariteit van online winkelen kan het hebben van een robuust e-commerceplatform uw bedrijf helpen meer klanten aan te trekken, meer verkopen te genereren en uw bedrijfsresultaten te verbeteren.</p>
+                <p>In de kern houdt e-commerce-integratie in dat u uw online winkel verbindt met andere essentiële systemen en diensten, zoals betalingsgateways, voorraadbeheersystemen, verzendbedrijven en boekhoudsoftware. Deze integratie zorgt ervoor dat uw e-commerceactiviteiten naadloos en efficiënt verlopen.</p>
+                <p>Door uw e-commerceplatform met verschillende systemen te integreren, kunt u uw bedrijfsprocessen stroomlijnen en handmatige gegevensinvoer elimineren. Dit betekent dat u meer tijd kunt besteden aan kritieke taken zoals marketing, klantenservice en productontwikkeling. E-commerce-integratie stelt u ook in staat waardevolle inzichten te verkrijgen in het gedrag van klanten, waardoor u datagestuurde beslissingen kunt nemen die uw bedrijf zullen laten groeien.</p>
+                <p>Bij REDSTONE begrijpen we het belang van e-commerce-integratie in moderne bedrijven. Daarom bieden wij uitgebreide e-commerceoplossingen die zijn afgestemd op uw unieke zakelijke behoeften. Ons team van experts zal nauw met u samenwerken om een ​​e-commerceplatform te ontwerpen dat kan worden geïntegreerd met uw bestaande systemen en een naadloze winkelervaring voor uw klanten biedt.</p>
+                <p>Of u nu net begint met e-commerce of uw bestaande online winkel wilt optimaliseren, REDSTONE heeft de expertise en middelen om u te helpen uw doelen te bereiken. Neem vandaag nog contact met ons op voor meer informatie over onze e-commerce-integratieoplossingen en breng uw online bedrijf naar een hoger niveau.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>

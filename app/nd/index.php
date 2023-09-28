@@ -290,6 +290,93 @@ custom CRM system">
       <!-- SEO  * -->
       <?php include 'inc/sections/_seo-2.php'; ?>
 
+      <!-- FAQ -->
+      <div class="section">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-5">
+              <h2 class="title h2 title-margin animate-item">Veelgestelde vragen en antwoorden</h2>
+            </div>
+            <div class="col-xl-7">
+              <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Wat is de prijs voor ontwikkeling?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>De kosten voor het ontwikkelen van een website zijn van veel factoren afhankelijk. Allereerst hangt het af van het gekozen type ontwerp en de complexiteit ervan, CMS, paginavolume, de hoeveelheid inhoud die moet worden ontwikkeld en geplaatst, de functionaliteit van de site, het aantal noodzakelijke services en widgets die moeten worden aangesloten of ontwikkeld, en vele andere factoren. Om de ontwikkelingskosten te berekenen, vult u een aanvraag in op onze website of belt u ons.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Welke voorwaarden bieden wij?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>De gemiddelde ontwikkeltijd voor een website bedraagt 25 tot 70 werkdagen. De ontwikkelingstermijn is afhankelijk van het type site (blog, marketing, e-commerce, corporate, wow-project enz.), ontwerp, vereiste functionaliteit, integraties van derden, het volume van de site (aantal pagina's), evenals de tijd om materialen en ontwerp met de klant afspreken.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Wat bieden wij aan voor websitepromotie?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Tijdens de ontwikkeling van het project zorgen we voor het correct schrijven van de code, naleving van alle normen voor de structuur, de aanwezigheid van micro-markups en modules die nodig zijn voor SEO-promotie, we zorgen voor hoge snelheidsindicatoren. Wij bieden 2 van de 3 belangrijkste elementen voor succesvolle en hoogwaardige promotie: de juiste structuur en nieuwheid van tools, het derde element is actieve promotie met behulp van marketingtools, het kopen van links en adverteren.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Hoe schat u de kosten in?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>De kosten van elk project worden individueel berekend op basis van de zakelijke behoeften. De kosten worden beïnvloed door veel verschillende factoren: het systeem waarop het project zal worden ontwikkeld, de complexiteit van het ontwerp, de aanwezigheid van speciale effecten en animaties, functionele kenmerken, synchronisatie met services van derden en meer. Tijdens de bespreking van het project leren we alle belangrijke punten kennen en bieden we verschillende opties op het gebied van kosten en implementatietijd.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Welke diensten levert uw ondersteuningsdienst?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Onze ondersteuningsdienst biedt een breed scala aan diensten met betrekking tot het onderhouden en optimaliseren van uw website. We bieden technische ondersteuning, oplossing van websiteproblemen, software-updates, gegevensback-ups en nog veel meer.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Wat is het verschil tussen een maatwerkoplossing en een kant-en-klare oplossing?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Een maatwerkoplossing is op maat gemaakte software die helemaal opnieuw is ontworpen om specifiek tegemoet te komen aan de unieke behoeften van een bedrijf. Het biedt op maat gemaakte functies, zorgt voor schaalbaarheid om mee te groeien met het bedrijf, biedt naadloze integratie met andere gespecialiseerde tools en geeft bedrijven volledige eigendom en controle. Omgekeerd is een kant-en-klare oplossing vooraf ontworpen software die is gebouwd voor algemene zakelijke behoeften. Het biedt een snelle implementatie en gestandaardiseerde functies die voor velen geschikt zijn. Hoewel het in eerste instantie kosteneffectief is, kan het beperkingen hebben op het gebied van maatwerk en schaalbaarheid, en kan het door talloze bedrijven worden gebruikt, wat leidt tot gedeelde kwetsbaarheden maar ook tot collectieve updates.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                  <div class="accordion-title" itemprop="name">Hoe wordt het website-ontwikkelingsproces uitgevoerd?</div>
+                  <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <div class="text" itemprop="text">
+                      <p>Bij <b>REDSTONE</b> zijn we trots op onze nauwgezette en klantgerichte benadering van webontwikkeling. Omdat we begrijpen dat elk project zijn eigen unieke vereisten en uitdagingen heeft, hebben we een beproefd proces ontwikkeld om ervoor te zorgen dat elke stap transparant, efficiënt en op maat gemaakt is voor uw behoeften. Onze nadruk ligt op duidelijke communicatie, een diep begrip van de visie van onze klant en het leveren van topresultaten die de verwachtingen overtreffen.</p>
+                      <p>Hieronder vindt u een uitgebreid overzicht van ons projectmanagementproces, van het begin tot de implementatie:</p>
+                      <ul>
+                        <li>Ontvangst van opdracht: De projectmanager ontvangt een opdracht van de klant en voert een gedetailleerde analyse uit van de vereisten.</li>
+                        <li>Bevestiging van details: De manager neemt indien nodig contact op met de klant om details te verduidelijken en eventuele vragen te bespreken.</li>
+                        <li>Toegewijde Manager: Voor elk project wijzen we een toegewijde projectmanager toe die in elke fase van het project voortdurend met de klant communiceert. Dit zorgt voor een eenvoudig en begrijpelijk proces voor de klant.</li>
+                        <li>Planning: Op basis van de opdracht ontwikkelt de manager een projectplan, definieert hij de belangrijkste werkfasen, middelen en een tijdlijn.</li>
+                        <li>Teamvorming: Afhankelijk van de projectvereisten vormt de manager een team van specialisten: ontwerpers, ontwikkelaars, testers, etc.</li>
+                        <li>Ontwerp: Ontwerpers maken website-mockups op basis van de opdracht. Na goedkeuring van het ontwerp wordt het werk overgedragen aan ontwikkelaars.</li>
+                        <li>Ontwikkeling: Ontwikkelaars creëren de site, integreren de benodigde systemen en zorgen voor de functionaliteit ervan.</li>
+                        <li>Testen: Vóór de implementatie test het QA-team de site om mogelijke fouten op te sporen en op te lossen.</li>
+                        <li>Voorbereiding voor implementatie: De manager controleert of alle fasen correct zijn doorlopen en bereidt het project voor op release.</li>
+                        <li>Implementatie: De site wordt op een server geïmplementeerd en wordt toegankelijk voor gebruikers.</li>
+                        <li>Feedback: Na de lancering van de site verzamelt de manager feedback van de klant en plant, indien nodig, verdere iteraties of oplossingen.</li>
+                      </ul>
+                      <p>Ons belangrijkste doel is om klanten een naadloze ervaring en een duidelijk inzicht in de voortgang van het project te bieden. Daarom zijn voortdurende communicatie en een persoonlijk tintje van onze projectmanagers van het grootste belang voor ons.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="spacer-xl"></div>
+      </div>
+
     </main>
 
     <?php include 'inc/_footer.php';?>

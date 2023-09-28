@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>

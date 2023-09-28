@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -38,7 +38,7 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text">
-                <div class="title page-title h2">Our awards</div>
+                <div class="title page-title h2">Onze onderscheidingen</div>
               </div>
             </div>
           </div>

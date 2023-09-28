@@ -20,6 +20,23 @@
 
 "use strict";
 
+function delegate_event(
+  eventType,
+  ancestorElement,
+  targetElementSelector,
+  listenerFunction
+) {
+  ancestorElement.addEventListener(eventType, function (event) {
+    if (
+      event.target &&
+      event.target.matches &&
+      event.target.matches(targetElementSelector)
+    ) {
+      listenerFunction(event);
+    }
+  });
+}
+
 let _functions = {},
   winW, winH, winScr, isTouchScreen, isAndroid, isIPhone, is_Mac, is_IE, is_Chrome;
 
@@ -900,52 +917,28 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
   //*=====================
-  //* 10 Recaptcha       =
+  //* 10 accordion =
   //*=====================
+  _functions.initAcc = function (elem, title, option) {
+    let elementList = document.querySelector(elem).children;
 
-  // var _recaptcha = {
-  //   sitekey: '6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c',
-  //   actions: {
-  //     homepage: 'homepage',
-  //     contactform: 'ContactForm',
-  //   },
-  //   execute: function(action) {
-  //     grecaptcha.execute(_recaptcha.sitekey, {
-  //       action: action
-  //     }).then(function(token) {
-  //       var event = new CustomEvent('grecaptchaexecuted', {
-  //         detail: {
-  //           action: action,
-  //           token: token,
-  //         },
-  //       });
-  //       document.dispatchEvent(event);
-  //     });
-  //   },
-  //   execute_on_homepage: function() {
-  //     _recaptcha.execute(_recaptcha.actions['homepage']);
-  //   },
-  //   execute_on_contactform: function() {
-  //     _recaptcha.execute(_recaptcha.actions['ContactForm']);
-  //   }
-  // };
+    delegate_event('click', document, title, (e) => {
+      let content = e.target.nextElementSibling;
+      content.style.setProperty('--content-h', content.scrollHeight + 'px');
 
-  // document.addEventListener('DOMContentLoaded', function(event) {
-  //   grecaptcha.ready(_recaptcha.execute_on_homepage);
-  // });
-
-  // document.addEventListener('change', _recaptcha.execute_on_contactform);
-
-  // document.addEventListener('grecaptchaexecuted', function(event) {
-  //   var fields = document.querySelectorAll(".ContactForm input[name='g-recaptcha-response']");
-
-  //   for (var i = 0; i < fields.length; i++) {
-  //     var field = fields[i];
-  //     field.setAttribute('value', event.detail.token);
-  //   }
-  // });
-
-  // _recaptcha.execute_on_homepage();
+      if (!e.target.parentElement.classList.contains('active')) {
+        if (option == true) {
+          Array.prototype.forEach.call(elementList, function (e) {
+            e.classList.remove('active');
+          });
+        }
+        e.target.parentElement.classList.add('active');
+      } else {
+        e.target.parentElement.classList.remove('active');
+      }
+    });
+  }
+  _functions.initAcc('.accordion', '.accordion-title', true);
 
 
 });

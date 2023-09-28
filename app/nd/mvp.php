@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -70,14 +70,14 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
-                <p>Are you planning to launch a new web product or service? Developing a Minimum Viable Product (MVP) before going live with your customers can be the key to success.</p>
-                <p>An <b>MVP</b> is a stripped-down version of your product that contains only the essential features needed to solve a specific problem for your customers. It allows you to test your product idea in the market quickly and cost-effectively, and get feedback from real users to improve it.</p>
-                <p>By developing an MVP, you can identify potential issues and validate assumptions about your product, such as its market fit, user needs, and product-market fit. You can also save time and money by avoiding costly mistakes and building features that may not be necessary or relevant to your users.</p>
-                <p>Moreover, an MVP can help you attract early adopters and investors, who are interested in supporting innovative ideas and seeing them grow. They can provide you with valuable insights, feedback, and resources that can help you refine your product and scale it up in the future.</p>
-                <p>At our company, we understand the importance of developing an MVP before launching a web product or service. We have a team of experienced developers, designers, and product managers who can help you build a high-quality MVP that meets your business goals and user needs. Whether you are a startup or an established business, we can help you develop an MVP that sets you up for success.</p>
-                <p>Contact us today to learn more about our <b>MVP</b> development services and how we can help you launch your product faster and more efficiently.</p>
+                <p>Bent u van plan een nieuw webproduct of -dienst te lanceren? Het ontwikkelen van een Minimum Viable Product (MVP) voordat je live gaat bij je klanten kan de sleutel tot succes zijn.</p>
+                <p>Een MVP is een uitgeklede versie van uw product die alleen de essentiële functies bevat die nodig zijn om een ​​specifiek probleem voor uw klanten op te lossen. Hiermee kunt u uw productidee snel en kosteneffectief op de markt testen en feedback krijgen van echte gebruikers om het te verbeteren.</p>
+                <p>Door een MVP te ontwikkelen, kunt u potentiële problemen identificeren en aannames over uw product valideren, zoals de marktfit, gebruikersbehoeften en product-marktfit. U kunt ook tijd en geld besparen door kostbare fouten te vermijden en functies te bouwen die mogelijk niet noodzakelijk of relevant zijn voor uw gebruikers.</p>
+                <p>Bovendien kan een MVP u helpen early adopters en investeerders aan te trekken, die geïnteresseerd zijn in het ondersteunen van innovatieve ideeën en deze te zien groeien. Ze kunnen u waardevolle inzichten, feedback en hulpmiddelen bieden waarmee u uw product kunt verfijnen en in de toekomst kunt opschalen.</p>
+                <p>Bij ons bedrijf begrijpen we hoe belangrijk het is om een ​​MVP te ontwikkelen voordat we een webproduct of -dienst lanceren. We hebben een team van ervaren ontwikkelaars, ontwerpers en productmanagers die u kunnen helpen bij het bouwen van een hoogwaardige MVP die voldoet aan uw bedrijfsdoelen en gebruikersbehoeften. Of u nu een startup of een gevestigd bedrijf bent, wij kunnen u helpen een MVP te ontwikkelen die u klaarstoomt voor succes.</p>
+                <p>Neem vandaag nog contact met ons op voor meer informatie over onze MVP-ontwikkelingsdiensten en hoe we u kunnen helpen uw product sneller en efficiënter te lanceren.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -69,14 +69,14 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
-                <p>In today's hyper-competitive business environment, having a strong brand is essential to standing out from the crowd and gaining a loyal customer base. Your brand is not just your company name or logo; it is the perception that people have of your company and the emotions that your <b>brand</b> evokes.</p>
-                <p>Having a clear and consistent brand identity is crucial for establishing trust with your customers. A well-defined brand strategy ensures that all communication channels, from your website to your social media platforms, are aligned and conveying the same message. This helps to create a cohesive and unified brand experience that resonates with your target audience. A strong brand also helps you to differentiate yourself from competitors.</p>
-                <p>When customers have a clear understanding of what makes your company unique, they are more likely to choose you over your competitors. This is particularly important in crowded markets where there are many similar products and services.</p>
-                <p>Additionally, a strong brand can help to attract top talent to your company. A well-defined brand identity communicates your values, culture, and vision, which can be a powerful motivator for potential employees.</p>
-                <p>This is especially important in today's job market, where employees are looking for more than just a paycheck - they want to work for a company that aligns with their values and provides a meaningful career path. In short, having a strong brand is essential for any modern business that wants to thrive and grow.</p>
-                <p>It helps to build trust with customers, differentiate yourself from competitors, and attract top talent to your company. So, if you haven't already invested in your <b>brand</b>, now is the time to start.</p>
+                <p>In de huidige hypercompetitieve zakelijke omgeving is het hebben van een sterk merk essentieel om je te onderscheiden van de massa en een loyale klantenbasis te verwerven. Uw merk is niet alleen uw bedrijfsnaam of logo; het is de perceptie die mensen hebben van jouw bedrijf en de emoties die jouw merk oproept.</p>
+                <p>Het hebben van een duidelijke en consistente merkidentiteit is cruciaal voor het opbouwen van vertrouwen bij uw klanten. Een goed gedefinieerde merkstrategie zorgt ervoor dat alle communicatiekanalen, van uw website tot uw sociale mediaplatforms, op elkaar zijn afgestemd en dezelfde boodschap overbrengen. Dit helpt bij het creëren van een samenhangende en uniforme merkervaring die resoneert met uw doelgroep. Een sterk merk helpt je ook om je te onderscheiden van de concurrentie.</p>
+                <p>Wanneer klanten een duidelijk inzicht hebben in wat uw bedrijf uniek maakt, is de kans groter dat ze u verkiezen boven uw concurrenten. Dit is vooral belangrijk op drukke markten waar er veel vergelijkbare producten en diensten zijn.</p>
+                <p>Bovendien kan een sterk merk helpen om toptalent naar uw bedrijf te trekken. Een goed gedefinieerde merkidentiteit communiceert uw waarden, cultuur en visie, wat een krachtige motivator kan zijn voor potentiële werknemers.</p>
+                <p>Dit is vooral belangrijk op de huidige arbeidsmarkt, waar werknemers op zoek zijn naar meer dan alleen een salaris: ze willen werken voor een bedrijf dat aansluit bij hun waarden en een betekenisvol carrièrepad biedt. Kortom: het hebben van een sterk merk is essentieel voor elk modern bedrijf dat wil bloeien en groeien.</p>
+                <p>Het helpt om vertrouwen bij klanten op te bouwen, jezelf te onderscheiden van concurrenten en toptalent naar je bedrijf te trekken. Dus als u nog niet in uw merk heeft geïnvesteerd, is dit het moment om te beginnen.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>

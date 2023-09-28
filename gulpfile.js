@@ -198,6 +198,7 @@ export const styles = () => {
     .pipe(gulp.dest('app/css/'))
     .pipe(gulp.dest('app/en/css/'))
     .pipe(gulp.dest('app/pl/css/'))
+    .pipe(gulp.dest('app/nd/css/'))
     .pipe(browsersync.stream())
 }
 

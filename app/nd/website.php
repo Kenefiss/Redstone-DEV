@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -71,14 +71,14 @@ Our advantages: quality and comfort!">
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
-                <p>In today's digital age, having a website for your business is no longer just an option - it's a necessity. Your website is often the first interaction a potential customer has with your brand, and it can make or break their decision to do business with you. That's why it's essential to have a professional and user-friendly website that represents your brand in the best possible light.</p>
-                <p>A <b>website</b> serves as a 24/7 online presence for your business, providing valuable information about your products and services to potential customers at any time of day. It also allows you to showcase your brand's unique selling points and differentiate yourself from your competitors.</p>
-                <p>In addition to being a powerful marketing tool, a website also helps to establish credibility and legitimacy for your business. Customers are more likely to trust and engage with a business that has a professional website than one that doesn't. It shows that you're invested in your business and willing to put in the effort to make a positive impression on your customers.</p>
-                <p>A website also provides an opportunity to collect valuable data on your customers and their behavior. By analyzing website traffic, you can gain insights into what your customers are looking for and make informed decisions about your business strategy.</p>
-                <p>Finally, a website can help you expand your reach beyond your local community. With the rise of e-commerce, having a website allows you to sell your products and services to customers all over the world.</p>
-                <p>In short, having a <b>website</b> for your business is essential in today's digital landscape. It's a powerful marketing tool, establishes credibility, provides valuable data, and allows you to expand your reach beyond your local community. So if you don't already have a website, it's time to invest in one!</p>
+                <p>In het huidige digitale tijdperk is het hebben van een website voor uw bedrijf niet langer slechts een optie: het is een noodzaak. Uw website is vaak de eerste interactie die een potentiële klant met uw merk heeft, en kan de beslissing om zaken met u te doen bepalen of breken. Daarom is het essentieel om een ​​professionele en gebruiksvriendelijke website te hebben die uw merk zo goed mogelijk vertegenwoordigt.</p>
+                <p>Een website dient als een 24/7 online aanwezigheid voor uw bedrijf en biedt op elk moment van de dag waardevolle informatie over uw producten en diensten aan potentiële klanten. Hiermee kunt u ook de unieke verkoopargumenten van uw merk onder de aandacht brengen en uzelf onderscheiden van uw concurrenten.</p>
+                <p>Een website is niet alleen een krachtig marketinginstrument, maar helpt ook om de geloofwaardigheid en legitimiteit van uw bedrijf te vergroten. Het is waarschijnlijker dat klanten een bedrijf met een professionele website vertrouwen en ermee in contact komen dan een bedrijf dat dat niet heeft. Het laat zien dat u in uw bedrijf investeert en bereid bent moeite te doen om een ​​positieve indruk op uw klanten te maken.</p>
+                <p>Een website biedt ook de mogelijkheid om waardevolle gegevens over uw klanten en hun gedrag te verzamelen. Door websiteverkeer te analyseren, kunt u inzicht krijgen in waar uw klanten naar op zoek zijn en weloverwogen beslissingen nemen over uw bedrijfsstrategie.</p>
+                <p>Ten slotte kan een website u helpen uw bereik buiten uw lokale gemeenschap uit te breiden. Met de opkomst van e-commerce kunt u met een website uw producten en diensten aan klanten over de hele wereld verkopen.</p>
+                <p>Kortom, het hebben van een website voor uw bedrijf is essentieel in het huidige digitale landschap. Het is een krachtig marketinginstrument, zorgt voor geloofwaardigheid, levert waardevolle gegevens op en stelt u in staat uw bereik buiten uw lokale gemeenschap uit te breiden. Dus als u nog geen website heeft, is het tijd om erin te investeren!</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>

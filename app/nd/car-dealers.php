@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
   <?php include 'inc/_top.php';?>
@@ -14,7 +14,7 @@
 
     <main>
 
-      <!-- BREADCRUMBS -->
+      <!-- BREADCRUMBS --> 
       <div class="section sec-breadcrumbs">
         <div class="container-fluid">
           <ul class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
@@ -69,13 +69,13 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-5 offset-xl-1">
-              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
+              <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
-                <p>Are you a <b>car dealer</b> looking for ways to boost your online presence and attract more customers? Look no further than our web solutions for car dealers.</p>
-                <p>Our team of experienced web developers and SEO experts understands the unique challenges and opportunities that car dealers face in the online marketplace. That's why we offer a range of customizable solutions to meet your specific needs and goals. Our services include website design and development, search engine optimization (SEO), social media marketing, and online advertising.</p>
-                <p>We can help you create a visually stunning and user-friendly website that showcases your inventory and services, as well as drive targeted traffic to your site through strategic SEO and advertising campaigns.</p>
-                <p>With our web solutions, you can also improve your customer engagement and retention through effective email marketing and CRM integration. Our team can help you develop targeted email campaigns and integrate your customer data into a centralized CRM platform for more personalized and effective communication.</p>
-                <p>Don't let your online presence hold you back from reaching your full potential as a <b>car dealer</b>. Contact us today to learn more about our web solutions and how we can help you achieve your goals.</p>
+                <p>Bent u een autodealer en zoekt u naar manieren om uw online aanwezigheid te vergroten en meer klanten aan te trekken? Zoek niet verder dan onze weboplossingen voor autodealers.</p>
+                <p>Ons team van ervaren webontwikkelaars en SEO-experts begrijpt de unieke uitdagingen en kansen waarmee autodealers op de online markt worden geconfronteerd. Daarom bieden wij een reeks aanpasbare oplossingen om aan uw specifieke behoeften en doelstellingen te voldoen. Onze diensten omvatten websiteontwerp en -ontwikkeling, zoekmachineoptimalisatie (SEO), socialemediamarketing en online adverteren.</p>
+                <p>Wij kunnen u helpen een visueel verbluffende en gebruiksvriendelijke website te creëren die uw aanbod en diensten onder de aandacht brengt, en gericht verkeer naar uw site leiden via strategische SEO- en advertentiecampagnes.</p>
+                <p>Met onze weboplossingen kunt u ook uw klantbetrokkenheid en -behoud verbeteren door effectieve e-mailmarketing en CRM-integratie. Ons team kan u helpen bij het ontwikkelen van gerichte e-mailcampagnes en het integreren van uw klantgegevens in een gecentraliseerd CRM-platform voor meer gepersonaliseerde en effectieve communicatie.</p>
+                <p>Laat uw online aanwezigheid u er niet van weerhouden uw volledige potentieel als autodealer te benutten. Neem vandaag nog contact met ons op voor meer informatie over onze weboplossingen en hoe we u kunnen helpen uw doelen te bereiken.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
             </div>
