@@ -51,7 +51,7 @@
                   <span class="tag">AGRICULTURE</span>
                 </div>
                 <h1 class="h1 title">CPG Group</h1>
-                <a class="hero-link" href="https://centralplains.co.uk/uk/" target="_blank" rel="nofollow">
+                <a class="hero-link" href="https://centralplains.co.uk/" target="_blank" rel="nofollow">
                   <b>Check the project now</b>
                   <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M20.2077 0H14.4828C14.0457 0 13.6914 0.354293 13.6914 0.791479C13.6914 1.22862 14.0457 1.58292 14.4828 1.58292H19.4162V6.51632C19.4162 6.95346 19.7705 7.30775 20.2077 7.30775C20.6448 7.30775 20.9992 6.95346 20.9992 6.51632V0.791479C20.9992 0.354293 20.6449 0 20.2077 0Z" />

@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE :: Chaga Root detail</title>
+  <title>REDSTONE :: ChagaRoot detail</title>
 
 </head>
 
@@ -33,7 +33,7 @@
               </a>
             </li>
             <li class="active" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-              <span itemprop="title">Chaga Root</span>
+              <span itemprop="title">ChagaRoot</span>
             </li>
           </ul>
         </div>
@@ -50,7 +50,7 @@
                   <span class="tag">MARKETING</span>
                   <span class="tag">FOOD DELIVERY</span>
                 </div>
-                <h1 class="h1 title">Chaga Root</h1>
+                <h1 class="h1 title">ChagaRoot</h1>
                 <a class="hero-link" href="https://chagaroot.com/" target="_blank" rel="nofollow">
                   <b>Check the project now</b>
                   <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
