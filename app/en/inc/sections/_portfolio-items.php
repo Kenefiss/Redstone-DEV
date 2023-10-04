@@ -127,7 +127,7 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://cpgu.com.ua/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="cpg-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-45.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-45.png" type="image/png">
@@ -170,7 +170,7 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://uampower.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="uampower-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-38.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-38.png" type="image/png">
@@ -193,7 +193,7 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://chagaroot.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="chagaroot-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-46.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-46.png" type="image/png">
@@ -312,7 +312,7 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://topusaawards.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="topusa-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-34.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-34.png" type="image/png">
@@ -408,7 +408,7 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://sonnydickson.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="sonnydickson-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-37.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-37.png" type="image/png">
@@ -481,7 +481,7 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="https://origin-team.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="origin-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-35.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-35.png" type="image/png">
@@ -673,7 +673,7 @@
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
-        <a class="full-link" href="http://designbynickelloh.com/" target="_blank" rel="nofollow"></a>
+        <a class="full-link" href="nikelloh-detail"></a>
         <picture>
           <source srcset="img/portfolio/p-img-36.webp" type="image/webp">
           <source srcset="img/portfolio/p-img-36.png" type="image/png">
