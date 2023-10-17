@@ -114,15 +114,16 @@
 }
 
 .banner-num .svg-wrapper.type2{
-  height: 400px;
+  height: 420px;
   stroke: #e6e6e6;
+  font-weight: 500;
 }
 
 .banner-num .svg-wrapper.type2 text {
   stroke-dasharray: 500;
   stroke-dashoffset: 500;
   fill: transparent;
-  font-size: 134px;
+  font-size: 130px;
 }
 
 .banner-num .svg-wrapper.type2 .text-bold {
@@ -136,8 +137,8 @@
   }
   @keyframes draw{to{stroke-dashoffset: 0;}}
   @-webkit-keyframes draw{to{stroke-dashoffset: 0;}}
-  @keyframes fill_text_2{to{fill: #f3f3f3;stroke: transparent;}}
-  @-webkit-keyframes fill_text_2{to{fill: #f3f3f3;stroke: transparent;}}
+  @keyframes fill_text_2{to{fill: #f3f3f3;stroke: #f3f3f3;}}
+  @-webkit-keyframes fill_text_2{to{fill: #f3f3f3;stroke: #f3f3f3;}}
   .loaded .svg-wrapper.type2 text{animation: draw 2s linear forwards;-webkit-animation: draw 2s linear forwards;}
   .loaded .svg-wrapper.type2 .text-bold{animation: fill_text_2 0.8s linear forwards 1s;-webkit-animation: fill_text_2 0.8s linear forwards 1s;}
 }
@@ -193,6 +194,7 @@
   }
   .banner-num .svg-wrapper.type2 .text-bold{
     fill: #f8f8f8;
+    font-weight: 700;
   }
   .banner-num .svg-wrapper.type2 text{
     stroke-dasharray: 0;
