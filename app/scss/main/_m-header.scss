@@ -168,7 +168,7 @@ header {
   min-width: 60px;
   margin-left: 20px;
   margin-top: 3px;
-  font-weight: 400;
+  font-weight: 200;
   font-size: 14px;
   line-height: 0;
   letter-spacing: 0.05em;
@@ -207,7 +207,7 @@ header {
   }
 
   a {
-    font-weight: 400;
+    font-weight: 200;
     font-size: 14px;
     line-height: 1.1em;
     color: var(--clr-black);
@@ -231,7 +231,7 @@ header {
 .header-phone {
   display: flex;
   align-items: center;
-  font-weight: 500;
+  font-weight: 200;
   font-size: 18px;
   line-height: 1em;
   margin-right: 30px;
@@ -304,7 +304,7 @@ header {
 
   a {
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 200;
     line-height: 1;
     letter-spacing: .05em;
     text-transform: uppercase;
@@ -345,7 +345,7 @@ header {
     display: inline-block;
     cursor: pointer;
     font-size: var(--h-3);
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1em;
     color: var(--clr-white);
     transition: var(--transition-1);
@@ -675,7 +675,7 @@ header {
 
   .header-menu-right-bottom {
     >*:not(.btn) {
-      font-size: 18px;
+      font-size: 16px;
       margin-bottom: 15px;
     }
   }

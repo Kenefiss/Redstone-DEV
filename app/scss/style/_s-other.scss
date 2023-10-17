@@ -70,17 +70,17 @@
 .sort-nav li {
   display: inline-block;
   vertical-align: top;
-  font-size: 20px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 200;
   line-height: 1.2;
 }
 
 .sort-nav li:not(:last-child) {
-  margin-right: 50px;
+  margin-right: 40px;
 }
 
 :lang(pl) .sort-nav li:not(:last-child) {
-  margin-right: 25px;
+  margin-right: 20px;
 }
 
 .sort-nav a {
@@ -256,7 +256,7 @@
   position: absolute;
   left: 0;
   top: 1px;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .benefit-desc {

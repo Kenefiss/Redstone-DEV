@@ -10,8 +10,8 @@
   flex-shrink: 0;
   font-size: 15px;
   line-height: 1.067em;
-  font-weight: 600;
-  letter-spacing: 0.15em;
+  font-weight: 400;
+  letter-spacing: 0.1em;
   text-decoration: none;
   text-transform: uppercase;
   border: none;
@@ -161,7 +161,7 @@
     text-align: left;
     text-transform: uppercase;
     color: var(--clr-red);
-    font-weight: 600;
+    font-weight: 400;
     transform: translate(-50%, -50%);
   }
 
@@ -178,7 +178,7 @@
 .btn-link {
   font-size: 15px;
   color: var(--clr-red);
-  font-weight: 600;
+  font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   transition: var(--transition-1);
@@ -187,7 +187,7 @@
   position: relative;
   vertical-align: top;
   margin-left: 20px;
-  top:1px;
+  top:3px;
   width: 7px;
   height: 12px;
   stroke: currentColor;

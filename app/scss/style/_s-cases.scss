@@ -93,9 +93,8 @@
     display: inline-block;
     font-size: 14px;
     line-height: 1;
-    font-weight: 400;
+    font-weight: 300;
     color: var(--clr-plc);
-    letter-spacing: 0.05em;
     text-transform:uppercase;
     margin-top:10px;
     margin-right: 10px;
@@ -173,7 +172,6 @@
   transition: var(--transition-1);
   font-size: 18px;
   line-height: 1.2;
-  font-weight:500;
   color: var(--clr-white);
 }
 
@@ -308,7 +306,7 @@
 
   .case-img .top-info .text{
     padding: 6px 10px 3px 55px;
-    font-size: 14px;
+    font-size: 13px;
   }
 
 }

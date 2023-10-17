@@ -2,11 +2,11 @@
 /* - GLOBAL SETTINGS  */
 /*--------------------*/
 :root {
-  --ff-1: 'TT Commons', sans-serif;
-  --ff-2: 'SF UI Display', sans-serif;
+  --ff-1: 'Geologica', sans-serif;
+  --ff-2: 'Geologica', sans-serif;
 
 
-  --h-1: 80px;
+  --h-1: 68px;
   --h-2: 50px;
   --h-3: 46px;
   --h-4: 38px;
@@ -41,7 +41,7 @@
 
 :lang(pl):root,
 :lang(nl):root{
-  --h-1: 68px;
+  --h-1: 58px;
 }
 
 html {
@@ -189,7 +189,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 60px;
+    --h-1: 55px;
   }
 }
 
@@ -212,17 +212,17 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     margin-top: 0;
   }
   :root {
-    --h-1: 64px;
+    --h-1: 54px;
   }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 54px;
+    --h-1: 46px;
   }
 }
 
 @media (max-width: 1560px) {
   :root {
-    --h-1: 60px;
+    --h-1: 54px;
     --h-2: 42px;
     --h-3: 34px;
     --h-4: 30px;
@@ -231,7 +231,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 54px;
+    --h-1: 44px;
   }
 
   .container-fluid {
@@ -268,18 +268,21 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
     padding-inline: 30px;
   }
   :root {
-    --h-1: 54px;
+    --h-1: 50px;
   }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 50px;
+    --h-1: 42px;
   }
 }
 
 @media (max-width: 1300px) {
+  :root {
+    --h-1: 46px;
+  }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 46px;
+    --h-1: 40px;
   }
 }
 
@@ -344,13 +347,13 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
 
 @media (max-width: 767px) {
   :root {
-    --h-1: 30px;
+    --h-1: 27px;
     --h-2: 24px;
     --h-3: 22px;
   }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 26px;
+    --h-1: 24px;
   }
 
   .spacer-xl {

@@ -74,13 +74,13 @@
 }
 
 .prj-hero-text {
-  font-size: var(--h-5);
-  font-weight: 300;
+  font-size: var(--h-6);
+  font-weight: 200;
   line-height: 1.46em;
   color: var(--clr-plc);
 
   b {
-    font-weight: 600;
+    font-weight: 500;
     color: var(--clr-black);
   }
 }
@@ -92,7 +92,7 @@
 .hero-link {
   display: inline-flex;
   align-items: center;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 15px;
   line-height: 1em;
   letter-spacing: .15em;
