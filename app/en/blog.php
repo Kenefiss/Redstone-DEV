@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="the-impact-of-5g-on-web-development-and-user-experience">
+                  <picture>
+                    <source srcset="img/the-impact-of-5g-on-web-development-and-user-experience.webp" type="image/webp">
+                    <source srcset="img/the-impact-of-5g-on-web-development-and-user-experience.jpg" type="image/jpeg">
+                    <img src="img/the-impact-of-5g-on-web-development-and-user-experience.jpg" alt="the-impact-of-5g-on-web-development-and-user-experience">
+                  </picture>
+                  <span class="date">13.10.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-impact-of-5g-on-web-development-and-user-experience">The Impact of 5G on Web Development and User Experience</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="exploring-web-development-for-quantum-databases">
+                  <picture>
+                    <source srcset="img/exploring-web-development-for-quantum-databases.webp" type="image/webp">
+                    <source srcset="img/exploring-web-development-for-quantum-databases.jpg" type="image/jpeg">
+                    <img src="img/exploring-web-development-for-quantum-databases.jpg" alt="exploring-web-development-for-quantum-databases">
+                  </picture>
+                  <span class="date">09.10.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="exploring-web-development-for-quantum-databases">Exploring Web Development for Quantum Databases</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="a-deep-dive-into-websockets-restful-apis">
+                  <picture>
+                    <source srcset="img/a-deep-dive-into-websockets-restful-apis.webp" type="image/webp">
+                    <source srcset="img/a-deep-dive-into-websockets-restful-apis.jpg" type="image/jpeg">
+                    <img src="img/a-deep-dive-into-websockets-restful-apis.jpg" alt="a-deep-dive-into-websockets-restful-apis">
+                  </picture>
+                  <span class="date">05.10.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="a-deep-dive-into-websockets-restful-apis">A Deep Dive into WebSockets vs. RESTful APIs</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="web-development-for-music-and-audio-sharing-platforms">
+                  <picture>
+                    <source srcset="img/web-development-for-music-and-audio-sharing-platforms.webp" type="image/webp">
+                    <source srcset="img/web-development-for-music-and-audio-sharing-platforms.jpg" type="image/jpeg">
+                    <img src="img/web-development-for-music-and-audio-sharing-platforms.jpg" alt="web-development-for-music-and-audio-sharing-platforms">
+                  </picture>
+                  <span class="date">02.10.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="web-development-for-music-and-audio-sharing-platforms">Web Development for Music and Audio Sharing Platforms</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="how-to-create-effective-web-sliders">
                   <picture>
                     <source srcset="img/how-to-create-effective-web-sliders.webp" type="image/webp">

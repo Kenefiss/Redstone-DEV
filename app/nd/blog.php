@@ -42,81 +42,67 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
               <div class="title-with-text">
                 <div class="title page-title h2">Blog</div>
               </div>
-
-              <!-- hide on phase 1 -->
-              <!-- <div class="sort-wrapp js-sort-nav">
-                <div class="sort-btn d-xl-none">All</div>
-                <nav class="sort-nav">
-                  <ul>
-                    <li><a class="active">All</a></li>
-                    <li><a href="#">Корисні поради</a></li>
-                    <li><a href="#">Новини</a></li>
-                    <li><a href="#">Майстер-класи</a></li>
-                  </ul>
-                </nav>
-              </div> -->
-
             </div>
           </div>
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="tips-for-effective-mobile-app-testing">
+                <a href="creating-custom-data-visualization-widgets">
                   <picture>
-                    <source srcset="img/tips-for-effective-mobile-app-testing.webp" type="image/webp">
-                    <source srcset="img/tips-for-effective-mobile-app-testing.jpg" type="image/jpeg">
-                    <img src="img/tips-for-effective-mobile-app-testing.jpg" alt="tips-for-effective-mobile-app-testing">
+                    <source srcset="img/creating-custom-data-visualization-widgets.webp" type="image/webp">
+                    <source srcset="img/creating-custom-data-visualization-widgets.jpg" type="image/jpeg">
+                    <img src="img/creating-custom-data-visualization-widgets.jpg" alt="creating-custom-data-visualization-widgets">
                   </picture>
-                  <span class="date">15.06.2023</span>
+                  <span class="date">13.10.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="tips-for-effective-mobile-app-testing">Tips for Effective Mobile App Testing</a>
+                <a href="creating-custom-data-visualization-widgets">Het Creëren van Aangepaste Data Visualisatie Widgets</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="best-practices-for-ui-ux-design-in-mobile-apps">
+                <a href="development-of-geolocation-services-and-cartographic-applications-on-websites">
                   <picture>
-                    <source srcset="img/best-practices-for-ui-ux-design-in-mobile-apps.webp" type="image/webp">
-                    <source srcset="img/best-practices-for-ui-ux-design-in-mobile-apps.jpg" type="image/jpeg">
-                    <img src="img/best-practices-for-ui-ux-design-in-mobile-apps.jpg" alt="best-practices-for-ui-ux-design-in-mobile-apps">
+                    <source srcset="img/development-of-geolocation-services-and-cartographic-applications-on-websites.webp" type="image/webp">
+                    <source srcset="img/development-of-geolocation-services-and-cartographic-applications-on-websites.jpg" type="image/jpeg">
+                    <img src="img/development-of-geolocation-services-and-cartographic-applications-on-websites.jpg" alt="development-of-geolocation-services-and-cartographic-applications-on-websites">
                   </picture>
-                  <span class="date">09.06.2023</span>
+                  <span class="date">09.10.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="best-practices-for-ui-ux-design-in-mobile-apps">Best Practices for UI/UX Design in Mobile Apps</a>
+                <a href="development-of-geolocation-services-and-cartographic-applications-on-websites">Ontwikkeling van Geolocatiediensten en Cartografische Toepassingen op Websites</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="importance-of-seo-friendly-web-development">
+                <a href="the-rise-of-webassembly-een-game-changer-in-web-development">
                   <picture>
-                    <source srcset="img/importance-of-seo-friendly-web-development.webp" type="image/webp">
-                    <source srcset="img/importance-of-seo-friendly-web-development.jpg" type="image/jpeg">
-                    <img src="img/importance-of-seo-friendly-web-development.jpg" alt="importance-of-seo-friendly-web-development">
+                    <source srcset="img/the-rise-of-webassembly-een-game-changer-in-web-development.webp" type="image/webp">
+                    <source srcset="img/the-rise-of-webassembly-een-game-changer-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/the-rise-of-webassembly-een-game-changer-in-web-development.jpg" alt="the-rise-of-webassembly-een-game-changer-in-web-development">
                   </picture>
-                  <span class="date">05.06.2023</span>
+                  <span class="date">05.10.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="importance-of-seo-friendly-web-development">Importance of SEO-Friendly Web Development</a>
+                <a href="the-rise-of-webassembly-een-game-changer-in-web-development">The Rise of WebAssembly: Een Game Changer in Web Development</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
-                <a href="the-impact-of-chatbots-on-customer-experience">
+                <a href="sass-and-less-benefits-of-css-preprocessors">
                   <picture>
-                    <source srcset="img/the-impact-of-chatbots-on-customer-experience.webp" type="image/webp">
-                    <source srcset="img/the-impact-of-chatbots-on-customer-experience.jpg" type="image/jpeg">
-                    <img src="img/the-impact-of-chatbots-on-customer-experience.jpg" alt="the-impact-of-chatbots-on-customer-experience">
+                    <source srcset="img/sass-and-less-benefits-of-css-preprocessors.webp" type="image/webp">
+                    <source srcset="img/sass-and-less-benefits-of-css-preprocessors.jpg" type="image/jpeg">
+                    <img src="img/sass-and-less-benefits-of-css-preprocessors.jpg" alt="sass-and-less-benefits-of-css-preprocessors">
                   </picture>
-                  <span class="date">01.06.2023</span>
+                  <span class="date">02.10.2023</span>
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="the-impact-of-chatbots-on-customer-experience">The Impact of Chatbots on Customer Experience</a>
+                <a href="sass-and-less-benefits-of-css-preprocessors">Sass en Less: Voordelen van CSS-preprocessors</a>
               </div>
             </div>
           </div>

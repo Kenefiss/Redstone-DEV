@@ -86,22 +86,22 @@ const copyAppPl = () => {
     .pipe(gulp.dest(`build/${rootFolder}`));
 }
 
-const copyAppRu = () => {
+const copyAppNd = () => {
   return gulp.src([
-      'app/ru/css/**/*.css',
-      'app/ru/documents/**/*.*',
-      'app/ru/fonts/**/*',
-      'app/ru/js/**/*.js',
-      'app/ru/img/**/*.*',
-      'app/ru/video/**/*.*',
-      'app/ru/model/**/*.*',
-      'app/ru/**/*.html',
-      'app/ru/**/*.php',
-      'app/ru/.htaccess',
-      'app/ru/**/*.json',
-      'app/ru/**/*.txt'
+      'app/nd/css/**/*.css',
+      'app/nd/documents/**/*.*',
+      'app/nd/fonts/**/*',
+      'app/nd/js/**/*.js',
+      'app/nd/img/**/*.*',
+      'app/nd/video/**/*.*',
+      'app/nd/model/**/*.*',
+      'app/nd/**/*.html',
+      'app/nd/**/*.php',
+      'app/nd/.htaccess',
+      'app/nd/**/*.json',
+      'app/nd/**/*.txt'
     ], {
-      base: 'app/ru'
+      base: 'app/nd'
     })
     .pipe(gulp.dest(`build/${rootFolder}`));
 }
@@ -114,11 +114,11 @@ function startWatch() {
   gulp.watch('images/**/*', img)
   gulp.watch('images-en/**/*', imgEn)
   gulp.watch('images-pl/**/*', imgPl)
-  gulp.watch('images-ru/**/*', imgRu)
+  gulp.watch('images-nd/**/*', imgNd)
 }
 
 export const cleanImg = () => {
-  return deleteAsync('{images/**/*,images-en/**/*,images-pl/**/*,images-ru/**/*}', {
+  return deleteAsync('{images/**/*,images-en/**/*,images-pl/**/*,images-nd/**/*}', {
     force: true
   })
 }
@@ -265,10 +265,10 @@ export const imgEn = () => {
         },
         [
           imageminJPG({
-            loops: 3,
-            min: 70,
-            max: 85,
-            quality: "medium",
+            loops: 2,
+            min: 90,
+            max: 100,
+            quality: "high",
           }),
           imageminPNG({
             speed: 1,
@@ -297,10 +297,10 @@ export const imgPl = () => {
         },
         [
           imageminJPG({
-            loops: 3,
-            min: 70,
-            max: 85,
-            quality: "medium",
+            loops: 2,
+            min: 90,
+            max: 100,
+            quality: "high",
           }),
           imageminPNG({
             speed: 1,
@@ -311,7 +311,7 @@ export const imgPl = () => {
     .pipe(gulp.dest('app/pl/img/'))
 }
 
-export const imgRu = () => {
+export const imgNd = () => {
   return gulp.src('images/**/*.{png,jpg,svg}')
     .pipe(newer('app/img/'))
     .pipe(webp({
@@ -329,10 +329,10 @@ export const imgRu = () => {
         },
         [
           imageminJPG({
-            loops: 3,
-            min: 70,
-            max: 85,
-            quality: "medium",
+            loops: 2,
+            min: 90,
+            max: 100,
+            quality: "high",
           }),
           imageminPNG({
             speed: 1,
@@ -377,7 +377,7 @@ export const ftp = () => {
 // gulp.task('default', gulp.parallel(styles, scripts, img, server, startWatch));
 
 
-gulp.task('build-ru', gulp.series(cleanBuild, styles, imgRu, copyAppRu));
+gulp.task('build-nd', gulp.series(cleanBuild, styles, imgNd, copyAppNd));
 gulp.task('build-pl', gulp.series(cleanBuild, styles, imgPl, copyAppPl));
 gulp.task('build-en', gulp.series(cleanBuild, styles, imgEn, copyAppEn));
 

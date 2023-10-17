@@ -46,6 +46,66 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="the-webassembly-era-a-revolution-in-website-development">
+                  <picture>
+                    <source srcset="img/the-webassembly-era-a-revolution-in-website-development.webp" type="image/webp">
+                    <source srcset="img/the-webassembly-era-a-revolution-in-website-development.jpg" type="image/jpeg">
+                    <img src="img/the-webassembly-era-a-revolution-in-website-development.jpg" alt="the-webassembly-era-a-revolution-in-website-development">
+                  </picture>
+                  <span class="date">13.10.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-webassembly-era-a-revolution-in-website-development">Era WebAssembly: Rewolucja w Rozwoju Stron Internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="website-development-for-digital-wallets-and-payment-systems">
+                  <picture>
+                    <source srcset="img/website-development-for-digital-wallets-and-payment-systems.webp" type="image/webp">
+                    <source srcset="img/website-development-for-digital-wallets-and-payment-systems.jpg" type="image/jpeg">
+                    <img src="img/website-development-for-digital-wallets-and-payment-systems.jpg" alt="website-development-for-digital-wallets-and-payment-systems">
+                  </picture>
+                  <span class="date">09.10.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="website-development-for-digital-wallets-and-payment-systems">Rozwój Stron Internetowych dla Portfeli Cyfrowych i Systemów Płatności</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-future-of-website-development-holographic-displays-and-interfaces">
+                  <picture>
+                    <source srcset="img/the-future-of-website-development-holographic-displays-and-interfaces.webp" type="image/webp">
+                    <source srcset="img/the-future-of-website-development-holographic-displays-and-interfaces.jpg" type="image/jpeg">
+                    <img src="img/the-future-of-website-development-holographic-displays-and-interfaces.jpg" alt="the-future-of-website-development-holographic-displays-and-interfaces">
+                  </picture>
+                  <span class="date">05.10.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-future-of-website-development-holographic-displays-and-interfaces">Przyszłość Rozwoju Stron Internetowych: Wyświetlacze i Interfejsy Holograficzne</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-use-of-biometrics-in-website-development-for-increased-security">
+                  <picture>
+                    <source srcset="img/the-use-of-biometrics-in-website-development-for-increased-security.webp" type="image/webp">
+                    <source srcset="img/the-use-of-biometrics-in-website-development-for-increased-security.jpg" type="image/jpeg">
+                    <img src="img/the-use-of-biometrics-in-website-development-for-increased-security.jpg" alt="the-use-of-biometrics-in-website-development-for-increased-security">
+                  </picture>
+                  <span class="date">02.10.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-use-of-biometrics-in-website-development-for-increased-security">Wykorzystanie Biometrii w Rozwoju Stron Internetowych dla Zwiększonego Bezpieczeństwa</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="discovering-the-magic-of-ajax-in-website-development">
                   <picture>
                     <source srcset="img/discovering-the-magic-of-ajax-in-website-development.webp" type="image/webp">
