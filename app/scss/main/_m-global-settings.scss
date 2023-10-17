@@ -183,13 +183,13 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   }
 }
 
-@media (max-width: 1750px) {
+@media (max-width: 1780px) {
   :root {
-    --h-1: 64px;
+    --h-1: 63px;
   }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 55px;
+    --h-1: 54px;
   }
 }
 
@@ -282,7 +282,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 40px;
+    --h-1: 38px;
   }
 }
 
