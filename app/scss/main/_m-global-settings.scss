@@ -2,9 +2,8 @@
 /* - GLOBAL SETTINGS  */
 /*--------------------*/
 :root {
-  --ff-1: 'Roboto Flex', sans-serif;
-  --ff-2: 'Roboto Flex', sans-serif;
-
+  --ff-1: 'Inter', sans-serif;
+  --ff-2: 'Inter', sans-serif;
 
   --h-1: 68px;
   --h-2: 50px;
@@ -276,7 +275,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1320px) {
   :root {
     --h-1: 46px;
   }
