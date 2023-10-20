@@ -3,7 +3,7 @@
 /*--------------------*/
 .accordion{position: relative;z-index: 1;}
 .accordion .accordion-item{border-bottom:1px solid #EAEAEA;}
-.accordion-title{position: relative;font-size:26px;line-height:1.4;font-weight:200;color:var(--clr-title);padding:30px 50px 25px 0;cursor: pointer;-webkit-transition:0.3s;transition:0.3s;}
+.accordion-title{position: relative;font-size:26px;line-height:1.4;font-weight:400;color:var(--clr-title);padding:30px 50px 25px 0;cursor: pointer;-webkit-transition:0.3s;transition:0.3s;}
 .accordion-title:before,.accordion-title:after{content: "";position: absolute;right:0;top:45px;width:26px;height:2px;-webkit-transition:0.3s;transition:0.3s;background: var(--clr-title);will-change: transform;}
 .accordion-title:after{right:12px;top:33px;width:2px;height:26px;}
 .accordion-inner{display: none;padding:0 50px 25px 0;}
