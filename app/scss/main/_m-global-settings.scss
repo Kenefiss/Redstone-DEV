@@ -6,10 +6,10 @@
   --ff-2: 'Inter', sans-serif;
 
   --h-1: 68px;
-  --h-2: 50px;
-  --h-3: 46px;
+  --h-2: 46px;
+  --h-3: 42px;
   --h-4: 38px;
-  --h-5: 26px;
+  --h-5: 24px;
   --h-6: 22px;
 
 
@@ -188,7 +188,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   }
   :lang(pl):root,
   :lang(nl):root{
-    --h-1: 54px;
+    --h-1: 53px;
   }
 }
 
@@ -222,11 +222,11 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
 @media (max-width: 1560px) {
   :root {
     --h-1: 54px;
-    --h-2: 42px;
-    --h-3: 34px;
+    --h-2: 38px;
+    --h-3: 32px;
     --h-4: 30px;
-    --h-5: 22px;
-    --h-6: 19px;
+    --h-5: 20px;
+    --h-6: 18px;
   }
   :lang(pl):root,
   :lang(nl):root{
@@ -289,7 +289,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   :root {
     --h-1: 32px;
     --h-2: 24px;
-    --h-3: 24px;
+    --h-3: 22px;
     --h-4: 30px;
   }
 
@@ -333,7 +333,7 @@ main>.section.sec-breadcrumbs:first-child+.section.project-banner {
   :root {
     --h-1: 36px;
     --h-2: 28px;
-    --h-3: 26px;
+    --h-3: 24px;
     --h-4: 20px;
     --h-5: 18px;
     --h-6: 16px;

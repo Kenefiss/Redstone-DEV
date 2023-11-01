@@ -34,7 +34,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Telefoonnummer:</div>
+          <div class="contact-info-title">Telefoon:</div>
           <div class="contact-info-list">
             <a href="tel:+447392835512">
               <b itemprop="telephone">+447392835512</b>
@@ -54,7 +54,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Telefoonnummer:</div>
+          <div class="contact-info-title">Telefoon:</div>
           <div class="contact-info-list">
             <a href="tel:+48793113458">
               <b itemprop="telephone">+48793113458</b>
@@ -74,7 +74,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Telefoonnummer:</div>
+          <div class="contact-info-title">Telefoon:</div>
           <div class="contact-info-list">
             <a href="tel:+380676075784">
               <b itemprop="telephone">+380676075784</b>
@@ -94,7 +94,7 @@
           </div>
         </div>
         <div class="contact-info">
-          <div class="contact-info-title">Telefoonnummer:</div>
+          <div class="contact-info-title">Telefoon:</div>
           <div class="contact-info-list">
             <a href="tel:+380981515285">
               <b itemprop="telephone">+380981515285</b>

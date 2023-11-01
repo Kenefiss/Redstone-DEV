@@ -146,7 +146,7 @@
           </div>
           <div class="header-menu-right-bottom">
             <div class="d-none d-lg-block">
-            You have an interesting project, let's make it<br>a reality
+            You have an interesting project, let's make it a reality
             </div>
             <a href="documents/REDSTONEBriefMarketing-CorporateEng.doc" download class="btn btn-secondary">
               <b>Fill out the brief</b>

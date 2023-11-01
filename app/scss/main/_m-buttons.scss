@@ -11,7 +11,7 @@
   font-size: 15px;
   line-height: 1.067em;
   font-weight: 500;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.05em;
   text-decoration: none;
   text-transform: uppercase;
   border: none;
@@ -176,11 +176,11 @@
 }
 
 .btn-link {
-  font-size: 15px;
+  font-size: 14px;
   color: var(--clr-red);
   font-weight: 400;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing:0.015em;
   transition: var(--transition-1);
 }
 .btn-link svg {

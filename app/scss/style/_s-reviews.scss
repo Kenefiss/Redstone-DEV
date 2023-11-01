@@ -315,7 +315,10 @@
 
 @media(max-width:1640px) {
   .reviews-slider.type2 .review-content .text:not(.review-price-block) {
-    min-height: 84px;
+    min-height: 64px;
+  }
+  .reviews-slider.type2 .review-info .review-category{
+    font-size:12px;
   }
 }
 

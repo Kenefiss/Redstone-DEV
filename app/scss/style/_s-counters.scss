@@ -27,12 +27,11 @@
 }
 
 .counter small {
-  font-size: 26px;
+  font-size: 22px;
   font-weight: 400;
   color: var(--clr-white);
   white-space: nowrap;
   position: absolute;
-  letter-spacing: 0.02em;
   left: 50%;
   bottom: -20%;
   transform: translateX(-50%);
@@ -106,7 +105,7 @@ body.touch-screen .svg-wrapper text {
   }
 
   .counter small {
-    font-size: 22px;
+    font-size: 18px;
   }
 
   .counter .text-sup {
@@ -141,7 +140,8 @@ body.touch-screen .svg-wrapper text {
   }
 
   .counter small {
-    font-size: 18px;
+    font-size: 15px;
+    bottom: -15%;
   }
 
   .svg-wrapper {

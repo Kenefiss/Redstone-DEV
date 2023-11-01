@@ -168,11 +168,11 @@ header {
   min-width: 60px;
   margin-left: 20px;
   margin-top: 3px;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 14px;
   line-height: 0;
-  letter-spacing: 0.05em;
   text-transform: uppercase;
+  letter-spacing: 0.02em;
   color: currentColor;
 
   b {
@@ -207,11 +207,10 @@ header {
   }
 
   a {
-    font-weight: 300;
+    font-weight: 400;
     font-size: 14px;
     line-height: 1.1em;
     color: var(--clr-black);
-    letter-spacing: 0.05em;
     text-transform: uppercase;
 
     &.active {
@@ -231,11 +230,10 @@ header {
 .header-phone {
   display: flex;
   align-items: center;
-  font-weight: 300;
-  font-size: 18px;
+  font-weight: 500;
+  font-size: 16px;
   line-height: 1em;
   margin-right: 30px;
-  letter-spacing: .05em;
   color: var(--clr-black);
 
   svg {
@@ -304,10 +302,10 @@ header {
 
   a {
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 400;
     line-height: 1;
-    letter-spacing: .05em;
     text-transform: uppercase;
+    letter-spacing: 0.02em;
     color: var(--clr-white);
 
     &.current {
@@ -466,7 +464,7 @@ header {
 
 
   >*:not(.btn) {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.4em;
     font-weight: 300;
     color: var(--clr-text2);
@@ -651,6 +649,10 @@ header {
 
   .header-lang {
     margin-right: 20px;
+
+    a {
+      font-size:12px;
+    }
   }
 
   .header-mega-menu {

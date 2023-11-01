@@ -22,8 +22,8 @@
   font-size: 14px;
   line-height: 1em;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-  font-weight: 200;
+  letter-spacing: 0.02em;
+  font-weight: 300;
 }
 
 .breadcrumbs li+li:before {
@@ -44,6 +44,12 @@
 
   .breadcrumbs a:hover {
     color: var(--clr-red);
+  }
+}
+
+@media(max-width:1640px){
+  .breadcrumbs li{
+    font-size: 12px;
   }
 }
 
