@@ -44,6 +44,68 @@
             </div>
           </div>
           <div class="row news-wrapp animate-item fadeInUp">
+
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-impact-of-5g-on-website-development-and-user-experience">
+                  <picture>
+                    <source srcset="img/the-impact-of-5g-on-website-development-and-user-experience.webp" type="image/webp">
+                    <source srcset="img/the-impact-of-5g-on-website-development-and-user-experience.jpg" type="image/jpeg">
+                    <img src="img/the-impact-of-5g-on-website-development-and-user-experience.jpg" alt="the-impact-of-5g-on-website-development-and-user-experience">
+                  </picture>
+                  <span class="date">14.11.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-impact-of-5g-on-website-development-and-user-experience">Wpływ 5G na rozwój stron internetowych i doświadczenie użytkownika</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="exploring-web-application-development-for-quantum-databases">
+                  <picture>
+                    <source srcset="img/exploring-web-application-development-for-quantum-databases.webp" type="image/webp">
+                    <source srcset="img/exploring-web-application-development-for-quantum-databases.jpg" type="image/jpeg">
+                    <img src="img/exploring-web-application-development-for-quantum-databases.jpg" alt="exploring-web-application-development-for-quantum-databases">
+                  </picture>
+                  <span class="date">09.11.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="exploring-web-application-development-for-quantum-databases">Eksploracja Rozwoju Aplikacji Internetowych Dla Baz Danych Kwantowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="a-deep-dive-into-websockets-vs-restful-api">
+                  <picture>
+                    <source srcset="img/a-deep-dive-into-websockets-vs-restful-api.webp" type="image/webp">
+                    <source srcset="img/a-deep-dive-into-websockets-vs-restful-api.jpg" type="image/jpeg">
+                    <img src="img/a-deep-dive-into-websockets-vs-restful-api.jpg" alt="a-deep-dive-into-websockets-vs-restful-api">
+                  </picture>
+                  <span class="date">04.11.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="a-deep-dive-into-websockets-vs-restful-api">Głębokie zanurzenie w WebSockets vs. RESTful API</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="website-development-for-music-and-audio-sharing-platforms">
+                  <picture>
+                    <source srcset="img/website-development-for-music-and-audio-sharing-platforms.webp" type="image/webp">
+                    <source srcset="img/website-development-for-music-and-audio-sharing-platforms.jpg" type="image/jpeg">
+                    <img src="img/website-development-for-music-and-audio-sharing-platforms.jpg" alt="website-development-for-music-and-audio-sharing-platforms">
+                  </picture>
+                  <span class="date">01.11.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="website-development-for-music-and-audio-sharing-platforms">Rozwój stron internetowych dla platform udostępniania muzyki i dźwięku</a>
+              </div>
+            </div>
+
             <div class="col-md-6 news-item">
               <div class="news-img">
                 <a href="the-webassembly-era-a-revolution-in-website-development">

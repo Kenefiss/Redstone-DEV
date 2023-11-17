@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="how-to-develop-an-offline-ready-mobile-app">
+                  <picture>
+                    <source srcset="img/how-to-develop-an-offline-ready-mobile-app.webp" type="image/webp">
+                    <source srcset="img/how-to-develop-an-offline-ready-mobile-app.jpg" type="image/jpeg">
+                    <img src="img/how-to-develop-an-offline-ready-mobile-app.jpg" alt="how-to-develop-an-offline-ready-mobile-app">
+                  </picture>
+                  <span class="date">14.11.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-develop-an-offline-ready-mobile-app">How to Develop an Offline-Ready Mobile App</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="mobile-game-app-development">
+                  <picture>
+                    <source srcset="img/mobile-game-app-development.webp" type="image/webp">
+                    <source srcset="img/mobile-game-app-development.jpg" type="image/jpeg">
+                    <img src="img/mobile-game-app-development.jpg" alt="mobile-game-app-development">
+                  </picture>
+                  <span class="date">06.11.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="mobile-game-app-development">Mobile game app development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="ensuring-app-security-strategies-and-measures">
+                  <picture>
+                    <source srcset="img/ensuring-app-security-strategies-and-measures.webp" type="image/webp">
+                    <source srcset="img/ensuring-app-security-strategies-and-measures.jpg" type="image/jpeg">
+                    <img src="img/ensuring-app-security-strategies-and-measures.jpg" alt="ensuring-app-security-strategies-and-measures">
+                  </picture>
+                  <span class="date">04.11.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="ensuring-app-security-strategies-and-measures">Ensuring App Security: Strategies and Measures</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-advantages-and-challenges-of-developing-medical-mobile-applications">
+                  <picture>
+                    <source srcset="img/the-advantages-and-challenges-of-developing-medical-mobile-applications.webp" type="image/webp">
+                    <source srcset="img/the-advantages-and-challenges-of-developing-medical-mobile-applications.jpg" type="image/jpeg">
+                    <img src="img/the-advantages-and-challenges-of-developing-medical-mobile-applications.jpg" alt="the-advantages-and-challenges-of-developing-medical-mobile-applications">
+                  </picture>
+                  <span class="date">02.11.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-advantages-and-challenges-of-developing-medical-mobile-applications">The Advantages and Challenges of Developing Medical Mobile Applications</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="the-impact-of-5g-on-web-development-and-user-experience">
                   <picture>
                     <source srcset="img/the-impact-of-5g-on-web-development-and-user-experience.webp" type="image/webp">
