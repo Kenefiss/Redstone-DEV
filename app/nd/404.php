@@ -24,7 +24,7 @@
                 <h1 class="h4 title">
                   Oeps! We kunnen de pagina niet vinden.
                 </h1>
-                <div class="text">
+                <div class="text"> 
                   <p>
                     Sorry, de pagina u probeert te openen bestaat niet. Ga naar de hoofdpagina.
                   </p>

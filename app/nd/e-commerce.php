@@ -3,10 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>eCommerce web development & design Belfast</title>
-  <meta name="description" content="eCommerce is a tool for pumping your business online. Take a look at our projects and you 
-will fall in love with them.">
-  <meta name="keywords" content="eCommerce, web, development, belfast, design">
+  <title>eCommerce webontwikkeling & design Nederland</title>
+  <meta name="description" content="eCommerce is een hulpmiddel waarmee u uw bedrijf online kunt promoten. Kijk eens naar onze projecten, je zal verliefd op ze worden.">
+  <meta name="keywords" content="e-commerce, web, ontwikkeling, Nederland, ontwerp">
 </head>
 
 <body data-page="portfolio">

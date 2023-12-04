@@ -3,10 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Custom CRM, Design, App & Web development in Belfast | REDSTONE software Ireland</title>
-  <meta name="description" content="REDSTONE - software company in Belfast offering web & app develompent, web design, MVP versions and 
-custom CRM system">
-  <meta name="keywords" content="web development, design, app, mvp, cms, crm, company belfast, dublin, london, REDSTONE">
+  <title>Aangepaste CRM, ontwerp, app- en webontwikkeling in Nederland | REDSTONE-software</title>
+  <meta name="description" content="REDSTONE - softwarebedrijf, nu ook in Nederland, dat web- en app-ontwikkeling, webontwerp, MVP-versies en een aangepast CRM-systeem aanbiedt">
+  <meta name="keywords" content="webontwikkeling, ontwerp, app, mvp, cms, crm, bedrijf heel Nederland, in jouw regio, Nijmegen, REDSTONE">
 </head>
 
 <body>

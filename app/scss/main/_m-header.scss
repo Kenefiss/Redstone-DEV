@@ -758,8 +758,8 @@ header {
   .header-wrap-right{
     z-index: 4;
   }
-  :lang(pl).header-wrap-right{
-    margin-left: 20px;
+  :lang(pl).header-wrap-right, :lang(nl).header-wrap-right{
+    margin-left: 1.25rem;
   }
   .header-menu-right {
     margin-top: auto;

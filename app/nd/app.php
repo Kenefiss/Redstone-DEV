@@ -3,9 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Mobile App development & design Belfast | Custom solution</title>
-  <meta name="description" content="App development - be in every client's phone, comfortable design and style are guaranteed. Redstone placed in Belfast">
-  <meta name="keywords" content="application, app, mobile, development, belfast, software, custom">
+  <title>Ontwikkeling en ontwerp van mobiele apps Nederland | Aangepaste oplossing</title>
+  <meta name="description" content="App-ontwikkeling - zit in de telefoon van elke klant, user-friendly ontwerp en stijl zijn gegarandeerd. Redstone Software.">
+  <meta name="keywords" content="applicatie, app, mobiel, ontwikkeling, Nederland, software, maatwerk">
 </head>
 
 <body data-page="portfolio">

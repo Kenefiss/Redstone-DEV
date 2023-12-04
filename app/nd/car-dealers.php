@@ -3,8 +3,8 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
-  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
+  <title>REDSTONE SOFTWARE - Geavanceerde oplossingen voor uw bedrijf</title>
+  <meta name="description" content="REDSTONE SOFTWARE geeft merken een moderne technische oplossing. Ons team beschikt over hoogwaardige expertise op verschillende IT-gebieden en helpt klanten de beste weg te vinden in hun merkontwikkeling met de nieuwste IT-technologieën.">
 </head>
 
 <body data-page="portfolio">

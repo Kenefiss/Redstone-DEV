@@ -3,10 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Web development and Design Belfast , Norther Ireland</title>
-  <meta name="description" content="The highest quality website development and design in Belfast, over 16 years 
-of experience | London | Dublin |Belfast">
-  <meta name="keywords" content="web, developer, northern ireland, development">
+  <title>Webontwikkeling en ontwerp in heel Nederland, in jouw regio</title>
+  <meta name="description" content="Websiteontwikkeling en -ontwerp van de hoogste kwaliteit al meer dan 17 jaar van ervaring | Londen | Dublin | Belfast | Amsterdam | Nijmegen.">
+  <meta name="keywords" content="applicatie, web, mobiel, ontwikkeling, Nederland, software, maatwerk">
 </head>
 
 <body data-page="portfolio">

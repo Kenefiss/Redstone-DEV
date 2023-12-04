@@ -5,7 +5,7 @@
         <div class="brief-content animate-item fadeInUp">
           <div class="title h2">Je hebt een interessant project, laten we het werkelijkheid maken.</div>
           <div class="round-btn-wrap">
-            <a class="round-btn-listener" href="documents/REDSTONEBriefMarketing-CorporateEng.doc" download></a>
+            <a class="round-btn-listener" href="documents/REDSTONE_brief_vertaling.docx" download></a>
             <div class="round-btn">
               <div class="circle"></div>
               <span class="name">Vul het <br> formulier in

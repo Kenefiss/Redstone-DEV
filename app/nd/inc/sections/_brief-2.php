@@ -5,7 +5,7 @@
         <div class="brief-content animate-item fadeInUp">
           <div class="title h2">Do you have an interesting project? Let's make it a reality</div>
           <div class="round-btn-wrap">
-            <a class="round-btn-listener" href="documents/REDSTONEBriefMarketing-CorporateEng.doc" download></a>
+            <a class="round-btn-listener" href="documents/REDSTONE_brief_vertaling.docx" download></a>
             <div class="round-btn">
               <div class="circle"></div>
               <span class="name">Fill out <br> the brief

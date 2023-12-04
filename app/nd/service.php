@@ -3,8 +3,8 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE SOFTWARE - Cutting-edge solutions for your brand</title>
-  <meta name="description" content="REDSTONE SOFTWARE empowers brands with a modern tech solution. Our team has high-level expertise in different IT fields and helps clients to find the best way in their brand development with the latest IT technologies.">
+  <title>REDSTONE SOFTWARE - Geavanceerde oplossingen voor uw bedrijf</title>
+  <meta name="description" content="REDSTONE SOFTWARE geeft merken een moderne technische oplossing. Ons team beschikt over hoogwaardige expertise op verschillende IT-gebieden en helpt klanten de beste weg te vinden in hun merkontwikkeling met de nieuwste IT-technologieën.">
 </head>
 
 <body>
@@ -38,8 +38,8 @@
           <div class="row">
             <div class="col-12">
               <div class="title-with-text size2">
-                <div class="title h2 animate-item fadeInUp">Our services</div>
-                <div class="text animate-item fadeInUp delay-1">Unlock the countless benefits that come with working alongside a full-cycle studio.</div>
+                <div class="title h2 animate-item fadeInUp">Onze dinsten</div>
+                <div class="text animate-item fadeInUp delay-1">Ontgrendel de talloze voordelen die het werken met een full-cycle studio met zich meebrengt.</div>
               </div>
             </div>
           </div>
@@ -48,8 +48,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
                   <div class="title h4">Website ontwikkeling</div>
-                  <div class="text">Our team specializes in creating websites that strike the perfect balance between aesthetics and functionality. We use cutting-edge technologies to ensure fast loading speeds, mobile responsiveness, and browser compatibility, ensuring your audience enjoys a top-tier browsing experience.</div>
-                  <a href="service-website-development" class="btn btn-primary">View more</a>
+                  <div class="text">Ons team is gespecialiseerd in het creëren van websites die de perfecte balans vinden tussen esthetiek en functionaliteit. We gebruiken de allernieuwste technologieën om hoge laadsnelheden, mobiel reactievermogen en browsercompatibiliteit te garanderen, zodat uw publiek kan genieten van een eersteklas browservaring.</div>
+                  <a href="service-website-development" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -67,8 +67,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
                   <div class="title h4">Applicatie ontwikkeling</div>
-                  <div class="text">We're not just coders; we're solution providers. Our application development process encompasses everything from the initial ideation to post-launch support. By integrating modern UI/UX designs with efficient backend structures, we deliver applications that are both user-friendly and powerful.</div>
-                  <a href="service-app-development" class="btn btn-primary">View more</a>
+                  <div class="text">We zijn niet alleen codeerders; wij zijn oplossingsleveranciers. Ons applicatieontwikkelingsproces omvat alles, van het eerste idee tot de ondersteuning na de lancering. Door moderne UI/UX-ontwerpen te integreren met efficiënte backend-structuren, leveren we applicaties die zowel gebruiksvriendelijk als krachtig zijn.</div>
+                  <a href="service-app-development" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -86,8 +86,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
                   <div class="title h4">Website-ondersteuning</div>
-                  <div class="text">Digital landscapes change rapidly. Our website support ensures that your site remains up-to-date with the latest web standards, security patches, and features. Our dedicated team is always at your service, ensuring your online presence remains uninterrupted and in prime condition.</div>
-                  <a href="service-site-support" class="btn btn-primary">View more</a>
+                  <div class="text">Digitale landschappen veranderen snel. Onze websiteondersteuning zorgt ervoor dat uw site up-to-date blijft met de nieuwste webstandaarden, beveiligingspatches en functies. Ons toegewijde team staat altijd voor u klaar en zorgt ervoor dat uw online aanwezigheid ononderbroken en in topconditie blijft.</div>
+                  <a href="service-site-support" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -105,8 +105,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
                   <div class="title h4">Landingspagina</div>
-                  <div class="text">Our landing pages are more than just attractive designs; they're conversion engines. By understanding your audience's behavior and needs, we craft landing pages with strategic content placement, compelling call-to-actions, and optimized loading times to maximize conversion rates.</div>
-                  <a href="service-landing-page" class="btn btn-primary">View more</a>
+                  <div class="text">Onze landingspagina's zijn meer dan alleen aantrekkelijke ontwerpen; het zijn conversiemotoren. Door het gedrag en de behoeften van uw doelgroep te begrijpen, maken we landingspagina's met strategische inhoud, overtuigende call-to-actions en geoptimaliseerde laadtijden om de conversiepercentages te maximaliseren.</div>
+                  <a href="service-landing-page" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -124,8 +124,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
                   <div class="title h4">E-commerce</div>
-                  <div class="text">The online marketplace is booming, and you deserve a piece of that pie. Our e-commerce solutions are robust and secure, offering a wide range of features like inventory management, easy checkout processes, and integrated payment gateways. We make online shopping a breeze for your customers.</div>
-                  <a href="service-online-store" class="btn btn-primary">View more</a>
+                  <div class="text">De online marktplaats bloeit en jij verdient een stukje van die taart. Onze e-commerceoplossingen zijn robuust en veilig en bieden een breed scala aan functies, zoals voorraadbeheer, eenvoudige afrekenprocessen en geïntegreerde betalingsgateways. Wij maken online winkelen een fluitje van een cent voor uw klanten.</div>
+                  <a href="service-online-store" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -143,8 +143,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
                   <div class="title h4">Herontwerp</div>
-                  <div class="text">Trends evolve, and so should your website. Our redesign services focus on analyzing what's working and what's not on your current site. We then integrate the latest design trends and features, ensuring your business remains contemporary and engaging.</div>
-                  <a href="service-redesign" class="btn btn-primary">View more</a>
+                  <div class="text">Trends evolueren, en dat geldt ook voor uw website. Onze herontwerpdiensten zijn gericht op het analyseren van wat wel en niet werkt op uw huidige site. Vervolgens integreren we de nieuwste designtrends en -functies, zodat uw bedrijf eigentijds en aantrekkelijk blijft.</div>
+                  <a href="service-redesign" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -162,8 +162,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
                   <div class="title h4">Search engine optimization</div>
-                  <div class="text">Visibility is key in the digital realm. Our SEO strategies are rooted in deep analytics and industry best practices. From on-page optimization to quality backlink acquisition, we strive to increase your rankings, driving more organic traffic to your site.</div>
-                  <a href="service-seo" class="btn btn-primary">View more</a>
+                  <div class="text">Zichtbaarheid is essentieel in de digitale wereld. Onze SEO-strategieën zijn geworteld in diepgaande analyses en best practices uit de sector. Van optimalisatie op de pagina tot hoogwaardige backlink-acquisitie, we streven ernaar om uw ranking te verhogen en meer organisch verkeer naar uw site te leiden.</div>
+                  <a href="service-seo" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -181,8 +181,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
                   <div class="title h4">Branding en ontwerp</div>
-                  <div class="text">Your brand tells your story. We work closely with businesses to understand their ethos, creating designs and branding strategies that resonate with target audiences. From logos to complete brand guidelines, we've got you covered.</div>
-                  <a href="service-branding" class="btn btn-primary">View more</a>
+                  <div class="text">Jouw merk vertelt jouw verhaal. We werken nauw samen met bedrijven om hun ethos te begrijpen, door ontwerpen en merkstrategieën te creëren die resoneren met de doelgroepen. Van logo's tot volledige merkrichtlijnen, wij staan ​​voor u klaar.</div>
+                  <a href="service-branding" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1">
@@ -200,8 +200,8 @@
               <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
                 <div class="project-info">
                   <div class="title h4">CRM system</div>
-                  <div class="text">In today's competitive market, customer relationship management is paramount. Our CRM systems are tailored to your business needs, providing tools to track leads, manage customer interactions, and analyze sales data, all while integrating seamlessly with your other digital tools.</div>
-                  <a href="service-crm-system" class="btn btn-primary">View more</a>
+                  <div class="text">In de huidige competitieve markt is klantrelatiebeheer van cruciaal belang. Onze CRM-systemen zijn afgestemd op uw zakelijke behoeften en bieden tools om leads te volgen, klantinteracties te beheren en verkoopgegevens te analyseren, en dit alles terwijl ze naadloos integreren met uw andere digitale tools.</div>
+                  <a href="service-crm-system" class="btn btn-primary">Kijk meer</a>
                 </div>
               </div>
               <div class="col-12 col-lg-7 order-1 order-lg-2">
@@ -230,42 +230,42 @@
             <div class="col-xl-7">
               <div class="accordion" itemscope itemtype="https://schema.org/FAQPage">
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What technologies do you use for website and application development?</div>
+                  <div class="accordion-title" itemprop="name">Welke technologieën gebruikt u voor de ontwikkeling van websites en applicaties?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>We utilize a range of modern technologies, tailored to the specific needs of each project. This includes, but is not limited to, HTML5, CSS3, JavaScript, React, Angular, Node.js, and various backend frameworks. Our goal is to select the best tools that align with your business objectives and website functionality.</p>
+                      <p>Wij maken gebruik van een reeks moderne technologieën, afgestemd op de specifieke behoeften van elk project. Dit omvat, maar is niet beperkt tot, HTML5, CSS3, JavaScript, React, Angular, Node.js en verschillende backend-frameworks. Ons doel is om de beste tools te selecteren die aansluiten bij uw bedrijfsdoelstellingen en websitefunctionaliteit.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How long does it typically take to design and launch a new website?</div>
+                  <div class="accordion-title" itemprop="name">Hoe lang duurt het doorgaans om een ​​nieuwe website te ontwerpen en te lanceren?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>The timeline for website development varies based on the complexity and size of the project. A basic informational site might take 4-6 weeks from conception to launch, while a complex e-commerce platform could take 12 weeks or more. We prioritize regular communication, ensuring you're kept in the loop throughout the development process.</p>
+                      <p>De tijdlijn voor website-ontwikkeling varieert afhankelijk van de complexiteit en omvang van het project. Het kan van concept tot lancering vier tot zes weken duren voor een eenvoudige informatiesite, terwijl een complex e-commerceplatform twaalf weken of langer kan duren. Wij geven prioriteit aan regelmatige communicatie, zodat u tijdens het ontwikkelingsproces op de hoogte blijft.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">Do you offer post-launch support and maintenance?</div>
+                  <div class="accordion-title" itemprop="name">Biedt u ondersteuning en onderhoud na de lancering?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>Absolutely! Our website support services are designed to ensure your site remains updated, secure, and fully functional. Whether it's applying security patches, updating content, or adding new features, our team is here to assist long after your site goes live.</p>
+                      <p>Absoluut! Onze website-ondersteuningsdiensten zijn ontworpen om ervoor te zorgen dat uw site bijgewerkt, veilig en volledig functioneel blijft. Of het nu gaat om het toepassen van beveiligingspatches, het updaten van inhoud of het toevoegen van nieuwe functies, ons team staat klaar om u te helpen, lang nadat uw site live is gegaan.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">How do you approach search engine optimization (SEO)?</div>
+                  <div class="accordion-title" itemprop="name">Hoe pak je zoekmachineoptimalisatie (SEO) aan?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>SEO is an integral part of our web development process. We start by conducting thorough keyword research, followed by on-page optimization, which includes meta tags, content quality, site speed, and mobile-friendliness. Additionally, we advise on off-page SEO strategies, like quality backlink acquisition, to boost your online visibility.</p>
+                      <p>SEO is een integraal onderdeel van ons webontwikkelingsproces. We beginnen met het uitvoeren van grondig trefwoordonderzoek, gevolgd door optimalisatie op de pagina, waaronder metatags, inhoudskwaliteit, sitesnelheid en mobielvriendelijkheid. Daarnaast adviseren we over off-page SEO-strategieën, zoals kwalitatieve backlink-acquisitie, om uw online zichtbaarheid te vergroten.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                  <div class="accordion-title" itemprop="name">What is the importance of CRM systems for businesses?</div>
+                  <div class="accordion-title" itemprop="name">Wat is het belang van CRM-systemen voor bedrijven?</div>
                   <div class="accordion-inner" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <div class="text" itemprop="text">
-                      <p>CRM systems are vital for businesses looking to streamline customer interactions, sales, and marketing efforts. They offer tools to track and nurture leads, manage customer data, and analyze customer behavior. A good CRM system improves efficiency, boosts sales, and enhances overall customer satisfaction.</p>
+                      <p>CRM-systemen zijn van cruciaal belang voor bedrijven die klantinteracties, verkoop en marketinginspanningen willen stroomlijnen. Ze bieden tools om leads te volgen en te onderhouden, klantgegevens te beheren en klantgedrag te analyseren. Een goed CRM-systeem verbetert de efficiëntie, verhoogt de verkoop en verbetert de algehele klanttevredenheid.</p>
                     </div>
                   </div>
                 </div>

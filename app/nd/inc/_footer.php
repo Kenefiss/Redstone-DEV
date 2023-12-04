@@ -23,6 +23,26 @@
     </div>
     <div class="footer-left-bottom">
       <div class="contact-item">
+        <div class="contact-caption">Nederland</div>
+        <div class="contact-info">
+          <div class="contact-info-title">Adres:</div>
+          <div class="contact-info-list">
+            <a href="https://maps.app.goo.gl/CbsjJBKJoVAnxTMZA" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
+              <b itemprop="addressLocality">Ewijk</b>,
+              <b itemprop="streetAddress">Harp 38 6644DH</b>
+            </a>
+          </div>
+        </div>
+        <div class="contact-info">
+          <div class="contact-info-title">Telefoon:</div>
+          <div class="contact-info-list">
+            <a href="tel:+31618435868">
+              <b itemprop="telephone">+31618435868</b>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="contact-item">
         <div class="contact-caption">United Kingdom</div>
         <div class="contact-info">
           <div class="contact-info-title">Adres:</div>
@@ -82,26 +102,6 @@
           </div>
         </div>
       </div>
-      <div class="contact-item">
-        <div class="contact-caption">Ukraine</div>
-        <div class="contact-info">
-          <div class="contact-info-title">Adres:</div>
-          <div class="contact-info-list">
-            <a href="https://goo.gl/maps/C1zc5QfV6BStHsDo8" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress" target="_blank">
-              <b itemprop="addressLocality">Kyiv</b>,
-              <b itemprop="streetAddress">1 Solomianska Street</b>
-            </a>
-          </div>
-        </div>
-        <div class="contact-info">
-          <div class="contact-info-title">Telefoon:</div>
-          <div class="contact-info-list">
-            <a href="tel:+380981515285">
-              <b itemprop="telephone">+380981515285</b>
-            </a>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 
@@ -124,7 +124,7 @@
       <div class="d-none d-lg-block">
         U hebt een interessante project, laten we samen werkelijkheid van maken.
       </div>
-      <a href="documents/REDSTONEBriefMarketing-CorporateEng.doc" download class="btn btn-secondary">
+      <a href="documents/REDSTONE_brief_vertaling.docx" download class="btn btn-secondary">
         <b>Vul in het intake formulier</b>
       </a>
     </div>

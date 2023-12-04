@@ -3,10 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Web development portfolio | Work cases | Belfast</title>
-  <meta name="description" content="A portfolio shows our work qualifications, and experience. Write to us and make sure. 
-Web development Belfast">
-  <meta name="keywords" content="eCommerce, web, application, design, Crm, MVP, solution, belfast, london">
+  <title>Portefeuille voor webontwikkeling | Werkcasussen | Nederland</title>
+  <meta name="description" content="Een portfolio toont onze werkkwalificaties en ervaring. Schrijf ons en we nemen contact met jou op. Webontwikkeling Nederland.">
+  <meta name="keywords" content="eCommerce, web, applicatie, ontwerp, Crm, MVP, oplossing, Nederland, Amsterdam, Nijmegen">
 </head>
 
 <body>

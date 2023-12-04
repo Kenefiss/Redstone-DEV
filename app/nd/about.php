@@ -3,10 +3,10 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Software, design, app and web development company in Belfast Dublin London  REDSTONE</title>
-  <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
-CRM systems that are convenient for users and our customers. Top offers in Belfast">
-  <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
+  <title>Software-, ontwerp-, app- en webontwikkelingsbedrijf in Belfast Dublin Londen REDSTONE</title>
+  <meta name="description" content="Redstone - een softwarebedrijf, gespecialiseerd in webontwikkeling, ontwerp, mobiele applicaties,
+CRM-systemen die handig zijn voor gebruikers en onze klanten.">
+  <meta name="keywords" content="ontwikkeling, web, Nijmegen, Amsterdam, Utrecht, software, ontwerp">
 </head>
 
 <body>

@@ -3,10 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Web design Belfast | UI UX | Dublin</title>
-  <meta name="description" content="We offer high-quality UI and UX design development for users and site administrators. 
-Our advantages: quality and comfort!">
-  <meta name="keywords" content="web design, belfast, graphic design, northern ireland">
+  <title>Web design Nederland | UI UX | Amsterdam</title>
+  <meta name="description" content="Wij bieden hoogwaardige UI- en UX-ontwerpontwikkeling voor gebruikers en sitebeheerders. Onze voordelen: kwaliteit en comfort!">
+  <meta name="keywords" content="webdesign, Amsterdam, grafisch ontwerp, Nederland">
 </head>
 
 <body data-page="portfolio">

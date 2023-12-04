@@ -3,10 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title> Web App development   Contact  Redstone software from Belfast</title>
-  <meta name="description" content="Get in touch with a web development company in Belfast, we will raise your indicators 
-and increase your profit | Norther Ireland | Certified company">
-  <meta name="keywords" content="software, webcompany, belfast, contact">
+  <title>Web App development Contact  Redstone software actief in Nederland</title>
+  <meta name="description" content="Neem contact op met een webontwikkelingsbedrijf in Belfast, actief in Nederland, wij zullen uw indicatoren verhogen en helpen uw winst laten stijgen| Noord-Ierland | Gecertificeerd bedrijf">
+  <meta name="keywords" content="software, webcompany, belfast, amsterdam, contact">
 </head>
 
 <body>
@@ -57,16 +56,16 @@ and increase your profit | Norther Ireland | Certified company">
                 <div class="col-lg-6 animate-item fadeInUp delay-2">
                   <div class="contact-page-info">
                     <div class="address">
-                      <h5>United Kingdom</h5>
+                      <h5>Nederland</h5>
                       <table>
                         <tr>
                           <td>Address:</td>
-                          <td><a href="https://goo.gl/maps/6JEchaCUh4aAeoKq8" target="_blank" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-                              <span itemprop="addressLocality">Lurgan</span>, <span itemprop="streetAddress">4 Ferndale Co Armagh BT66 8LQ</span></a></td>
+                          <td><a href="https://maps.app.goo.gl/CbsjJBKJoVAnxTMZA" target="_blank" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+                              <span itemprop="addressLocality">Ewijk</span>, <span itemprop="streetAddress">Harp 38 6644DH</span></a></td>
                         </tr>
                         <tr>
                           <td>Phone:</td>
-                          <td><a href="tel:+447392835512">+447392835512</a></td>
+                          <td><a href="tel:+31618435868">+31618435868</a></td>
                         </tr>
                         <tr>
                           <td>Email:</td>
@@ -117,16 +116,16 @@ and increase your profit | Norther Ireland | Certified company">
                 <div class="map" id="map" data-lat="54.45237" data-lng="-6.33684" data-zoom="15" data-xs-zoom="15"></div>
                 <a class="marker" data-rel="map" data-lat="54.45237" data-lng="-6.33684" data-image="img/point-map.svg" 
                 data-string='<div class="address">
-                      <h5>United Kingdom</h5>
+                      <h5>Nederland</h5>
                       <table>
                         <tbody><tr>
                           <td>Address:</td>
-                          <td><a href="https://goo.gl/maps/6JEchaCUh4aAeoKq8" target="_blank" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
-                              <span itemprop="addressLocality">Lurgan</span>, <span itemprop="streetAddress">4 Ferndale Co Armagh BT66 8LQ</span></a></td>
+                          <td><a href="https://maps.app.goo.gl/CbsjJBKJoVAnxTMZA" target="_blank" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
+                              <span itemprop="addressLocality">Ewijk</span>, <span itemprop="streetAddress">Harp 38 6644DH</span></a></td>
                         </tr>
                         <tr>
                           <td>Phone:</td>
-                          <td><a href="tel:+447392835512">+447392835512</a></td>
+                          <td><a href="tel:+31618435868">+31618435868</a></td>
                         </tr>
                         <tr>
                           <td>Email:</td>

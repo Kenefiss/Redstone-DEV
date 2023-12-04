@@ -3,9 +3,9 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>CRM Web development Belfast | Custom development</title>
-  <meta name="description" content="CRM system for managing your business, improve processes and results using web development">
-  <meta name="keywords" content="CRM, development, belfast, business">
+  <title>CRM Webontwikkeling Nederland | Ontwikkeling op maat</title>
+  <meta name="description" content="CRM-systeem voor het beheren van uw bedrijf, het verbeteren van processen en resultaten met behulp van webontwikkeling.">
+  <meta name="keywords" content="CRM, ontwikkeling, Nederland, zakelijk">
 </head>
 
 <body data-page="portfolio">
