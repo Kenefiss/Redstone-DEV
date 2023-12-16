@@ -44,7 +44,66 @@
             </div>
           </div>
           <div class="row news-wrapp animate-item fadeInUp">
-
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="creating-websites-for-e-commerce-shaping-your-digital-storefront">
+                  <picture>
+                    <source srcset="img/creating-websites-for-e-commerce-shaping-your-digital-storefront.webp" type="image/webp">
+                    <source srcset="img/creating-websites-for-e-commerce-shaping-your-digital-storefront.jpg" type="image/jpeg">
+                    <img src="img/creating-websites-for-e-commerce-shaping-your-digital-storefront.jpg" alt="creating-websites-for-e-commerce-shaping-your-digital-storefront">
+                  </picture>
+                  <span class="date">15.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="creating-websites-for-e-commerce-shaping-your-digital-storefront">Tworzenie Stron Internetowych dla E-commerce: Kształtowanie Cyfrowej Witryny Sklepowej</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="crm-systems-revolutionizing-customer-management-in-the-digital-age">
+                  <picture>
+                    <source srcset="img/crm-systems-revolutionizing-customer-management-in-the-digital-age.webp" type="image/webp">
+                    <source srcset="img/crm-systems-revolutionizing-customer-management-in-the-digital-age.jpg" type="image/jpeg">
+                    <img src="img/crm-systems-revolutionizing-customer-management-in-the-digital-age.jpg" alt="crm-systems-revolutionizing-customer-management-in-the-digital-age">
+                  </picture>
+                  <span class="date">12.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="crm-systems-revolutionizing-customer-management-in-the-digital-age">Systemy CRM: Rewolucjonizacja Zarządzania Klientami w Erze Cyfrowej</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="accessibility-in-website-development-why-it-matters">
+                  <picture>
+                    <source srcset="img/accessibility-in-website-development-why-it-matters.webp" type="image/webp">
+                    <source srcset="img/accessibility-in-website-development-why-it-matters.jpg" type="image/jpeg">
+                    <img src="img/accessibility-in-website-development-why-it-matters.jpg" alt="accessibility-in-website-development-why-it-matters">
+                  </picture>
+                  <span class="date">07.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="accessibility-in-website-development-why-it-matters">Dostępność w Rozwoju Stron Internetowych: Dlaczego Ma To Znaczenie</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-future-of-website-development-trends-to-watch">
+                  <picture>
+                    <source srcset="img/the-future-of-website-development-trends-to-watch.webp" type="image/webp">
+                    <source srcset="img/the-future-of-website-development-trends-to-watch.jpg" type="image/jpeg">
+                    <img src="img/the-future-of-website-development-trends-to-watch.jpg" alt="the-future-of-website-development-trends-to-watch">
+                  </picture>
+                  <span class="date">04.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-future-of-website-development-trends-to-watch">Przyszłość Rozwoju Stron Internetowych: Trendy do Obserwacji</a>
+              </div>
+            </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
                 <a href="the-impact-of-5g-on-website-development-and-user-experience">
@@ -105,7 +164,6 @@
                 <a href="website-development-for-music-and-audio-sharing-platforms">Rozwój stron internetowych dla platform udostępniania muzyki i dźwięku</a>
               </div>
             </div>
-
             <div class="col-md-6 news-item">
               <div class="news-img">
                 <a href="the-webassembly-era-a-revolution-in-website-development">

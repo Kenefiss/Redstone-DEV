@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="web-development-for-e-commerce-crafting-the-digital-storefront">
+                  <picture>
+                    <source srcset="img/web-development-for-e-commerce-crafting-the-digital-storefront.webp" type="image/webp">
+                    <source srcset="img/web-development-for-e-commerce-crafting-the-digital-storefront.jpg" type="image/jpeg">
+                    <img src="img/web-development-for-e-commerce-crafting-the-digital-storefront.jpg" alt="web-development-for-e-commerce-crafting-the-digital-storefront">
+                  </picture>
+                  <span class="date">15.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="web-development-for-e-commerce-crafting-the-digital-storefront">Web Development for E-commerce: Crafting the Digital Storefront</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="crm-systems-revolutionizing-customer-management-in-the-digital-era">
+                  <picture>
+                    <source srcset="img/crm-systems-revolutionizing-customer-management-in-the-digital-era.webp" type="image/webp">
+                    <source srcset="img/crm-systems-revolutionizing-customer-management-in-the-digital-era.jpg" type="image/jpeg">
+                    <img src="img/crm-systems-revolutionizing-customer-management-in-the-digital-era.jpg" alt="crm-systems-revolutionizing-customer-management-in-the-digital-era">
+                  </picture>
+                  <span class="date">12.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="crm-systems-revolutionizing-customer-management-in-the-digital-era">CRM Systems: Revolutionizing Customer Management in the Digital Era</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="accessibility-in-web-development-why-it-matters">
+                  <picture>
+                    <source srcset="img/accessibility-in-web-development-why-it-matters.webp" type="image/webp">
+                    <source srcset="img/accessibility-in-web-development-why-it-matters.jpg" type="image/jpeg">
+                    <img src="img/accessibility-in-web-development-why-it-matters.jpg" alt="accessibility-in-web-development-why-it-matters">
+                  </picture>
+                  <span class="date">07.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="accessibility-in-web-development-why-it-matters">Accessibility in Web Development: Why It Matters</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-future-of-web-development-trends-to-watch">
+                  <picture>
+                    <source srcset="img/the-future-of-web-development-trends-to-watch.webp" type="image/webp">
+                    <source srcset="img/the-future-of-web-development-trends-to-watch.jpg" type="image/jpeg">
+                    <img src="img/the-future-of-web-development-trends-to-watch.jpg" alt="the-future-of-web-development-trends-to-watch">
+                  </picture>
+                  <span class="date">04.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-future-of-web-development-trends-to-watch">The Future of Web Development: Trends to Watch</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="how-to-develop-an-offline-ready-mobile-app">
                   <picture>
                     <source srcset="img/how-to-develop-an-offline-ready-mobile-app.webp" type="image/webp">
