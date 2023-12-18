@@ -88,7 +88,7 @@
           <div class="svg-wrapper">
             <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
               <text x="50%" y="97" stroke-width="1" font-size="100" text-anchor="middle">
-                <tspan class="text-bold">17</tspan>
+                <tspan class="text-bold">18</tspan>
               </text>
             </svg>
           </div>

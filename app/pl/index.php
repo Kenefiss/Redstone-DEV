@@ -42,12 +42,12 @@
                 <div class="svg-wrapper type2">
                   <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
                     <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">17</tspan>
+                      <tspan class="text-bold">18</tspan>
                     </text>
                   </svg>
                 </div>
               </div>
-              <div class="sub-title text-center"><span class="d-xl-none">17</span> OD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
+              <div class="sub-title text-center"><span class="d-xl-none">18</span> OD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
