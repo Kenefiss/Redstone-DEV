@@ -61,6 +61,21 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="seasons-greetings-and-a-bright-new-year-from-redstone">
+                  <picture>
+                    <source srcset="img/seasons-greetings-and-a-bright-new-year-from-redstone.webp" type="image/webp">
+                    <source srcset="img/seasons-greetings-and-a-bright-new-year-from-redstone.jpg" type="image/jpeg">
+                    <img src="img/seasons-greetings-and-a-bright-new-year-from-redstone.jpg" alt="seasons-greetings-and-a-bright-new-year-from-redstone">
+                  </picture>
+                  <span class="date">29.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="seasons-greetings-and-a-bright-new-year-from-redstone">Season's greetings and a bright New Year from REDSTONE</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="web-development-for-e-commerce-crafting-the-digital-storefront">
                   <picture>
                     <source srcset="img/web-development-for-e-commerce-crafting-the-digital-storefront.webp" type="image/webp">

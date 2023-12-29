@@ -46,6 +46,21 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="seasons-greetings-and-a-bright-new-year-from-redstone">
+                  <picture>
+                    <source srcset="img/seasons-greetings-and-a-bright-new-year-from-redstone.webp" type="image/webp">
+                    <source srcset="img/seasons-greetings-and-a-bright-new-year-from-redstone.jpg" type="image/jpeg">
+                    <img src="img/seasons-greetings-and-a-bright-new-year-from-redstone.jpg" alt="seasons-greetings-and-a-bright-new-year-from-redstone">
+                  </picture>
+                  <span class="date">29.12.2023</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="seasons-greetings-and-a-bright-new-year-from-redstone">Życzenia Świąteczne i Szczęśliwego Nowego Roku od REDSTONE</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="creating-websites-for-e-commerce-shaping-your-digital-storefront">
                   <picture>
                     <source srcset="img/creating-websites-for-e-commerce-shaping-your-digital-storefront.webp" type="image/webp">

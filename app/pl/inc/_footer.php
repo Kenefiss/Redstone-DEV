@@ -132,7 +132,7 @@
 
   <div class="footer-bottom">
     <div class="footer-copy">
-      2023 © REDSTONE SOFTWARE
+      2024 © REDSTONE SOFTWARE
     </div>
     <div class="social">
       <ul>
