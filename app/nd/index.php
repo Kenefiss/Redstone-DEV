@@ -47,7 +47,7 @@
                   </svg>
                 </div>
               </div>
-              <div class="sub-title text-center">Al 18 jaar jouw zaak online aan het</div>
+              <div class="sub-title text-center">AL 18 JAAR DE BEHEERDER VAN JOUW ONLINE ONDERNEMING</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
