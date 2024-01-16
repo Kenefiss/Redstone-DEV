@@ -46,6 +46,66 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="how-to-create-effective-web-infographics">
+                  <picture>
+                    <source srcset="img/how-to-create-effective-web-infographics.webp" type="image/webp">
+                    <source srcset="img/how-to-create-effective-web-infographics.jpg" type="image/jpeg">
+                    <img src="img/how-to-create-effective-web-infographics.jpg" alt="how-to-create-effective-web-infographics">
+                  </picture>
+                  <span class="date">15.01.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-create-effective-web-infographics">Jak Tworzyć Skuteczne Infografiki Webowe</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-future-of-web-application-development-trends-and-forecasts">
+                  <picture>
+                    <source srcset="img/the-future-of-web-application-development-trends-and-forecasts.webp" type="image/webp">
+                    <source srcset="img/the-future-of-web-application-development-trends-and-forecasts.jpg" type="image/jpeg">
+                    <img src="img/the-future-of-web-application-development-trends-and-forecasts.jpg" alt="the-future-of-web-application-development-trends-and-forecasts">
+                  </picture>
+                  <span class="date">09.01.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-future-of-web-application-development-trends-and-forecasts">Przyszłość Rozwoju Aplikacji Webowych: Trendy i Prognozy</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="how-to-choose-the-right-hosting-for-your-brands-website">
+                  <picture>
+                    <source srcset="img/how-to-choose-the-right-hosting-for-your-brands-website.webp" type="image/webp">
+                    <source srcset="img/how-to-choose-the-right-hosting-for-your-brands-website.jpg" type="image/jpeg">
+                    <img src="img/how-to-choose-the-right-hosting-for-your-brands-website.jpg" alt="how-to-choose-the-right-hosting-for-your-brands-website">
+                  </picture>
+                  <span class="date">05.01.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-choose-the-right-hosting-for-your-brands-website">Jak Wybrać Odpowiednie Hosting dla Strony Internetowej Twojej Marki</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="importance-of-the-good-page-of-a-404-error">
+                  <picture>
+                    <source srcset="img/importance-of-the-good-page-of-a-404-error.webp" type="image/webp">
+                    <source srcset="img/importance-of-the-good-page-of-a-404-error.jpg" type="image/jpeg">
+                    <img src="img/importance-of-the-good-page-of-a-404-error.jpg" alt="importance-of-the-good-page-of-a-404-error">
+                  </picture>
+                  <span class="date">03.01.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="importance-of-the-good-page-of-a-404-error">Znaczenie Dobrej Strony Błędu 404</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="seasons-greetings-and-a-bright-new-year-from-redstone">
                   <picture>
                     <source srcset="img/seasons-greetings-and-a-bright-new-year-from-redstone.webp" type="image/webp">

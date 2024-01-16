@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="using-heatmaps-to-improve-web-design-and-ux">
+                  <picture>
+                    <source srcset="img/using-heatmaps-to-improve-web-design-and-ux.webp" type="image/webp">
+                    <source srcset="img/using-heatmaps-to-improve-web-design-and-ux.jpg" type="image/jpeg">
+                    <img src="img/using-heatmaps-to-improve-web-design-and-ux.jpg" alt="using-heatmaps-to-improve-web-design-and-ux">
+                  </picture>
+                  <span class="date">12.01.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="using-heatmaps-to-improve-web-design-and-ux">Using Heatmaps to Improve Web Design and UX</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-role-of-microservices-in-modern-web-applications">
+                  <picture>
+                    <source srcset="img/the-role-of-microservices-in-modern-web-applications.webp" type="image/webp">
+                    <source srcset="img/the-role-of-microservices-in-modern-web-applications.jpg" type="image/jpeg">
+                    <img src="img/the-role-of-microservices-in-modern-web-applications.jpg" alt="the-role-of-microservices-in-modern-web-applications">
+                  </picture>
+                  <span class="date">09.01.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-role-of-microservices-in-modern-web-applications">The Role of Microservices in Modern Web Applications</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="how-to-handle-user-data-responsibly-in-web-development">
+                  <picture>
+                    <source srcset="img/how-to-handle-user-data-responsibly-in-web-development.webp" type="image/webp">
+                    <source srcset="img/how-to-handle-user-data-responsibly-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/how-to-handle-user-data-responsibly-in-web-development.jpg" alt="how-to-handle-user-data-responsibly-in-web-development">
+                  </picture>
+                  <span class="date">05.01.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-handle-user-data-responsibly-in-web-development">How to Handle User Data Responsibly in Web Development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-role-of-subscription-models-in-web-development">
+                  <picture>
+                    <source srcset="img/the-role-of-subscription-models-in-web-development.webp" type="image/webp">
+                    <source srcset="img/the-role-of-subscription-models-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/the-role-of-subscription-models-in-web-development.jpg" alt="the-role-of-subscription-models-in-web-development">
+                  </picture>
+                  <span class="date">03.01.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-role-of-subscription-models-in-web-development">The Role of Subscription Models in Web Development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="seasons-greetings-and-a-bright-new-year-from-redstone">
                   <picture>
                     <source srcset="img/seasons-greetings-and-a-bright-new-year-from-redstone.webp" type="image/webp">
