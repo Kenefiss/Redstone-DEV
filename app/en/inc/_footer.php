@@ -56,8 +56,8 @@
         <div class="contact-info">
           <div class="contact-info-title">Phone:</div>
           <div class="contact-info-list">
-            <a href="tel:+48793113458">
-              <b itemprop="telephone">+48793113458</b>
+            <a href="tel:+380676075784">
+              <b itemprop="telephone">+380676075784</b>
             </a>
           </div>
         </div>

@@ -64,7 +64,7 @@
                         </tr>
                         <tr>
                           <td>Telefon:</td>
-                          <td><a href="tel:+48793113458">+48793113458</a></td>
+                          <td><a href="tel:+380676075784">+380676075784</a></td>
                         </tr>
                         <tr>
                           <td>E-mail:</td>
@@ -125,7 +125,7 @@
                           </tr>
                           <tr>
                             <td>Telefon:</td>
-                            <td><a href="tel:+48793113458">+48793113458</a></td>
+                            <td><a href="tel:+380676075784">+380676075784</a></td>
                           </tr>
                           <tr>
                             <td>Email:</td>
