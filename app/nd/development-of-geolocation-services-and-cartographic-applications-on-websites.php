@@ -55,7 +55,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
             <div class="col-xl-4 align-self-center">
               <div class="project-detail-info">
-                <div class="blog-date">09.10.2023</div>
+                <div class="blog-date">09.02.2024</div>
                 <h1 class="title h2 name-project">Ontwikkeling van Geolocatiediensten en Cartografische Toepassingen op Websites</h1>
                 <div class="text desc">
                   <p>Ontwikkeling van Geolocatiediensten en Cartografische Toepassingen op Websites. Het internet evolueert voortdurend, en samen hiermee groeit de populariteit van de ontwikkeling van geolocatiediensten en cartografische toepassingen. Deze trend opent nieuwe mogelijkheden voor web ontwikkelaars en gebruikers, waardoor boeiende en nuttige online tools kunnen worden gecreëerd die verband houden met geografische locatie.</p>

@@ -55,7 +55,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
             <div class="col-xl-4 align-self-center">
               <div class="project-detail-info">
-                <div class="blog-date">13.10.2023</div>
+                <div class="blog-date">12.02.2024</div>
                 <h1 class="title h2 name-project">Het Creëren van Aangepaste Data Visualisatie Widgets</h1>
                 <div class="text desc">
                   <p>Data visualisatie is een essentieel onderdeel geworden van moderne applicaties en websites. Het stelt gebruikers in staat om complexe gegevens te begrijpen door ze op een visueel aantrekkelijke en begrijpelijke manier weer te geven. Hoewel er veel kant-en-klare data visualisatie tools beschikbaar zijn, zijn aangepaste data visualisatie widgets soms de beste keuze, vooral als je een specifieke en unieke gebruikerservaring wilt bieden.</p>

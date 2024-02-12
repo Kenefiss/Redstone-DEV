@@ -55,7 +55,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
             <div class="col-xl-4 align-self-center">
               <div class="project-detail-info">
-                <div class="blog-date">02.10.2023</div>
+                <div class="blog-date">02.02.2024</div>
                 <h1 class="title h2 name-project">Sass en Less: Voordelen van CSS-preprocessors</h1>
                 <div class="text desc">
                   <p>CSS, oftewel Cascading Style Sheets, is een fundamentele taal voor het vormgeven van webpagina's. Het bepaalt de visuele aspecten van een website. Echter, het schrijven van CSS kan uitdagend zijn, vooral bij complexe en omvangrijke projecten. Om deze uitdagingen aan te gaan en het beheer van stijlen te verbeteren, zijn CSS-preprocessors zoals Sass (Syntactically Awesome Stylesheets) en Less ontwikkeld. In dit artikel duiken we dieper in op de voordelen van het gebruik van deze CSS-preprocessors.</p>

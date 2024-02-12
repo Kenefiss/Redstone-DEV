@@ -53,7 +53,7 @@ CRM-systemen die handig zijn voor gebruikers en onze klanten.">
                     <source srcset="img/creating-custom-data-visualization-widgets.jpg" type="image/jpeg">
                     <img src="img/creating-custom-data-visualization-widgets.jpg" alt="creating-custom-data-visualization-widgets">
                   </picture>
-                  <span class="date">13.10.2023</span>
+                  <span class="date">12.02.2024</span>
                 </a>
               </div>
               <div class="news-title title h5">
@@ -68,7 +68,7 @@ CRM-systemen die handig zijn voor gebruikers en onze klanten.">
                     <source srcset="img/development-of-geolocation-services-and-cartographic-applications-on-websites.jpg" type="image/jpeg">
                     <img src="img/development-of-geolocation-services-and-cartographic-applications-on-websites.jpg" alt="development-of-geolocation-services-and-cartographic-applications-on-websites">
                   </picture>
-                  <span class="date">09.10.2023</span>
+                  <span class="date">09.02.2024</span>
                 </a>
               </div>
               <div class="news-title title h5">
@@ -83,7 +83,7 @@ CRM-systemen die handig zijn voor gebruikers en onze klanten.">
                     <source srcset="img/the-rise-of-webassembly-een-game-changer-in-web-development.jpg" type="image/jpeg">
                     <img src="img/the-rise-of-webassembly-een-game-changer-in-web-development.jpg" alt="the-rise-of-webassembly-een-game-changer-in-web-development">
                   </picture>
-                  <span class="date">05.10.2023</span>
+                  <span class="date">05.02.2024</span>
                 </a>
               </div>
               <div class="news-title title h5">
@@ -98,7 +98,7 @@ CRM-systemen die handig zijn voor gebruikers en onze klanten.">
                     <source srcset="img/sass-and-less-benefits-of-css-preprocessors.jpg" type="image/jpeg">
                     <img src="img/sass-and-less-benefits-of-css-preprocessors.jpg" alt="sass-and-less-benefits-of-css-preprocessors">
                   </picture>
-                  <span class="date">02.10.2023</span>
+                  <span class="date">02.02.2024</span>
                 </a>
               </div>
               <div class="news-title title h5">

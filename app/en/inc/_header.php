@@ -38,9 +38,10 @@
           <div class="container-fluid">
             <div class="header-menu-left-inner">
               <ul class="header-lang">
-                <li><a href="https://redstone.media/">УКР</a></li>
                 <li><a href="/" class="current">ENG</a></li>
+                <li><a href="https://redstone.media/">УКР</a></li>
                 <li><a href="https://redstonesoft.pl/">PL</a></li>
+                <li><a href="https://redstonesoft.nl/">NL</a></li>
               </ul>
               <a class="btn h-btn d-lg-none hash" href="/#contact">
                 <b>Ask a question</b>

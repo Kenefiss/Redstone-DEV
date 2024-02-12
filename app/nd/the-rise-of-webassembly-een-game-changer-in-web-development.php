@@ -55,7 +55,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             </div>
             <div class="col-xl-4 align-self-center">
               <div class="project-detail-info">
-                <div class="blog-date">05.10.2023</div>
+                <div class="blog-date">05.02.2024</div>
                 <h1 class="title h2 name-project">The Rise of WebAssembly: Een Game Changer in Web Development</h1>
                 <div class="text desc">
                   <p>Webontwikkeling heeft in de afgelopen jaren enorme vooruitgang geboekt, en een van de meest opwindende ontwikkelingen is de opkomst van WebAssembly (Wasm). WebAssembly is een nieuwe standaard die de manier waarop we webapplicaties bouwen en uitvoeren drastisch verandert. Het opent de deur naar high-performance, near-native ervaringen rechtstreeks in de browser. Laten we eens dieper ingaan op deze revolutionaire technologie.</p>
