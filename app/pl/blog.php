@@ -56,7 +56,7 @@
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="securing-the-digital-space-redstones-commitment-to-web-product-security">Zabezpieczając Cyfrową Przestrzeń: Zaangażowanie REDSTONE w Bezpieczeństwo Produktów Webowych </a>
+                <a href="securing-the-digital-space-redstones-commitment-to-web-product-security">REDSTONE: Zabezpieczając Cyfrową Przestrzeń Web</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
@@ -104,7 +104,6 @@
                 <a href="website-design-according-to-redstone-modern-trends">Projektowanie Stron Według REDSTONE: Nowoczesne Trendy</a>
               </div>
             </div>
-
             <div class="col-md-6 news-item">
               <div class="news-img">
                 <a href="how-to-create-effective-web-infographics">

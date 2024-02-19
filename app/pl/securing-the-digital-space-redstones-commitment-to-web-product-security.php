@@ -55,7 +55,7 @@
             <div class="col-xl-4 align-self-center">
               <div class="project-detail-info">
                 <div class="blog-date">16.02.2024</div>
-                <h1 class="title h2 name-project">Zabezpieczając Cyfrową Przestrzeń: Zaangażowanie REDSTONE w Bezpieczeństwo Produktów Webowych </h1>
+                <h1 class="title h2 name-project">REDSTONE: Zabezpieczając Cyfrową Przestrzeń Web</h1>
               </div>
             </div>
           </div>
