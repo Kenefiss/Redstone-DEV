@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="securing-the-digital-frontier-redstones-commitment-to-web-product-security">
+                  <picture>
+                    <source srcset="img/securing-the-digital-frontier-redstones-commitment-to-web-product-security.webp" type="image/webp">
+                    <source srcset="img/securing-the-digital-frontier-redstones-commitment-to-web-product-security.jpg" type="image/jpeg">
+                    <img src="img/securing-the-digital-frontier-redstones-commitment-to-web-product-security.jpg" alt="securing-the-digital-frontier-redstones-commitment-to-web-product-security">
+                  </picture>
+                  <span class="date">15.02.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="securing-the-digital-frontier-redstones-commitment-to-web-product-security">Securing the Digital Frontier: REDSTONE's Commitment to Web Product Security</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="behind-the-code-a-closer-look-at-redstones-development-process">
+                  <picture>
+                    <source srcset="img/behind-the-code-a-closer-look-at-redstones-development-process.webp" type="image/webp">
+                    <source srcset="img/behind-the-code-a-closer-look-at-redstones-development-process.jpg" type="image/jpeg">
+                    <img src="img/behind-the-code-a-closer-look-at-redstones-development-process.jpg" alt="behind-the-code-a-closer-look-at-redstones-development-process">
+                  </picture>
+                  <span class="date">11.02.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="behind-the-code-a-closer-look-at-redstones-development-process">Behind the Code: A Closer Look at REDSTONE's Development Process</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-art-of-user-centric-design-redstones-approach-to-creating-intuitive-web-experiences">
+                  <picture>
+                    <source srcset="img/the-art-of-user-centric-design-redstones-approach-to-creating-intuitive-web-experiences.webp" type="image/webp">
+                    <source srcset="img/the-art-of-user-centric-design-redstones-approach-to-creating-intuitive-web-experiences.jpg" type="image/jpeg">
+                    <img src="img/the-art-of-user-centric-design-redstones-approach-to-creating-intuitive-web-experiences.jpg" alt="the-art-of-user-centric-design-redstones-approach-to-creating-intuitive-web-experiences">
+                  </picture>
+                  <span class="date">06.02.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-art-of-user-centric-design-redstones-approach-to-creating-intuitive-web-experiences">The Art of User-Centric Design: REDSTONE's Approach to Creating Intuitive Web Experiences</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="revolutionizing-the-web-redstones-latest-innovations-in-web-development">
+                  <picture>
+                    <source srcset="img/revolutionizing-the-web-redstones-latest-innovations-in-web-development.webp" type="image/webp">
+                    <source srcset="img/revolutionizing-the-web-redstones-latest-innovations-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/revolutionizing-the-web-redstones-latest-innovations-in-web-development.jpg" alt="revolutionizing-the-web-redstones-latest-innovations-in-web-development">
+                  </picture>
+                  <span class="date">01.02.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="revolutionizing-the-web-redstones-latest-innovations-in-web-development">Revolutionizing the Web: REDSTONE's Latest Innovations in Web Development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="using-heatmaps-to-improve-web-design-and-ux">
                   <picture>
                     <source srcset="img/using-heatmaps-to-improve-web-design-and-ux.webp" type="image/webp">

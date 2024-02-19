@@ -46,6 +46,67 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="securing-the-digital-space-redstones-commitment-to-web-product-security">
+                  <picture>
+                    <source srcset="img/securing-the-digital-space-redstones-commitment-to-web-product-security.webp" type="image/webp">
+                    <source srcset="img/securing-the-digital-space-redstones-commitment-to-web-product-security.jpg" type="image/jpeg">
+                    <img src="img/securing-the-digital-space-redstones-commitment-to-web-product-security.jpg" alt="securing-the-digital-space-redstones-commitment-to-web-product-security">
+                  </picture>
+                  <span class="date">16.02.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="securing-the-digital-space-redstones-commitment-to-web-product-security">Zabezpieczając Cyfrową Przestrzeń: Zaangażowanie REDSTONE w Bezpieczeństwo Produktów Webowych </a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="behind-the-scenes-of-code-development-process-at-redstone">
+                  <picture>
+                    <source srcset="img/behind-the-scenes-of-code-development-process-at-redstone.webp" type="image/webp">
+                    <source srcset="img/behind-the-scenes-of-code-development-process-at-redstone.jpg" type="image/jpeg">
+                    <img src="img/behind-the-scenes-of-code-development-process-at-redstone.jpg" alt="behind-the-scenes-of-code-development-process-at-redstone">
+                  </picture>
+                  <span class="date">07.02.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="behind-the-scenes-of-code-development-process-at-redstone">Kulisy Kodu: Proces Rozwoju w REDSTONE</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="micro-interactions-and-animations-redstone-creates-interactive-online-experiences">
+                  <picture>
+                    <source srcset="img/micro-interactions-and-animations-redstone-creates-interactive-online-experiences.webp" type="image/webp">
+                    <source srcset="img/micro-interactions-and-animations-redstone-creates-interactive-online-experiences.jpg" type="image/jpeg">
+                    <img src="img/micro-interactions-and-animations-redstone-creates-interactive-online-experiences.jpg" alt="micro-interactions-and-animations-redstone-creates-interactive-online-experiences">
+                  </picture>
+                  <span class="date">04.02.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="micro-interactions-and-animations-redstone-creates-interactive-online-experiences">Mikrointerakcje i Animacje: REDSTONE Tworzy Interaktywne Doświadczenia Online</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="website-design-according-to-redstone-modern-trends">
+                  <picture>
+                    <source srcset="img/website-design-according-to-redstone-modern-trends.webp" type="image/webp">
+                    <source srcset="img/website-design-according-to-redstone-modern-trends.jpg" type="image/jpeg">
+                    <img src="img/website-design-according-to-redstone-modern-trends.jpg" alt="website-design-according-to-redstone-modern-trends">
+                  </picture>
+                  <span class="date">01.02.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="website-design-according-to-redstone-modern-trends">Projektowanie Stron Według REDSTONE: Nowoczesne Trendy</a>
+              </div>
+            </div>
+
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="how-to-create-effective-web-infographics">
                   <picture>
                     <source srcset="img/how-to-create-effective-web-infographics.webp" type="image/webp">
