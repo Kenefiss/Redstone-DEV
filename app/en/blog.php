@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="the-significance-of-applying-material-design-principles-in-web-development">
+                  <picture>
+                    <source srcset="img/the-significance-of-applying-material-design-principles-in-web-development.webp" type="image/webp">
+                    <source srcset="img/the-significance-of-applying-material-design-principles-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/the-significance-of-applying-material-design-principles-in-web-development.jpg" alt="the-significance-of-applying-material-design-principles-in-web-development">
+                  </picture>
+                  <span class="date">14.03.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-significance-of-applying-material-design-principles-in-web-development">The Significance of Applying Material Design Principles in Web Development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="developing-applications-for-geographic-information-systems">
+                  <picture>
+                    <source srcset="img/developing-applications-for-geographic-information-systems.webp" type="image/webp">
+                    <source srcset="img/developing-applications-for-geographic-information-systems.jpg" type="image/jpeg">
+                    <img src="img/developing-applications-for-geographic-information-systems.jpg" alt="developing-applications-for-geographic-information-systems">
+                  </picture>
+                  <span class="date">12.03.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="developing-applications-for-geographic-information-systems">Developing Applications for Geographic Information Systems (GIS)</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-significance-of-user-friendly-forms-and-collecting-user-data">
+                  <picture>
+                    <source srcset="img/the-significance-of-user-friendly-forms-and-collecting-user-data.webp" type="image/webp">
+                    <source srcset="img/the-significance-of-user-friendly-forms-and-collecting-user-data.jpg" type="image/jpeg">
+                    <img src="img/the-significance-of-user-friendly-forms-and-collecting-user-data.jpg" alt="the-significance-of-user-friendly-forms-and-collecting-user-data">
+                  </picture>
+                  <span class="date">07.03.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-significance-of-user-friendly-forms-and-collecting-user-data">The significance of user-friendly forms and collecting user data</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="crafting-interactive-web-elements-with-javascript">
+                  <picture>
+                    <source srcset="img/crafting-interactive-web-elements-with-javascript.webp" type="image/webp">
+                    <source srcset="img/crafting-interactive-web-elements-with-javascript.jpg" type="image/jpeg">
+                    <img src="img/crafting-interactive-web-elements-with-javascript.jpg" alt="crafting-interactive-web-elements-with-javascript">
+                  </picture>
+                  <span class="date">04.03.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="crafting-interactive-web-elements-with-javascript">Crafting interactive web elements with JavaScript</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="securing-the-digital-frontier-redstones-commitment-to-web-product-security">
                   <picture>
                     <source srcset="img/securing-the-digital-frontier-redstones-commitment-to-web-product-security.webp" type="image/webp">

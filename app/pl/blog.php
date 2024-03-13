@@ -46,6 +46,66 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="the-role-of-ai-in-personalizing-application-experiences">
+                  <picture>
+                    <source srcset="img/the-role-of-ai-in-personalizing-application-experiences.webp" type="image/webp">
+                    <source srcset="img/the-role-of-ai-in-personalizing-application-experiences.jpg" type="image/jpeg">
+                    <img src="img/the-role-of-ai-in-personalizing-application-experiences.jpg" alt="the-role-of-ai-in-personalizing-application-experiences">
+                  </picture>
+                  <span class="date">14.03.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-role-of-ai-in-personalizing-application-experiences">Rola AI w Personalizacji Doświadczeń z Aplikacjami</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="using-apis-in-website-development">
+                  <picture>
+                    <source srcset="img/using-apis-in-website-development.webp" type="image/webp">
+                    <source srcset="img/using-apis-in-website-development.jpg" type="image/jpeg">
+                    <img src="img/using-apis-in-website-development.jpg" alt="using-apis-in-website-development">
+                  </picture>
+                  <span class="date">12.03.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="using-apis-in-website-development">Wykorzystanie interfejsów API w rozwoju stron internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="how-typography-affects-brand-perception">
+                  <picture>
+                    <source srcset="img/how-typography-affects-brand-perception.webp" type="image/webp">
+                    <source srcset="img/how-typography-affects-brand-perception.jpg" type="image/jpeg">
+                    <img src="img/how-typography-affects-brand-perception.jpg" alt="how-typography-affects-brand-perception">
+                  </picture>
+                  <span class="date">07.03.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-typography-affects-brand-perception">Jak typografia wpływa na percepcję marki</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="using-big-data-in-crm-optimizing-customer-relationship-management">
+                  <picture>
+                    <source srcset="img/using-big-data-in-crm-optimizing-customer-relationship-management.webp" type="image/webp">
+                    <source srcset="img/using-big-data-in-crm-optimizing-customer-relationship-management.jpg" type="image/jpeg">
+                    <img src="img/using-big-data-in-crm-optimizing-customer-relationship-management.jpg" alt="using-big-data-in-crm-optimizing-customer-relationship-management">
+                  </picture>
+                  <span class="date">04.03.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="using-big-data-in-crm-optimizing-customer-relationship-management">Wykorzystanie Big Data w CRM: Optymalizacja zarządzania relacjami z klientami</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="securing-the-digital-space-redstones-commitment-to-web-product-security">
                   <picture>
                     <source srcset="img/securing-the-digital-space-redstones-commitment-to-web-product-security.webp" type="image/webp">
