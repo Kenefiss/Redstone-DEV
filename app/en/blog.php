@@ -61,6 +61,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="harnessing-the-power-the-role-of-predictive-analytics-in-crm">
+                  <picture>
+                    <source srcset="img/harnessing-the-power-the-role-of-predictive-analytics-in-crm.webp" type="image/webp">
+                    <source srcset="img/harnessing-the-power-the-role-of-predictive-analytics-in-crm.jpg" type="image/jpeg">
+                    <img src="img/harnessing-the-power-the-role-of-predictive-analytics-in-crm.jpg" alt="harnessing-the-power-the-role-of-predictive-analytics-in-crm">
+                  </picture>
+                  <span class="date">15.04.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="harnessing-the-power-the-role-of-predictive-analytics-in-crm">Harnessing the power: The role of predictive analytics in CRM</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="elevating-engagement-11-crm-solutions-for-membership-organizations">
+                  <picture>
+                    <source srcset="img/elevating-engagement-11-crm-solutions-for-membership-organizations.webp" type="image/webp">
+                    <source srcset="img/elevating-engagement-11-crm-solutions-for-membership-organizations.jpg" type="image/jpeg">
+                    <img src="img/elevating-engagement-11-crm-solutions-for-membership-organizations.jpg" alt="elevating-engagement-11-crm-solutions-for-membership-organizations">
+                  </picture>
+                  <span class="date">11.04.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="elevating-engagement-11-crm-solutions-for-membership-organizations">Elevating Engagement: 11 CRM Solutions for Membership Organizations</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="building-trust-in-e-commerce-branding-6-essential-strategies">
+                  <picture>
+                    <source srcset="img/building-trust-in-e-commerce-branding-6-essential-strategies.webp" type="image/webp">
+                    <source srcset="img/building-trust-in-e-commerce-branding-6-essential-strategies.jpg" type="image/jpeg">
+                    <img src="img/building-trust-in-e-commerce-branding-6-essential-strategies.jpg" alt="building-trust-in-e-commerce-branding-6-essential-strategies">
+                  </picture>
+                  <span class="date">06.04.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="building-trust-in-e-commerce-branding-6-essential-strategies">Building Trust in E-commerce Branding: 6 Essential Strategies</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="enhancing-crm-efficiency-the-role-of-chatops">
+                  <picture>
+                    <source srcset="img/enhancing-crm-efficiency-the-role-of-chatops.webp" type="image/webp">
+                    <source srcset="img/enhancing-crm-efficiency-the-role-of-chatops.jpg" type="image/jpeg">
+                    <img src="img/enhancing-crm-efficiency-the-role-of-chatops.jpg" alt="enhancing-crm-efficiency-the-role-of-chatops">
+                  </picture>
+                  <span class="date">01.04.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="enhancing-crm-efficiency-the-role-of-chatops">Enhancing CRM efficiency: The role of ChatOps</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="the-significance-of-applying-material-design-principles-in-web-development">
                   <picture>
                     <source srcset="img/the-significance-of-applying-material-design-principles-in-web-development.webp" type="image/webp">
