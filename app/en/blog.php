@@ -86,7 +86,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="elevating-engagement-11-crm-solutions-for-membership-organizations">Elevating Engagement: 11 CRM Solutions for Membership Organizations</a>
+                <a href="elevating-engagement-11-crm-solutions-for-membership-organizations">Elevating engagement: 11 CRM solutions for membership organizations</a>
               </div>
             </div>
             <div class="col-md-6 news-item">
@@ -101,7 +101,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
                 </a>
               </div>
               <div class="news-title title h5">
-                <a href="building-trust-in-e-commerce-branding-6-essential-strategies">Building Trust in E-commerce Branding: 6 Essential Strategies</a>
+                <a href="building-trust-in-e-commerce-branding-6-essential-strategies">Building trust in e-commerce branding: 6 essential strategies</a>
               </div>
             </div>
             <div class="col-md-6 news-item">

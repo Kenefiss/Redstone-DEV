@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE SOFTWARE - Building Trust in E-commerce Branding: 6 Essential Strategies</title>
+  <title>REDSTONE SOFTWARE - Building trust in e-commerce branding: 6 essential strategies</title>
   <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
 CRM systems that are convenient for users and our customers. Top offers in Belfast">
   <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
@@ -33,7 +33,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
               <meta itemprop="position" content="2" />
             </li>
             <li class="active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-              <span itemprop="name">Building Trust in E-commerce Branding: 6 Essential Strategies</span>
+              <span itemprop="name">Building trust in e-commerce branding: 6 essential strategies</span>
               <meta itemprop="position" content="3" />
             </li>
           </ul>
@@ -56,7 +56,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             <div class="col-xl-4 align-self-center">
               <div class="project-detail-info">
                 <div class="blog-date">06.04.2024</div>
-                <h1 class="title h2 name-project">Building Trust in E-commerce Branding: 6 Essential Strategies</h1>
+                <h1 class="title h2 name-project">Building trust in e-commerce branding: 6 essential strategies</h1>
               </div>
             </div>
           </div>

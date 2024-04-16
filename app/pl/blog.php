@@ -46,6 +46,66 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="the-importance-of-typography-hierarchy-in-website-design">
+                  <picture>
+                    <source srcset="img/the-importance-of-typography-hierarchy-in-website-design.webp" type="image/webp">
+                    <source srcset="img/the-importance-of-typography-hierarchy-in-website-design.jpg" type="image/jpeg">
+                    <img src="img/the-importance-of-typography-hierarchy-in-website-design.jpg" alt="the-importance-of-typography-hierarchy-in-website-design">
+                  </picture>
+                  <span class="date">16.04.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-importance-of-typography-hierarchy-in-website-design">Znaczenie hierarchii typografii w projektowaniu stron internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="designing-for-new-technologies-augmented-reality-virtual-and-mixed-reality">
+                  <picture>
+                    <source srcset="img/designing-for-new-technologies-augmented-reality-virtual-and-mixed-reality.webp" type="image/webp">
+                    <source srcset="img/designing-for-new-technologies-augmented-reality-virtual-and-mixed-reality.jpg" type="image/jpeg">
+                    <img src="img/designing-for-new-technologies-augmented-reality-virtual-and-mixed-reality.jpg" alt="designing-for-new-technologies-augmented-reality-virtual-and-mixed-reality">
+                  </picture>
+                  <span class="date">14.04.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="designing-for-new-technologies-augmented-reality-virtual-and-mixed-reality">Projektowanie dla nowych technologii: Rzeczywistość rozszerzona (AR), wirtualna (VR) i mieszana (MR)</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="designing-for-application-accessibility-on-all-platforms">
+                  <picture>
+                    <source srcset="img/designing-for-application-accessibility-on-all-platforms.webp" type="image/webp">
+                    <source srcset="img/designing-for-application-accessibility-on-all-platforms.jpg" type="image/jpeg">
+                    <img src="img/designing-for-application-accessibility-on-all-platforms.jpg" alt="designing-for-application-accessibility-on-all-platforms">
+                  </picture>
+                  <span class="date">08.04.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="designing-for-application-accessibility-on-all-platforms">Projektowanie z myślą o dostępności aplikacji na wszystkie platformy</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="the-importance-of-white-space-in-website-design">
+                  <picture>
+                    <source srcset="img/the-importance-of-white-space-in-website-design.webp" type="image/webp">
+                    <source srcset="img/the-importance-of-white-space-in-website-design.jpg" type="image/jpeg">
+                    <img src="img/the-importance-of-white-space-in-website-design.jpg" alt="the-importance-of-white-space-in-website-design">
+                  </picture>
+                  <span class="date">02.04.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="the-importance-of-white-space-in-website-design">Znaczenie białego miejsca w projektowaniu stron internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="the-role-of-ai-in-personalizing-application-experiences">
                   <picture>
                     <source srcset="img/the-role-of-ai-in-personalizing-application-experiences.webp" type="image/webp">

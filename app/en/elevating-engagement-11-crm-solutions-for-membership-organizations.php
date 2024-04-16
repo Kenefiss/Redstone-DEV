@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>REDSTONE SOFTWARE - Elevating Engagement: 11 CRM Solutions for Membership Organizations</title>
+  <title>REDSTONE SOFTWARE - Elevating engagement: 11 CRM solutions for membership organizations</title>
   <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
 CRM systems that are convenient for users and our customers. Top offers in Belfast">
   <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
@@ -33,7 +33,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
               <meta itemprop="position" content="2" />
             </li>
             <li class="active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-              <span itemprop="name">Elevating Engagement: 11 CRM Solutions for Membership Organizations</span>
+              <span itemprop="name">Elevating engagement: 11 CRM solutions for membership organizations</span>
               <meta itemprop="position" content="3" />
             </li>
           </ul>
@@ -56,7 +56,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             <div class="col-xl-4 align-self-center">
               <div class="project-detail-info">
                 <div class="blog-date">11.04.2024</div>
-                <h1 class="title h2 name-project">Elevating Engagement: 11 CRM Solutions for Membership Organizations</h1>
+                <h1 class="title h2 name-project">Elevating engagement: 11 CRM solutions for membership organizations</h1>
               </div>
             </div>
           </div>
