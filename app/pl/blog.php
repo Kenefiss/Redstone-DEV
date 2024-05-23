@@ -46,6 +46,51 @@
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="a-beginners-guide-to-headless-cms">
+                  <picture>
+                    <source srcset="img/a-beginners-guide-to-headless-cms.webp" type="image/webp">
+                    <source srcset="img/a-beginners-guide-to-headless-cms.jpg" type="image/jpeg">
+                    <img src="img/a-beginners-guide-to-headless-cms.jpg" alt="a-beginners-guide-to-headless-cms">
+                  </picture>
+                  <span class="date">13.05.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="a-beginners-guide-to-headless-cms">Kompletny przewodnik po Headless CMS</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="leveraging-big-data-in-web-development">
+                  <picture>
+                    <source srcset="img/leveraging-big-data-in-web-development.webp" type="image/webp">
+                    <source srcset="img/leveraging-big-data-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/leveraging-big-data-in-web-development.jpg" alt="leveraging-big-data-in-web-development">
+                  </picture>
+                  <span class="date">08.05.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="leveraging-big-data-in-web-development">Wykorzystanie Big Data w tworzeniu stron internetowych</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="10-essential-web-development-tools-in-2024">
+                  <picture>
+                    <source srcset="img/10-essential-web-development-tools-in-2024.webp" type="image/webp">
+                    <source srcset="img/10-essential-web-development-tools-in-2024.jpg" type="image/jpeg">
+                    <img src="img/10-essential-web-development-tools-in-2024.jpg" alt="10-essential-web-development-tools-in-2024">
+                  </picture>
+                  <span class="date">03.05.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="10-essential-web-development-tools-in-2024">10 niezbędnych narzędzi do tworzenia stron internetowych w 2024 roku</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="the-importance-of-typography-hierarchy-in-website-design">
                   <picture>
                     <source srcset="img/the-importance-of-typography-hierarchy-in-website-design.webp" type="image/webp">

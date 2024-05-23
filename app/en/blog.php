@@ -61,6 +61,51 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="a-beginners-guide-to-headless-cms">
+                  <picture>
+                    <source srcset="img/a-beginners-guide-to-headless-cms.webp" type="image/webp">
+                    <source srcset="img/a-beginners-guide-to-headless-cms.jpg" type="image/jpeg">
+                    <img src="img/a-beginners-guide-to-headless-cms.jpg" alt="a-beginners-guide-to-headless-cms">
+                  </picture>
+                  <span class="date">13.05.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="a-beginners-guide-to-headless-cms">A beginner’s guide to headless CMS</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="10-essential-web-development-tools-in-2024">
+                  <picture>
+                    <source srcset="img/10-essential-web-development-tools-in-2024.webp" type="image/webp">
+                    <source srcset="img/10-essential-web-development-tools-in-2024.jpg" type="image/jpeg">
+                    <img src="img/10-essential-web-development-tools-in-2024.jpg" alt="10-essential-web-development-tools-in-2024">
+                  </picture>
+                  <span class="date">08.05.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="10-essential-web-development-tools-in-2024">10 Essential web development tools in 2024</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="leveraging-big-data-in-web-development">
+                  <picture>
+                    <source srcset="img/leveraging-big-data-in-web-development.webp" type="image/webp">
+                    <source srcset="img/leveraging-big-data-in-web-development.jpg" type="image/jpeg">
+                    <img src="img/leveraging-big-data-in-web-development.jpg" alt="leveraging-big-data-in-web-development">
+                  </picture>
+                  <span class="date">03.05.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="leveraging-big-data-in-web-development">Leveraging Big Data in web development</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="harnessing-the-power-the-role-of-predictive-analytics-in-crm">
                   <picture>
                     <source srcset="img/harnessing-the-power-the-role-of-predictive-analytics-in-crm.webp" type="image/webp">
