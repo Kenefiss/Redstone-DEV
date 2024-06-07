@@ -4,7 +4,7 @@
 <head>
   <?php include 'inc/_top.php';?>
   <title>REDSTONE SOFTWARE — tworzenie najnowocześniejszych rozwiązań dla Twojej firmy</title>
-  <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
+  <meta name="description" content="Redstone - a software development team, specializing in web development, design, mobile applications, 
 CRM systems that are convenient for users and our customers. Top offers in Belfast">
   <meta name="keywords" content="tworzenie stron internetowych, projektowanie, aplikacja, mvp, cms, crm, firma wrocław, wrocław, REDSTONE">
 </head>

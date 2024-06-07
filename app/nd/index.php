@@ -18,7 +18,7 @@
       <div class="section banner main-banner">
         <div class="container full-height">
           <div class="row align-items-lg-center">
-            <div class="col-xl-7 order-2 order-xl-1">
+            <div class="col-12">
               <div class="banner-content">
                 <div class="title h1">WEB Oplossingen <b>.</b> App <b>.</b> MVP <b>.</b><br> Making the difficult simple</div>
                 <a href="portfolio" class="btn btn-primary">
@@ -32,22 +32,6 @@
                   <a href="awards"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-5 order-1 order-xl-2">
-              <div class="banner-num">
-                <!-- <div id="num" class="num">
-                  <div id="text">16</div>
-                  <div id="graphics" data-color="#b0b0b0"></div>
-                </div> -->
-                <div class="svg-wrapper type2">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">18</tspan>
-                    </text>
-                  </svg>
-                </div>
-              </div>
-              <div class="sub-title text-center">AL 18 JAAR DE BEHEERDER VAN JOUW ONLINE ONDERNEMING</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
@@ -191,7 +175,7 @@
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">We leveren altijd meer dan je verwacht omdat het gaat bij ons over oplossingen dat 100% werken.</div>
-                <div class="text animate-item fadeInUp delay-1">Focus op wat jij het beste kan doen. Business digitization is <span>REDSTONEs</span> task. Meer dan 60 specialisten werken in het <span>REDSTONE</span> team om jouw bedrijf te voorzien met overkoepelende online diensten.</div>
+                <div class="text animate-item fadeInUp delay-1">Focus op wat jij het beste kan doen. Business digitization is <span>REDSTONEs</span> task.</div>
               </div>
             </div>
           </div>

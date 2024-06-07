@@ -4,9 +4,9 @@
 <head>
   <?php include 'inc/_top.php';?>
   <title> Web App development   Contact  Redstone software from Belfast</title>
-  <meta name="description" content="Get in touch with a web development company in Belfast, we will raise your indicators 
-and increase your profit | Norther Ireland | Certified company">
-  <meta name="keywords" content="software, webcompany, belfast, contact">
+  <meta name="description" content="Get in touch with a web development team in Belfast, we will raise your indicators 
+and increase your profit | Norther Ireland">
+  <meta name="keywords" content="software, belfast, contact">
 </head>
 
 <body>
@@ -47,7 +47,7 @@ and increase your profit | Norther Ireland | Certified company">
                 </div>
                 <div class="col-lg-6">
                   <div class="text animate-item fadeInUp delay-1">
-                    Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.
+                    Discover an award-winning team in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.
                   </div>
                 </div>
               </div>

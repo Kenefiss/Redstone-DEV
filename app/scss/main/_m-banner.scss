@@ -19,10 +19,15 @@
   font-weight: inherit;
 }
 
+.main-banner .banner-content{
+  text-align: center;
+}
+
 .logo-group {
   margin-top: 100px;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .logo-group a {
@@ -48,62 +53,6 @@
 .logo-group a:not(:last-child) {
   margin-right: 55px;
 }
-
-// .banner-num {
-//   position: relative;
-//   width: 100%;
-//   height: 390px;
-//   overflow: hidden;
-
-//   .num {
-//     display: inline-block;
-//     vertical-align: middle;
-//     position: absolute;
-//     z-index: 1;
-//     top: 0;
-//     left: 0;
-//     width: 100%;
-//     height: 100%;
-//     font-size: 80px;
-//     background: #fff;
-//     overflow: hidden;
-//   }
-
-//   #text {
-//     position: absolute;
-//     left: 50%;
-//     top: 50%;
-//     width: 100%;
-//     height: 100%;
-//     transform: translate(-50%, -50%);
-//     font-size: 6.5em;
-//     line-height: 1em;
-//     font-weight: 700;
-//     text-align: center;
-//     text-transform: uppercase;
-//     color: #000;
-//   }
-
-//   #graphics {
-//     background: #ededed;
-//     position: absolute;
-//     left: 0;
-//     top: 0;
-//     width: 100%;
-//     height: 100%;
-//     mix-blend-mode: lighten;
-
-//     canvas {
-//       position: absolute;
-//       left: 50%;
-//       top: 50%;
-//       width: 100% !important;
-//       height: 136% !important;
-//       transform: translate(-50%, -50%);
-//       object-fit: cover;
-//     }
-//   }
-// }
 
 .banner-num {
   position: relative;
@@ -219,6 +168,7 @@
   .full-height {
     height: auto;
     padding: 20px 0 0;
+    min-height: 0;
   }
 
   .main-banner .full-height .counter-block {

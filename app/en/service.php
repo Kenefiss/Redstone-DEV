@@ -39,7 +39,7 @@
             <div class="col-12">
               <div class="title-with-text size2">
                 <div class="title h2 animate-item fadeInUp">Our services</div>
-                <div class="text animate-item fadeInUp delay-1">Unlock the countless benefits that come with working alongside a full-cycle studio.</div>
+                <div class="text animate-item fadeInUp delay-1">Unlock the countless benefits that come with working team.</div>
               </div>
             </div>
           </div>

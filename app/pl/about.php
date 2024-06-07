@@ -40,7 +40,7 @@
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2">Dajemy więcej niż 100% Twoich oczekiwań</div>
-                <div class="text">Skup swoje wysiłki na tym, co robisz najlepiej. Wszystko co związane z digitalizacją biznesu pozostaw <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalsitów, aby zapewnić Tobie najlepsze wsparcie w rozwoju biznesu.</div>
+                <div class="text">Skup swoje wysiłki na tym, co robisz najlepiej. Wszystko co związane z digitalizacją biznesu pozostaw <span>REDSTONE</span>.</div>
               </div>
               <div class="video-block review-img">
                 <picture>
@@ -73,7 +73,7 @@
               <div class="benefit-item">
                 <div class="benefit-title h5 color-white">Najlepsze, niepowtarzalne rozwiązania</div>
                 <div class="benefit-desc text">
-                  Orientacja na klienta jest główną wartością naszej firmy. Dla każdego klienta znajdujemy indywidualne podejście.
+                  Orientacja na klienta jest główną wartością naszej zespół. Dla każdego klienta znajdujemy indywidualne podejście.
                 </div>
               </div>
             </div>
@@ -112,7 +112,7 @@
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Spektakularne i praktyczne rozwiązania internetowe i mobilne z zanurzeniem w Twoim biznesie</div>
-                <div class="text animate-item fadeInUp delay-1">Odkryj wielokrotnie nagradzane studio internetowe w Wielkiej Brytanii. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, tworzenia stron internetowych, brandingu, marketingu cyfrowego i e-commerce. Jesteśmy zainspirowani do pracy na rzecz naszych klientów.</div>
+                <div class="text animate-item fadeInUp delay-1">Odkryj wielokrotnie nagradzane zespół w Wielkiej Brytanii. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, tworzenia stron internetowych, brandingu, marketingu cyfrowego i e-commerce. Jesteśmy zainspirowani do pracy na rzecz naszych klientów.</div>
               </div>
             </div>
           </div>

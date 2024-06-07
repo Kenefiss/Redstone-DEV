@@ -3,8 +3,8 @@
 
 <head>
   <?php include 'inc/_top.php';?>
-  <title>Software, design, app and web development company in Belfast Dublin London  REDSTONE</title>
-  <meta name="description" content="Redstone - a software company, specializing in web development, design, mobile applications, 
+  <title>Software, design, app and web development team in Belfast Dublin London  REDSTONE</title>
+  <meta name="description" content="Redstone - a software team, specializing in web development, design, mobile applications, 
 CRM systems that are convenient for users and our customers. Top offers in Belfast">
   <meta name="keywords" content="development, web, belfast, dublin, london, software, design">
 </head>
@@ -44,7 +44,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
                   Spectacular and effective web and mobile solutions with immersion in your business
                 </div>
                 <div class="text">
-                  Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.
+                  Discover an award-winning team in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.
                 </div>
               </div>
               <div class="video-block review-img">
@@ -78,7 +78,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
               <div class="benefit-item">
                 <div class="benefit-title h5 color-white">The best, unique solutions</div>
                 <div class="benefit-desc text">
-                  Customer orientation is the main value of our company. We find an individual approach for each customer.
+                  Customer orientation is the main value of our team. We find an individual approach for each customer.
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">We give more than you expect because we look for solutions that work 100%</div>
-                <div class="text animate-item fadeInUp delay-1">Focus your efforts on what you do best. Leave everything related to business digitization to <span>REDSTONE</span>. More than 60 specialists work in the <span>REDSTONE</span> team to provide you with a full cycle service.</div>
+                <div class="text animate-item fadeInUp delay-1">Focus your efforts on what you do best. Leave everything related to business digitization to <span>REDSTONE</span>.</div>
               </div>
             </div>
           </div>

@@ -886,36 +886,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
-  // if (document.querySelector(".ContactForm")) {
-  //   window.addEventListener("load", async () => {
-  //     try {
-  //       await _functions.loadFileAsync("https://www.google.com/recaptcha/api.js?render=6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c");
-  //     } catch (err) {} finally {}
-  //   });
-  // }
-
-  //dynamic load video
-  _functions.loadSrc = (block, src) => {
-    return new Promise((resolve, reject) => {
-      if (src) {
-        let bl = document.querySelector(block);
-        bl.src = src;
-        resolve(true);
-      } else {
-        reject(false);
-      }
-    });
-  };
-
-  if (winW > 1200) {
-    window.addEventListener("load", async () => {
-      try {
-        await _functions.loadSrc(".video video", "./video/video-1.mp4");
-      } catch (err) {} finally {}
-    });
-  }
-
-
   //*=====================
   //* 10 accordion =
   //*=====================

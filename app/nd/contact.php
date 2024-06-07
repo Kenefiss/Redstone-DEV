@@ -46,7 +46,7 @@
                 </div>
                 <div class="col-lg-6">
                   <div class="text animate-item fadeInUp delay-1">
-                    Ontdek een bekroonde webstudio in het Verenigd Koninkrijk. Ons team van experts maakt gebruik van geavanceerde technologieën voor softwareontwikkeling, webontwikkeling, branding, digitale marketing en e-commerce. Wij worden geïnspireerd om te werken ten behoeve van onze klanten.
+                    Ontdek een bekroonde team in het Verenigd Koninkrijk. Ons team van experts maakt gebruik van geavanceerde technologieën voor softwareontwikkeling, webontwikkeling, branding, digitale marketing en e-commerce. Wij worden geïnspireerd om te werken ten behoeve van onze klanten.
                   </div>
                 </div>
               </div>

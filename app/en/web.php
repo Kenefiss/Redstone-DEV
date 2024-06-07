@@ -4,8 +4,7 @@
 <head>
   <?php include 'inc/_top.php';?>
   <title>Web development and Design Belfast , Norther Ireland</title>
-  <meta name="description" content="The highest quality website development and design in Belfast, over 16 years 
-of experience | London | Dublin |Belfast">
+  <meta name="description" content="The highest quality website development and design in Belfast | London | Dublin |Belfast">
   <meta name="keywords" content="web, developer, northern ireland, development">
 </head>
 

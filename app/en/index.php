@@ -4,9 +4,9 @@
 <head>
   <?php include 'inc/_top.php';?>
   <title>Custom CRM, Design, App & Web development in Belfast | REDSTONE software Ireland</title>
-  <meta name="description" content="REDSTONE - software company in Belfast offering web & app develompent, web design, MVP versions and 
+  <meta name="description" content="REDSTONE - software development team in Belfast offering web & app development, web design, MVP versions and 
 custom CRM system">
-  <meta name="keywords" content="web development, design, app, mvp, cms, crm, company belfast, dublin, london, REDSTONE">
+  <meta name="keywords" content="web development, design, app, mvp, cms, crm, belfast, dublin, london, REDSTONE">
 </head>
 
 <body>
@@ -19,7 +19,7 @@ custom CRM system">
       <div class="section banner main-banner">
         <div class="container full-height">
           <div class="row align-items-lg-center">
-            <div class="col-xl-7 order-2 order-xl-1">
+            <div class="col-12">
               <div class="banner-content">
                 <div class="title h1">WEB Solutions <b>.</b> App <b>.</b> MVP <b>.</b><br> Making the difficult simple</div>
                 <a href="portfolio" class="btn btn-primary">
@@ -33,22 +33,6 @@ custom CRM system">
                   <a href="awards"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-5 order-1 order-xl-2">
-              <div class="banner-num">
-                <!-- <div id="num" class="num">
-                  <div id="text">16</div>
-                  <div id="graphics" data-color="#b0b0b0"></div>
-                </div> -->
-                <div class="svg-wrapper type2">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">18</tspan>
-                    </text>
-                  </svg>
-                </div>
-              </div>
-              <div class="sub-title text-center"><span class="d-xl-none">18</span> YEARS WE HAVE BEEN MOVING YOUR BUSINESS ONLINE</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
@@ -192,7 +176,7 @@ custom CRM system">
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">We give more than you expect because we look for solutions that work 100%</div>
-                <div class="text animate-item fadeInUp delay-1">Focus your efforts on what you do best. Leave everything related to business digitization to <span>REDSTONE</span>. More than 60 specialists work in the <span>REDSTONE</span> team to provide you with a full cycle service.</div>
+                <div class="text animate-item fadeInUp delay-1">Focus your efforts on what you do best. Leave everything related to business digitization to <span>REDSTONE</span>.</div>
               </div>
             </div>
           </div>

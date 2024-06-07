@@ -10,7 +10,7 @@
         </div>
       </div>
     </div>
-    <div class="row counters justify-content-center justify-content-lg-start animate-item fadeInUp delay-2">
+    <div class="row counters justify-content-center animate-item fadeInUp delay-2">
       <div class="col-6 col-lg-4 counter">
         <div class="counter-block">
           <div class="svg-wrapper">
@@ -27,24 +27,6 @@
             </svg>
           </div>
           <small>projects</small>
-        </div>
-      </div>
-      <div class="col-6 col-lg-4 counter">
-        <div class="counter-block">
-          <div class="svg-wrapper">
-            <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-              <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                <tspan class="text-bold">60</tspan>
-              </text>
-              <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-none d-sm-block">
-                <tspan dx="63" dy="-60" class="text-bold text-sup">+</tspan>
-              </text>
-              <text x="100%" y="97%" stroke-width="1" text-anchor="middle" class="d-sm-none">
-                <tspan dx="32" dy="-30" class="text-bold text-sup">+</tspan>
-              </text>
-            </svg>
-          </div>
-          <small>people in a team</small>
         </div>
       </div>
       <div class="col-6 col-lg-4 counter">
@@ -81,18 +63,6 @@
             </svg>
           </div>
           <small>awards</small>
-        </div>
-      </div>
-      <div class="col-6 col-lg-4 counter">
-        <div class="counter-block">
-          <div class="svg-wrapper">
-            <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-              <text x="50%" y="97" stroke-width="1" font-size="100" text-anchor="middle">
-                <tspan class="text-bold">18</tspan>
-              </text>
-            </svg>
-          </div>
-          <small class="ml-0">years on the market</small>
         </div>
       </div>
       <div class="col-6 col-lg-4 counter">

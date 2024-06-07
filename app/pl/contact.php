@@ -46,7 +46,7 @@
                 </div>
                 <div class="col-lg-6">
                   <div class="text animate-item fadeInUp delay-1">
-                    Odkryj wielokrotnie nagradzane studio internetowe w Zjednoczonym Królestwie. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, projektowania stron internetowych, brandingu, marketingu cyfrowego i e-commerce. Jesteśmy inspirowani do pracy dla dobra naszych klientów.
+                    Odkryj wielokrotnie nagradzane zespół w Zjednoczonym Królestwie. Nasz zespół ekspertów wykorzystuje zaawansowane technologie do tworzenia oprogramowania, projektowania stron internetowych, brandingu, marketingu cyfrowego i e-commerce. Jesteśmy inspirowani do pracy dla dobra naszych klientów.
                   </div>
                 </div>
               </div>

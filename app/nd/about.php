@@ -44,7 +44,7 @@ CRM-systemen die handig zijn voor gebruikers en onze klanten.">
                   Spectaculaire en doeltreffende web en mobile oplossingen die jouw bedrijf kan laten groeien.
                 </div>
                 <div class="text">
-                  Ontdek een award-winning web studio in de Verenigd Koningrijk. Ons team van specialisten gebruikt vooruitstrevende technologieën voor software development, web development, branding, digital marketing en e-commerce. Bij ons gaat het altijd over de tevredenheid van onze klanten.
+                  Ontdek een award-winning team in de Verenigd Koningrijk. Ons team van specialisten gebruikt vooruitstrevende technologieën voor software development, web development, branding, digital marketing en e-commerce. Bij ons gaat het altijd over de tevredenheid van onze klanten.
                 </div>
               </div>
               <div class="video-block review-img">
@@ -117,7 +117,7 @@ CRM-systemen die handig zijn voor gebruikers en onze klanten.">
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">We leveren altijd meer dan je verwacht omdat het gaat bij ons over oplossingen dat 100% werken.</div>
-                <div class="text animate-item fadeInUp delay-1">Focus op wat jij het beste kan doen. Business digitization is <span>REDSTONEs</span> task. Meer dan 60 specialisten werken in het <span>REDSTONE</span> team om jouw bedrijf te voorzien met overkoepelende online diensten.</div>
+                <div class="text animate-item fadeInUp delay-1">Focus op wat jij het beste kan doen. Business digitization is <span>REDSTONEs</span> task.</div>
               </div>
             </div>
           </div>

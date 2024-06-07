@@ -886,86 +886,9 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
-  // if (document.querySelector(".ContactForm")) {
-  //   window.addEventListener("load", async () => {
-  //     try {
-  //       await _functions.loadFileAsync("https://www.google.com/recaptcha/api.js?render=6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c");
-  //     } catch (err) {} finally {}
-  //   });
-  // }
-
-  //dynamic load video
-  _functions.loadSrc = (block, src) => {
-    return new Promise((resolve, reject) => {
-      if (src) {
-        let bl = document.querySelector(block);
-        bl.src = src;
-        resolve(true);
-      } else {
-        reject(false);
-      }
-    });
-  };
-
-  if (winW > 1200) {
-    window.addEventListener("load", async () => {
-      try {
-        await _functions.loadSrc(".video video", "./video/video-1.mp4");
-      } catch (err) {} finally {}
-    });
-  }
-
 
   //*=====================
-  //* 10 Recaptcha       =
-  //*=====================
-
-  // var _recaptcha = {
-  //   sitekey: '6LfjEQsjAAAAAB1WlLgem_gFwqXZiPb_9e42cD8c',
-  //   actions: {
-  //     homepage: 'homepage',
-  //     contactform: 'ContactForm',
-  //   },
-  //   execute: function(action) {
-  //     grecaptcha.execute(_recaptcha.sitekey, {
-  //       action: action
-  //     }).then(function(token) {
-  //       var event = new CustomEvent('grecaptchaexecuted', {
-  //         detail: {
-  //           action: action,
-  //           token: token,
-  //         },
-  //       });
-  //       document.dispatchEvent(event);
-  //     });
-  //   },
-  //   execute_on_homepage: function() {
-  //     _recaptcha.execute(_recaptcha.actions['homepage']);
-  //   },
-  //   execute_on_contactform: function() {
-  //     _recaptcha.execute(_recaptcha.actions['ContactForm']);
-  //   }
-  // };
-
-  // document.addEventListener('DOMContentLoaded', function(event) {
-  //   grecaptcha.ready(_recaptcha.execute_on_homepage);
-  // });
-
-  // document.addEventListener('change', _recaptcha.execute_on_contactform);
-
-  // document.addEventListener('grecaptchaexecuted', function(event) {
-  //   var fields = document.querySelectorAll(".ContactForm input[name='g-recaptcha-response']");
-
-  //   for (var i = 0; i < fields.length; i++) {
-  //     var field = fields[i];
-  //     field.setAttribute('value', event.detail.token);
-  //   }
-  // });
-
-  // _recaptcha.execute_on_homepage();
-
-  //*=====================
-  //* 11 accordion =
+  //* 10 accordion =
   //*=====================
   _functions.initAcc = function (elem, title, option) {
     let elementList = document.querySelector(elem).children;

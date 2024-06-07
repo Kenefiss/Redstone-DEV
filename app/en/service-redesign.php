@@ -154,7 +154,7 @@
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Our projects</div>
-                <div class="text animate-item fadeInUp delay-1">Discover an award-winning web studio in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
+                <div class="text animate-item fadeInUp delay-1">Discover an award-winning team in the United Kingdom. Our team of experts uses advanced technologies for software development, web development, branding, digital marketing, and e-commerce. We are inspired to work for the benefit of our clients.</div>
               </div>
             </div>
           </div>

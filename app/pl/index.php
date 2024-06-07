@@ -18,7 +18,7 @@
       <div class="section banner main-banner">
         <div class="container full-height">
           <div class="row align-items-lg-center">
-            <div class="col-xl-7 order-2 order-xl-1">
+            <div class="col-12">
               <div class="banner-content">
                 <div class="title h1">Rozwiązania WEB <b>.</b> APP <b>.</b> MVP <b>.</b><br> Wewnętrzne strony internetowe</div>
                 <a href="portfolio" class="btn btn-primary">
@@ -32,22 +32,6 @@
                   <a href="awards"><img src="img/other.svg" width="38" height="50" loading="lazy" alt=""></a>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-5 order-1 order-xl-2">
-              <div class="banner-num">
-                <!-- <div id="num" class="num">
-                  <div id="text">16</div>
-                  <div id="graphics" data-color="#b0b0b0"></div>
-                </div> -->
-                <div class="svg-wrapper type2">
-                  <svg version="1.1" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
-                    <text x="50%" y="97%" stroke-width="1" text-anchor="middle">
-                      <tspan class="text-bold">18</tspan>
-                    </text>
-                  </svg>
-                </div>
-              </div>
-              <div class="sub-title text-center"><span class="d-xl-none">18</span> OD LAT PRZENOSIMY TWÓJ BIZNES DO INTERNETU</div>
             </div>
           </div>
           <a class="btn-scroll hash" href="#content">
@@ -191,7 +175,7 @@
             <div class="col-12">
               <div class="title-with-text">
                 <div class="title h2 animate-item fadeInUp">Dajemy więcej niż 100% Twoich oczekiwań</div>
-                <div class="text animate-item fadeInUp delay-1">Skoncentruj swoje wysiłki na tym, co robisz najlepiej. Wszystko, co jest związane z cyfryzacją biznesu, zostaw firmie <span>REDSTONE</span>. W zespole <span>REDSTONE</span> pracuje ponad 60 specjalsitów, aby zapewnić Tobie najlepsze wsparcie w rozwoju biznesu.</div>
+                <div class="text animate-item fadeInUp delay-1">Skoncentruj swoje wysiłki na tym, co robisz najlepiej. Wszystko, co jest związane z cyfryzacją biznesu, zostaw firmie <span>REDSTONE</span>.</div>
               </div>
             </div>
           </div>
