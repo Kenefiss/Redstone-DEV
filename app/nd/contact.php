@@ -107,51 +107,13 @@
         <div class="spacer-lg"></div>
       </div>
 
-      <!-- Map section -->
-      <div class="section">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-11">
-              <div class="map-block animate-item fadeInUp">
-                <div class="map" id="map" data-lat="54.45237" data-lng="-6.33684" data-zoom="15" data-xs-zoom="15"></div>
-                <a class="marker" data-rel="map" data-lat="54.45237" data-lng="-6.33684" data-image="img/point-map.svg" 
-                data-string='<div class="address">
-                      <h5>Nederland</h5>
-                      <table>
-                        <tbody><tr>
-                          <td>Address:</td>
-                          <td><a href="https://maps.app.goo.gl/CbsjJBKJoVAnxTMZA" target="_blank" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
-                              <span itemprop="addressLocality">Ewijk</span>, <span itemprop="streetAddress">Harp 38 6644DH</span></a></td>
-                        </tr>
-                        <tr>
-                          <td>Phone:</td>
-                          <td><a href="tel:+31618435868">+31618435868</a></td>
-                        </tr>
-                        <tr>
-                          <td>Email:</td>
-                          <td><a href="mailto:office@redstone.software">office@redstone.software</a></td>
-                        </tr>
-                      </tbody></table>
-                    </div>'></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="spacer-lg"></div>
-      </div>
-
     </main>
 
     <?php include 'inc/_footer.php';?>
   </div>
 
-
   <?php include 'inc/_popups.php';?>
   <?php include 'inc/_bottom.php';?>
-
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOmjBT0e4aih28ddm_w2xmIY0z1K1ZaoQ&v=3&amp;language=en"></script>
-  <script src="js/infobox.js"></script>
-  <script src="js/map.js"></script>
 
 </body>
 

@@ -3,7 +3,7 @@
 /*--------------------*/
 footer {
   --right-side-width: 31%;
-  min-height: 700px;
+  min-height: 500px;
   position: relative;
   display: flex;
   flex-wrap: wrap;
@@ -286,10 +286,6 @@ footer {
 }
 
 @media (max-width: 1640px) {
-  footer {
-    min-height: 520px;
-  }
-
   .footer-left {
     padding-block: 35px;
     padding-inline: 30px;
@@ -368,10 +364,6 @@ footer {
     padding-inline: 15px;
   }
 
-  .footer-left-bottom {
-    width: auto;
-  }
-
   .footer-bottom {
     padding-inline: 15px;
   }
@@ -398,10 +390,10 @@ footer {
     display: block;
     min-height: auto;
   }
-
+  
   .footer-left {
     width: 100%;
-    padding-block: 35px 50px;
+    padding-block: 35px 30px;
   }
 
   .footer-left-bottom {

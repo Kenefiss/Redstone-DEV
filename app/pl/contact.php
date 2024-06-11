@@ -63,10 +63,6 @@
                               <span itemprop="addressLocality">Wrocław</span>, <span itemprop="streetAddress">plac Grunwaldzki 22, 50-363</span></a></td>
                         </tr>
                         <tr>
-                          <td>Telefon:</td>
-                          <td><a href="tel:+380676075784">+380676075784</a></td>
-                        </tr>
-                        <tr>
                           <td>E-mail:</td>
                           <td><a href="mailto:office@redstone.software">office@redstone.software</a></td>
                         </tr>
@@ -106,41 +102,6 @@
         <div class="spacer-lg"></div>
       </div>
 
-      <!-- Map section -->
-      <div class="section">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-11">
-              <div class="map-block animate-item fadeInUp">
-                <div class="map" id="map" data-lat="51.113060" data-lng="17.059090" data-zoom="15" data-xs-zoom="15"></div>
-                <a class="marker" data-rel="map" data-lat="51.113060" data-lng="17.059090" data-image="img/point-map.svg" 
-                data-string='<div class="address">
-                      <h5>Polska</h5>
-                      <table>
-                        <tbody>
-                          <tr>
-                            <td>Adres:</td>
-                            <td><a href="https://goo.gl/maps/RkRvUoUEqbpJutz69" target="_blank" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-                              <span itemprop="addressLocality">Wrocław</span>, <span itemprop="streetAddress">plac Grunwaldzki 22, 50-363</span></a></td>
-                          </tr>
-                          <tr>
-                            <td>Telefon:</td>
-                            <td><a href="tel:+380676075784">+380676075784</a></td>
-                          </tr>
-                          <tr>
-                            <td>Email:</td>
-                            <td><a href="mailto:office@redstone.software">office@redstone.software</a></td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </div>'></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="spacer-lg"></div>
-      </div>
-
     </main>
 
     <?php include 'inc/_footer.php';?>
@@ -149,10 +110,6 @@
 
   <?php include 'inc/_popups.php';?>
   <?php include 'inc/_bottom.php';?>
-
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOmjBT0e4aih28ddm_w2xmIY0z1K1ZaoQ&v=3&amp;language=en"></script>
-  <script src="js/infobox.js"></script>
-  <script src="js/map.js"></script>
 
 </body>
 
