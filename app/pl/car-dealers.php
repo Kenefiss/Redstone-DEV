@@ -69,7 +69,7 @@
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> to Twój zaufany partner cyfrowy</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>Jesteś <b>sprzedawcą samochodów</b> i szukasz sposobów na zwiększenie swojej obecności online i przyciągnięcie większej liczby klientów? Nie szukaj dalej niż nasze rozwiązania internetowe dla dealerów samochodowych.</p>
@@ -79,13 +79,6 @@
                 <p>Nie pozwól, aby Twoja obecność w internecie powstrzymywała Cię przed osiągnięciem pełnego potencjału jako <b>dealer samochodowy</b>. Skontaktuj się z nami już dziś, aby dowiedzieć się więcej o naszych rozwiązaniach internetowych i o tym, jak możemy pomóc Ci osiągnąć Twoje cele.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>

@@ -69,7 +69,7 @@
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> to Twój zaufany partner cyfrowy</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>W dzisiejszym szybko zmieniającym się świecie silna obecność w Internecie ma kluczowe znaczenie zarówno dla osób prywatnych, jak i firm. Rozwiązania internetowe stały się istotną częścią współczesnego codziennego życia, umożliwiając ludziom łączenie się z innymi, dzielenie się pomysłami i produktami oraz zaznaczanie swojego śladu w cyfrowym krajobrazie.</p>
@@ -79,13 +79,6 @@
                 <p>Jeśli chcesz ustanowić lub zwiększyć swoją obecność w Internecie, zapraszamy do zapoznania się z naszymi <b>rozwiązaniami internetowymi</b> i sposobami, w jaki możemy pomóc Ci osiągnąć Twoje cele. Skontaktuj się z nami już dziś, aby rozpocząć.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>

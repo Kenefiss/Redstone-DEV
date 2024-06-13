@@ -68,7 +68,7 @@
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>In de huidige hypercompetitieve zakelijke omgeving is het hebben van een sterk merk essentieel om je te onderscheiden van de massa en een loyale klantenbasis te verwerven. Uw merk is niet alleen uw bedrijfsnaam of logo; het is de perceptie die mensen hebben van jouw bedrijf en de emoties die jouw merk oproept.</p>
@@ -79,13 +79,6 @@
                 <p>Het helpt om vertrouwen bij klanten op te bouwen, jezelf te onderscheiden van concurrenten en toptalent naar je bedrijf te trekken. Dus als u nog niet in uw merk heeft geïnvesteerd, is dit het moment om te beginnen.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>

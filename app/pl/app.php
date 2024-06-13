@@ -69,7 +69,7 @@
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> to Twój zaufany partner cyfrowy</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>Chcesz opracować aplikację mobilną dla swoich potrzeb biznesowych lub osobistych? Nie szukaj dalej niż nasze usługi tworzenia aplikacji. Oferujemy kompleksowe rozwiązania do <b>tworzenia aplikacji</b>, które zaspokajają potrzeby zarówno firm, jak i osób prywatnych.</p>
@@ -79,13 +79,6 @@
                 <p>Po co więc czekać? Skontaktuj się z nami już dziś, aby omówić swoje potrzeby związane z <b>tworzeniem aplikacji</b> i pozwól nam pomóc Ci urzeczywistnić Twoją wizję.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>

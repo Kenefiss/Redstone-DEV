@@ -69,7 +69,7 @@
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>E-commerce-integratie is een essentieel aspect geworden van moderne bedrijven. Met de toenemende populariteit van online winkelen kan het hebben van een robuust e-commerceplatform uw bedrijf helpen meer klanten aan te trekken, meer verkopen te genereren en uw bedrijfsresultaten te verbeteren.</p>
@@ -79,13 +79,6 @@
                 <p>Of u nu net begint met e-commerce of uw bestaande online winkel wilt optimaliseren, REDSTONE heeft de expertise en middelen om u te helpen uw doelen te bereiken. Neem vandaag nog contact met ons op voor meer informatie over onze e-commerce-integratieoplossingen en breng uw online bedrijf naar een hoger niveau.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>

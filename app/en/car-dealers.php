@@ -68,7 +68,7 @@
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>Are you a <b>car dealer</b> looking for ways to boost your online presence and attract more customers? Look no further than our web solutions for car dealers.</p>
@@ -78,13 +78,6 @@
                 <p>Don't let your online presence hold you back from reaching your full potential as a <b>car dealer</b>. Contact us today to learn more about our web solutions and how we can help you achieve your goals.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>

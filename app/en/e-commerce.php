@@ -70,7 +70,7 @@ will fall in love with them.">
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>E-commerce integration has become a vital aspect of modern businesses. With the increasing popularity of online shopping, having a robust e-commerce platform can help your business attract more customers, generate more sales, and improve your bottom line.</p> <p>At its core, <b>e-commerce</b> integration involves connecting your online store with other essential systems and services such as payment gateways, inventory management systems, shipping providers, and accounting software. This integration ensures that your e-commerce operations run seamlessly and efficiently.</p>
@@ -79,13 +79,6 @@ will fall in love with them.">
                 <p>Whether you're just starting with e-commerce or looking to optimize your existing online store, REDSTONE has the expertise and resources to help you achieve your goals. Contact us today to learn more about our <b>e-commerce</b> integration solutions and take your online business to the next level.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>

@@ -69,7 +69,7 @@
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is uw vertrouwde digitale partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>Wilt u een mobiele app ontwikkelen voor uw zakelijke of persoonlijke behoeften? Zoek niet verder dan onze app-ontwikkelingsdiensten. Wij bieden uitgebreide oplossingen voor app-ontwikkeling die tegemoetkomen aan de behoeften van zowel bedrijven als particulieren.</p>
@@ -79,13 +79,6 @@
                 <p>Dus waarom wachten? Neem vandaag nog contact met ons op om uw behoeften op het gebied van app-ontwikkeling te bespreken en laat ons u helpen uw visie tot leven te brengen.</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>

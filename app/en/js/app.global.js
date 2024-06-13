@@ -878,14 +878,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   };
 
-  if (winW > 1200) {
-    window.addEventListener("load", async () => {
-      try {
-        await _functions.loadFileAsync("js/vendors/SmoothScroll.min.js");
-      } catch (err) {} finally {}
-    });
-  }
-
   
   //*=====================
   //* 10 accordion =

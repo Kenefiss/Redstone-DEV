@@ -70,7 +70,7 @@ Our advantages: quality and comfort!">
       <div class="section fs-2">
         <div class="container">
           <div class="row">
-            <div class="col-xl-5 offset-xl-1">
+            <div class="col-12">
               <h1 class="title h2 title-margin animate-item fadeInUp"><b>REDSTONE</b> is your trusted digital partner</h1>
               <div class="simple-page text text-sm animate-item fadeInUp delay-2">
                 <p>In today's digital age, having a website for your business is no longer just an option - it's a necessity. Your website is often the first interaction a potential customer has with your brand, and it can make or break their decision to do business with you. That's why it's essential to have a professional and user-friendly website that represents your brand in the best possible light.</p>
@@ -81,13 +81,6 @@ Our advantages: quality and comfort!">
                 <p>In short, having a <b>website</b> for your business is essential in today's digital landscape. It's a powerful marketing tool, establishes credibility, provides valuable data, and allows you to expand your reach beyond your local community. So if you don't already have a website, it's time to invest in one!</p>
               </div>
               <div class="signature" style="margin-top:30px"><img src="img/signature.svg" loading="lazy" alt=""></div>
-            </div>
-            <div class="col-xl-5 d-none d-xl-block">
-              <div class="video-wrap ml-80 animate-item fadeInUp delay-1">
-                <div class="video">
-                  <video preload="none" poster="img/seo-img.jpg" src="" playsinline loop autoplay muted disablePictureInPicture></video>
-                </div>
-              </div>
             </div>
           </div>
           </div>
