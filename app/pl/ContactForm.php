@@ -4,7 +4,7 @@ if(!isset($_POST["email"])){
 }
 
 /* recipients */
-$to1= 'office@redstone.media';
+$to1= 'office@redstone.software';
 /* subject */
 $subject1 = "REDSTONE Digital Agency message";
 /* message */

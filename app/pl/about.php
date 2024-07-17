@@ -153,9 +153,6 @@
       <!-- DIGITS -->
       <?php include 'inc/sections/_digits.php'; ?>
 
-      <!-- REVIEWS -->
-      <?php include 'inc/sections/_reviews-2.php'; ?>
-
       <!-- BRIEF -->
       <?php include 'inc/sections/_brief.php'; ?>
 

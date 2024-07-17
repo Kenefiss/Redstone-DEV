@@ -33,14 +33,6 @@
             </a>
           </div>
         </div>
-        <div class="contact-info">
-          <div class="contact-info-title">Phone: </div>
-          <div class="contact-info-list">
-            <a href="tel:+447392835512">
-              <b itemprop="telephone">+447392835512</b>
-            </a>
-          </div>
-        </div>
       </div>
     </div>
   </div>

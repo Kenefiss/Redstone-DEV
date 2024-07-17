@@ -65,44 +65,37 @@ and increase your profit | Norther Ireland">
                               <span itemprop="addressLocality">Lurgan</span>, <span itemprop="streetAddress">4 Ferndale Co Armagh BT66 8LQ</span></a></td>
                         </tr>
                         <tr>
-                          <td>Phone:</td>
-                          <td><a href="tel:+447392835512">+447392835512</a></td>
-                        </tr>
-                        <tr>
                           <td>Email:</td>
                           <td><a href="mailto:office@redstone.software">office@redstone.software</a></td>
                         </tr>
                       </table>
                     </div>
-                    <div class="title h5 fw-500 d-none d-xl-block">
-                      Tell us about your idea, and we will offer a solution. Leave an application and we will start!
-                    </div>
-                    <form method="post" class="ContactForm" id="ContactForm">
-                      <input type="hidden" name="g-recaptcha-response" value="">
-                      <div class="form-block">
-                        <div class="input-field-wrapper w-50">
-                          <input class="input" placeholder="Your name" type="text" name="name">
-                        </div>
-                        <div class="input-field-wrapper w-50">
-                          <input class="input" placeholder="Your phone number" type="tel" name="phone">
-                        </div>
-                        <div class="input-field-wrapper">
-                          <input class="input" placeholder="*Your email" type="email" name="email" id="email" required>
-                        </div>
-                        <div class="input-field-wrapper">
-                          <textarea class="input" placeholder="Briefly describe your project" name="mess"></textarea>
-                        </div>
-                        <button type="submit" class="btn btn-primary">
-                          <b>Submit</b>
-                        </button>
-                      </div>
-                    </form>
                   </div>
                 </div>
                 <div class="col-lg-6">
-                  <div class="sr-img animate-item fadeInUp delay-2">
-                    <img src="img/sr-img.png" alt="" loading="lazy">
+                  <div class="title h5 fw-500 d-none d-xl-block">
+                    Tell us about your idea, and we will offer a solution. Leave an application and we will start!
                   </div>
+                  <form method="post" class="ContactForm" id="ContactForm">
+                    <input type="hidden" name="g-recaptcha-response" value="">
+                    <div class="form-block">
+                      <div class="input-field-wrapper w-50">
+                        <input class="input" placeholder="Your name" type="text" name="name">
+                      </div>
+                      <div class="input-field-wrapper w-50">
+                        <input class="input" placeholder="Your phone number" type="tel" name="phone">
+                      </div>
+                      <div class="input-field-wrapper">
+                        <input class="input" placeholder="*Your email" type="email" name="email" id="email" required>
+                      </div>
+                      <div class="input-field-wrapper">
+                        <textarea class="input" placeholder="Briefly describe your project" name="mess"></textarea>
+                      </div>
+                      <button type="submit" class="btn btn-primary">
+                        <b>Submit</b>
+                      </button>
+                    </div>
+                  </form>
                 </div>
               </div>
             </div>

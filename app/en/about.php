@@ -158,9 +158,6 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
       <!-- DIGITS -->
       <?php include 'inc/sections/_digits.php'; ?>
 
-      <!-- REVIEWS -->
-      <?php include 'inc/sections/_reviews-2.php'; ?>
-
       <!-- BRIEF -->
       <?php include 'inc/sections/_brief.php'; ?>
 

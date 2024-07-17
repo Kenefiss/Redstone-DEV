@@ -33,9 +33,6 @@
         </div>
       </div>
 
-      <!-- REVIEWS -->
-      <?php include 'inc/sections/_reviews-2.php'; ?>
-
       <!-- CLIENTS -->
       <?php include 'inc/sections/_clients.php'; ?>
 
