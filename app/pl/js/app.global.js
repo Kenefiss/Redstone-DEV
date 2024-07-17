@@ -147,7 +147,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     //focus in email input
     if (document.querySelector('#email')){
-      if (!!window.IntersectionObserver) {
+      if ((!!window.IntersectionObserver) && (winW > 767)) {
         let email = document.querySelector('#email');
         let observer = new IntersectionObserver((entries, observer) => {
           entries.forEach(entry => {
