@@ -160,25 +160,6 @@
           </div>
           <div class="projects-wrapp">
             <div class="row project-item animate-item fadeInUp delay-2">
-              <div class="col-12 col-lg-5 align-self-center order-2 order-lg-1">
-                <div class="project-info">
-                  <div class="title h4">FINHUB</div>
-                  <div class="project-sub-title text upper">FINANCIËLE VENNOOTSCHAP</div>
-                  <div class="text">We zijn doorgegaan met het verbeteren van de website voor onze gewaardeerde financiële klant, FINHUB. Ons toegewijde team bleef doorgaan met het verfijnen van het platform, waarbij gebruik werd gemaakt van inzichten uit concurrentieanalyses om voorop te blijven lopen op de financiële markt. Vanaf de eerste ontwikkelingsfasen tot de consistente onderhoudsinspanningen hebben we er ijverig naar gestreefd om FINHUB een uitzonderlijk product te bieden. Onze focus op het leveren van uitmuntendheid zorgt ervoor dat FINHUB zijn klanten een naadloze en hoogwaardige ervaring kan bieden voor al hun financiële behoeften.</div>
-                  <a href="https://finhubfund.co.uk/" class="btn btn-primary" rel="nofollow" target="_blank">Projectevaluatie</a>
-                </div>
-              </div>
-              <div class="col-12 col-lg-7 order-1 order-lg-2">
-                <div class="project-img">
-                  <picture>
-                    <source srcset="img/project-finhub.webp" type="image/webp">
-                    <source srcset="img/project-finhub.jpg" type="image/jpeg">
-                    <img src="img/project-finhub.jpg" alt="">
-                  </picture>
-                </div>
-              </div>
-            </div>
-            <div class="row project-item animate-item fadeInUp delay-2">
               <div class="col-12 col-lg-5 align-self-center order-2">
                 <div class="project-info">
                   <div class="title h4">UAM Power</div>

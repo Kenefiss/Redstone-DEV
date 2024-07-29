@@ -646,29 +646,6 @@
       </div>
     </div>
   </div>
-  <div class="col-12 col-md-6 col-lg-4 _web _mvp">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="full-link" href="https://finhubfund.co.uk/" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-16.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-16.png" type="image/png">
-          <img src="img/portfolio/p-img-16.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://finhubfund.co.uk/" target="_blank" rel="nofollow">Finhub</a></div>
-      <div class="case-tags">
-        <span>#WordPress</span>
-        <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
-      </div>
-      <div class="case-desc text">
-        Finhub is een wereldwijd online platform dat is opgericht om te communiceren met potentiële investeerders met veelbelovende projecten in één handelsarena.
-      </div>
-    </div>
-  </div>
   <div class="col-12 col-md-6 col-lg-4 _website">
     <div class="case-item animate-item fadeInUp">
       <div class="case-img contain-link">
@@ -689,29 +666,6 @@
       </div>
       <div class="case-desc text">
         We hebben een marketingwebsite gemaakt voor een interieurontwerpbureau in de VAE.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _website">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="full-link" href="https://www.finhubfund.com/" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-17.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-17.png" type="image/png">
-          <img src="img/portfolio/p-img-17.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://www.finhubfund.com/" target="_blank" rel="nofollow">Finhub | Capital Fund</a></div>
-      <div class="case-tags">
-        <span>#WordPress</span>
-        <span>#Javascript</span>
-        <span>#HTML5</span>
-        <span>#PHP</span>
-        <span>#CSS3</span>
-      </div>
-      <div class="case-desc text">
-        We hebben een marketingwebsite gemaakt voor het wereldwijde Finhub`s Capital Fund.
       </div>
     </div>
   </div>
@@ -1059,25 +1013,6 @@
       </div>
       <div class="case-desc text">
         Deze mobiele app geeft installateurs snel en nauwkeurig advies over de maatvoering van Upipe-buizen tijdens de klus.
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 col-lg-4 _branding">
-    <div class="case-item animate-item fadeInUp">
-      <div class="case-img contain-link">
-        <a class="full-link" href="https://www.behance.net/gallery/88065473/Finhub-Brand-Identity" target="_blank" rel="nofollow"></a>
-        <picture>
-          <source srcset="img/portfolio/p-img-24.webp" type="image/webp">
-          <source srcset="img/portfolio/p-img-24.png" type="image/png">
-          <img src="img/portfolio/p-img-24.png" alt="" loading="lazy">
-        </picture>
-      </div>
-      <div class="case-title title h5"><a href="https://www.behance.net/gallery/88065473/Finhub-Brand-Identity" target="_blank" rel="nofollow">Finhub</a></div>
-      <div class="case-tags">
-        <span>#branding</span>
-      </div>
-      <div class="case-desc text">
-        Wij ontwierpen branding voor het wereldwijde financiële online platform.
       </div>
     </div>
   </div>
