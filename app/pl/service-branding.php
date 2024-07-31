@@ -74,11 +74,6 @@
                   <source srcset="img/branding-process-1.png" type="image/png">
                   <img src="img/branding-process-1.png" alt="">
                 </picture>
-                <picture>
-                  <source srcset="img/branding-process-2.webp" type="image/webp">
-                  <source srcset="img/branding-process-2.png" type="image/png">
-                  <img src="img/branding-process-2.png" alt="">
-                </picture>
               </div>
             </div>
             <div class="col-12 col-xl-6">
