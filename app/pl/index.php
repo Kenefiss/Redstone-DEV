@@ -146,9 +146,9 @@
                 <div class="category-img">
                   <div class="category-img-box">
                     <picture>
-                      <source srcset="img/category/category-img-10.webp" type="image/webp">
-                      <source srcset="img/category/category-img-10.png" type="image/png">
-                      <img src="img/category/category-img-10.png" alt="">
+                      <source srcset="img/portfolio/p-img-21.webp" type="image/webp">
+                      <source srcset="img/portfolio/p-img-21.png" type="image/png">
+                      <img src="img/portfolio/p-img-21.png" alt="">
                     </picture>
                   </div>
                 </div>

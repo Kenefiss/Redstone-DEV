@@ -42,23 +42,54 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
               <div class="title-with-text">
                 <div class="title page-title h2">Blog</div>
               </div>
-
-              <!-- hide on phase 1 -->
-              <!-- <div class="sort-wrapp js-sort-nav">
-                <div class="sort-btn d-xl-none">All</div>
-                <nav class="sort-nav">
-                  <ul>
-                    <li><a class="active">All</a></li>
-                    <li><a href="#">Корисні поради</a></li>
-                    <li><a href="#">Новини</a></li>
-                    <li><a href="#">Майстер-класи</a></li>
-                  </ul>
-                </nav>
-              </div> -->
-
             </div>
           </div>
           <div class="row news-wrapp animate-item fadeInUp">
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="how-do-external-links-affect-a-website-rankings-in-search-engines">
+                  <picture>
+                    <source srcset="img/how-do-external-links-affect-a-website-rankings-in-search-engines.webp" type="image/webp">
+                    <source srcset="img/how-do-external-links-affect-a-website-rankings-in-search-engines.jpg" type="image/jpeg">
+                    <img src="img/how-do-external-links-affect-a-website-rankings-in-search-engines.jpg" alt="how-do-external-links-affect-a-website-rankings-in-search-engines">
+                  </picture>
+                  <span class="date">18.08.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-do-external-links-affect-a-website-rankings-in-search-engines">How do external links affect a website’s rankings in search engines?</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="what-is-a-sitemap-and-why-is-it-important">
+                  <picture>
+                    <source srcset="img/what-is-a-sitemap-and-why-is-it-important.webp" type="image/webp">
+                    <source srcset="img/what-is-a-sitemap-and-why-is-it-important.jpg" type="image/jpeg">
+                    <img src="img/what-is-a-sitemap-and-why-is-it-important.jpg" alt="what-is-a-sitemap-and-why-is-it-important">
+                  </picture>
+                  <span class="date">13.08.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="what-is-a-sitemap-and-why-is-it-important">What is a sitemap and why is it important?</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="how-to-promote-mobile-apps-on-google-play-and-apple-store">
+                  <picture>
+                    <source srcset="img/how-to-promote-mobile-apps-on-google-play-and-apple-store.webp" type="image/webp">
+                    <source srcset="img/how-to-promote-mobile-apps-on-google-play-and-apple-store.jpg" type="image/jpeg">
+                    <img src="img/how-to-promote-mobile-apps-on-google-play-and-apple-store.jpg" alt="how-to-promote-mobile-apps-on-google-play-and-apple-store">
+                  </picture>
+                  <span class="date">07.08.2024</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-promote-mobile-apps-on-google-play-and-apple-store">What is ASO: How to promote mobile apps on Google Play and Apple Store?</a>
+              </div>
+            </div>
             <div class="col-md-6 news-item">
               <div class="news-img">
                 <a href="a-beginners-guide-to-headless-cms">
