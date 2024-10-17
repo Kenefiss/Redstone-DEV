@@ -3,7 +3,7 @@ if(!isset($_POST["email"])){
   die();
 }
 /* recipients */
-$to1= 'office@redstone.software';
+$to1= 'office@redstonesoft.nl';
 /* subject */
 $subject1 = "REDSTONE Digital Agency message";
 /* message */
