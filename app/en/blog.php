@@ -47,6 +47,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="minimalist-vs-maximalist-design-which-branding-approach-wins">
+                  <picture>
+                    <source srcset="img/minimalist-vs-maximalist-design-which-branding-approach-wins.webp" type="image/webp">
+                    <source srcset="img/minimalist-vs-maximalist-design-which-branding-approach-wins.jpg" type="image/jpeg">
+                    <img src="img/minimalist-vs-maximalist-design-which-branding-approach-wins.jpg" alt="minimalist-vs-maximalist-design-which-branding-approach-wins">
+                  </picture>
+                  <span class="date">12.02.2025</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="minimalist-vs-maximalist-design-which-branding-approach-wins">Minimalist vs. Maximalist Design: Which Branding Approach Wins?</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="omnichannel-crm-creating-seamless-customer-experiences">
+                  <picture>
+                    <source srcset="img/omnichannel-crm-creating-seamless-customer-experiences.webp" type="image/webp">
+                    <source srcset="img/omnichannel-crm-creating-seamless-customer-experiences.jpg" type="image/jpeg">
+                    <img src="img/omnichannel-crm-creating-seamless-customer-experiences.jpg" alt="omnichannel-crm-creating-seamless-customer-experiences">
+                  </picture>
+                  <span class="date">08.02.2025</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="omnichannel-crm-creating-seamless-customer-experiences">Omnichannel CRM: Creating Seamless Customer Experiences</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="best-practices-for-integrating-social-media-with-your-crm">
+                  <picture>
+                    <source srcset="img/best-practices-for-integrating-social-media-with-your-crm.webp" type="image/webp">
+                    <source srcset="img/best-practices-for-integrating-social-media-with-your-crm.jpg" type="image/jpeg">
+                    <img src="img/best-practices-for-integrating-social-media-with-your-crm.jpg" alt="best-practices-for-integrating-social-media-with-your-crm">
+                  </picture>
+                  <span class="date">05.02.2025</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="best-practices-for-integrating-social-media-with-your-crm">Best Practices for Integrating Social Media with Your CRM</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="marketing-automation-on-shopify-which-tools-to-use">
+                  <picture>
+                    <source srcset="img/marketing-automation-on-shopify-which-tools-to-use.webp" type="image/webp">
+                    <source srcset="img/marketing-automation-on-shopify-which-tools-to-use.jpg" type="image/jpeg">
+                    <img src="img/marketing-automation-on-shopify-which-tools-to-use.jpg" alt="marketing-automation-on-shopify-which-tools-to-use">
+                  </picture>
+                  <span class="date">02.02.2025</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="marketing-automation-on-shopify-which-tools-to-use">Marketing Automation on Shopify: Which Tools to Use?</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="how-do-external-links-affect-a-website-rankings-in-search-engines">
                   <picture>
                     <source srcset="img/how-do-external-links-affect-a-website-rankings-in-search-engines.webp" type="image/webp">

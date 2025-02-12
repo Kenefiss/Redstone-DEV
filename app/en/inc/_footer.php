@@ -64,7 +64,7 @@
 
   <div class="footer-bottom">
     <div class="footer-copy">
-      2024 © REDSTONE SOFTWARE
+      2025 © REDSTONE SOFTWARE
     </div>
   </div>
 </footer>
