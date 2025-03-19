@@ -47,6 +47,66 @@ CRM systems that are convenient for users and our customers. Top offers in Belfa
           <div class="row news-wrapp animate-item fadeInUp">
             <div class="col-md-6 news-item">
               <div class="news-img">
+                <a href="how-to-properly-transition-your-website-from-http-to-https">
+                  <picture>
+                    <source srcset="img/how-to-properly-transition-your-website-from-http-to-https.webp" type="image/webp">
+                    <source srcset="img/how-to-properly-transition-your-website-from-http-to-https.jpg" type="image/jpeg">
+                    <img src="img/how-to-properly-transition-your-website-from-http-to-https.jpg" alt="how-to-properly-transition-your-website-from-http-to-https">
+                  </picture>
+                  <span class="date">16.03.2025</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-properly-transition-your-website-from-http-to-https">How to Properly Transition Your Website from HTTP to HTTPS: A Step-by-Step Guide</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="why-businesses-should-switch-to-a-custom-crm-system">
+                  <picture>
+                    <source srcset="img/why-businesses-should-switch-to-a-custom-crm-system.webp" type="image/webp">
+                    <source srcset="img/why-businesses-should-switch-to-a-custom-crm-system.jpg" type="image/jpeg">
+                    <img src="img/why-businesses-should-switch-to-a-custom-crm-system.jpg" alt="why-businesses-should-switch-to-a-custom-crm-system">
+                  </picture>
+                  <span class="date">10.03.2025</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="why-businesses-should-switch-to-a-custom-crm-system">Why Businesses Should Switch to a Custom CRM System</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="how-to-ensure-website-security-key-protection-measures">
+                  <picture>
+                    <source srcset="img/how-to-ensure-website-security-key-protection-measures.webp" type="image/webp">
+                    <source srcset="img/how-to-ensure-website-security-key-protection-measures.jpg" type="image/jpeg">
+                    <img src="img/how-to-ensure-website-security-key-protection-measures.jpg" alt="how-to-ensure-website-security-key-protection-measures">
+                  </picture>
+                  <span class="date">05.03.2025</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="how-to-ensure-website-security-key-protection-measures">How to Ensure Website Security: Key Protection Measures</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
+                <a href="integrating-e-commerce-platforms-shopify-vs-opencart">
+                  <picture>
+                    <source srcset="img/integrating-e-commerce-platforms-shopify-vs-opencart.webp" type="image/webp">
+                    <source srcset="img/integrating-e-commerce-platforms-shopify-vs-opencart.jpg" type="image/jpeg">
+                    <img src="img/integrating-e-commerce-platforms-shopify-vs-opencart.jpg" alt="integrating-e-commerce-platforms-shopify-vs-opencart">
+                  </picture>
+                  <span class="date">01.03.2025</span>
+                </a>
+              </div>
+              <div class="news-title title h5">
+                <a href="integrating-e-commerce-platforms-shopify-vs-opencart">Integrating E-commerce Platforms: Shopify vs. OpenCart</a>
+              </div>
+            </div>
+            <div class="col-md-6 news-item">
+              <div class="news-img">
                 <a href="minimalist-vs-maximalist-design-which-branding-approach-wins">
                   <picture>
                     <source srcset="img/minimalist-vs-maximalist-design-which-branding-approach-wins.webp" type="image/webp">
